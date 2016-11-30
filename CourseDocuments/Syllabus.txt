@@ -1,0 +1,19 @@
+Computational Biology Syllabus
+
+Week 1: 
+	+ Welcome to the course, 
+	+ Recommended software installations
+		Git
+		Plain Text Editor -- what is plain text?  
+			--> DON'T USE EXCEL! (see paper by Ziemann et al. 2016)
+		R
+		Markdown editor
+		WINDOWS USERS:
+			VirtualBox with Ubuntu (see https://github.com/flaxmans/vm-git-play)
+	+ UNIX Command Line
+		Set up your terminal!
+	+ Lab week 1: Doing stuff with the UNIX command line
+
+Week 2:
+	+ Git intro
+	+ Lab week 2: 
