@@ -2,7 +2,7 @@
 title: "Test_R_Markdown.rmd"
 author: "Sam Flaxman"
 date: "11/29/2016"
-output: html_document
+output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
