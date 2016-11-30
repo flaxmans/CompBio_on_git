@@ -1,7 +1,7 @@
 Computational Biology Syllabus
 
 Week 1: 
-	+ Welcome to the course, 
+	+ Welcome to the course 
 	+ Recommended software installations
 		Git
 		Plain Text Editor -- what is plain text?  
@@ -13,6 +13,7 @@ Week 1:
 	+ UNIX Command Line
 		Set up your terminal!
 	+ Lab week 1: Doing stuff with the UNIX command line
+		+ let's make some plain text files and do some stuff with them
 
 Week 2:
 	+ Git intro
