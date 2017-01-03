@@ -10,6 +10,6 @@ Accessibility:  I am committed to making materials as accessible as possible for
 
 Some guidance about what you will find here:
 
-* For the *SYLLABUS*, look in "Course Documents"
-* For assigned *READINGS*, you will have to visit the course's D2L site
+* For the *SYLLABUS*, look in "Course Documents" or just click [here](https://github.com/flaxmans/CompBio_on_git/blob/master/CourseDocuments/Syllabus.md)
+* For assigned *READINGS* and any *POWERPOINT LECTURE SLIDES*, you will have to visit the course's D2L site
 

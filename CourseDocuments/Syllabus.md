@@ -13,7 +13,7 @@ This course's main learning goals are for students to:
 
 
 #### What the course is not:
-Genomics, bioinformatics, statistics, or mathematical biology
+This course is intended to give you tools should help you in other courses focused on topics like "genomics," "bioinformatics," and "statistics," but this is NOT a course that will teach you those subject areas in depth.
 ______________________________
 
 ## Anticipated Progression of Topics (subject to change and frequent updating)
@@ -23,7 +23,7 @@ ______________________________
 	+ Mutual expectations
 	+ Implicit bias
 + Logistics 
-	+ *[Assignment 01](https://github.com/flaxmans/CompBio_on_git/Assignments/) given out on first day of class!*
+	+ *[Assignment 01](https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/01_Day1_SoftwareInstalls.md) given out on first day of class!*
 	+ Recommended software installations
 		+ Git
 		+ Plain Text Editor  
@@ -55,7 +55,15 @@ _____________________________
 
 ## Statements about General Policies and Expected Conduct of Students, Faculty, and Staff
 
-##### Live the Colorado Creed
+##### Live the [Colorado Creed](http://www.colorado.edu/creed/)
+From [http://www.colorado.edu/creed/](http://www.colorado.edu/creed/), accessed 1/2/17:  
+"As a member of the Boulder community and the University of Colorado Boulder, I agree to:
+
+* Act with honor, integrity and accountability in my interactions with students, faculty, staff and neighbors.
+* Respect the rights of others and accept our differences.
+* Contribute to the greater good of this community.
+
+I will strive to uphold these principles in all aspects of my collegiate experience and beyond."
 
 ##### Diversity and Inclusion
 Research in educational settings suggests that students in a course benefit from the presence of diversity in the viewpoints, identities, and experiences of students and instructors.  In order for all of us to benefit to the greatest extent possible, together we need to value and respect each other as individuals and as contributors.  For my part, I want you to know that my classroom and office are intended to be welcoming, safe spaces for all students, regardless of any dimension of your identity.  I am happy to address you by whatever preferred name and pronouns you wish to use.  I welcome your suggestions for how I can make myself and/or any of the course content more inclusive.  For your part, I expect you, at a bare minimum, to abide by all campus codes of conduct and to live the Colorado Creed.  I also encourage you to think of this classroom as a community, and to treat your fellow community members in ways that foster an atmosphere in which all of us feel comfortable talking and sharing with each other.  During discussions and collaborative activities, try to find ways to invite others to share their ideas and viewpoints, and look for ways to help others feel valued for their contributions.
