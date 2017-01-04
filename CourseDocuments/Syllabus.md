@@ -29,8 +29,8 @@ ______________________________
 		+ Plain Text Editor  
 		+ R
 		+ Markdown editor
-		+ WINDOWS USERS:  VirtualBox with Ubuntu (see https://	+ DON'T USE EXCEL! (see paper by Ziemann et al. 2016)
-github.com/flaxmans/vm-git-play)
+		+ WINDOWS USERS:  VirtualBox with Ubuntu (see [https://github.com/flaxmans/vm-git-play](https://github.com/flaxmans/vm-git-play))
+	+ DON'T USE EXCEL! (see paper by Ziemann et al. 2016)
 + UNIX Command Line
 	+ Set up your terminal!
 + Lab week 1: Doing stuff with the UNIX command line
@@ -71,15 +71,15 @@ Research in educational settings suggests that students in a course benefit from
 #### Implicit biases
 Research from the fields of psychology and sociology demonstrates that ALL of us, no matter what our identities, have implicit biases.  Having implicit biases doesn't mean that you are bigoted.  Rather, these biases are present in each of us, subconsciously, owing to stereotypes we have been *repeatedly* exposed to, over and over again in our lifetimes as human beings.  A very common implicit bias that is relevant to this class has to do with people's (often unconscious) assumptions about innate abilities in math and computer programming.  Many people hold an implicit bias that one gender is inherently better at math and computer programming than another.  Research shows that this implicit bias is *equally present in both men and women*.  The bad things about implicit bias are that it leads to (1) self-reinforcing perpetuation of stereotypes and the bias itself, and (2) underperformance in people who have an implicit bias against some part of their own identity.  The good thing is that it is fairly easy to overcome by simply explicitly acknowledging that the bias is there but is not justified.  
 
-I do not believe that any of you are inherently "good" or "bad" at math or computers.  Those who are perceived to be inherently "good" at these subject areas benefit from that perception (and appear to confirm it) because they are most often asked to take the lead, and in so doing, they get the most practice!  I believe we all need practice, and we all can contribute.  There is no evidence that anyone from a particular gender, race, culture, or ethnicity is inherently and innately better than others at the things I will ask you to do in this class.  You can all do equally well, no matter your identity.
+I do not believe that any of you are inherently "good" or "bad" at math or computers.  I believe we all need practice, and we all can contribute.  There is no evidence that people from a particular gender, race, culture, or ethnicity are innately better than others at the things I will ask you to do in this class.  You can all do equally well, no matter your identity.
 
 #### From the CU Boulder Provost's Disability Task Force: 
-If you qualify for accommodations because of a disability, please submit to your professor a letter from Disability Services in a timely manner (for exam accommodations provide your letter at least one week prior to the exam) so that your needs can be addressed. Disability Services determines accommodations based on documented disabilities. Contact Disability Services at 303-492-8671 or by email at dsinfo@colorado.edu. If you have a temporary medical condition or injury, see Temporary Injuries guidelines under the Quick Links at the Disability Services website and discuss your needs with your professor.
+If you qualify for accommodations because of a disability, please submit to your professor a letter from [Disability Services](http://www.colorado.edu/disabilityservices/) in a timely manner (for exam accommodations provide your letter at least one week prior to the exam) so that your needs can be addressed. Disability Services determines accommodations based on documented disabilities. Contact Disability Services at 303-492-8671 or by email at [dsinfo@colorado.edu](mailto:dsinfo@colorado.edu). If you have a temporary medical condition or injury, see the [temporary injuries guidelines](http://www.colorado.edu/disabilityservices/students/temporary-medical-conditions) at the Disability Services website and discuss your needs with your professor.
  
 #### Religious Observances
 Campus policy regarding religious observances requires that faculty make every effort to deal reasonably and fairly with all students who, because of religious obligations, have conflicts with scheduled exams, assignments or required attendance. In this class, I ask that you make me aware of any needs for accomodations and/or alternative arrangements as soon as possible.  The more advance notice you give me, the better the options I will have to offer you. 
 
-See the campus policy regarding religious observances for full details.
+See the [campus policy regarding religious observances](http://www.colorado.edu/policies/observance-religious-holidays-and-absences-classes-andor-exams) for full details.
  
 #### Classroom Behavior 
 Students and faculty each have responsibility for maintaining an appropriate learning environment. Those who fail to adhere to such behavioral standards may be subject to discipline. Professional courtesy and sensitivity are especially important with respect to individuals and topics dealing with differences of race, color, culture, religion, creed, politics, veteran's status, sexual orientation, gender, gender identity and gender expression, age, disability, and nationalities. Class rosters are provided to the instructor with the student's legal name. I will gladly honor your request to address you by an alternate name or gender pronoun. Please advise me of this preference early in the semester so that I may make appropriate changes to my records. For more information, see the policies at[http://www.colorado.edu/policies/student-classroom-and-course-related-behavior](http://www.colorado.edu/policies/student-classroom-and-course-related-behavior) and at[http://www.colorado.edu/osc/](http://www.colorado.edu/osc/).
