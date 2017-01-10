@@ -7,35 +7,44 @@ This is a course for scientists who want to learn basic tools of modern computin
 This course's main learning goals are for students to: 
 
 1. Discover and implement computational tools for making their own professional work efficient, reproducible, transparent, shareable, maintainable, and robust.
-2. Learn and use tools of programming at a basic level, including but not limited to writing programs and scripts in R, using the git version control system, using Github to share and publicly archive projects.
+2. Learn and use tools of programming at a basic level, including but not limited to writing programs and scripts in R, using the git version control system, and using Github to share and publicly archive projects.
 3. Learn and apply tools for handling data (filtering, manipulating, subsetting, concatenating, re-formatting)
 4. Learn and apply tools for simulating biological systems to generate pseudo-data and test hypotheses, including difference-time models, stochastic models, and ordinary differential equations models.
 
 
 #### What the course is not:
-This course is intended to give you tools should help you in other courses focused on topics like "genomics," "bioinformatics," and "statistics," but this is NOT a course that will teach you those subject areas in depth.
+This course is intended to give you tools that should help you in other courses focused on topics like "genomics," "bioinformatics," and "statistics," but this is NOT a course that will teach you those subject areas in depth.
 ______________________________
 
-## Anticipated Progression of Topics (subject to change and frequent updating)
+## Logistics and Contact Info
+
+#### Course meeting times and locations:
+TTH 2:00 - 2:50 p.m. in CLRE 301  
+Friday (labs) 9:00 - 10:50 a.m. in RAMY N183
+
+#### Office Hours:
+Thursdays, 9:00 - 10:00 a.m. in RAMY N211  
+Email Sam: <samuel.flaxman@colorado.edu>  
+Office Phone: 303-492-7184
+______________________________
+
+## Week-by-Week Agenda  
+(subject to change and frequent updating)
 
 ###### Week 1: 
-+ Welcome to the course
++ Topics
 	+ Mutual expectations
 	+ Implicit bias
-+ Logistics 
-	+ *[Assignment 01](https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/01_Day1_SoftwareInstalls.md) given out on first day of class!*
-	+ Recommended software installations
-		+ Git
-		+ Plain Text Editor  
-		+ R
-		+ Markdown editor
-		+ WINDOWS USERS:  VirtualBox with Ubuntu (see [https://github.com/flaxmans/vm-git-play](https://github.com/flaxmans/vm-git-play))
-	+ DON'T USE EXCEL! (see paper by Ziemann et al. 2016)
-+ UNIX Command Line
-	+ Set up your terminal!
+	+ Logistics of course
+	+ Pitfalls of computing: case in point: don't use Excel (see paper by Ziemann et al. 2016)
+	+ UNIX Command Line  
+<br>
++ Action Items required of YOU:
+	+ **[Assignment 01](https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/01_Day1_SoftwareInstalls.md) announced on first day of class and due on 1/19!**
+	+ **If you are new to UNIX**, then please visit [this tutorial](http://linuxcommand.org/lc3_learning_the_shell.php) and read through that page AND items numbered 1-5 near the bottom of that page.  
+<br>
 + Lab week 1: Doing stuff with the UNIX command line
-	+ let's make some plain text files and fool around with them
-
+	
 ###### Week 2:
 + Git intro
 + Lab week 2: 
@@ -74,7 +83,7 @@ Research from the fields of psychology and sociology demonstrates that ALL of us
 I do not believe that any of you are inherently "good" or "bad" at math or computers.  I believe we all need practice, and we all can contribute.  There is no evidence that people from a particular gender, race, culture, or ethnicity are innately better than others at the things I will ask you to do in this class.  You can all do equally well, no matter your identity.
 
 #### From the CU Boulder Provost's Disability Task Force: 
-If you qualify for accommodations because of a disability, please submit to your professor a letter from [Disability Services](http://www.colorado.edu/disabilityservices/) in a timely manner (for exam accommodations provide your letter at least one week prior to the exam) so that your needs can be addressed. Disability Services determines accommodations based on documented disabilities. Contact Disability Services at 303-492-8671 or by email at [dsinfo@colorado.edu](mailto:dsinfo@colorado.edu). If you have a temporary medical condition or injury, see the [temporary injuries guidelines](http://www.colorado.edu/disabilityservices/students/temporary-medical-conditions) at the Disability Services website and discuss your needs with your professor.
+If you qualify for accommodations because of a disability, please submit to your professor a letter from [Disability Services](http://www.colorado.edu/disabilityservices/) in a timely manner (for exam accommodations provide your letter at least one week prior to the exam) so that your needs can be addressed. Disability Services determines accommodations based on documented disabilities. Contact Disability Services at 303-492-8671 or by email at <dsinfo@colorado.edu>. If you have a temporary medical condition or injury, see the [temporary injuries guidelines](http://www.colorado.edu/disabilityservices/students/temporary-medical-conditions) at the Disability Services website and discuss your needs with your professor.
  
 #### Religious Observances
 Campus policy regarding religious observances requires that faculty make every effort to deal reasonably and fairly with all students who, because of religious obligations, have conflicts with scheduled exams, assignments or required attendance. In this class, I ask that you make me aware of any needs for accomodations and/or alternative arrangements as soon as possible.  The more advance notice you give me, the better the options I will have to offer you. 

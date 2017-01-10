@@ -8,6 +8,7 @@
 * Download and install Git from [https://sourceforge.net/projects/git-osx-installer/files/](https://sourceforge.net/projects/git-osx-installer/files/)
 * Download and install R by following instructions at [https://cran.rstudio.com/](https://cran.rstudio.com/)
 * Download and install RStudio by following instructions at [https://www.rstudio.com/products/rstudio/download3/](https://www.rstudio.com/products/rstudio/download3/)
+* Download and install a Markdown editor.  I like Mou ([http://25.io/mou/](http://25.io/mou/)), but others are available. 
 
 
 ## For Windows Users only: 
@@ -19,10 +20,18 @@ Windows users will need to emulate a UNIX-style terminal.  There are several way
 4. Once all of that is done, use VirtualBox to start your Ubuntu vm (this is the vm you created as part of step 3).
 5. Follow the prompts within Ubuntu to create and set up your Ubuntu user account.
 6. When all of that is done, *while still in your Ubuntu vm*, follow all the steps for Linux users below.
+7. You will also need a Markdown editor.  I suggest trying Remarkable, which you can install on your Ubuntu virtual box (see below)
 
 ## For Linux Users and those using VirtualBox to run Ubuntu:
 * Open a Terminal window and install Git by typing `sudo apt install git` at the command prompt
 * Also using the Terminal, install R and RStudio by following the instructions at [https://www.r-bloggers.com/how-to-install-r-on-linux-ubuntu-16-04-xenial-xerus/](https://www.r-bloggers.com/how-to-install-r-on-linux-ubuntu-16-04-xenial-xerus/)
+* You will also need a Markdown editor.  I suggest trying Remarkable if you don't have a preference.  Go to [https://remarkableapp.github.io/linux/download.html](https://remarkableapp.github.io/linux/download.html).  Click on the link for "Download .deb".  When it finishes downloading, in your terminal:
+	1. `cd ~/Downloads`
+	2. `sudo dpkg -i remarkable_1.87_all.deb`  
+(assumes the version is 1.87)
+	3. `sudo apt-get install -f`  
+	
+	Remarkable should now be available as an application
 
 
 
