@@ -23,7 +23,7 @@ TTH 2:00 - 2:50 p.m. in CLRE 301
 Friday (labs) 9:00 - 10:50 a.m. in RAMY N183
 
 #### Office Hours:
-Wednesdays, noon - 12:50 p.m. in RAMY N211  
+Thursdays, 1:00 - 1:50 p.m. in RAMY N211  
 Email Sam: <samuel.flaxman@colorado.edu>  
 Office Phone: 303-492-7184
 ______________________________
