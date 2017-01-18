@@ -8,7 +8,7 @@
 * Download and install Git from [https://sourceforge.net/projects/git-osx-installer/files/](https://sourceforge.net/projects/git-osx-installer/files/)
 * Download and install R by following instructions at [https://cran.rstudio.com/](https://cran.rstudio.com/)
 * Download and install RStudio by following instructions at [https://www.rstudio.com/products/rstudio/download3/](https://www.rstudio.com/products/rstudio/download3/)
-* Download and install a Markdown editor.  I like Mou ([http://25.io/mou/](http://25.io/mou/)), but others are available. 
+* Download and install a Markdown editor.  I like Mou ([http://25.io/mou/](http://25.io/mou/)), but others are available.  UPDATE (1/18/17):  Mou does not seem to work on Mac OS X Sierra.  Instead you could try Text Wrangler [http://www.barebones.com/products/TextWrangler/](http://www.barebones.com/products/TextWrangler/).  You could also try the web-based editor called StackEdit [https://stackedit.io/editor](https://stackedit.io/editor).
 
 
 ## For Windows Users only: 
