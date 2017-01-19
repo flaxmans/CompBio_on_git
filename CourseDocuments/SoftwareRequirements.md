@@ -2,6 +2,7 @@
 
 ## For ALL, no matter what kind of computer and OS you have:
 * Everyone will need a "text editor" for editing "plain text".  Chances are you already have at least a basic one on your computer, even if you have never used it.  You can edit plain text with a wide variety of software offerings (that's part of the beauty of plain text!).  For example, you can use RStudio if you wish.  On a Mac, you can also/alternatively use something like TextEdit.app (included with Mac OS),  TextWrangler (free download), or XCode (see below).  On a Windows machine, you can use something like Notepad, RStudio, or any of many other offerings.  I welcome suggestions from Windows users!   Likewise for Linux users.  If you want to feel like true "programmer", you can try out various command-line editors, such as vim, atom, or emacs.  If things like that are intimidating, don't worry; you won't have to use them unless you want to (at least, not yet...).
+* Update (1/19/17) for Windows users on the "text editor": one of your classmates recommends Notepad++
 
 ## For Mac Users only:
 * Download and install XCode from the App Store.  Once XCode is installed, it is a good idea to install command line tools.  A decent guide for doing so is available at [http://railsapps.github.io/xcode-command-line-tools.html](http://railsapps.github.io/xcode-command-line-tools.html)
