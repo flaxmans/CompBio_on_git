@@ -1,0 +1,601 @@
+Bird list from 
+http://www.birdphotography.com/birdlist.html
+accessed: 1/18/17
+this is a list of birds that the website author has photographed
+
+Ducks, Geese, Swans  (Anatidae)
+  Fulvous Whistling-Duck
+  Greater White-fronted Goose
+  Snow Goose
+  Ross’s Goose
+  Brant
+  Cackling Goose
+  Canada Goose
+  Tundra Swan
+  Wood Duck
+  Gadwall
+  Falcated Duck
+  Eurasian Wigeon
+  American Wigeon
+  American Black Duck
+  Mallard
+  Blue-winged Teal
+  Cinnamon Teal
+  Northern Shoveler
+  Northern Pintail
+  Green-winged Teal
+  Canvasback
+  Redhead
+  Ring-necked Duck
+  Tufted Duck
+  Greater Scaup
+  Lesser Scaup
+  Harlequin Duck
+  Surf Scoter
+  White-winged Scoter
+  Long-tailed Duck
+  Bufflehead
+  Common Goldeneye
+  Barrow’s Goldeneye
+  Hooded Merganser
+  Common Merganser
+  Red-breasted Merganser
+  Ruddy Duck
+New World Quail  (Odontophoridae)
+  Mountain Quail
+  Scaled Quail
+  California Quail
+  Gambel’s Quail
+  Montezuma Quail
+Partridges, Grouse, Turkeys  (Phasianidae)
+  Chukar
+  Ring-necked Pheasant
+  Willow Ptarmigan
+  Wild Turkey
+Grebes  (Podicipedidae)
+  Pied-billed Grebe
+  Horned Grebe
+  Red-necked Grebe
+  Eared Grebe
+  Western Grebe
+  Clark’s Grebe
+Pigeons, Doves  (Columbidae)
+  Rock Pigeon
+  Band-tailed Pigeon
+  Eurasian Collared-Dove
+  Inca Dove
+  Common Ground-Dove
+  White-winged Dove
+  Mourning Dove
+Cuckoos, Roadrunners, Anis  (Cuculidae)
+  Yellow-billed Cuckoo
+  Greater Roadrunner
+Goatsuckers  (Caprimulgidae)
+  Common Nighthawk
+Swifts  (Apodidae)
+  Vaux’s Swift
+  White-throated Swift
+Hummingbirds  (Trochilidae)
+  Magnificent Hummingbird
+  Plain-capped Starthroat
+  Blue-throated Hummingbird
+  Lucifer Hummingbird
+  Black-chinned Hummingbird
+  Anna’s Hummingbird
+  Costa’s Hummingbird
+  Broad-tailed Hummingbird
+  Rufous Hummingbird
+  Allen’s Hummingbird
+  Calliope Hummingbird
+  Broad-billed Hummingbird
+  Violet-crowned Hummingbird
+  White-eared Hummingbird
+Rails, Gallinules, Coots  (Rallidae)
+  California Black Rail
+  Ridgway’s Rail
+  King Rail
+  Virginia Rail
+  Sora
+  Purple Gallinule
+  Common Gallinule
+  American Coot
+Limpkins  (Aramidae)
+  Limpkin
+Cranes  (Gruidae)
+  Sandhill Crane
+Stilts, Avocets  (Recurvirostridae)
+  Black-necked Stilt
+  American Avocet
+Oystercatchers  (Haematopodidae)
+  Black Oystercatcher
+Lapwings, Plovers  (Charadriidae)
+  Black-bellied Plover
+  American Golden-Plover
+  Pacific Golden-Plover
+  Greater Sand-Plover
+  Western Snowy Plover
+  Wilson’s Plover
+  Semipalmated Plover
+  Piping Plover
+  Killdeer
+  Mountain Plover
+  Eurasian Dotterel
+Sandpipers, Phalaropes, Allies  (Scolopacidae)
+  Whimbrel
+  Long-billed Curlew
+  Hudsonian Godwit
+  Bar-tailed Godwit
+  Marbled Godwit
+  Ruddy Turnstone
+  Black Turnstone
+  Red Knot
+  Surfbird
+  Ruff
+  Stilt Sandpiper
+  Long-toed Stint
+  Sanderling
+  Dunlin
+  Rock Sandpiper
+  Baird’s Sandpiper
+  Least Sandpiper
+  White-rumped Sandpiper
+  Buff-breasted Sandpiper
+  Pectoral Sandpiper
+  Semipalmated Sandpiper
+  Western Sandpiper
+  Short-billed Dowitcher
+  Long-billed Dowitcher
+  Wilson’s Snipe
+  Spotted Sandpiper
+  Solitary Sandpiper
+  Wandering Tattler
+  Greater Yellowlegs
+  Willet
+  Lesser Yellowlegs
+  Wood Sandpiper
+  Wilson’s Phalarope
+  Red-necked Phalarope
+  Red Phalarope
+Skuas, Jaegers  (Stercorariidae)
+  Great Skua
+  South Polar Skua
+  Pomarine Jaeger
+  Parasitic Jaeger
+  Long-tailed Jaeger
+Auks, Murres, Puffins  (Alcidae)
+  Common Murre
+  Razorbill
+  Pigeon Guillemot
+  Marbled Murrelet
+  Scripps’s Murrelet
+  Cassin’s Auklet
+  Parakeet Auklet
+  Least Auklet
+  Crested Auklet
+  Rhinoceros Auklet
+  Atlantic Puffin
+  Horned Puffin
+  Tufted Puffin
+Gulls, Terns, Skimmers  (Laridae)
+  Swallow-tailed Gull
+  Black-legged Kittiwake
+  Sabine’s Gull
+  Bonaparte’s Gull
+  Little Gull
+  Laughing Gull
+  Franklin’s Gull
+  Heermann’s Gull
+  Mew Gull
+  Ring-billed Gull
+  Western Gull
+  California Gull
+  Herring Gull
+  Thayer’s Gull
+  Lesser Black-backed Gull
+  Glaucous-winged Gull
+  Glaucous Gull
+  Great Black-backed Gull
+  Kelp Gull
+  Least Tern
+  Caspian Tern
+  Black Tern
+  Common Tern
+  Arctic Tern
+  Forster’s Tern
+  Royal Tern
+  Sandwich Tern
+  Elegant Tern
+  Black Skimmer
+Loons  (Gaviidae)
+  Red-throated Loon
+  Arctic Loon
+  Pacific Loon
+  Common Loon
+  Yellow-billed Loon
+Albatrosses  (Diomedeidae)
+  Shy Albatross
+  Black-browed Albatross
+  Laysan Albatross
+  Black-footed Albatross
+  Short-tailed Albatross
+Shearwaters, Petrels  (Procellariidae)
+  Northern Fulmar
+  Black-capped Petrel
+  Hawaiian Petrel
+  Fea’s Petrel
+  Cory’s Shearwater
+  Buller’s Shearwater
+  Short-tailed Shearwater
+  Sooty Shearwater
+  Great Shearwater
+  Pink-footed Shearwater
+  Flesh-footed Shearwater
+  Manx Shearwater
+  Black-vented Shearwater
+Storm-Petrels  (Hydrobatidae)
+  Wilson’s Storm-Petrel
+  Fork-tailed Storm-Petrel
+  Leach’s Storm-Petrel
+  Ashy Storm-Petrel
+  Band-rumped Storm-Petrel
+  Black Storm-Petrel
+Storks  (Ciconiidae)
+  Wood Stork
+Boobies, Gannets  (Sulidae)
+  Brown Booby
+  Red-footed Booby
+  Northern Gannet
+Cormorants  (Phalacrocoracidae)
+  Brandt’s Cormorant
+  Neotropic Cormorant
+  Double-crested Cormorant
+  Pelagic Cormorant
+Darters  (Anhingidae)
+  Anhinga
+Pelicans  (Pelecanidae)
+  American White Pelican
+  Brown Pelican
+Herons, Bitterns, Allies  (Ardeidae)
+  American Bittern
+  Least Bittern
+  Great Blue Heron
+  Great Egret
+  Snowy Egret
+  Tricolored Heron
+  Reddish Egret
+  Cattle Egret
+  Green Heron
+  Black-crowned Night-Heron
+  Yellow-crowned Night-Heron
+Ibises, Spoonbills  (Threskiornithidae)
+  White Ibis
+  Glossy Ibis
+  White-faced Ibis
+  Roseate Spoonbill
+New World Vultures  (Cathartidae)
+  Black Vulture
+  Turkey Vulture
+Ospreys  (Pandionidae)
+  Osprey
+Hawks, Kites, Eagles, Allies  (Accipitridae)
+  Swallow-tailed Kite
+  White-tailed Kite
+  Bald Eagle
+  Northern Harrier
+  Sharp-shinned Hawk
+  Cooper’s Hawk
+  Harris’s Hawk
+  Gray Hawk
+  Red-shouldered Hawk
+  Broad-winged Hawk
+  Swainson’s Hawk
+  Zone-tailed Hawk
+  Red-tailed Hawk
+  Rough-legged Hawk
+  Ferruginous Hawk
+  Golden Eagle
+Owls  (Strigidae)
+  Barn Owl
+  Western Screech-Owl
+  Eastern Screech-Owl
+  Whiskered Screech-Owl
+  Great Horned Owl
+  Northern Pygmy-Owl
+  Elf Owl
+  Burrowing Owl
+  Spotted Owl
+  Barred Owl
+  Long-eared Owl
+  Short-eared Owl
+  Northern Saw-whet Owl
+Trogons  (Trogonidae)
+  Elegant Trogon
+Kingfishers  (Alcedinidae)
+  Belted Kingfisher
+Woodpeckers, Allies  (Picidae)
+  Lewis’s Woodpecker
+  Acorn Woodpecker
+  Gila Woodpecker
+  Golden-fronted Woodpecker
+  Red-bellied Woodpecker
+  Williamson’s Sapsucker
+  Yellow-bellied Sapsucker
+  Red-naped Sapsucker
+  Red-breasted Sapsucker
+  Ladder-backed Woodpecker
+  Nuttall’s Woodpecker
+  Downy Woodpecker
+  Hairy Woodpecker
+  Arizona Woodpecker
+  White-headed Woodpecker
+  Black-backed Woodpecker
+  Northern Flicker
+Caracaras, Falcons  (Falconidae)
+  American Kestrel
+  Merlin
+  Peregrine Falcon
+  Prairie Falcon
+Tyrant Flycatchers  (Tyrannidae)
+  Northern Beardless-Tyrannulet
+  Olive-sided Flycatcher
+  Greater Pewee
+  Western Wood-Pewee
+  Yellow-bellied Flycatcher
+  Willow Flycatcher
+  Hammond’s Flycatcher
+  Gray Flycatcher
+  Dusky Flycatcher
+  Pacific-slope Flycatcher
+  Cordilleran Flycatcher
+  Buff-breasted Flycatcher
+  Black Phoebe
+  Eastern Phoebe
+  Say’s Phoebe
+  Vermilion Flycatcher
+  Dusky-capped Flycatcher
+  Ash-throated Flycatcher
+  Brown-crested Flycatcher
+  Great Kiskadee
+  Sulphur-bellied Flycatcher
+  Tropical Kingbird
+  Cassin’s Kingbird
+  Western Kingbird
+  Eastern Kingbird
+  Scissor-tailed Flycatcher
+Shrikes  (Laniidae)
+  Loggerhead Shrike
+  Northern Shrike
+Vireos  (Vireonidae)
+  Bell’s Vireo
+  Hutton’s Vireo
+  Cassin’s Vireo
+  Blue-headed Vireo
+  Plumbeous Vireo
+  Warbling Vireo
+  Red-eyed Vireo
+  Yellow-green Vireo
+Crows, Jays  (Corvidae)
+  Green Jay
+  Pinyon Jay
+  Steller’s Jay
+  Blue Jay
+  Florida Scrub-Jay
+  Island Scrub-Jay
+  California Scrub-Jay
+  Mexican Jay
+  Clark’s Nutcracker
+  Black-billed Magpie
+  Yellow-billed Magpie
+  Eurasian Jackdaw
+  American Crow
+  Northwestern Crow
+  Fish Crow
+  Chihuahuan Raven
+  Common Raven
+Larks  (Alaudidae)
+  Horned Lark
+Swallows  (Hirundinidae)
+  Purple Martin
+  Tree Swallow
+  Violet-green Swallow
+  Northern Rough-winged Swallow
+  Bank Swallow
+  Cliff Swallow
+  Cave Swallow
+  Barn Swallow
+Chickadees, Titmice  (Paridae)
+  Mountain Chickadee
+  Mexican Chickadee
+  Chestnut-backed Chickadee
+  Bridled Titmouse
+  Oak Titmouse
+  Black-crested Titmouse
+Penduline Tits, Verdins  (Remizidae)
+  Verdin
+Long-tailed Tits, Bushtits  (Aegithalidae)
+  Bushtit
+Nuthatches  (Sittidae)
+  Red-breasted Nuthatch
+  White-breasted Nuthatch
+  Pygmy Nuthatch
+Creepers  (Certhiidae)
+  Brown Creeper
+Wrens  (Troglodytidae)
+  Rock Wren
+  Canyon Wren
+  House Wren
+  Pacific Wren
+  Marsh Wren
+  Carolina Wren
+  Bewick’s Wren
+  Cactus Wren
+Gnatcatchers and Gnatwrens,  Gnatcatchers  (Polioptilidae)
+  Blue-gray Gnatcatcher
+  California Gnatcatcher
+  Black-tailed Gnatcatcher
+Dippers  (Cinclidae)
+  American Dipper
+Kinglets  (Regulidae)
+  Golden-crowned Kinglet
+  Ruby-crowned Kinglet
+Sylviid Warblers  (Sylviidae)
+  Wrentit
+Thrushes  (Turdidae)
+  Western Bluebird
+  Mountain Bluebird
+  Townsend’s Solitaire
+  Veery
+  Gray-cheeked Thrush
+  Swainson’s Thrush
+  Hermit Thrush
+  Wood Thrush
+  American Robin
+  Varied Thrush
+Mockingbirds, Thrashers  (Mimidae)
+  Gray Catbird
+  Curve-billed Thrasher
+  Brown Thrasher
+  Long-billed Thrasher
+  Bendire’s Thrasher
+  California Thrasher
+  Sage Thrasher
+  Northern Mockingbird
+Starlings  (Sturnidae)
+  European Starling
+Waxwings  (Bombycillidae)
+  Cedar Waxwing
+Silky-flycatchers  (Ptiliogonatidae)
+  Phainopepla
+Olive Warbler  (Peucedramidae)
+  Olive Warbler
+Weavers  (Ploceidae)
+  Northern Red Bishop
+Old World Sparrows  (Passeridae)
+  House Sparrow
+Wagtails, Pipits  (Motacillidae)
+  Eastern Yellow Wagtail
+  Red-throated Pipit
+  American Pipit
+Fringilline and Cardueline Finches, Allies  (Fringillidae)
+  Pine Grosbeak
+  House Finch
+  Purple Finch
+  Cassin’s Finch
+  Red Crossbill
+  Common Redpoll
+  Pine Siskin
+  Lesser Goldfinch
+  Lawrence’s Goldfinch
+  American Goldfinch
+  Evening Grosbeak
+Longspurs and Snow Buntings  (Calcariidae)
+  Lapland Longspur
+  Snow Bunting
+  McKay’s Bunting
+Wood-Warblers  (Parulidae)
+  Ovenbird
+  Worm-eating Warbler
+  Northern Waterthrush
+  Blue-winged Warbler
+  Black-and-white Warbler
+  Prothonotary Warbler
+  Tennessee Warbler
+  Orange-crowned Warbler
+  Lucy’s Warbler
+  Nashville Warbler
+  MacGillivray’s Warbler
+  Kentucky Warbler
+  Common Yellowthroat
+  Hooded Warbler
+  American Redstart
+  Cape May Warbler
+  Magnolia Warbler
+  Blackburnian Warbler
+  Yellow Warbler
+  Chestnut-sided Warbler
+  Blackpoll Warbler
+  Black-throated Blue Warbler
+  Palm Warbler
+  Pine Warbler
+  Yellow-rumped Warbler
+  Yellow-throated Warbler
+  Grace’s Warbler
+  Black-throated Gray Warbler
+  Townsend’s Warbler
+  Hermit Warbler
+  Golden-cheeked Warbler
+  Black-throated Green Warbler
+  Canada Warbler
+  Wilson’s Warbler
+  Red-faced Warbler
+  Painted Redstart
+  Yellow-breasted Chat
+Emberizids  (Emberizidae)
+  Olive Sparrow
+  Green-tailed Towhee
+  Spotted Towhee
+  Eastern Towhee
+  Rufous-crowned Sparrow
+  Canyon Towhee
+  California Towhee
+  Abert’s Towhee
+  Rufous-winged Sparrow
+  Botteri’s Sparrow
+  American Tree Sparrow
+  Chipping Sparrow
+  Clay-colored Sparrow
+  Brewer’s Sparrow
+  Black-chinned Sparrow
+  Vesper Sparrow
+  Lark Sparrow
+  Black-throated Sparrow
+  Bell’s Sparrow
+  Lark Bunting
+  Savannah Sparrow
+  Grasshopper Sparrow
+  Nelson’s Sparrow
+  Fox Sparrow
+  Song Sparrow
+  Lincoln’s Sparrow
+  Swamp Sparrow
+  White-throated Sparrow
+  Harris’s Sparrow
+  White-crowned Sparrow
+  Golden-crowned Sparrow
+  Dark-eyed Junco
+  Yellow-eyed Junco
+Cardinals, Saltators, Allies  (Cardinalidae)
+  Hepatic Tanager
+  Summer Tanager
+  Scarlet Tanager
+  Western Tanager
+  Flame-colored Tanager
+  Northern Cardinal
+  Pyrrhuloxia
+  Rose-breasted Grosbeak
+  Black-headed Grosbeak
+  Blue Grosbeak
+  Lazuli Bunting
+  Indigo Bunting
+  Varied Bunting
+  Painted Bunting
+Blackbirds  (Icteridae)
+  Bobolink
+  Red-winged Blackbird
+  Tricolored Blackbird
+  Eastern Meadowlark
+  Western Meadowlark
+  Yellow-headed Blackbird
+  Rusty Blackbird
+  Brewer’s Blackbird
+  Common Grackle
+  Boat-tailed Grackle
+  Great-tailed Grackle
+  Bronzed Cowbird
+  Brown-headed Cowbird
+  Orchard Oriole
+  Hooded Oriole
+  Bullock’s Oriole
+  Altamira Oriole
+  Baltimore Oriole
+  Scott’s Oriole
