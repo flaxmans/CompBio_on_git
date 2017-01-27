@@ -9,11 +9,12 @@
 ### *Steps for this lab*:
 
 
-#####A Github.com account
+#####I. A Github.com account
 Make an account on Gitbhub.com if you have not done so already
 
+<hr>
 
-#####Working in the Terminal to set up your git config file:
+#####II. Working in the Terminal to set up your git config file:
 In your terminal, you need to configure your git user account with the following commands: 
  
 	git config --global user.email "you@email.com"
@@ -21,8 +22,9 @@ In your terminal, you need to configure your git user account with the following
 
 **NOTE: the email and user name MUST match the email and user name you are using at Github.com**  You will NOT have to do this again on your computer.  If you use a new computer (or a new virtual machine), you will have to do this.
 
+<hr>
 
-#####Working in your terminal to set up a git repo for YOUR assignments and labs in this class
+#####III. Working in your terminal to set up a git repo for YOUR assignments and labs in this class
 **NOTE:** This is not for the stuff I put on Github, but rather the stuff YOU create.  Please make sure that this directory is NOT a child (subdirectory) of any other existing git repo.
 
 1. In your terminal, navigate (using `cd`) to whatever directory you want to use to store things for this class that will go on Github
@@ -41,8 +43,11 @@ In your terminal, you need to configure your git user account with the following
 10. Edit your cookie recipe in some way.  Save, add, and commit.
 11. Repeat the previous step a few times (so that you have a few commits)
 
+<hr>
 
-#####Working on Github.com
+
+
+#####IV. Working on Github.com
 1. Start a new project.  Depending upon where you are, you might see a button to do this, or you might have to click on the "+" sign in the upper-right-hand corner of the github page.
 2. Name the new project "CompBioLabsAndHomework" (but do NOT include the quotes)
 3. Do NOT initialize it with any files
