@@ -1,20 +1,20 @@
 # Week 2, Lab 2
-### *Goals*: 
+## *Goals*: 
 * Get acquainted with git
 * Set up your account on Github.com
 * Set up your user account on your machine
 * Practice a couple of iterations of the git add, git commit cycle
 * Push a repository to Github
 
-### *Steps for this lab*:
+## *Steps for this lab*:
 
 
-#####I. A Github.com account
+###I. A Github.com account
 Make an account on Gitbhub.com if you have not done so already
 
 <hr>
 
-#####II. Working in the Terminal to set up your git config file:
+###II. Working in the Terminal to set up your git config file:
 In your terminal, you need to configure your git user account with the following commands: 
  
 	git config --global user.email "you@email.com"
@@ -24,8 +24,8 @@ In your terminal, you need to configure your git user account with the following
 
 <hr>
 
-#####III. Working in your terminal to set up a git repo for YOUR assignments and labs in this class
-**NOTE:** This is not for the stuff I put on Github, but rather the stuff YOU create.  Please make sure that this directory is NOT a child (subdirectory) of any other existing git repo.
+###III. Working in your terminal to set up a git repo for YOUR assignments and labs in this class
+**NOTE:** This is not for the stuff Sam puts on Github, but rather the stuff YOU create.  Please make sure that this directory is NOT a child (subdirectory) of any other existing git repo.
 
 1. In your terminal, navigate (using `cd`) to whatever directory you want to use to store things for this class that will go on Github
 2. In your terminal, use the following command to make a new directory:
@@ -34,8 +34,7 @@ In your terminal, you need to configure your git user account with the following
 
 3. In your terminal, `cd CompBioLabsAndHomework` (i.e., cd into that new directory)
 4. Are you sure you are in the new directory you just created? If yes, then initiate a new git repository.  Do you remember the command to initiate a new repository?
-
-4. Working in your CompBioLabsAndHomework directory, make a new directory called "Lab02"
+5. Working in your CompBioLabsAndHomework directory, make a new directory called "Lab02"
 6. cd into Lab02
 7. Put your plain-text cookie recipe in this directory
 8. Check `git status`.  What do you see?
@@ -45,7 +44,7 @@ In your terminal, you need to configure your git user account with the following
 
 <hr>
 
-#####IV. Set up a repo for this class on Github.com
+###IV. Set up a repo for this class on Github.com
 1. Start a new project (i.e., a new repository).  Depending upon where you are, you might see a button to do this, or you might need to click on the "+" sign in the upper-right-hand corner of the github page.
 2. Name the new repository CompBioLabsAndHomework
 3. Do NOT initialize this repository with any files
@@ -54,7 +53,7 @@ In your terminal, you need to configure your git user account with the following
 
 <hr>
 
-#####V. Linking your local .git repository to Github.com, and pushing your commits
+###V. Linking your local .git repository to Github.com, and pushing your commits
 1. Return to your terminal and make sure you are still in the local CompBioLabsAndHomework on your computer
 2. Designate the "remote" (i.e., online) repo with  
 	`git remote add origin [url]`,  
@@ -67,12 +66,16 @@ In your terminal, you need to configure your git user account with the following
 
 <hr>
 
-#####VI. Documentation
+###VI. Documentation
 Best practices dictate that repositories have easy-to-read descriptions that help people know the purpose.  This is called a README file.
     
 1. In your Terminal, navigate to CompBioLabsAndHomework. 
 2. Make a text file there called README.txt
 3. In that text file, write a description of what you think the repo will be
 4. Save, add, commit, and push.
-5. Go back to your browser window and refresh again.  How does the display change?
+5. Go back to your browser window and refresh again.  How does the appearance of the online repo change?
 
+<hr>
+
+###VII. Examining the work you have done
+In your terminal, use `git log` and `git diff HEAD~N filename` to review the changes you have made during your work in your local repo.  If you are feeling brave, try `git checkout HEAD~N filename` to look at previous versions of the  
