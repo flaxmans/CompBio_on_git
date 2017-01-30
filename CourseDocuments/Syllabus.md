@@ -47,9 +47,13 @@ ______________________________
 	
 ###### Week 2:
 + Git intro
-+ Lab week 2: 
-	
-* Documenting your work: comments, readmes, and markdown
++ Lab week 2: git
+
+###### Week 3:
++ Follow up from lab: remaining uncertainties?
++ Best practices for files and git
++ Intro to R and scripting with R
++ Lab week 3: some simple scripting (and of course using git with the script(s))
 
 _____________________________
 
