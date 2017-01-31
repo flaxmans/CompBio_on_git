@@ -54,6 +54,7 @@ ______________________________
 + Best practices for files and git
 + Intro to R and scripting with R
 + Lab week 3: some simple scripting (and of course using git with the script(s))
++ Action Items: [Assignment 03](https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/03_PracticeCommitAndPush.md) announced on Tuesday, due Friday before lab begins. 
 
 _____________________________
 
