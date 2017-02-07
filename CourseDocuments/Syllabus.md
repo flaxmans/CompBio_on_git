@@ -60,6 +60,14 @@ ______________________________
 	+ [vectors pt 1](https://youtu.be/A2Sh7uBwQv0)
 	+ [vectors pt 2](https://youtu.be/lNZQnLu_AWM)
 
+###### Week 4:
++ Follow up from lab: remaining uncertainties about R and/or git?
++ Resolving conflicts encountered in git
++ looping constructs: the "for loop"
++ Conditional statements (maybe this week, maybe next): using "if"
++ Action Items for you: [Assignment 04](https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/04_PushLabWorkFromThirdWeek.md) (Note that you might have already completed this if you already finished the whole lab on the previous Friday.)
++ Lab for week 4: for loops
+
 
 _____________________________
 
