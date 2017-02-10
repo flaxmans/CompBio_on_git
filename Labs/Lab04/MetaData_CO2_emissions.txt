@@ -1,0 +1,39 @@
+Data from the Carbon Dioxide Information Analysis Center
+http://cdiac.ornl.gov/trends/emis/meth_reg.html
+
+Data specifically obtained by a cut and paste from:
+from http://cdiac.ornl.gov/ftp/ndp030/global.1751_2013.ems
+accessed 2/1/17
+
+***********************************************************
+*** Global CO2 Emissions from Fossil-Fuel Burning,      ***
+*** Cement Manufacture, and Gas Flaring: 1751-2013      ***
+***                                                     ***
+*** April 19, 2016                                      ***
+***                                                     ***
+*** Source:  Tom Boden                                  ***
+***          Bob Andres                                 ***
+***          Carbon Dioxide Information Analysis Center ***
+***          Oak Ridge National Laboratory              ***
+***          Oak Ridge, Tennessee 37831-6290            ***
+***          USA                                        ***
+***                                                     ***
+***          Gregg Marland                              ***
+***          Research Institute for Environment, Energy ***
+***            and Economics                            ***
+***          Appalachian State University               ***
+***          Boone, North Carolina 28608-2131           ***
+***          USA                                        ***
+***********************************************************
+
+All emission estimates are expressed in million metric tons of carbon. To
+convert these estimates to units of carbon dioxide (CO2), simply multiply
+these estimates by 3.667.
+
+Per capita emission estimates are expressed in metric tons of carbon.
+Population estimates were not available to permit calculations of global
+per capita estimates before 1950.  Please note that annual sums were
+tallied before each element (e.g., Gas) was rounded and reported here
+so totals may differ slightly from the sum of the elements due to
+rounding.
+
