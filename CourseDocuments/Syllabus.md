@@ -66,8 +66,21 @@ ______________________________
 + Resolving conflicts encountered in git
 + Looping constructs: the "for loop"
 + Pre-allocating your data objects
-+ Action Items for you: [Assignment 04](https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/04_PushLabWorkFromThirdWeek.md) (Note that you might have already completed this if you already finished the whole lab on the previous Friday.)
 + Lab for week 4: for loops
++ Action Items for you: (1) [Assignment 04](https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/04_PushLabWorkFromThirdWeek.md) (Note that you might have already completed this if you already finished the whole lab on the previous Friday.).  (2) Pushing the lab from this week constitutes [Assignment 05](https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/05_PushLabWorkFromFourthWeek.md).
+
+###### Week 5:
++ Conditionals (if statements and logical tests)
++ Lab for week 5: conditionals, filtering, indexing
++ Action items for you: pushing the lab from this week constitutes [Assignment 06](https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/06_PushLabWorkFromFifthWeek.md).
+
+###### Week 6:
++ Review of conditionals (if statements and logical tests) and indexing
++ **NOTE: Special class on Thursday, 2/23:**  As part of [Diverse Learners Awareness Week](http://www.colorado.edu/diverselearners/), we will participate in a "Diversity and Inclusion Dialogue".  **On 2/23, we will meet for class in the Glenn Miller Ballroom**.
++ Filtering data (review using conditionals)
++ Lab for week 6: finish lab from week 5.  If you have already finished it, then you don't have to come to lab!
++ Action items for you: finish [Assignment 06](https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/06_PushLabWorkFromFifthWeek.md) if you haven't already.
+
 
 
 _____________________________
