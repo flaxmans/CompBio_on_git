@@ -43,4 +43,6 @@ Second, create a "time" vector, and make two additional vectors to store results
 Third, write a loop that implements the calculations.
 
 Fourth, in this model it is possible that the predators may kill off all the prey.  Due to the discrete nature of how time is considered in this model (time proceeds in discrete jumps from one generation to the next), it is possible that the calculations as given can result in negative numbers.  So, add some `if` statements to your code to check for negative numbers each generation.  If, for example, a given value of prey abundance is negative, then that value should be set to be zero.
+
+Fifth (I meant to say this in the first draft of this assignment, but forgot to), make a plot of the abundances of prey and predators over time (see cheat sheet above for using `plot()` and `lines()`).
 <hr>####Complete all of the above in an R script file (with good comments on all steps) and push that file to your Github repo for this class.  Turning in WORKING code counts as Assignment 06. 
