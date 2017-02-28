@@ -81,6 +81,11 @@ ______________________________
 + Lab for week 6: finish lab from week 5.  If you have already finished it, I will have a different activity for you.
 + Action items for you: finish [Assignment 06](https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/06_PushLabWorkFromFifthWeek.md) if you haven't already.
 
+###### Week 7:
++ Writing your own functions
++ Lab for week 7: writing your own functions
++ Action items for you: finishing and pushing the lab from week 7 to Github will constitute Assignment 07.
+
 
 
 _____________________________
