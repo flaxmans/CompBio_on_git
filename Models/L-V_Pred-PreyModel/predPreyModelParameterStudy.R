@@ -21,7 +21,6 @@ predPreyModel <- function(gens = 1000, initPrey = 100,
       pred[i] <- 0
     }
   }
-  
   return(cbind(prey,pred))
 }
 
@@ -84,14 +83,15 @@ for ( i in 1:numRvals ){
   rval <- rvals[i]
   for ( j in 1:numMvals ) {
     mval <- mvals[j]
-    results <- predPreyModel(gens = gens, initPrey = initPrey, initPred = initPred, 
-                            a = a, cc = cc, r = rval, m = mval) # run the model 
+    results <- predPreyModel(r = rval, m = mval) # run the model 
     preyData[,count] <- results[,"prey"] # store results
     predData[,count] <- results[,"pred"]
     
+    # make data headers (column names):
     preyHeaders[count] <- paste("prey.r.", rval, ".m.", mval, sep = "")
     predHeaders[count] <- paste("pred.r.", rval, ".m.", mval, sep = "")
     
+    # increment counter variable that keeps place in results arrays:
     count <- count + 1
   }
 }
