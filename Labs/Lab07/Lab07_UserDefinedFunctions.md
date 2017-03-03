@@ -1,4 +1,5 @@
-#Lab 07: Writing Your Own Functions###ObjectivesThe main learning goals of this lab activity are to:  1.	Practice the basics of writing a `function` in R2.  Write functions that work for a variety of inputs###Cheat SheetHere are some commands that we will use today.  Anything shown in italics here is a placeholder for something you provide.  Command, usage, and what it doesBasic syntax of defining a function:
+#Lab 07: "Put the FUN in FUNction! :-)"
+##Writing Your Own Functions###ObjectivesThe main learning goals of this lab activity are to:  1.	Practice the basics of writing a `function` in R2.  Write functions that work for a variety of inputs###Cheat SheetHere are some commands that we will use today.  Anything shown in italics here is a placeholder for something you provide.  Command, usage, and what it doesBasic syntax of defining a function:
 	myFunction <- function(arg1, arg2){
 		# step 1:
 		
