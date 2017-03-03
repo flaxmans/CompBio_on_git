@@ -49,6 +49,6 @@ And turn it into this:
 |2|1|1|
 |3|1|1|
 
-Function #2 should do the reverse.  Note that the list form only includes the non-zero entries of the matrix.
+Function #2 should do the reverse.  Note that the pairwise table form only includes the non-zero entries of the matrix.
  
-If you want to test that your functions work, import the data given in the Lab07 folder in the file called "SmallAdjacencyMatrix.csv".  Try converting those data with the first funcion.  Then, if the results look fine, try to recreate the SmallAdajcencyMatrix by using your second fuunction on the . <hr>####Complete all of the above in an R script file (with good comments on all steps) and push that file to your Github repo for this class.  Turning in WORKING code counts as Assignment 06. 
+If you want to test that your functions work, import the data given in the Lab07 folder in the file called "SmallAdjacencyMatrix.csv".  Try converting those data with the first funcion.  Then, if the results look fine, try to recreate the SmallAdajcencyMatrix by using your second function on the return from the first. <hr>####Complete all of the above in an R script file (with good comments on all steps) and push that file to your Github repo for this class.  Turning in WORKING code counts as Assignment 07. 
