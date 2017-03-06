@@ -84,9 +84,18 @@ ______________________________
 ###### Week 7:
 + Writing your own functions
 + Lab for week 7: writing your own functions
-+ Action items for you: finishing and pushing the lab from week 7 to Github will constitute Assignment 07.
++ Action items for you: finishing and pushing the [Lab 07](https://github.com/flaxmans/CompBio_on_git/blob/master/Labs/Lab07/Lab07_UserDefinedFunctions.md) to Github will constitute [Assignment 07](https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/07_PushLabWorkFromSeventhWeek.md).
 
-
+###### Week 8:
++ Reproducibility
++ Data files
++ Meta-data files
++ Meta-scripting
++ Documentation with markdown and R markdown
++ Lab for week 8: meta-data and documentation
++ Action items for you:
+	+ finishing and pushing the Lab 08 to Github will constitute Assignment 08.
+	+ take the [mid-semester course evaluation survey](https://docs.google.com/forms/d/e/1FAIpQLScUkAX1XGIzCAg8QPEHQ8NUATg9R0NbjfR5J84aPXiCLicjEw/viewform?usp=sf_link)
 
 _____________________________
 
