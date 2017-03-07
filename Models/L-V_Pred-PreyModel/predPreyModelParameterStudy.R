@@ -25,6 +25,14 @@ predPreyModel <- function(gens = 1000, initPrey = 100,
 }
 
 # a parameter study of the attack rate:
+#unchanging parameters:
+gens <- 1000
+initPrey <- 100 
+initPred <- 10 
+r <- 0.2
+m <- 0.05
+cc <- 0.1
+# the paramter that will be varied:
 aRange <- seq(from = 0.001, to = 0.1, by = 0.001)
 nReps <- length(aRange)
 timeSteps <- 1000
@@ -32,29 +40,43 @@ preyData <- matrix(data = 0, nrow = timeSteps, ncol = nReps) # preallocate
 predData <- preyData # preallocate
 for ( i in 1:nReps ) {
   aval <- aRange[i] # working value of attack rate
-  results <- predPreyModel(a = aval) # run the model 
+  results <- predPreyModel(gens = gens, initPrey = initPrey, 
+          initPred = initPred, a = aval, r = r, m = m, 
+          cc = cc) # run the model 
   preyData[,i] <- results[,"prey"] # store results
   predData[,i] <- results[,"pred"]
 }
 
 # write the data from the parameter study to a .csv
-# first, make column headers:
-preyColNames <- rep("", nReps)
-predColNames <- preyColNames
-for ( i in 1:nReps ) {
-  preyColNames[i] <- paste("prey.a.", aRange[i], sep = "")
-  predColNames[i] <- paste("pred.a.", aRange[i], sep = "")
-}
-# use headers:
-colnames(preyData) <- preyColNames
-colnames(predData) <- predColNames
-# create a vector of time steps:
-time <- 1:timeSteps
-# create one object with all the data:
-allData <- cbind(time,preyData,predData)
+# besides a, we have additional parameters that aren't obvious from the data.
+# initPrey and initPred are obvious from the data; they are the values present
+# at time step 1.  gens is also obvious: last step.  That leaves r, m, and cc
+rcol <- rep(r, nReps) # vector of r values
+mcol <- rep(m, nReps) # vector of m values
+cccol <- rep(cc, nReps) # vector of cc values
+runIDs <- 1:nReps # vector of unique run identifiers
+paramCols <- 5 # number of parameter columns; avoiding magic numbers
+# pre-allocating objects for prey and predator data: 
+preyResultsMatrix <- matrix(data = 0, nrow = nReps, ncol = (paramCols + gens))
+preyResultsMatrix[,1:paramCols] <- cbind(runIDs, rcol, mcol, cccol, aRange)
+predResultsMatrix <- preyResultsMatrix
+# need to transpose the data because the time series 
+# were in columns in the "preyData" and "predData" objects, 
+# but we need each time series to now be a row
+preyResultsMatrix[, (paramCols+1):(paramCols + gens)] <- t(preyData)
+predResultsMatrix[, (paramCols+1):(paramCols + gens)] <- t(predData)
+# need column names for when we write to .csv:
+myColNames <- c("runID", "r", "m", "cc", "a", paste(1:gens))
+colnames(preyResultsMatrix) <- myColNames
+colnames(predResultsMatrix) <- myColNames
 # write the data to a .csv:
 setwd("~/Documents/Teaching/Computational_Biology/CompBio_on_git/Models/L-V_Pred-PreyModel/")
-mySafeWriteCSV(data = allData, namebase = "PredPreyAttackRateStudy")
+if ( !dir.exists("AttackRateStudy") ) {
+  dir.create("AttackRateStudy")
+}
+mySafeWriteCSV(data = preyResultsMatrix, namebase = "AttackRateStudy/PreyDataAttackRateStudy.csv")
+mySafeWriteCSV(data = predResultsMatrix, namebase = "AttackRateStudy/PredatorDataAttackRateStudy.csv")
+
 
 
 
