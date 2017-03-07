@@ -70,58 +70,98 @@ myColNames <- c("runID", "r", "m", "cc", "a", paste(1:gens))
 colnames(preyResultsMatrix) <- myColNames
 colnames(predResultsMatrix) <- myColNames
 # write the data to a .csv:
+  # make sure we're in the right directory:
 setwd("~/Documents/Teaching/Computational_Biology/CompBio_on_git/Models/L-V_Pred-PreyModel/")
+  # make a sub-directory if it doesn't already exist:
 if ( !dir.exists("AttackRateStudy") ) {
   dir.create("AttackRateStudy")
 }
-mySafeWriteCSV(data = preyResultsMatrix, namebase = "AttackRateStudy/PreyDataAttackRateStudy.csv")
-mySafeWriteCSV(data = predResultsMatrix, namebase = "AttackRateStudy/PredatorDataAttackRateStudy.csv")
+  # actually write the data:
+setwd("~/Documents/Teaching/Computational_Biology/CompBio_on_git/Models/L-V_Pred-PreyModel/AttackRateStudy/")
+mySafeWriteCSV(data = preyResultsMatrix, namebase = "PreyDataAttackRateStudy.csv")
+mySafeWriteCSV(data = predResultsMatrix, namebase = "PredatorDataAttackRateStudy.csv")
+
+# meta-scripting: make a script of parameter values:
+myParamFile <- getUnusedFilename("parameters.R") # make sure the name is good
+cat(paste("Writing parameters to: '", myParamFile, "'\n", sep = ""))
+sink(myParamFile) # open the file for writing
+# Add useful contextual information:
+cat("# Source-able script of parameters used in Predator-Prey attack rate study\n")
+cat(paste("# Produced on ", date()))
+# now write each of the parameters:
+cat(paste("gens <- ", gens, "\n", sep = ""))
+cat(paste("initPrey <- ", initPrey, "\n", sep = ""))
+cat(paste("initPred <- ", initPred, "\n", sep = ""))
+cat(paste("r <- ", r, "\n", sep = ""))
+cat(paste("m <- ", m, "\n", sep = ""))
+cat(paste("cc <- ", cc, "\n", sep = ""))
+cat("aRange <- seq(from = 0.001, to = 0.1, by = 0.001)\n")
+sink() # close the file
+
+#alternate with more contextual info:
+sink(myParamFile) # open the file for writing
+# Add useful contextual information:
+cat("# Source-able script of parameters used in Predator-Prey attack rate study\n")
+cat(paste("# Produced on ", date(), "\n", sep = ""))
+# now write each of the parameters:
+cat(paste("gens <- ", gens, " # total generations\n", sep = ""))
+cat(paste("initPrey <- ", initPrey, " # initial prey abundance at time step 1\n", sep = ""))
+cat(paste("initPred <- ", initPred, " # initial predator abundance at time step 1\n", sep = ""))
+cat(paste("r <- ", r, " # intrinsic growth rate of prey\n", sep = ""))
+cat(paste("m <- ", m, " # intrinsic mortality rate of predators\n", sep = ""))
+cat(paste("cc <- ", cc, " # conversion constant for prey consumed into predator births\n", sep = ""))
+cat("aRange <- seq(from = 0.001, to = 0.1, by = 0.001) # range of attack rate values used\n")
+sink() # close the file
 
 
 
 
-# how about a second parameter study, looking at variation in two parameters?
-# first parameter: growth rate:
-rvals <- seq(from = 0.01, to = 0.1, by = 0.01)
-numRvals <- length(rvals)
-#second parameter: predator mortality:
-mvals <- seq(from = 0.01, to = 0.1, by = 0.01)
-numMvals <- length(mvals)
-# other parameters:
-a <- 0.001
-cc <- 0.1
-initPrey <- 150
-initPred <- 50
-gens <- 1000
-# preallocate data structures:
-totalNumRuns <- numRvals * numMvals
-preyData <- matrix(data = 0, ncol = totalNumRuns, nrow = gens)
-predData <- preyData
-preyHeaders <- rep("", totalNumRuns)
-predHeaders <- preyHeaders
-# two-parameter study calls for nested for loops:
-count <- 1
-for ( i in 1:numRvals ){
-  rval <- rvals[i]
-  for ( j in 1:numMvals ) {
-    mval <- mvals[j]
-    results <- predPreyModel(r = rval, m = mval) # run the model 
-    preyData[,count] <- results[,"prey"] # store results
-    predData[,count] <- results[,"pred"]
-    
-    # make data headers (column names):
-    preyHeaders[count] <- paste("prey.r.", rval, ".m.", mval, sep = "")
-    predHeaders[count] <- paste("pred.r.", rval, ".m.", mval, sep = "")
-    
-    # increment counter variable that keeps place in results arrays:
-    count <- count + 1
-  }
-}
-# assign column names:
-colnames(preyData) <- preyHeaders
-colnames(predData) <- predHeaders
-# create data object for writing to .csv:
-time <- 1:gens
-allData <- cbind(time, preyData, predData)
-setwd("~/Documents/Teaching/Computational_Biology/CompBio_on_git/Models/L-V_Pred-PreyModel/")
-mySafeWriteCSV(data = allData, namebase = "PredPreyStudyrAndm")
+
+
+############################################################################
+
+# # how about a second parameter study, looking at variation in two parameters?
+# # first parameter: growth rate:
+# rvals <- seq(from = 0.01, to = 0.1, by = 0.01)
+# numRvals <- length(rvals)
+# #second parameter: predator mortality:
+# mvals <- seq(from = 0.01, to = 0.1, by = 0.01)
+# numMvals <- length(mvals)
+# # other parameters:
+# a <- 0.001
+# cc <- 0.1
+# initPrey <- 150
+# initPred <- 50
+# gens <- 1000
+# # preallocate data structures:
+# totalNumRuns <- numRvals * numMvals
+# preyData <- matrix(data = 0, ncol = totalNumRuns, nrow = gens)
+# predData <- preyData
+# preyHeaders <- rep("", totalNumRuns)
+# predHeaders <- preyHeaders
+# # two-parameter study calls for nested for loops:
+# count <- 1
+# for ( i in 1:numRvals ){
+#   rval <- rvals[i]
+#   for ( j in 1:numMvals ) {
+#     mval <- mvals[j]
+#     results <- predPreyModel(r = rval, m = mval) # run the model 
+#     preyData[,count] <- results[,"prey"] # store results
+#     predData[,count] <- results[,"pred"]
+#     
+#     # make data headers (column names):
+#     preyHeaders[count] <- paste("prey.r.", rval, ".m.", mval, sep = "")
+#     predHeaders[count] <- paste("pred.r.", rval, ".m.", mval, sep = "")
+#     
+#     # increment counter variable that keeps place in results arrays:
+#     count <- count + 1
+#   }
+# }
+# # assign column names:
+# colnames(preyData) <- preyHeaders
+# colnames(predData) <- predHeaders
+# # create data object for writing to .csv:
+# time <- 1:gens
+# allData <- cbind(time, preyData, predData)
+# setwd("~/Documents/Teaching/Computational_Biology/CompBio_on_git/Models/L-V_Pred-PreyModel/")
+# mySafeWriteCSV(data = allData, namebase = "PredPreyStudyrAndm")
