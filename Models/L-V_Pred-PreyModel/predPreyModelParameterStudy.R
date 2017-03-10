@@ -87,7 +87,7 @@ cat(paste("Writing parameters to: '", myParamFile, "'\n", sep = ""))
 sink(myParamFile) # open the file for writing
 # Add useful contextual information:
 cat("# Source-able script of parameters used in Predator-Prey attack rate study\n")
-cat(paste("# Produced on ", date()))
+cat(paste("# Produced on ", date(), "\n"))
 # now write each of the parameters:
 cat(paste("gens <- ", gens, "\n", sep = ""))
 cat(paste("initPrey <- ", initPrey, "\n", sep = ""))
@@ -98,7 +98,7 @@ cat(paste("cc <- ", cc, "\n", sep = ""))
 cat("aRange <- seq(from = 0.001, to = 0.1, by = 0.001)\n")
 sink() # close the file
 
-#alternate with more contextual info:
+# alternate meta-script with more contextual info:
 sink(myParamFile) # open the file for writing
 # Add useful contextual information:
 cat("# Source-able script of parameters used in Predator-Prey attack rate study\n")
