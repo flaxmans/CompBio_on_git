@@ -12,8 +12,9 @@
 	2. The script should also call the function so that a figure is produced.
 	3. The script should write a data set to a file.  The data file should have two columns: the first column should be "generations", and the second column should be "abundance".
 	4. The axes of the figure should be properly labeled.
-	5. Make a new markdown document explaining the script.  This markdown document should also be in the directory for Lab08.  This markdown document will be the metadata file that explains the script, the model it contains, and the data that were written to the data file.  Use headings, bulleted lists, and other capabilities of markdown as you see fit.  Make the document look good, easily readable, and functional.
-	6. BONUS: save a plot from your model as an image.  Find a way to include that image as example output of your model.
+	5. Make a new markdown document explaining the script.  This markdown document should also be in the directory for Lab08.  This markdown document will be the metadata file that explains the script, the model it contains, what it does, and the specific data that were written to the data file.  Use headings, bulleted lists, and other capabilities of markdown as you see fit.  Make the document look good, easily readable, and functional.
+	6. BONUS 1: include a hyperlink in your markdown document that points to the source file for Lab
+	6. BONUS: save a plot from your model as an image.  Find a way to include that image in the rendered appearance of your metadata document.  The image should be contextualized as example output of your model.
 
 
 ### Completing the exercises above:
