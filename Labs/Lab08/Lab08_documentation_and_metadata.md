@@ -14,5 +14,8 @@
 	4. The axes of the figure should be properly labeled.
 	5. Make a new markdown document explaining the script.  This markdown document should also be in the directory for Lab08.  This markdown document will be the metadata file that explains the script, the model it contains, and the data that were written to the data file.  Use headings, bulleted lists, and other capabilities of markdown as you see fit.  Make the document look good, easily readable, and functional.
 	6. BONUS: save a plot from your model as an image.  Find a way to include that image as example output of your model.
-	
+
+
+### Completing the exercises above:
+Completing the above exercises and pushing your work to Github constitutes Assignment 08.  Please complete this by next Friday (i.e., before Lab 09).
 
