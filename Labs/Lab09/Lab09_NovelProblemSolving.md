@@ -1,4 +1,4 @@
-# Lab 09: Open-Ended Challenge
+# Lab 09: Novel Problem Solving
 
 ### Goals for this lab:
 * practice being resourceful to solve new challenges
