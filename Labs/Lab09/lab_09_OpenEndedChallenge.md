@@ -1,11 +1,11 @@
 # Lab 09: Open-Ended Challenge
 
-###Goals for this lab:
+### Goals for this lab:
 * practice being resourceful to solve new challenges
 * practice parsing input data and converting it to different data types
 * practice writing your own functions
   
-###Exercises:
+### Exercises:
 1. Update your clone of my CompBio_on_git repository.  (hint: git pull)
 2. Doing #1 should get you a copy of [the camera trap data file from Cusack et al](https://github.com/flaxmans/CompBio_on_git/blob/master/exampleData/Cusack_et_al/Cusack_et_al_random_versus_trail_camera_trap_data_Ruaha_2013_14.csv).  Open a new script in R/RStudio that starts with an import of these data.
 3. Figure out code to parse the "DateTime" data (i.e., the sixth column) so that the data in that column can be used to calculate time intervals between observations.    
