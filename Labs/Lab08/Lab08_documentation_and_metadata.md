@@ -1,10 +1,10 @@
 # Lab 08: Documentation and Metadata
 
-###Goals for this lab:
+### Goals for this lab:
 * practice creating metadata files for your work
 * practice using Markdown
 
-###Exercises:
+### Exercises:
 1. Complete the Markdown tutorial available at [http://www.markdowntutorial.com/](http://www.markdowntutorial.com/).  
 2. Re-write the README for your class repo in markdown.  If you don't have a markdown editor installed, I suggest you try [https://stackedit.io/editor](https://stackedit.io/editor).  Your new README file should have at least one heading, and some good descriptive text about the contents of the repo.  Note that your new README file should be in the top level directory of your repo (do NOT put it in a "Lab08" sub-directory, for example).   
 3. Recall [problem #2 from last week's lab](https://github.com/flaxmans/CompBio_on_git/blob/master/Labs/Lab07/Lab07_UserDefinedFunctions.md#problem-2): it asked you to write a function that could implement the discrete-time logistic growth model that did various things.
