@@ -105,7 +105,7 @@ ______________________________
 	+ take the [mid-semester course evaluation survey](https://docs.google.com/forms/d/e/1FAIpQLScUkAX1XGIzCAg8QPEHQ8NUATg9R0NbjfR5J84aPXiCLicjEw/viewform?usp=sf_link)
 
 ###### Week 10:
-+ More fun with de-bugging
++ Collaborative git
 + NO LAB THIS WEEK!
 
 
