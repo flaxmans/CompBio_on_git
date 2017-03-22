@@ -11,3 +11,14 @@ Disclaimer: I have **not** personally vetted every single bit of advice on these
 * [Dealing with merge conflicts](https://www.git-tower.com/learn/git/ebook/en/command-line/advanced-topics/merge-conflicts)  
 * The [difference between `git pull` and `git fetch`](https://www.git-tower.com/learn/git/faq/difference-between-git-fetch-git-pull)  
 
+#### Pull requests:
+* [A tutorial on pull requests](https://yangsu.github.io/pull-request-tutorial/)
+* Github Help Pages: 
+	* [About pull requests](https://help.github.com/articles/about-pull-requests/)
+	* [Creating a pull request](https://help.github.com/articles/creating-a-pull-request/)
+	
+
+
+
+
+
