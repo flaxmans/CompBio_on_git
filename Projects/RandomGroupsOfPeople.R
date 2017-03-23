@@ -1,12 +1,12 @@
-# pair up students at random!
+# make groups of people at random from a list of names
 
-pairStudentsRandomly <- function( filename = "~/Documents/Teaching/Computational_Biology/Students.csv", mingroupsize = 2 ) {
+groupPeopleRandomly <- function( filename = "~/Documents/Teaching/Computational_Biology/Students.csv", mingroupsize = 2 ) {
   classList <- read.csv( filename ) #assumes a list of names as a column with a header
-  classnames <- as.character(classList[[1]]) # extract names as vector
+  classnames <- as.character(classList[[1]]) # extract names as character vector
   
-  nstudents <- length(classnames)
+  nstudents <- length(classnames) # determine number of people
   
-  randomorder <- sample( classnames, size = nstudents, replace = F )
+  randomorder <- sample( classnames, size = nstudents, replace = F ) # create a random ordering
   
   ngroups <- floor( nstudents/mingroupsize ) # number of working groups
   groupsize <- floor( nstudents / ngroups ) # in case the group size needs to be increased 
@@ -16,18 +16,25 @@ pairStudentsRandomly <- function( filename = "~/Documents/Teaching/Computational
   
   count <- 1
   for ( i in 1:ngroups ) {
+    # make groups one at a time
+    cat(paste("Group #", i, ":\t", sep = ""))
     for ( j in 1:groupsize ){
-      cat(paste(randomorder[count], "\t\t", sep = ""))
-      count <- count + 1
+      # add people one at a time
+      if ( j >1 ) {
+        cat(", ") # make it easy to read
+      }
+      cat(randomorder[count])
+      # we can do this in order because that order was already randomized
+      count <- count + 1 # increment counter
     }
     if ( i <= numextra ) {
-      cat(paste(randomorder[count], "\t\t"))
+      # add one extra person as needed so that everyone has a group
+      cat(paste(",", randomorder[count]))
       count <- count + 1
     }
     cat("\n")
   }
   return(randomorder)
-
 }
 
-myorder <- pairStudentsRandomly()
+myorder <- groupPeopleRandomly()
