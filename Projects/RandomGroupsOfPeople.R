@@ -1,10 +1,13 @@
 # make groups of people at random from a list of names
 
 groupPeopleRandomly <- function( filename = "~/Documents/Teaching/Computational_Biology/Students.csv", 
-      mingroupsize = 2, returnlist = T ) {
-  classList <- read.csv( filename ) #assumes a list of names as a column with a header
-  classnames <- as.character(classList[[1]]) # extract names as character vector
-  
+                                 usefile = T, mingroupsize = 2, returnlist = T ) {
+  if ( usefile ) {
+    classList <- read.csv( filename ) #assumes a list of names as a column with a header
+    classnames <- as.character(classList[[1]]) # extract names as character vector
+  } else { # assumes that we passed in a character vector rather than reading a file
+    classnames <- filename
+  }
   nstudents <- length(classnames) # determine number of people
   
   randomorder <- sample( classnames, size = nstudents, replace = F ) # create a random ordering
@@ -59,4 +62,4 @@ charVecToList <- function( groupings = allGroupings, mysep = ", " ) {
 }
 
 allGroupings <- groupPeopleRandomly()
-#allGroupings <- groupPeopleRandomly(mingroupsize = 3)
+allGroupings <- groupPeopleRandomly(mingroupsize = 3)
