@@ -1,5 +1,5 @@
-#Lab 06: Finish up from last week###InstructionsPlease finish and push your work from [last week's lab (Lab 05)](https://github.com/flaxmans/CompBio_on_git/blob/master/Labs/Lab05/lab_05_LoopsAndConditionals.md) if you have not done so already.
-###FOR THOSE WHO ARE ALREADY DONE WITH LAB 05:
+# Lab 06: Finish up from last week### InstructionsPlease finish and push your work from [last week's lab (Lab 05)](https://github.com/flaxmans/CompBio_on_git/blob/master/Labs/Lab05/lab_05_LoopsAndConditionals.md) if you have not done so already.
+### FOR THOSE WHO ARE ALREADY DONE WITH LAB 05:
 I'm interested in crowd-sourcing some ideas and problems that seem relevant and interesting to YOU.  The following is an optional exercise but one that I sincerely hope you will choose to do!  
 1. Please find a data set of some type that interests you.  It could be one of your own or one that someone else published.  If it is one of your own, make sure it is something you are willing to share.  If it is one that someone else published, please be sure to record all necessary information for attribution.
 2. The data set should be in some kind of plain text format, i.e., you should be able to read it in any text editor.

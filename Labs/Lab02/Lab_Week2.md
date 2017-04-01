@@ -9,12 +9,12 @@
 ## *Steps for this lab*:
 
 
-###I. A Github.com account
+### I. A Github.com account
 Make an account on Gitbhub.com if you have not done so already
 
 <hr>
 
-###II. Working in the Terminal to set up your git config file:
+### II. Working in the Terminal to set up your git config file:
 In your terminal, you need to configure your git user account with the following commands: 
  
 	git config --global user.email "you@email.com"
@@ -24,7 +24,7 @@ In your terminal, you need to configure your git user account with the following
 
 <hr>
 
-###III. Working in your terminal to set up a git repo for YOUR assignments and labs in this class
+### III. Working in your terminal to set up a git repo for YOUR assignments and labs in this class
 **NOTE:** This is not for the stuff Sam puts on Github, but rather the stuff YOU create.  Please make sure that this directory is NOT a child (subdirectory) of any other existing git repo.
 
 1. In your terminal, navigate (using `cd`) to whatever directory you want to use to store things for this class that will go on Github
@@ -44,7 +44,7 @@ In your terminal, you need to configure your git user account with the following
 
 <hr>
 
-###IV. Set up a repo for this class on Github.com
+### IV. Set up a repo for this class on Github.com
 1. Start a new project (i.e., a new repository).  Depending upon where you are, you might see a button to do this, or you might need to click on the "+" sign in the upper-right-hand corner of the github page.
 2. Name the new repository CompBioLabsAndHomework
 3. Do NOT initialize this repository with any files
@@ -53,7 +53,7 @@ In your terminal, you need to configure your git user account with the following
 
 <hr>
 
-###V. Linking your local .git repository to Github.com, and pushing your commits
+### V. Linking your local .git repository to Github.com, and pushing your commits
 1. Return to your terminal and make sure you are still in the local CompBioLabsAndHomework on your computer
 2. Designate the "remote" (i.e., online) repo with  
 	`git remote add origin url`,  
@@ -66,7 +66,7 @@ In your terminal, you need to configure your git user account with the following
 
 <hr>
 
-###VI. Documentation
+### VI. Documentation
 Best practices dictate that repositories have easy-to-read descriptions that help people know the purpose.  This is called a README file.
     
 1. In your Terminal, navigate to CompBioLabsAndHomework. 
@@ -77,5 +77,5 @@ Best practices dictate that repositories have easy-to-read descriptions that hel
 
 <hr>
 
-###VII. Examining the work you have done
+### VII. Examining the work you have done
 In your terminal, use `git log` and `git diff HEAD~N filename` to review the changes you have made during your work in your local repo.  If you are feeling brave, try `git checkout HEAD~N filename` to look at previous versions of the cookie recipe. 
