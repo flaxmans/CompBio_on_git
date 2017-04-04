@@ -108,15 +108,27 @@ ______________________________
 + Collaborative git
 + NO LAB THIS WEEK!
 
+### Spring Break
+
+###### Week 11:
++ Final projects announced [(Assignment 10)][Assign10link]
++ More collaborative git
+
+###### Week 12:
++ TBA
+
+###### Week 13:
++ TUESDAY: You will present your work from [Assignment 10][Assign10link]
 
 [lab08link]: https://github.com/flaxmans/CompBio_on_git/blob/master/Labs/Lab08/Lab08_documentation_and_metadata.md
 [lab09link]: https://github.com/flaxmans/CompBio_on_git/blob/master/Labs/Lab09/Lab09_NovelProblemSolving.md
+[Assign10link]: https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/10_independent_project_Step1.md
 
 _____________________________
 
-## Grading policies (Still under revision; to be finalized by 1/17/17)
+## Grading policies 
 This is a full, 3-credit course. You should expect to work as hard for these three credits as you do for any other advanced class.  Your final grade will be based upon a combination of (1) in-class participation, (2) formal assignments, (3) a semester-long independent project, (4) a take-home final examination, and (5) demonstrating enthusiasm and sincere effort for the material and the assignments.
-1. In-class participation will constitute 22.5% of your overall grade.  It will be based partially on attendance (you can’t participate without being there, right?), but mostly upon your work with others and your presentations to the class. Presentations to the class that fall in the participation category are “reporting out” exercises where you share the results of group work, sometimes at the front of the room using your own computer and/or the document camera.  Participation will also include discussions in class and demonstrations of your reasoning and problem solving (on paper and/or on your computer).  For most class periods, I will grade your participation on a scale from 0 to 5, with the approximate meanings of each as follows:  <br>0 = absent  <br>1 = showed up but did not engage; very unprepared; very late  <br>2 = late; engaged minimally; not fully prepared  <br>3 = on time and paid attention, but didn't participate  <br>4 = average preparation and participation  <br>5 = made an excellent contribution to the day's class2. Formal assignments and presentations will constitute 42.5% of your overall grade.  Assignments will include written homework problems, computer code, and written responses to readings and exercises.3. An independent project will be announced within the first few weeks of class. This project will constitute 15% of your overall grade. The project will be built from a series of assignments during the semester.  Those intermediate assignments will count toward "homework". 4. A take-home final examination will be given out on the day of our final designated by the University. You will have 24 hours to complete it.  It will be open-book, but you must work alone.  This exam will constitute 15% of your final grade.5. Enthusiasm. 5% of your grade will be based upon a subjective evaluation (by me) of your general enthusiasm and effort for participating in all aspects of the course.  This not only includes your attitude toward class participation, but also things like really cleaning up your code nicely, polishing the work you show/turn in, etc.
+1. In-class participation will constitute 22.5% of your overall grade.  It will be based partially on attendance (you can’t participate without being there, right?), but mostly upon your work with others and your presentations to the class. Presentations to the class that fall in the participation category are “reporting out” exercises where you share the results of group work, sometimes at the front of the room using your own computer and/or the document camera.  Participation will also include discussions in class and demonstrations of your reasoning and problem solving (on paper and/or on your computer).  For most class periods, I will grade your participation on a scale from 0 to 5, with the approximate meanings of each as follows:  <br>0 = absent  <br>1 = showed up but did not engage; very unprepared; very late  <br>2 = late; engaged minimally; not fully prepared  <br>3 = on time and paid attention, but didn't participate  <br>4 = average preparation and participation  <br>5 = made an excellent contribution to the day's class2. Formal assignments and presentations will constitute 42.5% of your overall grade.  Assignments will include written homework problems, computer code, and written responses to readings and exercises.3. An independent project will be announced within the first few weeks of class. This project will constitute 15% of your overall grade. The project will be built from a series of assignments during the semester.4. A take-home final examination will be given out on the day of our final designated by the University. You will have 24 hours to complete it.  It will be open-book, but you must work alone.  This exam will constitute 15% of your final grade.5. Enthusiasm. 5% of your grade will be based upon a subjective evaluation (by me) of your general enthusiasm and effort for participating in all aspects of the course.  This not only includes your attitude toward class participation, but also things like really cleaning up your code nicely, polishing the work you show/turn in, etc.
 
 
 
