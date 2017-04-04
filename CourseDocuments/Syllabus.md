@@ -113,6 +113,10 @@ ______________________________
 ###### Week 11:
 + Final projects announced [(Assignment 10)][Assign10link]
 + More collaborative git
++ Stochastic modeling
++ Action items for you:
+	+ [Assignment 10][Assign10link]
+	+ Reading: "OttoDay_Primer3.pdf", found in D2L "readings" folder
 
 ###### Week 12:
 + TBA
