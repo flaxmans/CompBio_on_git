@@ -16,8 +16,8 @@ For the independent project, the eventual goal will be for you to define and sol
 		2. size?  
 		3. any inconsistencies in the data files?  anything that looks problematic?
 5. **Now for the meat of the project**: Define and describe an analysis that YOU want to do with the data.  This could be (i) repeating an analysis from the paper (as long as the authors did NOT give code that you are simply re-running ;-) ), (ii) doing something new that the authors didn't do, or (iii) a combination of the two.  The challenge you define for yourself should indeed be something you expect to be *challenging*.  For example: "Import the data and calculate the mean of each variable" would **NOT** be a sufficient challenge.  This is supposed to be *project* that will require you to do some creative coding, not an easy few lines of code.
-6. **For completion of this assignemnt (Assignment 10), you will need to do two things**:  
-	a. Write a markdown document that contains items #4 and #5 above. Push this document to a folder in your class Github repo called "FinalProject". The markdown document should contain all the information requested above.  It should also contain the full citations of the original publication and the data archive.  The full citation sshould contain working hyperlinks.  
+6. **For completion of this assignment (Assignment 10), you will need to do two things**:  
+	a. Write a markdown document that contains items #4 and #5 above. Push this document to a folder in your class Github repo called "FinalProject". The markdown document should contain all the information requested above.  It should also contain the full citations of the original publication and the data archive.  The full citation should contain working hyperlinks.  
 	b. Create a 5-minute PowerPoint presentation that you will deliver to the class on Tuesday, 4/18.  For ease of presentation smoothness, your presentation MUST be emailed to Sam by 11:59 p.m. on Monday, 4/17.
 	
 ### DUE DATE: Monday, 4/17, 11:59 p.m.
