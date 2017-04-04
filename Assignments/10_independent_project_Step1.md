@@ -1,6 +1,6 @@
 # Assignment 10
 ## Independent Project, Step 1: 
-###Define your challenge and describe it to all of us
+### Define your challenge and describe it to all of us
 
 
 For the independent project, the eventual goal will be for you to define and solve your own data challenge.  This first assignment will ask you to define the challenge (but not solve it yet).
@@ -28,10 +28,10 @@ For the independent project, the eventual goal will be for you to define and sol
 Start early!  Email Sam if you run into trouble.  Aim to have your data set picked out by this Friday!
 
 #### Note about grading:
-The syllabus noted that, 
+The [syllabus](https://github.com/flaxmans/CompBio_on_git/blob/master/CourseDocuments/Syllabus.md#grading-policies) notes that 
 >... An independent project will ... constitute 15% of your overall grade. The project will be built from a series of assignments during the semester.    
 
-This Assignment is part of that 15% (contrary to the initial draft of the syllabus).
+This Assignment is part of that 15% (contrary to what the initial draft of the syllabus said about this counting toward the Homework grades).
 
 
 [dryad]: DataDryad.org
