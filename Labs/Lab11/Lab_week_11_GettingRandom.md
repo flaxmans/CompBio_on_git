@@ -33,15 +33,15 @@ For the following three problems, suppose that the probability of getting the fl
 
 **A3.** In the same R script, write a line of code that would simulate the number of people who get the flu in a sample of 20 *un*vaccinated people.
 
-**A4.** Continuing in your script, write lines of code that would create 30 replicates of A2 stored in variable, 30 replicates of A3 stored in a variable, and make frequency histograms of the outcomes of each.  Hint: this should only take 4 lines of code total.  Hint: use `hist()`.  Comparing these two histograms, does anything surprise you about them?  
+**A4.** Continuing in your script, write lines of code that would create 30 replicates of the scenario described above in A2, 30 replicates of A3, and make frequency histograms of the outcomes of each.  Hint: this should only take 4 lines of code total.  Hint: use `hist()`.  Comparing these two histograms, does anything surprise you about them?  
 
-**A5.** Suppose you have a population of `N = 500` individuals with a fixed size in each generation, and generations are non-overlapping.  Suppose further that individuals are haploid, and that, at a given locus, there are two alleles.  At some initial time point, one allele is present in 275 (55%) of the individuals, and thus the other allele is present in 45% of the individuals.  Let's call the more common allele _a_ and the less common allele _b_.  Assuing that the two alleles are neutral, simulate going forward one generation in time.  What is the frequency of the _a_ allele in the next generation in your results?
+**A5.** Suppose you have a population of `N = 500` individuals with a fixed size in each generation, and generations are non-overlapping.  Suppose further that individuals are haploid, and that, at a given (focal) locus, there are two alleles currently in the population.  At some initial time point, one allele is present in 275 (55%) of the individuals, and thus the other allele is present in 45% of the individuals.  Let's call the more common allele _a_ and the less common allele _b_.  Assuing that the two alleles are neutral, simulate going forward one generation in time.  What is the frequency of the _a_ allele in the next generation in your results?
 
 **A6.** Using the information given in problem A5, start from the same initial conditions, but go forward 1000 generations.  Hint: the `prob` parameter must be updated in each generation. Hint: this will require a loop.
 
 **A7.** Plot your results from step A6. (x-axis = generations, y-axis = frequency of _a_ allele)
 
-**A8.** Write additional code to create 100 replicates of the simulation in A6. Using the results from your 100 replicates, write code to (i) plot all 100 replicates on one figure, (ii) determine how many replicates ended with the _a_ allele fixed, (iii) determine how many replicates ended with the _b_ allele fixed, and (iv) determine how many replicates ended with both alleles still present in the population.
+**A8.** Write additional code to create 100 replicates of the simulation in A6. Using the results from your 100 replicates, write code to (i) plot 10 replicates on one figure, (ii) determine how many replicates ended with the _a_ allele fixed, (iii) determine how many replicates ended with the _b_ allele fixed, and (iv) determine how many replicates ended with both alleles still present in the population.
 
 <hr>
 
