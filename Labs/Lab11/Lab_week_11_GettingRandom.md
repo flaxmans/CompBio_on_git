@@ -59,7 +59,7 @@ Assuming `x` is a vector, you can sample from it with or without replacement (de
 
 **B3.** Use `sample()` to simulate 14 rolls of a biased six-sided die for which the probability of rolling a "6" is twice the probability of rolling any other number.  Make a histogram of the results.
 
-**B4.** Write a function that randomly re-orders the rows of a matrix.  In other words, the function should preserve the integrity of rows, but randomize their top-to-bottom placement in the matrix.  For the purposes of testing your function, I created a data file called "[testMatrix.csv]()" in the Lab11 folder.
+**B4.** Write a function that randomly re-orders the rows of a matrix.  In other words, the function should preserve the integrity of rows, but randomize their top-to-bottom placement in the matrix.  For the purposes of testing your function, I created a data file called "[testMatrix.csv](https://github.com/flaxmans/CompBio_on_git/blob/master/Labs/Lab11/testMatrix.csv)" in the [Lab11 folder](https://github.com/flaxmans/CompBio_on_git/tree/master/Labs/Lab11).
 
 
 
