@@ -25,9 +25,9 @@ And you could simulate 8 replicates of flipping a coin 10 times with the followi
 
 	rbinom(n = 8, size = 10, prob = 0.5) # simulating 10 coin flips (8 times)
 
-**A1.** Try each of these two commands (above) in your console and see what you get
+**A1.** Try each of these two commands (above) in your console and see what you get. Make sure your understand the output of the command and what it represents before you move on.
 
-For the following three problems, suppose that the probability of getting the flu is 40% if you do NOT get the flu vaccine, and 15% if you do get the vaccine. 
+**For the following _three_ problems**, suppose that the probability of getting the flu is 40% if you do NOT get the flu vaccine, and 15% if you do get the vaccine. 
 
 **A2.** In an R script, write a line of code that would simulate the number of people who get the flu in a sample of 20 vaccinated people.
 
