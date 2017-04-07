@@ -1,5 +1,7 @@
 # Lab 11: Generating Pseudo-Random Numbers and Samples
 
+![pink kitty cat dancing on rainbows](https://s-media-cache-ak0.pinimg.com/564x/06/12/6e/06126ee4f98e19db24e3c54135fcae23.jpg)
+
 ### Goals for this lab:
 1. Practice using tools in R for generating random numbers and random samples
 2. Incorporate some of these tools into simple biological models
@@ -61,6 +63,9 @@ Assuming `x` is a vector, you can sample from it with or without replacement (de
 
 **B4.** Write a function that randomly re-orders the rows of a matrix.  In other words, the function should preserve the integrity of rows, but randomize their top-to-bottom placement in the matrix.  For the purposes of testing your function, I created a data file called "[testMatrix.csv](https://github.com/flaxmans/CompBio_on_git/blob/master/Labs/Lab11/testMatrix.csv)" in the [Lab11 folder](https://github.com/flaxmans/CompBio_on_git/tree/master/Labs/Lab11).
 
+<hr>
+
+Completing this lab is NOT homework, since you already have enough homework to do for Assignment 10.
 
 
 
