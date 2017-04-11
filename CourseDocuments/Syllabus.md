@@ -117,9 +117,14 @@ ______________________________
 + Action items for you:
 	+ [Assignment 10][Assign10link]
 	+ Reading: "OttoDay_Primer3.pdf", found in D2L "readings" folder
++ Lab for week 11: [Generating pseudo-random numbers and samples][lab11link]
 
 ###### Week 12:
-+ TBA
++ Stochastic problems continued
++ Figuring out probability distributions
++ Action items for you (same as last week):
+	+ [Assignment 10][Assign10link]
+	+ Reading: "OttoDay_Primer3.pdf", found in D2L "readings" folder
 
 ###### Week 13:
 + TUESDAY: You will present your work from [Assignment 10][Assign10link]
@@ -127,6 +132,7 @@ ______________________________
 [lab08link]: https://github.com/flaxmans/CompBio_on_git/blob/master/Labs/Lab08/Lab08_documentation_and_metadata.md
 [lab09link]: https://github.com/flaxmans/CompBio_on_git/blob/master/Labs/Lab09/Lab09_NovelProblemSolving.md
 [Assign10link]: https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/10_independent_project_Step1.md
+[lab11link]: https://github.com/flaxmans/CompBio_on_git/blob/master/Labs/Lab11/Lab_week_11_GettingRandom.md
 
 _____________________________
 
