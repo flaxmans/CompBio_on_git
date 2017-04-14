@@ -2,7 +2,11 @@
 
 ### More fun with stochastic problems and probability
 
+#### Follow-up corrected version of graph from lecture:
 ![a plot of the probability of observing q or fewer males in a sample of 48 offspring as q is varied from 0 to 48](BiasedSexRatio.jpeg)
+
+#### And because no lab is complete without some kind of nerdy cat joke:
+![stochastic cat made on a graph](http://www-users.math.umn.edu/~jwcalder/summaries/homogenization/cat.jpg)
 
 #### Goals for this week:
 
@@ -49,7 +53,10 @@ This function should call the function you wrote for A1 and store the returned d
 (ii) Based upon your numerical results, estimate the probability that a population characterized by the default parameters would go extinct within 25 generations.  
 (iii) Based upon your numerical results, estimate the probability that a population would have an abundance of half of its carrying capacity or more at the end of 100 generations.  
 (iv) Using your numerical results, estimate the 95% confidence interval for the population at each time step. Note that this means finding the 2.5% and 97.5% quantiles.  Hint: check out the `quantile()` function.  
-(v) Overlay lines representing those quantiles on the plot from part (i) of this problem.  
+(v) Overlay lines representing those quantiles on the plot from part (i) of this problem. 
+
+###### 8. Fun challenge: 
+Using the data produced from exercise 6, write code to filter out the replicates that ended in extinction (i.e., keep the data that had positive populations at the end).  Then, re-plot the same quantities as you calculated and plotted in exercise 7, but now with the filtered data set.
 
 
 
