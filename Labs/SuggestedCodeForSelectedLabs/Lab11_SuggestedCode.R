@@ -101,7 +101,7 @@ hist(rolls, breaks = seq(0.5,6.5, 1))
 rolls <- sample(x = die, size = 14, replace = T, prob = c(rep(1/7, 5), 2/7) )
 hist(rolls, breaks = seq(0.5,6.5, 1))
 
-# B4: randomy re-arrange the rows of a matrix
+# B4: randomly re-arrange the rows of a matrix
 reorderRows <- function( myMat ) {
   nr <- nrow(myMat)
   newOrder <- sample(1:nr)
