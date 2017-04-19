@@ -125,15 +125,25 @@ ______________________________
 + Action items for you (same as last week):
 	+ [Assignment 10][Assign10link]
 	+ Reading: "OttoDay_Primer3.pdf", found in D2L "readings" folder
++ Lab for week 12: [Stochastic problems and probability][lab12link]
 
 ###### Week 13:
 + TUESDAY: You will present your work from [Assignment 10][Assign10link]
++ Thursday: remaining presentations
++ [Assignment 11][Assign11Link] (final project, step 2) will be announced and expectations for it will be discussed.
++ Lab in week 13: 
 
 [lab08link]: https://github.com/flaxmans/CompBio_on_git/blob/master/Labs/Lab08/Lab08_documentation_and_metadata.md
+
 [lab09link]: https://github.com/flaxmans/CompBio_on_git/blob/master/Labs/Lab09/Lab09_NovelProblemSolving.md
+
 [Assign10link]: https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/10_independent_project_Step1.md
+
 [lab11link]: https://github.com/flaxmans/CompBio_on_git/blob/master/Labs/Lab11/Lab_week_11_GettingRandom.md
 
+[lab12link]: https://github.com/flaxmans/CompBio_on_git/blob/master/Labs/Lab12/lab_for_week_12.md
+
+[Assign11link]:
 _____________________________
 
 ## Grading policies 
