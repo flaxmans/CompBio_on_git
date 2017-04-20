@@ -6,15 +6,15 @@
 
 ___
 
-##### The goal of this assignment is to complete the project you outlined in [Assignment 10](https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/10_independent_project_Step1.md) in a fully reproducible way.
+### The goal of this assignment is to complete the project you outlined in [Assignment 10](https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/10_independent_project_Step1.md) in a fully reproducible way.
 This means that I should be able to clone your repository, run your script(s), and get exactly the same results as you got with no error messages.
 
-Completing Assignment 11 will require pushing a minimum of four files to your Github repo for this class:
+Completing Assignment 11 will require pushing a minimum of four files to an "Assignment11" directory in your Github repo for this class:
 
-1. Any data file(s) you used,
-2. A script of all the code you used to filter, parse, analyze, and visualize the data, and
-3. A markdown document describing what you did (see "[suggested format and organization](#ExampleLayout)", below).
-4. Any image file(s) that is a visualization(s) of the results produced by your script.
+1. Any data file(s) you used,  
+2. A script of all the code you used to filter, parse, analyze, and visualize the data,  
+3. A markdown document describing what you did (see "[suggested format and organization](#ExampleLayout)", below), and  
+4. An image file(s) that is a visualization(s) of the results produced by your script.
 
 The data file(s) should be the raw data as you obtained them.  The script should include the parsing/formatting of the raw data AND the steps you took with those data to arrive at your results.  The markdown document should explain it all (see "[suggested format and organization](#ExampleLayout)", below).
 
@@ -32,12 +32,15 @@ Your grade on Assignment 11 will be out of a total of 36 available points.  The 
 ____
 
 
-<a name="ExampleLayout"/>
-## Suggested format and organization </a> for your markdown document for this assignment:
+<h2 id="ExampleLayout"> 
+Suggested format and organization for your markdown document for this assignment:</h2>
+  
+<br>  
+<br>  
   
  
   
-# My Title
+# Your Title
 
 ### Biological question
 This question should be stated as a question that can be understood independently of knowing about the specific dataset that is being used to address it.
@@ -46,17 +49,17 @@ This question should be stated as a question that can be understood independentl
 This should help a naive reader make sense of what to expect and why it is interesting. It should make sense even before the reader reads the Methods. 
 
 ### Methods
-##### The source of my data:
-The data I used to study this question came from _________ (give FULL citations with working hyperlinks for the original publication AND the data package, if applicable).
+##### The source of the data:
+The data you used to study this question came from whom?  (Give FULL citations with working hyperlinks for the original publication AND the data package, if applicable).
 
 Give a description (one or two paragraphs) of how the data were produced.
 
-Give a description of the 
+Give a description of the size and nature of the data.
 
 ##### What the original authors did with the data:
 About 1 - 2 paragraphs of explanation.
 
-##### What _I_ did with the data and how I did it:
+##### What _YOU_ did with the data and how you did it:
 Verbally describe what your approach was and how you achieved it.  You don't need to include code here; rather, the goal is to give the reader an idea of what your code does and why and how it does it.  Don't give the results.
 
 ### Results and conclusions
