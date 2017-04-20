@@ -50,20 +50,20 @@ This should help a naive reader make sense of what to expect and why it is inter
 
 ### Methods
 ##### The source of the data:
-The data you used to study this question came from whom?  (Give FULL citations with working hyperlinks for the original publication AND the data package, if applicable).
+Describe the data you used to study your question and its origins.  (Give FULL citations with working hyperlinks for the original publication AND the data package, if applicable).
 
 Give a description (one or two paragraphs) of how the data were produced.
 
-Give a description of the size and nature of the data.
+Give a description of the size and nature of the data.  Feel free to comment on any special challenges presented by any aspect of the data.
 
 ##### What the original authors did with the data:
-About 1 - 2 paragraphs of explanation.
+Give about 1 - 2 paragraphs of explanation.
 
 ##### What _YOU_ did with the data and how you did it:
-Verbally describe what your approach was and how you achieved it.  You don't need to include code here; rather, the goal is to give the reader an idea of what your code does and why and how it does it.  Don't give the results.
+Verbally describe what your approach was and how you achieved it.  You don't need to include code here; rather, the goal is to give the reader an idea of what your code does and why and how it does it.  Don't give the results here, though.  Throughout this section, strive to be crystal clear about which things the original authors did and which things you did.  Saying "this study" is ambiguous in that regard, so make it clear.
 
 ### Results and conclusions
-What did you find?  How does this relate to your question?  Include at least one figure.
+What did you find?  How does this relate to your question?  Include at least one visualization.
 
 
 
