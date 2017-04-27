@@ -15,8 +15,8 @@ stochLog <- function(r = 0.1, k = 100, n0 = 10, gens = 100){
 
 # 2. make some example plots:
 par(mfrow = c(2,2)) # 2 x 2 grid of plots
+gens <- 100
 for ( i in 1:4 ) {
-  gens <- 100
   n <- stochLog(gens = gens)
   plot(1:gens, n, type = "l", xlab = "generation", ylab = "abundance", ylim = c(0,160))
 }
@@ -83,6 +83,7 @@ system.time(allReps <- repStochLog(r = r, k = k, n0 = n0, gens = gens, nreps = n
 # 7(i) Calculate and plot the mean abundance over time
 # I did a search for a function that would do all columns at once:
 meanAbund <- colMeans(allReps)
+par(mfrow = c(1,1))
 plot(1:gens, meanAbund, xlab = "generation", ylab = "mean abundance",
      type = "l", col = "red", ylim = c(0, 1.5*k))
 # add a reference line at carrying capacity, just for fun:
@@ -113,6 +114,48 @@ lines(1:gens, quants[2,], lty = 3, col = "blue")
 for ( i in 1:gens ) {
   quants[,i] <- quantile(x = allReps[,i], probs = c(0.25,0.75))
 }
-lines(1:gens, quants[1,], lty = 3, col = "green")
-lines(1:gens, quants[2,], lty = 3, col = "green")
+lines(1:gens, quants[1,], lty = 3, col = "green", lwd = 2)
+lines(1:gens, quants[2,], lty = 3, col = "green", lwd = 2)
 
+
+# 8.  Repeat # 7 with the extinctions filtered out
+# first, get indexes of reps that did NOT end in extinction:
+notExtinctReps <- allReps[,gens] > 0
+# just curious: how many NOT extinct:
+nReduced <- sum(notExtinctReps) # shows 833 from my working set of runs
+# now filter the data:
+reducedData <- allReps[notExtinctReps, ]
+
+# 8(i)
+meanAbund <- colMeans(reducedData)
+par(mfrow = c(1,1))
+plot(1:gens, meanAbund, xlab = "generation", ylab = "mean abundance",
+     type = "l", col = "red", ylim = c(0, 1.5*k))
+# add a reference line at carrying capacity, just for fun:
+abline(h = k, lty = 2)
+# Comment on results: 
+
+# Note: part (ii) of 7 is not applicable
+
+# 8(iii) probability that a population would have an abundance of half of its carrying 
+# capacity or more at the end of 100 generations:
+pHalfOrMoreOfK <- sum(reducedData[,gens] >= (k/2)) / nreps
+pHalfOrMoreOfK # about 78% in my results
+# 7(iv) estimated 95% confidence interval for the population at each time step:
+probs <- c(0.025, 0.975)
+# make a place to store all the quantiles:
+quants <- matrix(nrow = length(probs), ncol = gens)
+# use a loop since quantile() works on vectors (not matrices)
+for ( i in 1:gens ) {
+  quants[,i] <- quantile(x = reducedData[,i], probs = probs)
+}
+# the first row of "quants" is the 2.5% quantile
+# the second row of "quants is the 97.5% quantile
+lines(1:gens, quants[1,], lty = 3, col = "blue")
+lines(1:gens, quants[2,], lty = 3, col = "blue")
+# for fun, let's do the interquartile range, i.e., 25% and 75% quantiles:
+for ( i in 1:gens ) {
+  quants[,i] <- quantile(x = reducedData[,i], probs = c(0.25,0.75))
+}
+lines(1:gens, quants[1,], lty = 3, col = "green", lwd = 2)
+lines(1:gens, quants[2,], lty = 3, col = "green", lwd = 2)
