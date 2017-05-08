@@ -29,7 +29,7 @@ Office Phone: 303-492-7184
 ______________________________
 
 ## Week-by-Week Agenda  
-(subject to change and frequent updating)
+(subject to change and frequent updating; note that accompanying PowerPoint files are available at a [Dropbox folder][dropboxlink])
 
 ###### Week 1: 
 + Topics
@@ -162,6 +162,8 @@ The exam will be available starting at 7:00 a.m. on Sunday, May 7th, and your an
 [lab12link]: https://github.com/flaxmans/CompBio_on_git/blob/master/Labs/Lab12/lab_for_week_12.md
 
 [Assign11link]: https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/11_FinalProject_Step2.md  
+
+[dropboxlink]: https://www.dropbox.com/sh/dd7mpvmbdgyenoo/AAAgi560clFs7_H_XG69by60a?dl=0&lst=
 
 _____________________________
 

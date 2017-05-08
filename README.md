@@ -11,5 +11,6 @@ Accessibility:  I am committed to making materials as accessible as possible for
 Some guidance about what you will find here:
 
 * For the *SYLLABUS*, look in "Course Documents" or just click [here](https://github.com/flaxmans/CompBio_on_git/blob/master/CourseDocuments/Syllabus.md)
-* For assigned *READINGS* and any *POWERPOINT LECTURE SLIDES*, you will have to visit the course's D2L site
+* For assigned *READINGS*, you will have to visit the course's D2L site (because of copyright protections on some readings)
+* For *POWERPOINT LECTURE SLIDES*, please visit [this Dropbox folder](https://www.dropbox.com/sh/dd7mpvmbdgyenoo/AAAgi560clFs7_H_XG69by60a?dl=0&lst=)
 
