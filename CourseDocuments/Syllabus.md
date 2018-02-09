@@ -25,6 +25,7 @@ ______________________________
 
 
 Email Sam: <samuel.flaxman@colorado.edu>
+
 Office Phone: 303-492-7184
 ______________________________
 
@@ -38,11 +39,11 @@ ______________________________
 	+ Logistics of course
 	+ Pitfalls of computing: case in point: don't use Excel (see paper by Ziemann et al. 2016)
 	+ UNIX Command Line  
-<br>
+
 + Action Items required of YOU:
 	+ **[Assignment 01](https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/01_Day1_SoftwareInstalls.md) announced on first day of class and due on 1/19!**
 	+ **If you are new to UNIX**, then please visit [this tutorial](http://linuxcommand.org/lc3_learning_the_shell.php) and read through that page AND items numbered 1-5 near the bottom of that page.  
-<br>
+
 + Lab week 1: Doing stuff with the UNIX command line
 	
 ###### Week 2:
@@ -143,7 +144,6 @@ ______________________________
 
 ###### Week 15:
 + Finish differential equations
-+ **NOTE**: Sam will be out of town 5/3 - 5/7 for a wedding.  Hence, there will be **no class on 5/4 or 5/5**.  Please use the time to polish up your independent projects [(Assignment 11)][Assign11Link]
 + Action items for you: [Your final project (= Assignment 11)][Assign11Link] is due by 11:59 p.m. on Friday!
 
 
