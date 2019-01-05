@@ -13,7 +13,7 @@ This course's main learning goals are for students to:
 
 
 #### What the course is not:
-This course is intended to give you tools that should help you in other courses focused on topics like "genomics," "bioinformatics," and "statistics," but this is NOT a course that will teach you those subject areas in depth.
+This course is intended to give you tools that should help you in other courses focused on topics like "genomics," "bioinformatics," and "statistics," but this is NOT a course that will teach you those subject areas.
 ______________________________
 
 ## Logistics and Contact Info
@@ -41,8 +41,8 @@ ______________________________
 	+ UNIX Command Line  
 
 + Action Items required of YOU:
-	+ **[Assignment 01](https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/01_Day1_SoftwareInstalls.md) announced on first day of class and due on 1/19!**
-	+ **If you are new to UNIX**, then please visit [this tutorial](http://linuxcommand.org/lc3_learning_the_shell.php) and read through that page AND items numbered 1-5 near the bottom of that page.  
+	+ **[Assignment 01](https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/01_Day1_SoftwareInstalls.md) announced on first day of class and due on 1/18!**
+	+ **Please visit [this tutorial](http://linuxcommand.org/lc3_learning_the_shell.php)** and read through that page **AND items numbered 1-5 near the bottom of that page**.  
 
 + Lab week 1: Doing stuff with the UNIX command line
 	
@@ -186,9 +186,9 @@ This is a full, 3-credit course. You should expect to work as hard for these thr
 
 5. Enthusiasm. 5% of your grade will be based upon a subjective evaluation (by me) of your general enthusiasm and effort for participating in all aspects of the course.  This not only includes your attitude toward class participation, but also things like really cleaning up your code nicely, polishing the work you show/turn in, etc.
 
+Please note that all grades will be posted on the Course's [Canvas site][CanvasSiteLink]
 
-
-
+[CanvasSiteLink]: https://cuboulder.instructure.com/courses/25233
 _____________________________
 
 ## Statements about General Policies and Expected Conduct of Students, Faculty, and Staff
