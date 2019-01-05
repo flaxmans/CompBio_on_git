@@ -1,5 +1,7 @@
 # Syllabus and Course Policies for EBIO 4420/5420 Computational Biology
 
+**STUDENTS:** Contents of this repository will change often during the semester.  Please check  back at least weekly ("pull" updates).
+
 ## Aims and Scope
 This is a course for scientists who want to learn basic tools of modern computing.  Students with in-depth experience in computer science will probably NOT find sufficient challenge from this course.
 
@@ -147,7 +149,7 @@ ______________________________
 + Action items for you: [Your final project (= Assignment 11)][Assign11Link] is due by 11:59 p.m. on Friday!
 
 
-###### FINAL EXAM: SUNDAY MAY 7th.
+###### FINAL EXAM: Date as specified by University scheduling.
 The exam will be available starting at 7:00 a.m. on Sunday, May 7th, and your answers must be emailed to Sam by 11:59 p.m. on that day.  This is a **take home exam**. 
 
 
