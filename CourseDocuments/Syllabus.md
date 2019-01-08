@@ -79,7 +79,6 @@ ______________________________
 
 ###### Week 6:
 + Review of conditionals (if statements and logical tests) and indexing
-+ **NOTE: Special class on Thursday, 2/23:**  As part of [Diverse Learners Awareness Week](http://www.colorado.edu/diverselearners/), we will participate in a "Diversity and Inclusion Dialogue".  **On 2/23, we will meet for class in the Glenn Miller Ballroom**.
 + Filtering data (review using conditionals)
 + Lab for week 6: finish lab from week 5.  If you have already finished it, I will have a different activity for you.
 + Action items for you: finish [Assignment 06](https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/06_PushLabWorkFromFifthWeek.md) if you haven't already.
