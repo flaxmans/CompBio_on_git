@@ -37,4 +37,23 @@ $ file *
 BirdList.txt:   UTF-8 Unicode text
 Lab01_part2.md: ASCII text
 ```
-In that example, "`*`" is a wildcard which means that the operation is applied to any file in the current directory.
+In that example, "`*`" is a wildcard which means that the operation is applied to every file in the current directory.
+
+
+### 2.  Being able to see the contents of a file
+
+There are a number of basic things we might wonder about any data file, such as
+* How many lines does it have?
+* What is the structure?
+* Does it have headers?
+
+##### `less`
+To answer these questions quickly, you might want tools that, say, count the number of lines, or tools that simply let you take a quick look at part or all of the file.
+As the saying goes, sometimes "less is more", and accordingly there is a command line tool called `less`.   It is used like this:
+```
+less filename
+```
+`less` is an *interactive* command line tool.  It opens a file and lets you browse it.  You can use the up and down arrow keys to move up or down a single line at a time.  You can also use the `b` and `f` keys to move back or forward by one page at a time.
+Use the `q` key to exit from `less`.
+
+
