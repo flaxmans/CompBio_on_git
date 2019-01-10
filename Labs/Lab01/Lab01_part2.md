@@ -63,7 +63,7 @@ Use the `q` key to exit from `less`.
 ```
 $ wc filename
 ```
-`wc` will tell you the numbers of lines, words (separated by spaces), and characters in a plain-text file.  **Try using `wc` on `BirdList.txt`**
+`wc` will tell you the numbers of lines, words (separated by spaces), characters, and bytes in a plain-text file.  **Try using `wc` on `BirdList.txt`**
 
 `wc` as used above has the familiar (partial) generic structure of many UNIX commands, namely:
 ```
@@ -73,9 +73,19 @@ $ command filename
 ```
 $ command options filename
 ```
-For example, suppose we only wanted to see the line count, and not any of the other information offered by `wc`.  As it turns out, `wc` has a built-in option for doing just that.
+For example, suppose we only wanted to see the line count, and not any of the other information offered by `wc`.  As it turns out, `wc` has a built-in option for doing just that.  The command
 ```
 $ wc -l BirdList.txt
 ```
-will show us the number of lines only.  Options in UNIX commans are also commonly referred to as *flags*. Hence, we could say that the last example uses the "`-l` flag", which someone would say verbally (if reading it outloud) as the "dash `l` flag" or "dash `l` option".
+will show us the number of lines only.  Options in UNIX commands are also commonly referred to as *flags*. Hence, we could say that the last example uses the "`-l` flag", which someone would say verbally (if reading it outloud) as the "dash `l` flag" or "dash `l` option".  **Try it yourself!**
+
+But how would you know that `wc` has this option?  How would you know what options any command might accept (since they are all different)?  Luckily (but not in Windows git-bash, sorry), there's a *man*ual built in.  The manual for UNIX commands is in a form that people call "man pages", accessible like this: 
+```
+$ man wc
+```
+will show you a kind of barebones manual for the `wc` command, including the options available.  To exit the "man page", type the letter `q`.  To move up and down in the man page for a command, use the up and down arrow keys, `space bar` (to page forward), or `b` key (page back).  Navigation commands that work in `less` generally work in `man` and vice versa. Note that in the man page for `wc`, one finds the `-l` option as well as several others.  Try them out!
+
+
+
+
 
