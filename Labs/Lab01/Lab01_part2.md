@@ -13,4 +13,28 @@ Most of the following exercises are meant to help you become acquainted with bas
 
 <hr>
 
+### 1. Determining what kind of file a file is
+The command 
+```
+$ file [filename]
+```
+Will output (to the terminal window) the type of file given by the name that you specify.
+**Try it with the files in the Lab01 folder.**
+This can be very useful when you get data from others and aren't sure of the contents.  The `file` command enables you to see the format you are working with.  Here's what I see in my terminal when I use it:
+```
+$ file BirdList.txt 
+BirdList.txt: UTF-8 Unicode text
+$ file Lab01_part2.md 
+Lab01_part2.md: ASCII text
+$ 
+```
 
+Note that basic operations provided by command line tools tend to work best, in general, on plain text files. UTF-8 Unicode text and ASCII text (as shown above) are both plain text.
+
+This is also a useful point to introduce the idea of "wildcards".  I could accomplish the two commands above with a single command:
+```
+$ file *
+BirdList.txt:   UTF-8 Unicode text
+Lab01_part2.md: ASCII text
+```
+In that example, "`*`" is a wildcard which means that the operation is applied to any file in the current directory.
