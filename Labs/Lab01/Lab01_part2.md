@@ -90,7 +90,7 @@ $ wc -l BirdList.txt
 ```
 will show us the number of lines only.  Options in UNIX commands are also commonly referred to as *flags* and are given with something that starts with one or two hyphens. Hence, we could say that the last example uses the "`-l` flag", which someone would say verbally (if reading it outloud) as the "dash `l` flag" or "dash `l` option".  **Try it yourself!**  Remember: a hyphen (i.e., a dash) immediately following the space after a command name always indicates an option (i.e., a flag).
 
-But how would you know that `wc` has this option?  How would you know what options any command might accept (since they are all different)?  Luckily (but not in Windows git-bash, sorry), there's a *man*ual built in.  The manuals for UNIX commands are in a form that people call "man pages", accessible like this: 
+But how would you know that `wc` has this option?  How would you know what options any command might accept (since they are all different)?  Luckily (but not in Windows git bash, sorry), there's a *man*ual built in.  (Windows users of git bash: you can get the man pages online at [http://man.he.net/](http://man.he.net/).)  The manuals for UNIX commands are in a form that people call "man pages", accessible like this: 
 ```
 $ man wc
 ```

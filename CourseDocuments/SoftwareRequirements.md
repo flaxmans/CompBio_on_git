@@ -17,6 +17,7 @@
 * Windows users will need to emulate a UNIX-style terminal.  There are several ways to do this.  If you have a preferred method, please use it.  If not, for this class I suggest using git-bash as provided by "Git for Windows" at [https://gitforwindows.org/](https://gitforwindows.org/).  You can download it from that link and install with all defaults unless you have a good reason to using something besides the default settings.
 * Download and install Base R:  [https://cran.r-project.org/bin/windows/base/](https://cran.r-project.org/bin/windows/base/)
 * Download and install RStudio: [https://www.rstudio.com/](https://www.rstudio.com/)
+* NOTE: git bash is a stripped down, minimalist UNIX-like experience for Windows users.  If you want a fully featured UNIX-terminal-like experience, you may want to download and install [cygwin](https://www.cygwin.com/), or you could go even one step further and create a virtual Linux machine using VirtualBox.
 
 ## For Linux Users only:
 * Open a Terminal window and install Git by typing `sudo apt install git` at the command prompt
