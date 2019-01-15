@@ -2,6 +2,10 @@
 
 Disclaimer: I have **not** personally vetted every single bit of advice on these. 
 
+#### If you are **struggling** with basic operations in `git` even after the lab:
+* Try working through some [interactive tutorials at Atlassian's bitbucket tutorial site](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud),which is quite good in my opinion.
+* If those basic tutorials don't help, or if you just have lingering questions, come to office hours of course!
+
 #### General git command reference:
 * [PDF download git cheatsheet from Github](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)  
 * [git cheatsheet from Tower](https://www.git-tower.com/blog/git-cheat-sheet/)  
