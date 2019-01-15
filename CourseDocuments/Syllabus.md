@@ -27,10 +27,12 @@ Fridays: noon - 1:50, RAMY N1B75
 #### Office Hours: 
 Thursdays from 12:30 - 1:30 p.m.
 
+Office Location: Ramaley N211
+
 #### Contact:
 Email Sam: <samuel.flaxman@colorado.edu>
+
 Office Phone: 303-492-7184
-Office Location: Ramaley N211
 ______________________________
 
 ## Week-by-Week Agenda  
