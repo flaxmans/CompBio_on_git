@@ -12,5 +12,5 @@ Create a cookie recipe in a plain text file
 2. Write it down in a plain text file
 3. WINDOWS USERS: This should be a plain text file you know how to navigate to in git-bash
 4. Not sure about "plain text" or how to create it?  See the [software guide](https://github.com/flaxmans/CompBio_on_git/blob/master/CourseDocuments/SoftwareRequirements.md)
-5. Save your recipe in your compBioSandbox (created in lab last week)
-6. You do NOT have to send this to Sam, but you must have this file available for use in class on Friday.
+5. Save your recipe in a subdirectory for this class such as `..../EBIO_4420/MyCompBioWork/Assignments/`
+6. You do NOT have to send this file to Sam, but you must have this file available for use in lab on Friday.
