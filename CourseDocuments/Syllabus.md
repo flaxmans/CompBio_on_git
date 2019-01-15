@@ -164,7 +164,7 @@ The exam will be available starting at 7:00 a.m. on Sunday, May 7th, and your an
 
 [Assign11link]: https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/11_FinalProject_Step2.md  
 
-[dropboxlink]: https://www.dropbox.com/sh/dd7mpvmbdgyenoo/AAAgi560clFs7_H_XG69by60a?dl=0&lst=
+[dropboxlink]: https://www.dropbox.com/sh/dd7mpvmbdgyenoo/AAAgi560clFs7_H_XG69by60a?dl=0
 
 _____________________________
 
