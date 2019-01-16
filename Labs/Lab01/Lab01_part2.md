@@ -185,8 +185,8 @@ The reason NOT to do this yet is that, if you do, you'll get 1001 lines of data 
 Before we solve that problem, let's just digest the command, and turn it from BASH syntax and code into our own English version.  In the plainest English I can imagine, here's what we are asking the shell to do with that command if we "read" it from left to right: "Use the `cut` tool to keep columns 2-4 of the comma-delimited file named `PredPreyData.csv`".  But, we didn't tell BASH where to put the results, so it would just put them in the terminal window for us to see.  That's the default behavior.
 
 Problems which involve applications of tools described previously in this lab:
-* Which tool from above could you add on to the line of code to get the output to go into a file instead of into the terminal window?
-* How could you combine the command above with something other tool above to see only the last 10 lines of output?
+* Which tool from above could you add on to the `cut` example above to get the output to go into a file instead of into the terminal window?
+* How could you combine the `cut` example above with some other tools above to see only the last 10 lines of output?
 * How could you, perhaps in multiple commands, make a new data file that had (i) only columns 2-4, (ii) the header row, and (iii) only the last 10 lines of data?  In other words, what commands could you issue to create a new `.csv` file with 11 lines of data total and three columns total, in which the top line should be the original headers, and the other 10 lines should be the last 10 lines of the original data?
 
 
