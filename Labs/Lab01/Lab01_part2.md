@@ -36,8 +36,10 @@ Note that basic operations provided by command line tools tend to work best, in 
 This is also a useful point to introduce the idea of "wildcards".  I could accomplish the two commands above with a single command:
 ```
 $ file *
-BirdList.txt:   UTF-8 Unicode text
-Lab01_part2.md: ASCII text
+BirdList.txt:     UTF-8 Unicode text
+Lab01_part2.md:   ASCII text, with very long lines
+PredPreyData.csv: ASCII text
+README.txt:       ASCII text
 ```
 In that example, "`*`" is a wildcard which means that the operation is applied to every file in the current directory.
 
