@@ -6,6 +6,13 @@ Disclaimer: I have **not** personally vetted every single bit of advice on these
 * Try working through some [interactive tutorials at Atlassian's bitbucket tutorial site](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud),which is quite good in my opinion.
 * If those basic tutorials don't help, or if you just have lingering questions, come to office hours of course!
 
+#### Help on the command line
+* For most `git` commands, you can get help on the command line like a "man page" for most UNIX commands:
+```
+$ git commandname --help
+```
+where "commandname" would be replaced by the command you are wondering about.
+
 #### General git command reference:
 * [PDF download git cheatsheet from Github](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)  
 * [git cheatsheet from Tower](https://www.git-tower.com/blog/git-cheat-sheet/)  
