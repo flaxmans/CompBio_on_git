@@ -21,7 +21,7 @@ list=`tail -n +2 CompBioRoster.csv | cut -f 1-2 -d, | cut -f2 -d'"' | sed 's/, /
 
 # make directories for student work using names
 # do so in the directory I use for tracking student work
-cd ~/Documents/Teaching/ComputationalBiology/StudentWork2018/
+cd ~/Documents/Teaching/ComputationalBiology/StudentWork2019/
 for i in $list
 do
 	mkdir $i # make directory for each student using their name
