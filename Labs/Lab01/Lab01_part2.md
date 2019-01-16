@@ -2,6 +2,8 @@
 
 ## This is "Part 2", which is meant to be done on your own after a brief "lecture"
 
+## **REMEMBER**: There are NO stupid mistakes, only learning opportunities.
+
 <hr>
 
 Most of the following exercises are meant to help you become acquainted with basic commands for inspecting data files
@@ -156,10 +158,17 @@ Compare the output of that latter command with the former.  Based upon that, can
 
 A. Try adding on to the last command (with one or more pipes) to (i) get output that does not have the line saying "Swallows  (Hirundinidae)", but rather ONLY has the species names, and (ii) get a count of the number of Swallow species listed in `BirdList.txt`.  You might try doing this with only the tools above.  You might additionally do a Google search for how `grep` for whole words or a word at the end of a line.
 
-B. Play around with the commands above.  What are some questions you could ask about the data in `BirdList.txt`?  Can you answer those questions with the tools above? If not, do a google search like "how to [what you need] in UNIX terminal".  It may be easier to just search for "BASH command for [what you need]" or "how to [what you need] in BASH", since BASH is the shell you are most likely using in your terminal.  You can see what 
+B. Play around with the commands above.  What are some questions you could ask about the data in `BirdList.txt`?  Can you answer those questions with the tools above? If not, do a google search like "how to [what you need] in UNIX terminal".  It may be easier to just search for "BASH command for [what you need]" or "how to [what you need] in BASH", since BASH is the shell you are most likely using in your terminal.  (FYI, You can see what shell you are using for sure with the command `echo $SHELL`.  The output of this command will be a file path to the shell being used.  For example, in Sam's terminal he sees as output `/bin/bash`.) 
 
 C.  Do you have any plain text files on your computer?  Perhaps some `.txt` or `.csv` files?  Make a copy of one of them into your `compBioSandbox` and then use the commands above to explore it.  If you can't think of one, open an Excel spreadsheet and "`Save As...`" to a `CSV UTF-8 (Comma Delimited) (.csv)`.  If you're up for an adventure, try using the `cp` command to do the copying, but remember: be careful because there is no undoing it once you've done it!  So, don't try your first `cp` on something important unless you are very sure of what you're doing.  You can find a guide to `cp` at [this link](http://www.linfo.org/cp.html).
 
+#### 5.  If you have time (or on your own to just learn more) ... 
+
+Working with the provided data file `PredPreyData.csv`.
+
+* Open and read the README file in Lab01 to learn about the data file  `PredPreyData.csv`.
+* Take a look at the provided data file `PredPreyData.csv` in the Lab01 directory.  Compare how this looks when you use `less` to look it compared to how it looks if you open it in Excel.  What do you notice about the differences in appearance?
+ 
 
 
 
