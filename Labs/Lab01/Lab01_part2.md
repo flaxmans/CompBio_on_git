@@ -162,13 +162,16 @@ B. Play around with the commands above.  What are some questions you could ask a
 
 C.  Do you have any plain text files on your computer?  Perhaps some `.txt` or `.csv` files?  Make a copy of one of them into your `compBioSandbox` and then use the commands above to explore it.  If you can't think of one, open an Excel spreadsheet and "`Save As...`" to a `CSV UTF-8 (Comma Delimited) (.csv)`.  If you're up for an adventure, try using the `cp` command to do the copying, but remember: be careful because there is no undoing it once you've done it!  So, don't try your first `cp` on something important unless you are very sure of what you're doing.  You can find a guide to `cp` at [this link](http://www.linfo.org/cp.html).
 
+<hr>
+
 #### 5.  If you have time (or on your own to just learn more) ... 
 
 Working with the provided data file `PredPreyData.csv`.
 
 * Open and read the README file in Lab01 to learn about the data file  `PredPreyData.csv`.
 * Take a look at the provided data file `PredPreyData.csv` in the Lab01 directory.  Compare how this looks when you use `less` to look it compared to how it looks if you open it in Excel.  What do you notice about the differences in appearance?
- 
+* Note that by default, R has added a column, the first column, which R regards as "row names".  These exist for all data frames in R by default, and the `write.csv()` command, which was used to create the file, puts them into the data file by default.  There are options in `write.csv()` to prevent that behavior, but let's suppose it's too late for that.  Suppose you wanted to remove the first column easily on the UNIX command line?
+
 
 
 
