@@ -174,18 +174,18 @@ Working with the provided data file `PredPreyData.csv`.
 ```
 $ cut -f [columns you want] -d [delimiter between columns] filename
 ```
-Note that this looks complicated, but it follows the same construction common to all UNIX commands: `commandname options filename`.  Having inspected `PredPreyData.csv`, we know it has four columns; we want the last three (i.e., columns 2 through 4).  We also know that it is comma-separated, i.e., the delimiter for this file is the comma.  Hence, to get rid of the column names, we could do:
+Note that this looks complicated, but it follows the same construction common to all UNIX commands: `commandname options filename`.  Having inspected `PredPreyData.csv`, we know it has four columns; we want the last three (i.e., columns 2 through 4).  We also know that it is comma-separated, i.e., the delimiter for this file is the comma.  Hence, to get rid of the column of "row names", we could do (but DON'T do this yet):
 ```
-$ cut -f 2-4 -d , PredPreyData.csv # BUT DON'T DO THIS YET
+$ cut -f 2-4 -d , PredPreyData.csv
 ```
-Note the comment in the code just given. Comments in BASH (the shell we're using in UNIX) start with `#`.  The comment says, "DON'T DO THIS".  The reason is that, if you do, you'll get 1001 lines of data output to your terminal window.  That's not necessarily bad, but it might take your computer a while to do that.
+The reason NOT to do this yet is that, if you do, you'll get 1001 lines of data output to your terminal window.  That's not necessarily bad, but it might take your computer a while to do that.
 
-Before we solve that problem, let's just digest the command, and turn it from BASH syntax and code into our own English version.  In the plainest English I can imagine, here's what we are asking the shell to do with that command: "BASH, please do the following.  Use the `cut` tool to keep columns 2-4 of the comma-delimited file named `PredPreyData.csv`".  But, we didn't tell BASH where to put the results, so it just puts them in the terminal window for us to see.  That's the default behavior.
+Before we solve that problem, let's just digest the command, and turn it from BASH syntax and code into our own English version.  In the plainest English I can imagine, here's what we are asking the shell to do with that command if we "read" it from left to right: "Use the `cut` tool to keep columns 2-4 of the comma-delimited file named `PredPreyData.csv`".  But, we didn't tell BASH where to put the results, so it would just put them in the terminal window for us to see.  That's the default behavior.
 
 Problems which involve applications of tools described previously in this lab:
-* Which tool from above could you use to get that output to go into a file?
-* How could you combine the command above with something else to see only the last 10 lines of output?
-* How could you, perhaps in multiple commands, make a new data file that had (i) only columns 2-4, (ii) the header row, and (iii) only the last 10 lines of data.  In other words, it should be a new `.csv` file with 11 lines total and three columns total, the top line should be the original headers, and the 10 lines of data should be the last 10 lines of the original data.
+* Which tool from above could you add on to the line of code to get the output to go into a file instead of into the terminal window?
+* How could you combine the command above with something other tool above to see only the last 10 lines of output?
+* How could you, perhaps in multiple commands, make a new data file that had (i) only columns 2-4, (ii) the header row, and (iii) only the last 10 lines of data?  In other words, what commands could you issue to create a new `.csv` file with 11 lines of data total and three columns total, in which the top line should be the original headers, and the other 10 lines should be the last 10 lines of the original data?
 
 
 
