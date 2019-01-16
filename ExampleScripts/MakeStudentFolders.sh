@@ -1,7 +1,7 @@
 # script to make student folders from roster files
 # This is an example of a "Shell Script"
 # It can be run from Sam's computer with the command sh MakeStudentFolders.sh
-# It can only be run once
+# It can only be run once because it makes directories (and it can't overwrite them if they already exist)
 # I checked every command individually in the UNIX terminal for accuracy before running it
 # It's useful for concatenating rosters downloaded from CU's student
 #   information system ("MyCUinfo") and for
