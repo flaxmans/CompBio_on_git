@@ -9,7 +9,7 @@
 
 ## For Mac Users only:
 * Download and install XCode from the App Store.  Once XCode is installed, it is a good idea to install command line tools.  A decent guide for doing so is available at [http://railsapps.github.io/xcode-command-line-tools.html](http://railsapps.github.io/xcode-command-line-tools.html)
-* Download and install Git. A decent guide can be found here: [https://www.atlassian.com/git/tutorials/install-git](https://www.atlassian.com/git/tutorials/install-git).  The installer itself can be found here: [https://sourceforge.net/projects/git-osx-installer/files/](https://sourceforge.net/projects/git-osx-installer/files/)
+* Download and install Git. A decent guide can be found here: [https://www.atlassian.com/git/tutorials/install-git](https://www.atlassian.com/git/tutorials/install-git).  The installer itself can be found here: [https://sourceforge.net/projects/git-osx-installer/files/](https://sourceforge.net/projects/git-osx-installer/files/).  **NOTE:** In order to get the installer to open, you will likely have to `control-click` on the installer, and then choose `Open` when prompted.  (Otherwise, your Mac may refuse to open it because it is from an "unidentified developer".)
 * Download and install R (*not* RStudio yet) by following instructions at [https://cran.rstudio.com/](https://cran.rstudio.com/)
 * Download and install RStudio by following instructions at [https://www.rstudio.com/](https://www.rstudio.com/)
 
