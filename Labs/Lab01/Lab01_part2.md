@@ -146,7 +146,7 @@ $ grep Goose BirdList.txt | wc -l
 ```
 Note that the output of the first command, `grep`, is "piped" to the second command, `wc`.  Because that piped output becomes the input for the latter command, there is no file name supplied for the `wc` command.  In other words, instead of getting its usual kind of input (a file), `wc` gets its input "piped in" from the previous command.  There's no limit to the number of pipes you can have in a single line of commands, which creates nearly infinite flexibility for combining different commands, or even the same command multiple times.  For example, if you do 
 ```
-$ grep Swallow BirdList.txt` 
+$ grep Swallow BirdList.txt 
 ```
 (try it), you'll get output that includes Swallows but also includes "Swallow-tailed" birds that aren't swallows at all!  Suppose you just wanted the actual Swallows?  Try the following instead:
 ```
