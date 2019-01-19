@@ -18,4 +18,4 @@ Create a cookie recipe in a plain text file
 <hr>
 
 ### Completion:
-All of the above should be done prior to lab (as noted above).  However, the assignment will be considered to be complete when you have successfully completed ALL steps of Lab 02, because I will be grading it based upon what appears on your GitHub account.  Don't worry, we'll do all the setup for that in lab on Friday.
+All of the above should be done prior to lab (as noted above).  However, the assignment will be considered to be complete when you have successfully completed **ALL steps of Lab 02**, because I will be grading it based upon what appears on your GitHub account.  Don't worry, we'll do all the setup for that in lab on Friday.
