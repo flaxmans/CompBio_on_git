@@ -90,6 +90,8 @@ Best practices dictate that repositories have easy-to-read descriptions that hel
 ### VII. Examining the work you have done
 In your terminal, use `git log` and `git diff HEAD~N filename` to review the changes you have made during your work in your local repo.  If you are feeling brave, try `git checkout HEAD~N filename` to look at previous versions of the cookie recipe.  However, make sure you have indeed committed the most recent version BEFORE you try to checkout a previous version.
 
+<hr>
+
 ### VIII. A shell script
 Formalizing Lab01's work
 
