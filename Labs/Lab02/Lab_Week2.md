@@ -56,8 +56,8 @@ In your terminal, you need to configure your git user account with the following
 ### V. Linking your local .git repository to Github.com, and pushing your commits
 1. Return to your terminal and make sure you are still in the local CompBioLabsAndHomework on your computer
 2. Designate the "remote" (i.e., online) repo with  
-	`git remote add origin url`,  
-	where "url" should be replaced by the link you copied from "quick setup" noted above (in part IV.)
+	`git remote add origin [your repo's github URL]`,  
+	where "[your repo's github URL]" should be replaced by the link you copied from "quick setup" noted above (in part IV.)
 3. It's time to "push": the following command will push your local .git repo to the the address that you just designated as the remote:  
 	`git push -u origin master`  
 	Don't worry about the meaning of the "-u" flag for now.
