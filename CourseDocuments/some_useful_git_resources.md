@@ -4,6 +4,7 @@ Disclaimer: I have **not** personally vetted every single bit of advice on these
 
 #### If you are **struggling** with basic operations in `git` even after the lab:
 * Try working through some [interactive tutorials at Atlassian's bitbucket tutorial site](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud),which is quite good in my opinion.
+* Try [https://howtogit.net/](https://howtogit.net/)
 * If those basic tutorials don't help, or if you just have lingering questions, come to office hours of course!
 
 #### Help on the command line
@@ -17,6 +18,7 @@ where "commandname" would be replaced by the command you are wondering about.
 * [PDF download git cheatsheet from Github](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)  
 * [git cheatsheet from Tower](https://www.git-tower.com/blog/git-cheat-sheet/)  
 * [An interactive cheatsheet from NDP Software](http://ndpsoftware.com/git-cheatsheet.html)  
+* [https://howtogit.net/](https://howtogit.net/)
 
 #### Updates to a repo during collaborative work on one repo with only one branch (or if you happen to work from two different local machines):  
 * [Dealing with merge conflicts](https://www.git-tower.com/learn/git/ebook/en/command-line/advanced-topics/merge-conflicts)  
