@@ -66,7 +66,7 @@ ______________________________
 + Best practices: git, files, comments, README
 + Intro to R and scripting with R
 + Lab week 3: some simple scripting (and of course using git with the script(s))
-+ Action Items: [Assignment 03](https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/03_TasksForWeekThree.md) announced on Tuesday, due Friday before lab begins. 
++ Action Items: [Assignment 03](https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/03_TasksForWeekThree.md) announced on Tuesday, due on Monday next week. 
 + For lab, please watch these three (short) YouTube videos if you are new to R, and follow along by doing everything the narrator does on your own computer:
 	+ [intro](https://youtu.be/TG77MVHfC8E)
 	+ [vectors pt 1](https://youtu.be/A2Sh7uBwQv0)
