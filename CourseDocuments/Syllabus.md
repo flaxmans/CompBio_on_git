@@ -68,9 +68,10 @@ ______________________________
 + Lab week 3: some simple scripting (and of course using git with the script(s))
 + Action Items: [Assignment 03](https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/03_TasksForWeekThree.md) announced on Tuesday, due on Monday next week. 
 + For lab, please watch these three (short) YouTube videos if you are new to R, and follow along by doing everything the narrator does on your own computer:
-	+ [intro](https://youtu.be/TG77MVHfC8E)
-	+ [vectors pt 1](https://youtu.be/A2Sh7uBwQv0)
-	+ [vectors pt 2](https://youtu.be/lNZQnLu_AWM)
+    + [intro](https://youtu.be/TG77MVHfC8E)
+    + [vectors pt 1](https://youtu.be/A2Sh7uBwQv0)
+    + [vectors pt 2](https://youtu.be/lNZQnLu_AWM)
++ Hints: If you are experiencing conflicts with git, check out [this screencast](https://youtu.be/jIV_toWa5Zc).
 
 ###### More to come soon!
 
