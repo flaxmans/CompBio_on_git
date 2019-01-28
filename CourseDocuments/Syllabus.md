@@ -55,7 +55,9 @@ ______________________________
 ###### Week 2:
 + Git intro
 + Lab week 2: git
-+ Action items: [Assignment02](https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/02_Week2_CookieRecipe.md)
++ Action items: 
+    + [Assignment02](https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/02_Week2_CookieRecipe.md)
+    + [Send your GitHub repo's URL to Sam](https://goo.gl/forms/PhPGZPvE7fP3vW3R2)
 + Want to see live demonstrations of the key steps related to using `git` basics?  Sam made these screencasts for that purpose:
     + [Global user configuration settings](https://youtu.be/jPAB9BW1yXc), i.e., `git config ...`
     + [Initialize a new repo and link it to GitHub](https://youtu.be/8Ln6pjFrdvw), i.e., `git init` and `git remote add origin ...`
