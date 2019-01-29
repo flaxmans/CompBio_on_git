@@ -73,8 +73,12 @@ ______________________________
     + [intro](https://youtu.be/TG77MVHfC8E)
     + [vectors pt 1](https://youtu.be/A2Sh7uBwQv0)
     + [vectors pt 2](https://youtu.be/lNZQnLu_AWM)
-+ Hints: If you are experiencing conflicts with git, check out [this screencast](https://youtu.be/jIV_toWa5Zc).
-
++ Hints and help: 
+    + If you are experiencing conflicts with git, check out [this screencast](https://youtu.be/jIV_toWa5Zc).
+    + Want to get ahead and prepare for lab?  If you are new to `R` (or feeling *R*usty), I **strongly** suggest checking out "`swirl`".  To do to so, follow the steps at [this link](https://swirlstats.com/students.html), and then do the first module of the first “course” it offers (“`1. R Programming`” --> “`1. Basic Building Blocks`”).
+        + Note that everything to do with `swirl` is done WITHIN R/RStudio.
+        + Obviously, if you want to do additional modules of `R Programming` within `swirl`, go for it!
+        
 ###### More to come soon!
 
 [dropboxlink]: https://www.dropbox.com/sh/dd7mpvmbdgyenoo/AAAgi560clFs7_H_XG69by60a?dl=0

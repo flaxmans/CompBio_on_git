@@ -63,8 +63,8 @@ In your terminal, you need to configure your git user account with the following
 ### V. Linking your local .git repository to Github.com, and pushing your commits
 1. Return to your terminal and make sure you are still in the local CompBioLabsAndHomework on your computer
 2. Designate the "remote" (i.e., online) repo with  
-	`git remote add origin [your repo's github URL]`,  
-	where "[your repo's github URL]" should be replaced by the link you copied from "quick setup" noted above (in part IV.)
+	`git remote add origin your_repos_github_URL`,  
+	where "`your_repos_github_URL`" should be replaced by the actual link you copied from "quick setup" noted above (in part IV.)
 3. It's time to "push": the following command will push your local .git repo to the the address that you just designated as the remote:  
 	`git push -u origin master`  
 	Don't worry about the meaning of the "-u" flag for now.
@@ -88,7 +88,7 @@ Best practices dictate that repositories have easy-to-read descriptions that hel
 <hr>
 
 ### VII. Examining the work you have done
-In your terminal, use `git log` and `git diff HEAD~N filename` to review the changes you have made during your work in your local repo.  If you are feeling brave, try `git checkout HEAD~N filename` to look at previous versions of the cookie recipe.  However, make sure you have indeed committed the most recent version BEFORE you try to checkout a previous version.
+In your terminal, use `git log` and `git diff HEAD~N filename` to review the changes you have made during your work in your local repo, where "`N`" is the number of commits ago to which you want to look back.  If you are feeling brave, try `git checkout HEAD~N filename` to look at previous versions of the cookie recipe.  However, **make sure you have indeed committed the most recent version BEFORE you try to `checkout` a previous version**.  NOTE: "`N`" in these examples is *not* what you literally type.  It represents an integer number of your choosing.
 
 <hr>
 
