@@ -92,6 +92,7 @@ do
 	echo "\nTrying to pull for student $dirname:"
 	RepoName=`echo $i | cut -f3 -d,` # repo directory name should be in third field
 	cd ${dirname}/${RepoName}
+	git stash
 	git pull
 	cd ~/compbio/StudentWork2019
     fi
