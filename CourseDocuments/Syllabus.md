@@ -78,7 +78,15 @@ ______________________________
     + Want to get ahead and prepare for lab?  If you are new to `R` (or feeling *R*usty), I **strongly** suggest checking out "`swirl`".  To do to so, follow the steps at [this link](https://swirlstats.com/students.html), and then do the first module of the first “course” it offers (“`1. R Programming`” --> “`1. Basic Building Blocks`”).
         + Note that everything to do with `swirl` is done WITHIN R/RStudio.
         + Obviously, if you want to do additional modules of `R Programming` within `swirl`, go for it!
-        
+
+###### Week 4
++ More R and Scripting
++ Best practices for writing scripts and handling data
++ Lab week 4: looping with `for` and array indexing
++ Action Items:
+    + Assignment 4 (pushing Lab04)
+    + Read the ["Best Practices" Guide](https://github.com/flaxmans/CompBio_on_git/blob/master/CourseDocuments/BestPractices.md)
+ 
 ###### More to come soon!
 
 [dropboxlink]: https://www.dropbox.com/sh/dd7mpvmbdgyenoo/AAAgi560clFs7_H_XG69by60a?dl=0
