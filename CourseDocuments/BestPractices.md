@@ -27,7 +27,8 @@
 1. Are commented
 2. Have variable names that are human readable and logical (e.g, "`time`" is a better name than "`t`", "`abundance`" is better than "`n`", "`concentration`" is better than "`x`", etc.)
 3. Have proper indentation
-4. Do not have lines that do nothing
+4. Do not have lines of code accomplish nothing (e.g., a variable assigned but never used)
 5. Do not have variables that aren't used
 6. Do not have "magic numbers"
 7. Use looping and user-defined functions instead of copying and pasting/repeating the same code multiple times
+8. Put spaces between operators and variable names.  E.g., in R, do this: `x <- 5`, but do NOT do this: `x<-5`.
