@@ -30,6 +30,18 @@ system.time({
   myArray3 <- myArray3 * myMultiplier
 })
 
+# Method 4: dynamic array sizing (DON'T do this!)
+system.time({
+  myArray4 <- 1
+  for ( i in seq(3,numElements,2) ) {
+    myArray4[i] <- i
+  }
+  for ( i in seq(2, numElements,2) ){
+    myArray4[i] <- -i
+  }
+})
+
 # Check that all results are equivalent:
 all(myArray == myArray2)
 all(myArray2 == myArray3)
+all(myArray3 == myArray4)
