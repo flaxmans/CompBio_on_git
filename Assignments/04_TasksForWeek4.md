@@ -1,6 +1,7 @@
 # Assignment 04
 
-Announced: during week three of class
+Announced: during Week 4 of class
+
 Due: by Tuesday of Week 5
 
 ### *Assignment*:

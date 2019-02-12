@@ -1,6 +1,7 @@
 # Assignment 05
 
-Announced: during week three of class
+Announced: during Week 5 of class
+
 Due: by Tuesday of Week 6
 
 ### *Assignment*:
