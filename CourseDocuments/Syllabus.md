@@ -84,13 +84,22 @@ ______________________________
 + Best practices for writing scripts and handling data
 + Lab week 4: looping with `for` and array indexing
 + Action Items:
-    + Assignment 4 (pushing Lab04)
-    + Read the ["Best Practices" Guide](https://github.com/flaxmans/CompBio_on_git/blob/master/CourseDocuments/BestPractices.md)
+    + [Assignment 4](https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/04_TasksForWeek4.md) (pushing Lab04)
+    + Read the ["Best Practices" Guide][bestpracticeslink]
+ 
+###### Week 5
++ More with loops
++ Vectorizing
++ Conditionals
++ Lab week 5: combining loops, vectors, and conditionals
++ Action items:
+    + [Assignment 5](https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/05_TasksForWeek5.md) (pushing Lab05)
+    + Re-read the ["Best Practices" Guide][bestpracticeslink]
  
 ###### More to come soon!
 
 [dropboxlink]: https://www.dropbox.com/sh/dd7mpvmbdgyenoo/AAAgi560clFs7_H_XG69by60a?dl=0
-
+[bestpracticeslink]: https://github.com/flaxmans/CompBio_on_git/blob/master/CourseDocuments/BestPractices.md
 _____________________________
 
 ## Grading policies 

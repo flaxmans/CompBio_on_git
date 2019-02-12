@@ -2,7 +2,7 @@
 rm(list = ls()) # start with clean memory so objects are definitely allocated at run time
 
 # size of array:
-numElements <- 500000
+numElements <- 1000000
 
 # Task: make a large array and then make every-other element negative of what it was
 # i.e., x[i] should become -x[i] for all even values of i in the set of integers
