@@ -93,13 +93,19 @@ ______________________________
 + Conditionals
 + Lab week 5: combining loops, vectors, and conditionals
 + Action items:
-    + [Assignment 5](https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/05_TasksForWeek5.md) (pushing Lab05)
+    + [Assignment 5][Assignment5link] (pushing Lab05)
     + Re-read the ["Best Practices" Guide][bestpracticeslink]
+ 
+ ###### Week 6
+ + More with loops and conditionals
+ + Lab week 6: finish up lab 5 
+ + Action item: [Assignment 5][Assignment5link]
  
 ###### More to come soon!
 
 [dropboxlink]: https://www.dropbox.com/sh/dd7mpvmbdgyenoo/AAAgi560clFs7_H_XG69by60a?dl=0
 [bestpracticeslink]: https://github.com/flaxmans/CompBio_on_git/blob/master/CourseDocuments/BestPractices.md
+[Assignment5link]: https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/05_TasksForWeek5.md
 _____________________________
 
 ## Grading policies 
