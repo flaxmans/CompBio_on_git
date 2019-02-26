@@ -35,15 +35,10 @@ pythagTheorem( 30, 40 )
 
 
 # Demonstration of usage:
-triangleArea(base = 10, height = 9)
+
 
 
 ########
 
 # Problem #2.  Our own absolute value function
-
-# Function definition:
-
-
-# Demonstrations of usage:  
-
+# and so on ....
