@@ -22,6 +22,7 @@ ______________________________
 
 #### Course meeting times and locations: 
 TTH, 2:00 - 2:50, EKLC M203
+
 Fridays: noon - 1:50, RAMY N1B75
 
 #### Office Hours: 
@@ -95,17 +96,24 @@ ______________________________
 + Action items:
     + [Assignment 5][Assignment5link] (pushing Lab05)
     + Re-read the ["Best Practices" Guide][bestpracticeslink]
+    + Check out this [guide to turning ideas into code][WordsToCodeLink] and let Sam know what you think of it.
  
- ###### Week 6
+###### Week 6
  + More with loops and conditionals
  + Lab week 6: finish up lab 5 
- + Action item: [Assignment 5][Assignment5link]
+ + Action items: 
+    + [Assignment 5][Assignment5link]
+    + Read the [Words to Code guide][WordsToCodeLink] and let Sam know what you think.  You can comment directly on that doc if you wish.
+ 
+###### Week 7
+ + Solving problems and writing functions
+ + Lab week 7: writing functions, part 1 
+ + Action items: 
+    + [Assignment 6 (push lab 7)][Assignment6link]
+ 
  
 ###### More to come soon!
 
-[dropboxlink]: https://www.dropbox.com/sh/dd7mpvmbdgyenoo/AAAgi560clFs7_H_XG69by60a?dl=0
-[bestpracticeslink]: https://github.com/flaxmans/CompBio_on_git/blob/master/CourseDocuments/BestPractices.md
-[Assignment5link]: https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/05_TasksForWeek5.md
 _____________________________
 
 ## Grading policies 
@@ -129,7 +137,6 @@ This is a full, 3-credit course. You should expect to work as hard for these thr
 
 Please note that all grades will be posted on the Course's [Canvas site][CanvasSiteLink]
 
-[CanvasSiteLink]: https://cuboulder.instructure.com/courses/25233
 _____________________________
 
 ## Statements about General Policies and Expected Conduct of Students, Faculty, and Staff
@@ -175,3 +182,12 @@ Campus policy regarding religious observances requires that faculty make every e
 
 See the [campus policy regarding religious observances](https://www.colorado.edu/policies/observance-religious-holidays-and-absences-classes-andor-exams) for full details.
  
+ 
+ 
+ 
+ [dropboxlink]: https://www.dropbox.com/sh/dd7mpvmbdgyenoo/AAAgi560clFs7_H_XG69by60a?dl=0
+ [bestpracticeslink]: https://github.com/flaxmans/CompBio_on_git/blob/master/CourseDocuments/BestPractices.md
+ [Assignment5link]: https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/05_TasksForWeek5.md
+ [Assignment6link]: https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/06_TasksForWeek7.md
+ [CanvasSiteLink]: https://cuboulder.instructure.com/courses/25233
+ [WordsToCodeLink]: https://docs.google.com/document/d/1jAa5_lQL5AMd6Qg2UZGkjI_z5a6xtIj9IUgzG2J10vg/edit?usp=sharing

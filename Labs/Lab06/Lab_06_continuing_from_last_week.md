@@ -1,0 +1,1 @@
+# Lab 06: Finish up from last week### InstructionsPlease finish and push your work from [last week's lab (Lab 05)](https://github.com/flaxmans/CompBio_on_git/blob/master/Labs/Lab05/lab_05_LoopsAndConditionals.md) if you have not done so already.
