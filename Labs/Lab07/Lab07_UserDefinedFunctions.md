@@ -42,7 +42,7 @@ Demonstrate that your function works by calling it for an imaginary triangle tha
 <hr>
 
 ##### Problem #2
-R has a built in function called `abs()` that returns the absolute value of a number, or the absolute value of each number in a numeric vector.  Imagine that the `abs()` function did NOT exist.  Write a function named `myAbs()` that does what `abs`  does.
+R has a built in function called `abs()` that returns the absolute value of a number, or the absolute value of each number in a numeric vector.  Imagine that the `abs()` function did NOT exist.  Write a function named `myAbs()` that calculates and returns absolute values.
 Show that your function works by using it on the following test cases:
 1. the number `5`
 2. the number `-2.3`
@@ -83,7 +83,7 @@ Using the information given in that quote, write a function that returns a vecto
 + Demonstrate that your function works by calling it with the data you will find in the "DataForLab07.csv" file found in Sam's Lab07 directory.  **Remember**: importing this data will, by default, create a data frame (not a vector).
 
 
-*Part 4c.*  A very common quantity in a number of statistical analyses is some form of a "sum of squares."  In technical terms, the sum of squares can be calculated as the sum of the squared deviations from the mean.  In  other words, for a given data set, one calculates the mean.  Then, for each data point, the data point is subtracted from the mean, and the difference is squared.  All of these squared differences are then summed.  For a different explanation, see [this Wikipedia page on "Total Sum of Squares"](https://en.wikipedia.org/wiki/Total_sum_of_squares).  Write a function that calculates and returns the sum of squares as defined here.  Your function should take a vector of numeric data as its argument.  Note: please write your sum of squares function so that it makes use of the functions written for the previous two parts of this problem.  In other words, find a useful way to call those functions from within your sum of squares function.
+*Part 4c.*  A very common quantity in a number of statistical analyses is some form of a "sum of squares."  In technical terms, the sum of squares can be calculated as the sum of the squared deviations from the mean.  In  other words, for a given data set, one calculates the mean.  Then, for each data point, the mean is subtracted from the data point, and the resulting difference is squared.  All of these squared differences are then summed.  For a different explanation, see [this Wikipedia page on "Total Sum of Squares"](https://en.wikipedia.org/wiki/Total_sum_of_squares).  Write a function that calculates and returns the sum of squares as defined here.  Your function should take a vector of numeric data as its argument.  Note: please write your sum of squares function so that it makes use of the functions written for the previous two parts of this problem.  In other words, find a useful way to call those functions from within your sum of squares function.
 
 Demonstrate that your sum of squares function works by calling it with the data provided in the file "DataForLab07.csv"
 

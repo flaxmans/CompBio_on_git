@@ -35,6 +35,7 @@ pythagTheorem( 30, 40 )
 
 
 # Demonstration of usage:
+triangleArea(base = 10, height = 9)
 
 
 ########
