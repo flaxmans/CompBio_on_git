@@ -57,7 +57,7 @@ cat("\n")
 ## Some follow-up thoughts are below ... ##
 #################################
 
-### "Fixing" the data frame so you don't have to deal with "factors:
+### "Fixing" the data frame so you don't have to deal with "factors":
 # Here's one way, assuming the data frame already exists:
 ThreeColNetwork$Person1 <- as.character(Person1)
 ThreeColNetwork$Person2 <- as.character(Person2)
