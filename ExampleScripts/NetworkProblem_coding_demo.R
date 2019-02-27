@@ -18,7 +18,7 @@ ThreeColNetwork <- data.frame(Person1, Person2, InteractionStrength)
 # str(ThreeColNetwork)
 
 # get the names from the data (with some code), make sure we get each unique individual represented once
-# work with columns of names as vectors and somehow find unique entries  looking for unique character strings
+# work with columns of names as vectors and somehow find unique entries, looking for unique character strings
 people <- unique(c(Person1, Person2)) # a vector of people's names
 nPeople <- length(people) # the number of distinct people
 
@@ -32,7 +32,7 @@ colnames(socialNetMat) <- people
 # cross-referencing system that we can use for indexing!
 
 # each row of the data frame is a unique interaction, so the number of unique data points is:
-nDataPoints <- nrow(ThreeColNetwork)
+nDataPoints <- length(InteractionStrength)
 for ( i in 1:nDataPoints ) {
   # Use the indexes to get the data from the three column form and put it into the RIGHT spots in the matrix
   # get name 1
