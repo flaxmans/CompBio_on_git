@@ -42,11 +42,16 @@ Demonstrate that your function works by calling it for an imaginary triangle tha
 <hr>
 
 ##### Problem #2
-R has a built in function called `abs()` that returns the absolute value of a number, or the absolute value of each number in a numeric vector.  Imagine that the `abs()` function did NOT exist.  Write a function named `myAbs()` that calculates and returns absolute values.
+R has a built in function called `abs()` that returns the absolute value of a number, or the absolute value of each number in a numeric vector.  Imagine that the `abs()` function did NOT exist.  
+
+Part 2a.  Write a function named `myAbs()` that calculates and returns absolute values.
 Show that your function works by using it on the following test cases:
-1. the number `5`
-2. the number `-2.3`
-3. the vector `c(1.1, 2, 0, -4.3, 9, -12)`
++ the number `5`
++ the number `-2.3`
+
+Part 2b. Revise your function to make it work on vectors (unless it already does).  Demonstrate that your (revised) function works on the following vector: 
+
++  `c(1.1, 2, 0, -4.3, 9, -12)`
 
 Hint: Your function will almost certainly need to make use of some kind of conditional test.
 
@@ -59,7 +64,7 @@ Recall the "Fibonacci sequence" we worked with a few weeks ago: According to [Wi
 Often, especially in modern usage, the sequence is extended by one more initial term:  0 , 1 , 1 , 2 , 3 , 5 , 8 , 13 , 21 , 34 , 55 , 89 , 144 , ...  
 By definition, the first two numbers in the Fibonacci sequence are either 1 and 1, or 0 and 1, depending on the chosen starting point of the sequence, and each subsequent number is the sum of the previous two.
 
-Using the information given in that quote, write a function that returns a vector of the first `n` Fibonacci numbers, where `n` is any integer >= 3.  Your function should take **two** arguments: the user's desired value of `n` and the user's desired starting number (either 0 or 1 as explained in the quote above).
+Using the information given in that quote, write a function that returns a vector of the first `n` Fibonacci numbers, where `n` is any integer >= 3.  Your function should take **two** arguments: the user's desired value of `n` and the user's desired starting number (either 0 or 1 as explained in the quote above).  Your function does NOT need to TEST if `n` is actually >= 3.  (In other words, we are assuming that `n >= 3`.  That is a sensible assumption because your for loop from lab 4 probably wouldn't work if you used `n < 3`.)  However, note Bonus 3a below if you are interested.
 
 
 *Bonus 3a* (optional): make your function work for n = 1 and n = 2.  (Hint: add conditionals)
@@ -90,5 +95,5 @@ Demonstrate that your sum of squares function works by calling it with the data 
 
 <hr>
 
->Comment from Sam:  You might wonder: Why would Sam ask you to write these functions for Problem #4 when the entire thing, as encapsulated in Part 4c, can be done in a single line of code (in fact, pretty easily if you were "allowed" to use the `mean()` function that is built into R!)?   There are several reasons.  One is to practice writing functions by using examples involving cases for which you should be able to to have an expectation about "the answer"; you have an expectation about the behavior the function should have, so that hopefully leaves you free to focus on how to write the function rather than how to do the calculations per se.  Second is to emphasize that simple tools can be put together in myriad ways to accomplish many different kinds of useful, common tasks.  You have the power to create what you need even if it doesn't already exist!  Third is to contemplate the pathways of numbers through our scripts and to hopefully consider how a bit of code that works for one thing can be co-opted for something you might not have initially considered.
+> Comment from Sam:  You might wonder: Why would Sam ask you to write these functions for Problem #4 when the entire thing, as encapsulated in Part 4c, can be done in a single line of code (in fact, pretty easily if you were "allowed" to use the `mean()` function that is built into R!)?   There are several reasons.  One is to practice writing functions by using examples involving cases for which you should be able to to have an expectation about "the answer"; you have an expectation about the behavior the function should have, so that hopefully leaves you free to focus on how to write the function rather than how to do the calculations per se.  Second is to emphasize that simple tools can be put together in myriad ways to accomplish many different kinds of useful, common tasks.  You have the power to create what you need even if it doesn't already exist!  Third is to contemplate the pathways of numbers through our scripts and to hopefully consider how a bit of code that works for one thing can be co-opted for something you might not have initially considered.
 

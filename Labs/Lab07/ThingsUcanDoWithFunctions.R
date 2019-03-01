@@ -36,7 +36,7 @@ testFn1(x = myDoodz, threshold = myGoal)
 
 # 6. And you can do anything with your own functions that you might
 # do with any other function:
-if ( !testFn1(x = myDoodz, threshold = myGoal) ) {
+if ( !testFn1(myDoodz, myGoal) ) {
   cat("\nDarn it!\n\n")
 } else {
   cat( "\nSweet!  Level up!!!\n\n")
