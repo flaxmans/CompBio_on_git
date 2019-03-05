@@ -32,3 +32,4 @@
 6. Do not have "magic numbers"
 7. Use looping and user-defined functions instead of copying and pasting/repeating the same code multiple times
 8. Put spaces between operators and variable names.  E.g., in R, do this: `x <- 5`, but do NOT do this: `x<-5`.
+9. Using `print()`, `cat()`, `show()`, etc. statements is great during initial development of code, but once you are sure your code works, most of those types of statements should be commented out or deleted unless the purpose of a bit of code is truly to create a print to the console.  This is especially true for any print statements involving more than, say, 100 data points.  There's not much use for 10,000 numbers printed to the console once you're sure the code is really working as it is supposed to.

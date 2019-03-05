@@ -7,6 +7,8 @@ One-page markdown cheatsheet, intentionally written in a plain text file:
 ##### Heading 5
 ###### Heading 6
 
+Note: always put a space after pound signs to get headings to display correctly on all systems!
+
 Bulleted list:
 * item 1
 * item 2
@@ -17,7 +19,13 @@ Numbered list:
 2. item 2
 
 Inline code:
-Here is some code: `x <- 5`
+Here is some code (single backticks): `x <- 5`
+
+A block of code (triple backticks):
+```
+x <- "rules"
+cat(paste("\nMarkdown", x))
+```
 
 Links:
 [text to display for link](URLgoeshere)
