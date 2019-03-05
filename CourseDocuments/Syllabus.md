@@ -110,6 +110,16 @@ ______________________________
  + Lab week 7: writing functions, part 1 
  + Action items: 
     + [Assignment 6 (push lab 7)][Assignment6link]
+    
+###### Week 8
+ + Documentation and reproducibility
+    + Markdown
+    + More about Functions
+    + A little bit of meta-scripting
+ + [Lab week 8][Lab8link]: Markdown and more scripting
+ + Action items: 
+    + [Assignment 7 (push lab 8)][Assignment7link]
+ 
  
  
 ###### More to come soon!
@@ -185,9 +195,14 @@ See the [campus policy regarding religious observances](https://www.colorado.edu
  
  
  
- [dropboxlink]: https://www.dropbox.com/sh/dd7mpvmbdgyenoo/AAAgi560clFs7_H_XG69by60a?dl=0
- [bestpracticeslink]: https://github.com/flaxmans/CompBio_on_git/blob/master/CourseDocuments/BestPractices.md
- [Assignment5link]: https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/05_TasksForWeek5.md
- [Assignment6link]: https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/06_TasksForWeek7.md
- [CanvasSiteLink]: https://cuboulder.instructure.com/courses/25233
- [WordsToCodeLink]: https://docs.google.com/document/d/1jAa5_lQL5AMd6Qg2UZGkjI_z5a6xtIj9IUgzG2J10vg/edit?usp=sharing
+[dropboxlink]: https://www.dropbox.com/sh/dd7mpvmbdgyenoo/AAAgi560clFs7_H_XG69by60a?dl=0
+[bestpracticeslink]: https://github.com/flaxmans/CompBio_on_git/blob/master/CourseDocuments/BestPractices.md
+[Assignment5link]: https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/05_TasksForWeek5.md
+[Assignment6link]: https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/06_TasksForWeek7.md
+[Assignment7link]: https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/07_TasksForWeek8.md
+
+[Lab8link]: https://github.com/flaxmans/CompBio_on_git/blob/master/Labs/Lab08/Lab08_documentation_and_metadata.md
+
+[CanvasSiteLink]: https://cuboulder.instructure.com/courses/25233
+
+[WordsToCodeLink]: https://docs.google.com/document/d/1jAa5_lQL5AMd6Qg2UZGkjI_z5a6xtIj9IUgzG2J10vg/edit?usp=sharing
