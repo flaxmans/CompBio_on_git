@@ -71,13 +71,14 @@ colnames(preyResultsMatrix) <- myColNames
 colnames(predResultsMatrix) <- myColNames
 # write the data to a .csv:
   # make sure we're in the right directory:
-setwd("~/Documents/Teaching/Computational_Biology/CompBio_on_git/Models/L-V_Pred-PreyModel/")
+setwd("~/compbio/CompBio_on_git/Models/L-V_Pred-PreyModel/")
   # make a sub-directory if it doesn't already exist:
 if ( !dir.exists("AttackRateStudy") ) {
   dir.create("AttackRateStudy")
 }
   # actually write the data:
-setwd("~/Documents/Teaching/Computational_Biology/CompBio_on_git/Models/L-V_Pred-PreyModel/AttackRateStudy/")
+setwd("~/compbio/CompBio_on_git/Models/L-V_Pred-PreyModel/AttackRateStudy/")
+source("../../../ExampleScripts/SafeFileWrite.R") # get the MySafeWriteCSV() function
 mySafeWriteCSV(data = preyResultsMatrix, namebase = "PreyDataAttackRateStudy.csv")
 mySafeWriteCSV(data = predResultsMatrix, namebase = "PredatorDataAttackRateStudy.csv")
 
@@ -163,5 +164,5 @@ sink() # close the file
 # # create data object for writing to .csv:
 # time <- 1:gens
 # allData <- cbind(time, preyData, predData)
-# setwd("~/Documents/Teaching/Computational_Biology/CompBio_on_git/Models/L-V_Pred-PreyModel/")
+# setwd("~/compbio/CompBio_on_git/Models/L-V_Pred-PreyModel/")
 # mySafeWriteCSV(data = allData, namebase = "PredPreyStudyrAndm")
