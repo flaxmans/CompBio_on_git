@@ -1,5 +1,0 @@
-When using this data, please cite the original publication:
-Holekamp KE, Smith JE, Strelioff CC, Van Horn RC, Watts HE (2011) Society, demography and genetic structure in the spotted hyena. Molecular Ecology 21(3): 613-632. http://dx.doi.org/10.1111/j.1365-294X.2011.05240.x
-
-Additionally, please cite the Dryad data package:
-Holekamp KE, Smith JE, Strelioff CC, Van Horn RC, Watts HE (2011) Data from: Society, demography and genetic structure in the spotted hyena. Dryad Digital Repository. http://dx.doi.org/10.5061/dryad.tg582 

@@ -11,7 +11,8 @@
 # to the ith position of the other two vectors, and thus all three vectors 
 # must be of the same length.
 # There is no error checking on user input.
-makeInteractionMatrix <- function( Person1, Person2, InteractionStrength ) {
+makeInteractionMatrix <- function( Person1, Person2, 
+                                   InteractionStrength, symmetric = T ) {
   people <- unique(c(Person1, Person2)) # a vector of names
   nPeople <- length(people) # the number of distinct people
   socialNetMat <- matrix(data = NA, nrow = nPeople, ncol = nPeople)
@@ -23,8 +24,10 @@ makeInteractionMatrix <- function( Person1, Person2, InteractionStrength ) {
     interactionValue <- InteractionStrength[i]
     # step 4: use the names to index, and put the value in:
     socialNetMat[Person1[i], Person2[i]] <- interactionValue
-    # since this is a symmetric matrix do the following also:
-    socialNetMat[Person2[i], Person1[i]] <- interactionValue
+    if ( symmetric ) {
+      # since this is a symmetric matrix do the following also:
+      socialNetMat[Person2[i], Person1[i]] <- interactionValue
+    }
   }
   return( socialNetMat )
 }
