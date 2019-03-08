@@ -115,10 +115,20 @@ ______________________________
  + Documentation and reproducibility
     + Markdown
     + More about Functions
-    + A little bit of meta-scripting
- + [Lab week 8][Lab8link]: Markdown and more scripting
+ + [Lab week 8][Lab8link]: Markdown and more functions
  + Action items: 
+    + Do the tutorial at [https://www.markdowntutorial.com/](https://www.markdowntutorial.com/)
     + [Assignment 7 (push lab 8)][Assignment7link]
+    + Reading for NEXT week:
+        + *Abstract only* (unless you want to read more) at [https://doi.org/10.1371/journal.pone.0126373](https://doi.org/10.1371/journal.pone.0126373)
+        + Data "Description" at [https://doi.org/10.5061/dryad.br86d](https://doi.org/10.5061/dryad.br86d)
+
+###### Week 9
+ + Writing good documentation
+ + Putting it all together: working through data problems with real data
+ + Action items:
+    + see two paragraphs of reading listed in week 8
+    + Assignment 8 (to be posted soon)
  
  
  

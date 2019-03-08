@@ -1,0 +1,7 @@
+Citation information quoted from DataDryad.org, accessed March 7, 2019
+
+When using this data, please cite the original publication:
+Cusack JJ, Dickman AJ, Rowcliffe JM, Carbone C, Macdonald DW, Coulson T (2015) Random versus game trail-based camera trap placement strategy for monitoring terrestrial mammal communities. PLOS ONE 10(5): e0126373. https://doi.org/10.1371/journal.pone.0126373
+
+Additionally, please cite the Dryad data package:
+Cusack JJ, Dickman AJ, Rowcliffe JM, Carbone C, Macdonald DW, Coulson T (2015) Data from: Random versus game trail-based camera trap placement strategy for monitoring terrestrial mammal communities. Dryad Digital Repository. https://doi.org/10.5061/dryad.br86d 
