@@ -12,11 +12,11 @@ Remember way back in week #1 when we worked on software requirements for the cla
 
 2. Re-write the README for your class repo in markdown.  If you don't have a markdown editor installed, I suggest you try [StackEdit](https://stackedit.io/app#).  (Note: if you do use StackEdit, I do NOT suggest trying to "publish" or link to GitHub.  Instead, choose "Export to File" to save it to your local repo on your own computer.)  Your new README file should have at least one heading, and some good descriptive text about the contents of the repo.  Note that your new README file should be in the top level directory of your repo (do NOT put it in a "Lab08" sub-directory, for example).  Once you are happy with your new README file, use `git rm` to remove the old readme.  The difference in file names should be that the new one is named `README.md` and the old one should have been `README.txt`.    
 
-3. Recall problem #7 from [Week 4's lab (on writing loops)](https://github.com/flaxmans/CompBio_on_git/blob/master/Labs/Lab04/Lab04_ForLoops.md).  That problem asked you to write a code that could implement the discrete-time logistic growth model.  Starting with that code, please do the following:
+3. Recall problem #7 from [Week 4's lab (on writing loops)](https://github.com/flaxmans/CompBio_on_git/blob/master/Labs/Lab04/Lab04_ForLoops.md).  That problem asked you to write code that could implement the discrete-time logistic growth model.  Starting with that code, please do the following:
 
     a. Create a new script in a directory for Lab08 that contains this code (it is fine to copy and paste from your own work)
 
-    b. Turn the logistic growth model code into a function that takes `r` (the intrinsic growth rate), `K` (the carrying capacity), and the initial population size as its arguments. 
+    b. Turn the logistic growth model code into a function that takes `r` (the intrinsic growth rate), `K` (the carrying capacity), the total number of generations, and the initial population size as its arguments. 
     
     c. Add code to the function so that it produces a plot of the data it generates (i.e., it should plot abundance over time).  Note that the axes should be labeled appropriately.
     
