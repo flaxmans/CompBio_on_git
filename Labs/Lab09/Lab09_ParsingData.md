@@ -57,10 +57,7 @@ vector of dates and times?
 
 
 ### Problem 4
-How could you create a function that took ANY two `DateTime` measurements (as converted to accurate dates and times above) and
-computed the time elapsed between them in measurement units (days, hours, or minutes) of
-the user's choice?
-
+Considering all the data in the import (not just the times): Once you had time accurately parsed, how could you look examine at the average time between observations for a given combination of  `Season`, `Station`, and `Species`?
 
 <hr>
 
