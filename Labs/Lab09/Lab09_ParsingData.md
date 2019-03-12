@@ -16,7 +16,7 @@ Try simple things first, and try to use web searches to your advantage.  Experim
 And finally, if you spend the entire two hours on nothing but Problem #1, don't worry; Sam spent at least that much time figuring out ways to approach it.
 
 ### Preliminary Step: import the camera trap data file
-I suggest importing with the stringsAsFactors option set to `FALSE`, i.e., 
+I suggest importing with the `stringsAsFactors` option set to `FALSE`, i.e., 
 ```
 camData <- read.csv("Cusack_et_al_random_versus_trail_camera_trap_data_Ruaha_2013_14.csv", stringsAsFactors = F)
 ```  
