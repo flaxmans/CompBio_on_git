@@ -1,4 +1,4 @@
-# Lab 09: Parsing data files
+# Lab 09: Parsing Dates and Times from a Real Data File
 
 The goal of this lab is to practice several skills at once:
 + finding and implementing new functions that help solve problems
@@ -9,8 +9,11 @@ The goal of this lab is to practice several skills at once:
 + doing what humans are good at, i.e., asking "What if ...?" and "How about ...?"
 
 
-Keep in mind: There are many ways to solve the problems below.  The idea is to be resourceful about finding some way that works.  You can look for built-in functions for parsing date and time data, you can look for functions that are part of libraries/packages that are not part of base R, and/or write your own code/functions.  All these types of approaches have value; all have their own limitations, costs, and benefits.  
+Keep in mind: There are many ways to solve the problems below.  The idea is to be resourceful about finding some way that works.  You can look for built-in functions for parsing date and time data, you can look for functions that are part of libraries/packages that are not part of base R, and/or write your own code/functions.  All these types of approaches have value; all have their own limitations, costs, and benefits.    
+
 Try simple things first, and try to use web searches to your advantage.  Experiment in the console with ways of converting data from one format/class into another.  See what happens with methods you know and with new ones you discover.  Feel free to talk to people too.  Chances are, even once you find some method that seems like it will work, you will still need to fine tune it to get it to work.
+
+And finally, if you spend the entire two hours on nothing but Problem #1, don't worry; Sam spent at least that much time figuring out ways to approach it.
 
 ### Preliminary Step: import the camera trap data file
 I suggest importing with the stringsAsFactors option set to `FALSE`, i.e., 

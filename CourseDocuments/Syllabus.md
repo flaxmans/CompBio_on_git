@@ -124,17 +124,17 @@ ______________________________
         + Data "Description" at [https://doi.org/10.5061/dryad.br86d](https://doi.org/10.5061/dryad.br86d)
 
 ###### Week 9
- + Follow-up on lab
+ + Follow-up on labs from weeks 7 and 8
  + Putting it all together: working through data problems with real data
     + using previously learned tools and new tools
     + file exploration and parsing on the command line
     + data exploration in R
     + scripting basic analyses and descriptive visualizations 
- + Lab week 9 : a data parsing problem (prep by doing reading listed below)
+ + [Lab week 9](https://github.com/flaxmans/CompBio_on_git/blob/master/Labs/Lab09/Lab09_ParsingData.md): data parsing problems (prep by doing reading listed below)
  + Action items:
     + see two paragraphs of reading listed in week 8
     + Read about parsing dates and times in R at [https://www.stat.berkeley.edu/~s133/dates.html](https://www.stat.berkeley.edu/~s133/dates.html)
-    + Assignment 8 (to be posted soon)
+
  
  
  
