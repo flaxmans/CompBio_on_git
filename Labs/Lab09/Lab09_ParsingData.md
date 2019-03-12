@@ -64,8 +64,10 @@ the user's choice?
 
 <hr>
 
-### NOTE: 
-You do NOT have to complete and push your work for this lab; Sam's expectation is that you will spend two hours of time doing what you can, and then we will be building on this in class next week.
+### "Finishing" (or not) this lab:
+**Please add, commit, and push whatever you have done by the end of the lab period to your GitHub repo, regardless of its completeness or functionality**.  Sam just wants to see what you did.   If you got NOTHING to work, put some examples of things you tried in your Lab 09 script, with comments about what didn't work and how you knew it didn't work.
+
+Hence, you do NOT have to complete all the problems, nor submit fulling working code; Sam's expectation is that you will spend two hours of time doing what you can, and then we will be building on our collective ideas in class next week.  Of course, if you want to keep working on it after lab ends, please feel free!  Work for this lab will NOT be graded.  But your attendance and efforts are expected in lab, of course!  Thanks!
 
 
 
