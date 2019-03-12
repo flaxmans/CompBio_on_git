@@ -13,6 +13,7 @@
 bestVariableEvah <- myAwesomeFunction( args )
 ```
 2. Good documentation might also have a [link to relevant info](https://youtu.be/dQw4w9WgXcQ)
+3. You can even do [D & D-style markdown!](https://homebrewery.naturalcrit.com/) 
 
 ### Conclusion 
 As a wise cat once said:
