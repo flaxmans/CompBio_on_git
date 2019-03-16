@@ -40,8 +40,10 @@ do
     filename=$i.csv
     # get the header:
     echo $header > dataFilesBySpecies/$filename
+    # species name with spaces:
+    speciesName=$(echo $i | tr '_' ' ')
     # get the right lines of data:
-    grep $i Cusack_et_al_random_versus_trail_camera_trap_data_Ruaha_2013_14.csv >> dataFilesBySpecies/$filename
+    grep "$speciesName" Cusack_et_al_random_versus_trail_camera_trap_data_Ruaha_2013_14.csv >> dataFilesBySpecies/$filename
 done
 
 # Note: the grep command is a very simple way to approach this; not the most efficient computationally
