@@ -135,8 +135,16 @@ ______________________________
     + see two paragraphs of reading listed in week 8
     + Read about parsing dates and times in R at [https://www.stat.berkeley.edu/~s133/dates.html](https://www.stat.berkeley.edu/~s133/dates.html)
 
- 
- 
+
+###### Week 10
++ Continuation of last week's challenges
+    + Putting it all together: working through data problems with real data
+    + using previously learned tools and new tools
+    + file exploration and parsing on the command line
+    + data exploration in R
+    + scripting basic analyses and descriptive visualizations 
++ There is NO lab this week!
+
  
 ###### More to come soon!
 

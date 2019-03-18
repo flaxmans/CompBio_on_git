@@ -40,7 +40,7 @@ do
     filename=$i.csv
     # get the header:
     echo $header > dataFilesBySpecies/$filename
-    # species name with spaces:
+    # species name with spaces for grep operation since originals have spaces:
     speciesName=$(echo $i | tr '_' ' ')
     # get the right lines of data:
     grep "$speciesName" Cusack_et_al_random_versus_trail_camera_trap_data_Ruaha_2013_14.csv >> dataFilesBySpecies/$filename
