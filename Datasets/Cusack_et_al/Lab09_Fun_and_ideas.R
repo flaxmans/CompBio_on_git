@@ -11,8 +11,8 @@ rm(list = ls())
 ### ---------- Part 1: Converting strings to datetime objects: -----#
 
 # customize the next line as needed:
-# get the data
 setwd("~/compbio/CompBio_on_git/Datasets/Cusack_et_al/") # set for your clone of Sam's repo
+# get the data
 camData <- read.csv("Cusack_et_al_random_versus_trail_camera_trap_data_Ruaha_2013_14.csv", stringsAsFactors = F)
 smallStringVec <- tail(camData$DateTime)
 oneStringDate <- smallStringVec[1]
