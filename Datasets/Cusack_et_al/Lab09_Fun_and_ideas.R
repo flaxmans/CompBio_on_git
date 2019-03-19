@@ -60,6 +60,9 @@ format(smallDates, "%Y")
 as.numeric(smallDates) # date in seconds since 1/1/1970, so years before 1970 make this negative!
 as.numeric( format(smallDates, "%Y") ) # years not 2013 or 2014 are "bad"
 substr(format(smallDates, '%Y'), start = 1, stop = 2) == '00' # finds years starting with 00! Nice!
+substr(smallDates, start = 1, stop = 2) == '00' # even works without the format command!
+smallDates < "2013-01-01"   # this kind of comparison is also allowed!  Cool!
+smallDates >= "2013-01-01"
 
 
 # in the end, many ways were found.  Some elegant vectorized ways.  Keep
@@ -149,13 +152,13 @@ allStrpDates4 <- replace(allStrpDates4, badYearIndexes, FormatDateTwoYear)
 # here's a way with string parsing and a function called gsub()
 allStrpDates5 <- strptime(camData$DateTime, format = "%d/%m/%Y %H:%M", tz = "GMT")
 ?gsub
-gsub("0013", 2013, smallDates)
-str(gsub("0013", 2013, smallDates)) # makes times back into strings! so ... back and forth:
+gsub("0013", "2013", smallDates)
+str(gsub("0013", "2013", smallDates)) # makes times back into strings! so ... back and forth:
 # AND note that the indexing is NOT necessary, because gsub only changes the ones that match!
 # do the 13's:
-allStrpDates5 <- strptime(gsub("0013", 2013, allStrpDates5), format = '%Y-%m-%d %H:%M:%S', tz = "GMT")
+allStrpDates5 <- strptime(gsub("0013", "2013", allStrpDates5), format = '%Y-%m-%d %H:%M:%S', tz = "GMT")
 # and the 14's:
-allStrpDates5 <- strptime(gsub("0014", 2014, allStrpDates5), format = '%Y-%m-%d %H:%M:%S', tz = "GMT")
+allStrpDates5 <- strptime(gsub("0014", "2014", allStrpDates5), format = '%Y-%m-%d %H:%M:%S', tz = "GMT")
 
 # here's a way using a function like one of you wrote, taking advantage of substring:
 # one of you made a function for the latter:

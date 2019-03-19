@@ -144,6 +144,7 @@ ______________________________
     + data exploration in R
     + scripting basic analyses and descriptive visualizations 
 + There is NO lab this week!
++ Action item: please read (at least) through section 3.6 at the following guide to ggplot2: [https://r4ds.had.co.nz/data-visualisation.html](https://r4ds.had.co.nz/data-visualisation.html)
 
  
 ###### More to come soon!
