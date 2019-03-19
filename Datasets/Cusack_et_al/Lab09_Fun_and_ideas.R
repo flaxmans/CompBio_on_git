@@ -272,10 +272,15 @@ all(datesTimeLBD == datesTimesSTRP)
 
 # You can also solve it with parsing in the terminal, using this command to the shell:
 # sed 's/\/13 /\/2013 /' Cusack_et_al_random_versus_trail_camera_trap_data_Ruaha_2013_14.csv | sed 's/\/14 /\/2014 /' > CusackDataFourDigitYears.csv
-# check out man sed in your terminal to see what sed is
+# Check out man sed in your terminal to see what sed is.
+# See also the file "FixTwoDigitDatesOneLiner.sh" for this as a one-line shell script
+# which also contains an explanation of the sed command
 sedParsedData <- read.csv("CusackDataFourDigitYears.csv", stringsAsFactors = F)
-sedParsedDates <- strptime(sedParsedData$DateTime, format = "%d/%m/%Y %H:%M", tz = "GMT")
-all(sedParsedDates == allStrpDates)
+sedDatesTimes <- sedParsedData$DateTime
+sedDatesTimes <- paste(sedDatesTimes, "+0300") # account for time zone, East Africa Time, GMT + 0300
+sedParsedDates <- strptime(sedDatesTimes, format = "%d/%m/%Y %H:%M %z", tz = "GMT")
+# Check if it gives the same results:
+all(sedParsedDates == datesTimesSTRP)
 sedParsedYears <- as.numeric(format(sedParsedDates, "%Y"))
 all(sedParsedYears == 2013 | sedParsedYears == 2014)
 
