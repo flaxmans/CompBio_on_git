@@ -1,8 +1,11 @@
-setwd("~/compbio/CompBio_on_git/") # set for your clone of Sam's repo
-camData <- read.csv("Datasets/Cusack_et_al/Cusack_et_al_random_versus_trail_camera_trap_data_Ruaha_2013_14.csv", stringsAsFactors = F)
+setwd("~/compbio/CompBio_on_git/Datasets/Cusack_et_al/") # set for your clone of Sam's repo
+camData <- read.csv("CusackDataFourDigitYears.csv", stringsAsFactors = F)
+# NOTE, this uses file with two digit years replaced to be four-digits
 
-
-# ---------- PART 1: Filtering and analyzing with basic functions --------------- #
+###############################################################################
+# -------- PART 1: Filtering and analyzing with basic functions ------------- #
+# -------------------- This is a "Bite-Sized Warmup" ------------------------ #
+###############################################################################
 
 # get rows of data for elephants in the wet season:
 # use row indexing with vectorized conditionals
@@ -45,8 +48,10 @@ boxplot(eleframe$Random - eleframe$Trail)
 # that was 12 lines of code total to get all of that, with nothing beyond base R
 # and three of those lines are just prints to the console, so it's only 9 lines of actual code!
 
+###############################################################################
 # ------------------------------- PART 2 ------------------------------------ #
 # --------------------- How about more variables at once? --------------------#
+###############################################################################
 
 # cross tabulate for Species and Placement:
 allTab <- with(camData, table(Species,Placement))
@@ -62,14 +67,14 @@ ftable(allTab) # each species has multiple data points, one
 alldf <- as.data.frame(allTab)
 # make plotting easy with ggplot:
 library(ggplot2)
-ggplot(alldf, aes(x = Placement, y = Freq, fill = Placement)) + 
+ggplot(alldf, aes(x = Placement, y = Freq)) + 
   geom_boxplot() + 
-  facet_wrap(~Species, scale="free")
+  facet_wrap(facets = ~Species, scale="free")
 # interpretation of ggplot command:
   # line 1: make a ggplot object, with 
     # x axis variable = Placement
     # y axis variable = Freq (frequency count)
-    # fill color will correspond to Placement (like x axis)
+    
   # line 2: make a boxplot type of plot
   # line 3: make a multi-panel plot, where each panel 
       # corresponds to a different species, and let the y-axis
@@ -78,9 +83,10 @@ ggplot(alldf, aes(x = Placement, y = Freq, fill = Placement)) +
 # That was a crazy amount of plots!  And it only took TWO lines of
 # code followed by a 3-line ggplot() command!!  
 
-
-# -------------------------- PART 3 ---------------------------#
-# -------------- subsetting AND cross-tabulation ------------- #
+###############################################################################
+#### ------------------------------ PART 3 ------------------------------- ####
+#### ------------------ subsetting AND cross-tabulation ------------------ ####
+###############################################################################
 
 # Given that the last part made a crazy number of plots, 
 # how about the 12 most common species?
@@ -115,11 +121,13 @@ alldf <- as.data.frame(allTab)
 # use ggplot to break it down by species, placement, and season:
 ggplot(alldf, aes(x = Season, y = Freq, fill = Placement)) + 
   geom_boxplot() + 
-  facet_wrap(~Species, scale="free")
+  facet_wrap(facets = ~Species, scale="free")
 
+###############################################################################
 # ------------------------------- PART 4 -------------------------------------#
 # ------- Pairwise DIFFERENCES for numbers of observartions by placement, ----#
 # ---------------------- species, and station ------------------------------- #
+###############################################################################
 
 calcPairwisePlacementDiffs <- function( data ){
   # function to make it easy to calculate pairwise diffs for numbers of 
@@ -206,16 +214,18 @@ for ( sp in species ) {
 
 ggplot(PairwiseDiffs, aes(x = Season, y = Random_minus_Trail)) + 
   geom_boxplot() + 
-  facet_wrap(~Species, scale="free")
+  facet_wrap(facets = ~Species, scale="free")
 
 
-# ---------------------------------- PART 5 ----------------------------------- #
-# ------ VALIDATION!  How can we check if we did what we THINK we did? -------- #
-# ---- Compare results from part 1 with part 4 to check for consistency ------- #
+###############################################################################
+# ---------------------------------- PART 5 --------------------------------- #
+# ------ VALIDATION!  How can we check if we did what we THINK we did? ------ #
+# ---- Compare results from part 1 with part 4 to check for consistency ----- #
+###############################################################################
 
 # get data on just wet season for elephants from data.frame created in part 4:
 justEle <- PairwiseDiffs[(PairwiseDiffs$Species == "Elephant" & PairwiseDiffs$Season == "W"), ]
-# remove NA's since the crosstabulation in part 1 automatically did that:
+# remove NA's since the cross-tabulation in part 1 automatically did that:
 justEle <- justEle[!is.na(justEle$Random_minus_Trail), ]
 # check numbers:
 nrow(justEle) == nrow(eleframe)  # should be TRUE if we have the same AMOUNT of data
