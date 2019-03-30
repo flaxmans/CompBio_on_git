@@ -84,9 +84,9 @@ The goal of this problem is to figure out which families of trees have the great
 | Achariaceae | 0.610 | 
 | Actinidiaceae | 0.411 |
 
-*Hints*:
-        + Your result should have a number of rows equal to the number of families in the data set, which is 191  
-        + You should be able to co-opt your procedure from problem 5 for this problem. 
+*Hints*:  
++ Your result should have a number of rows equal to the number of families in the data set, which is 191  
++ You should be able to co-opt your procedure from problem 5 for this problem. 
 
 + 6b. Sort the result of problem 6a by MeanDensity (and store the sorted result in a data frame).  *Hints*:  
     + using only base R, you could try the `order()` function
@@ -97,6 +97,8 @@ The goal of this problem is to figure out which families of trees have the great
     + What are the 8 families with the lowest average densities?
 
 #### Part III.  Plotting
+
+For these problems, you will need to `library("ggplot2")`
 
 ##### 7.  Plotting densities of most and least dense families with facets
 The goal of this part is to make two figures using `ggplot` combined with the results of multiple previous problems.  Here are two plots we want to produce:
@@ -113,9 +115,15 @@ To think about writing code that accomplishes this, consider the individual data
 + Hint for subsetting: if you have a vector of family names that you want to use as the criteria for subsetting, the `%in%` operator can be very helpful (check out [line 108 of Sam's code for some of the Cusack et al. dataset problems](https://github.com/flaxmans/CompBio_on_git/blob/a6fbde60316c0d986fa1ec24b23402d480097855/Datasets/Cusack_et_al/FilteringAndPlottingExamples.R#L108) for an example).
 
 
+##### 8.  Facilitating comparisons with graphics.
+The plots from the last problem aren't the easiest to compare.  In this case we might instead prefer something like the following:
+
+![8 most dense families on one plot with coordinates flipped](CoordFlipMostDense.png)
+
+![8 least dense families on one plot with coordinates flipped](CoordFlipLeastDense.png)
 
 
-
+Try to figure out the syntax in `ggplot` to plot the same data but instead in this format.  *Hint*: you no longer need `facet_wrap()`, but you will need `coord_flip()`.
 
 
 
