@@ -3,14 +3,18 @@
 ## More data filtering, subsetting, summarizing, and plotting
 
 ### Goals for this lab
-1. Compare 
+1. Creatively solve problems involving summarizing data that have real-world features like missing values, pseudoreplication, and nested structure.
+2. Practice using `ggplot`
+3. Consider ways to "build your own" solutions from base R functions compared to one-liners from `dplyr`.  Think about ways to "know" that you are getting the results you intend to get, and ways to validate that.
 
-### Overall description:
+### Background:
 This week we'll be working with the data published as: "Data from: Towards a worldwide wood economics spectrum".  Full citation:
 > Zanne AE, Lopez-Gonzalez G, Coomes DA, Ilic J, Jansen S, Lewis SL, Miller RB, Swenson NG, Wiemann MC, Chave J (2009) Data from: Towards a worldwide wood economics spectrum. Dryad Digital Repository. [https://doi.org/10.5061/dryad.234][datalink]
 
 These data were archived at Dryad in association with the following publication:
 > Chave J, Coomes DA, Jansen S, Lewis SL, Swenson NG, Zanne AE (2009) Towards a worldwide wood economics spectrum. Ecology Letters 12(4): 351-366. https://doi.org/10.1111/j.1461-0248.2009.01285.x
+
+The general biological question we will be asking of these data is: *How does wood density vary across families of tree species?*
 
 
 ### Instructions for Lab:
@@ -101,8 +105,12 @@ Densities of individual species from the families with the highest average densi
 ![8 most dense families](MostDenseFacet.png)
 
 Densities of individual species from the families with the lowest average densities:  
-![8 most dense families](LeastDenseFacet.png)
+![8 least dense families](LeastDenseFacet.png)
 
+To think about writing code that accomplishes this, consider the individual data points and how they are organized:
++ Each individual point comes from one species (not a family mean), so you want to plot some of the data obtained from problem 5
++ You need to plot a subset of the data, corresponding to the species from the families with the highest or lowest densities, which is information you gained from problem 6.
++ Hint for subsetting: if you have a vector of family names that you want to use as the criteria for subsetting, the `%in%` operator can be very helpful (check out [line 108 of Sam's code for some of the Cusack et al. dataset problems](https://github.com/flaxmans/CompBio_on_git/blob/a6fbde60316c0d986fa1ec24b23402d480097855/Datasets/Cusack_et_al/FilteringAndPlottingExamples.R#L108) for an example).
 
 
 
