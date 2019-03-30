@@ -149,10 +149,11 @@ ______________________________
  -- Spring Break --
  
  ###### Week 11
- + Final projects announced and described (see also [Assignment 08][Assignment8link])
- + More fun with real data
- + Wrapping up work with the Cusack et al. dataset
- + Action Item: [Assignment 08][Assignment8link]
++ Final projects announced and described (see also [Assignment 08][Assignment8link])
+    + More fun with real data
+    + Wrapping up work with the Cusack et al. dataset
++ Lab for Week 11: more practice filtering, subsetting, summarizing, and plotting data
++ Action Item: [Assignment 08][Assignment8link]
 
  
 ###### More to come soon!
