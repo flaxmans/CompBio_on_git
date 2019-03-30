@@ -25,7 +25,7 @@ For the independent project, the eventual goal will be for you to define and sol
             + an easy to follow structure,  
             + nice formatting,  
             + proper spelling and grammar, etc.  
-        b. Create a 5-minute PowerPoint presentation that you will deliver to classmates on Tuesday, 4/16.  Please bring your computer to class on 4/16 AND also email your presentation to Sam by 11:59 p.m. on Monday, 4/15.
+        b. Create a **5-minute PowerPoint presentation** that you will deliver to classmates on Tuesday, 4/16.  Please bring your computer to class on 4/16 AND also email your presentation to Sam by 11:59 p.m. on Monday, 4/15.  A [suggested template is available in the Assignments directory](https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/08_Suggested_Presentation_Template.pptx) of Sam's repo.
 	
 <hr>
 

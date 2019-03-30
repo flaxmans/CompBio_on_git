@@ -146,6 +146,14 @@ ______________________________
 + There is NO lab this week!
 + Action item: please read (at least) through section 3.6 at the following guide to ggplot2: [https://r4ds.had.co.nz/data-visualisation.html](https://r4ds.had.co.nz/data-visualisation.html)
 
+ -- Spring Break --
+ 
+ ###### Week 11
+ + Final projects announced and described (see also [Assignment 08][Assignment8link])
+ + More fun with real data
+ + Wrapping up work with the Cusack et al. dataset
+ + Action Item: [Assignment 08][Assignment8link]
+
  
 ###### More to come soon!
 
@@ -225,6 +233,7 @@ See the [campus policy regarding religious observances](https://www.colorado.edu
 [Assignment5link]: https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/05_TasksForWeek5.md
 [Assignment6link]: https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/06_TasksForWeek7.md
 [Assignment7link]: https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/07_TasksForWeek8.md
+[Assignment8link]: https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/08_Independent_Project_Step1.md
 
 [Lab8link]: https://github.com/flaxmans/CompBio_on_git/blob/master/Labs/Lab08/Lab08_documentation_and_metadata.md
 
