@@ -98,10 +98,10 @@ The goal of this problem is to figure out which families of trees have the great
 The goal of this part is to make two figures using `ggplot` combined with the results of multiple previous problems.  Here are two plots we want to produce:
 
 Densities of individual species from the families with the highest average densities:  
-![8 most dense families][MostDenseFacet.png]
+![8 most dense families](MostDenseFacet.png)
 
 Densities of individual species from the families with the lowest average densities:  
-![8 most dense families][LeastDenseFacet.png]
+![8 most dense families](LeastDenseFacet.png)
 
 
 
