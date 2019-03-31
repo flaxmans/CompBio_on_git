@@ -123,9 +123,9 @@ The plots from the last problem aren't the easiest to compare.  In this case we 
 ![8 least dense families on one plot with coordinates flipped](CoordFlipLeastDense.png)
 
 
-Try to figure out the syntax in `ggplot` to plot the same data but instead in this format.  *Hint*: you no longer need `facet_wrap()`, but you will need `coord_flip()`.
-
-
+Try to figure out the syntax in `ggplot` to plot the same data but instead in this format.  *Hints*:  
++ You no longer need `facet_wrap()`, but you will need `coord_flip()`.  
++ For ease, I made these as two separate plots (not a single plot with "facets").
 
 
 
