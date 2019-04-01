@@ -1,3 +1,4 @@
+rm(list = ls())
 setwd("~/compbio/CompBio_on_git/Datasets/Cusack_et_al/") # set for your clone of Sam's repo
 camData <- read.csv("CusackDataFourDigitYears.csv", stringsAsFactors = F)
 # NOTE, this uses file with two digit years replaced to be four-digits
@@ -66,7 +67,7 @@ ftable(allTab) # each species has multiple data points, one
 # Convert to data.frame for more ease of analysis:
 alldf <- as.data.frame(allTab)
 # make plotting easy with ggplot:
-library(ggplot2)
+library("ggplot2")
 ggplot(alldf, aes(x = Placement, y = Freq)) + 
   geom_boxplot() + 
   facet_wrap(facets = ~Species, scale="free")
@@ -217,9 +218,132 @@ ggplot(PairwiseDiffs, aes(x = Season, y = Random_minus_Trail)) +
   facet_wrap(facets = ~Species, scale="free")
 
 
+##############
+# here's another way to get pairwise diffs with NO loops!
+
+#camData <- read.csv("~/compbio/CompBio_on_git/Datasets/Cusack_et_al/CusackDataFourDigitYears.csv", stringsAsFactors = F)
+
+counts <- as.data.frame(with(camData, table(Placement,Season,Station,Species)), stringsAsFactors = F)
+
+# a check on how big it should be 
+nrow(counts) == 2 * 2 * length(unique(camData$Species)) * length(unique(camData$Station))
+
+# take a look:
+head(counts, n = 21)
+# note regular structure to the data in the "counts" data frame:
+# odd rows are "Random"; even are "Trail"
+# Dry/wet alternate in groups of two
+# stations alternate in groups of four
+# that nice structure suggests an easy way to do pairwise comparisons by station!
+# note that we got that kind of structure because of the order of arguments passed to 
+# the table() function on line 3 above
+n <- nrow(counts)
+randomRows <- seq(from = 1, to = n-1, by = 2)
+trailRows <- randomRows + 1
+
+# check:
+all(counts$Placement[randomRows] == "Random")
+all(counts$Placement[trailRows] == "Trail")
+randomCounts <- counts[randomRows, ]
+trailCounts <- counts[trailRows, ]
+all(randomCounts[,2:4] == trailCounts[, 2:4]) #these should be identical if the 
+# ordering is true and accurate to the pattern noted above.  
+# if not, we can't use this method.
+
+# unstacked:
+pairCounts <- data.frame(Season = randomCounts$Season,
+                         Station = randomCounts$Station,
+                         Species = randomCounts$Species,
+                         RandomCount = randomCounts$Freq,
+                         TrailCount = trailCounts$Freq,
+                         TotalStationCount = randomCounts$Freq + trailCounts$Freq,
+                         RandomMinusTrail = randomCounts$Freq - trailCounts$Freq,
+                         stringsAsFactors = F)
+
+# find most common species:
+library("dplyr")  # for arrange() function and summarise() function
+speciesCountsD <- summarise(group_by(pairCounts, Species), totalObs = sum(TotalStationCount))
+speciesCountsSortedD <- arrange(.data = speciesCountsD, desc(totalObs))
+speciesCountsSortedD     
+
+top12 <- speciesCountsSortedD$Species[1:12]
+reducedPairCounts <- subset(pairCounts, Species %in% top12, RandomCount > 0 & TrailCount > 0)
+
+ggplot(reducedPairCounts, aes(x = Season, y = RandomMinusTrail)) + 
+  geom_boxplot() + 
+  facet_wrap(~Species, scales = "free")
+
+
+### Validation with loop method above:
+nrow(PairwiseDiffs) == nrow(reducedPairCounts)
+
+rpcs <- arrange(reducedPairCounts, Species, Station, Season)
+pds <- arrange(PairwiseDiffs, Species, Station, Season)
+all(pds$Species == rpcs$Species)
+all(pds$Season == rpcs$Season)
+all(pds$Station == rpcs$Station)
+# pds has NAs; rpcs have all zeros in those spots
+remove <- is.na(pds$Random_minus_Trail)
+sum(remove)
+keep <- !remove
+sum(keep)
+all(rpcs$RandomMinusTrail[remove] == 0)
+pds <- pds[keep, ]
+rpcs <- rpcs[keep, ]
+
+all(pds$Random_minus_Trail == rpcs$RandomMinusTrail)
+
+
+############
+# and finally a tidyverse way
+library("tidyr")
+
+#camData <- read.csv("~/compbio/CompBio_on_git/Datasets/Cusack_et_al/CusackDataFourDigitYears.csv", stringsAsFactors = F)
+
+counts4tidy <- as.data.frame(with(camData, table(Placement,Season,Station,Species)), stringsAsFactors = F)
+
+countsSpread <- spread(counts4tidy, Placement, Freq)
+
+# validate:
+countsSpreadSorted <- arrange(countsSpread, Species, Station, Season)
+pairCountsSorted <- arrange(pairCounts, Species, Station, Season)
+
+nrow(countsSpreadSorted) == nrow(pairCountsSorted)
+all(pairCountsSorted$RandomCount == countsSpreadSorted$Random)
+all(pairCountsSorted$TrailCount == countsSpreadSorted$Trail)
+
+css <- subset(countsSpreadSorted, Species %in% topSpecies)
+rpcs <- arrange(reducedPairCounts, Species, Station, Season)
+all(css$Season == rpcs$Season)
+all(css$Station == rpcs$Station)
+all(css$Random == rpcs$RandomCount)
+all(css$Trail == rpcs$TrailCount)
+
+# let's let ggplot do the calculation for us:
+ggplot(css) + 
+  geom_boxplot(aes(x = Season, y = Random - Trail)) + 
+  facet_wrap( ~Species, scales = "free")
+# that plot includes the zeros when BOTH placements for a station had 
+# NO observations for a given species in a given season
+
+# compare to first method with loops where NO obs led to NAs:
+cssNoZeros <- subset(css, Random != 0 | Trail != 0)
+PairwiseDiffsNoNAs <- subset(PairwiseDiffs, !is.na(Random_minus_Trail))
+pdnna <- arrange(PairwiseDiffsNoNAs, Species, Station, Season)
+all(cssNoZeros$Season == pdnna$Season)
+all(cssNoZeros$Station == pdnna$Station)
+all(cssNoZeros$Species == pdnna$Species)
+cssDiffs <- cssNoZeros$Random - cssNoZeros$Trail
+all(cssDiffs == pdnna$Random_minus_Trail)
+
+ggplot(cssNoZeros) + 
+  geom_boxplot(aes(x = Season, y = Random - Trail)) + 
+  facet_wrap( ~Species, scales = "free")
+# latter plot looks exactly like the one produced from the loop method above!
+
 ###############################################################################
 # ---------------------------------- PART 5 --------------------------------- #
-# ------ VALIDATION!  How can we check if we did what we THINK we did? ------ #
+# --MORE VALIDATION!  How can we check if we did what we THINK we did? ------ #
 # ---- Compare results from part 1 with part 4 to check for consistency ----- #
 ###############################################################################
 

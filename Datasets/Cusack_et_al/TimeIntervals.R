@@ -78,6 +78,8 @@ dfTimeIntervals <- data.frame(Season,TimeInterval, stringsAsFactors = F)
 # put the mean observations into a format that can be used intelligently with ggplot:
 meanObs <- data.frame(Season = c("D", "W"), Avg = c(meanObs[1,"D"], meanObs[1,"W"]))
 
+# plot the distributions of time intervals between consecutive camera observations
+# and draw a vertical line at the mean for each
 library(ggplot2)
 ggplot(dfTimeIntervals, aes(x = TimeInterval, fill = Season, color = Season)) + 
   geom_histogram() + 
