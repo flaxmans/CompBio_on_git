@@ -159,6 +159,12 @@ ______________________________
     + Preview the data set we'll work on in lab this week:
         + Read the abstract of [the original publication](https://doi.org/10.1111/j.1461-0248.2009.01285.x)
         + Download the [data package from Dryad](https://doi.org/10.5061/dryad.234)
+    + Get ahead for lab on Friday: 
+        + Check out the `order()` function in base R
+        + `install.packages("tidyverse")`
+        + In the `dplyr` package, check out `arrange()` and `summarise()`
+        + Play with `ggplot()`
+        
 
  
 ###### More to come soon!
