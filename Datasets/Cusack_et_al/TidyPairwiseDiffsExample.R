@@ -119,3 +119,43 @@ class(plot1)
 str(plot1)
 
 
+########################################################################
+## Some examples that may help with lab 11:
+
+dataToPlot <- subset(countsSpread, Species %in% top12)
+
+dataToPlot$RminusT <- dataToPlot$Random - dataToPlot$Trail
+
+# summarise by species averages:
+avgDiffs <- summarise(group_by(dataToPlot, Species), 
+                      meanDiff = mean(RminusT))
+avgDiffs
+
+# but why not have more info?
+avgDiffs <- summarise(group_by(dataToPlot, Species), 
+                      meanDiff = mean(RminusT), # mean
+                      SDdiff = sd(RminusT),     # standard deviation
+                      n = n())                  # sample size for each
+
+# how about sorted in descending order of diffs?
+avgDiffs <- arrange(avgDiffs, desc(meanDiff))
+avgDiffs
+
+### --------- BELOW is totally optional stuff for fun ----------###
+### ---------------- "Piping" in the tidyverse -----------------###
+# here's summarising in a tidy way with pipes:
+avgDiffs <- dataToPlot %>%            # get the data, then
+  group_by(Species) %>%               # group by species, then
+  summarise(meanDiff = mean(RminusT), # summarise by mean,
+            SDdiff = sd(RminusT),         # standard deviation, and
+            n = n()) %>%                  # sample size for each, then
+  arrange(desc(meanDiff))             # sort descending on meanDiff
+
+avgDiffs
+
+# Similar to the UNIX shell, pipes %>% in the tidyverse 
+# make the output of one command the "data" argument of 
+# the following command.  That means you are usually "piping"
+# a data frame (or similar rectangular object) from one
+# to the next
+  

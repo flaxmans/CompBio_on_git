@@ -16,6 +16,17 @@ These data were archived at Dryad in association with the following publication:
 
 The general biological question we will be asking of these data is: *How does wood density vary across families of tree species?*
 
+### Helpful hints:
+
++ Some operations will be easily done with functions we have learned before, like
+    + `is.na()`
+    + conditionals
+    + subsetting with indexes
+
++ Some operations might involve (if you wish) new functions from `dplyr`, including
+    + `arrange()`  ([here](https://dplyr.tidyverse.org/reference/arrange.html) is an example)
+    + `summarise()` used with `group_by()` ([here](https://dplyr.tidyverse.org/reference/summarise.html) is one reference showing them used together)
+
 
 ### Instructions for Lab:
 
