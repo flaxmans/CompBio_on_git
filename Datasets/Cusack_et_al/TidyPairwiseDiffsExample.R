@@ -153,9 +153,16 @@ avgDiffs <- dataToPlot %>%            # get the data, then
 
 avgDiffs
 
+# use means and SDs for plot, just for fun:
+ggplot( avgDiffs, aes(x = Species, y = meanDiff) ) + 
+  geom_point() +
+  geom_errorbar( aes(ymin = meanDiff - SDdiff, ymax = meanDiff + SDdiff)) +
+  theme(axis.text.x = element_text(angle=90, hjust = 1))
+  
+
 # Similar to the UNIX shell, pipes %>% in the tidyverse 
-# make the output of one command the "data" argument of 
+# make the output of one command become the "data" argument of 
 # the following command.  That means you are usually "piping"
 # a data frame (or similar rectangular object) from one
-# to the next
+# command to the next
   
