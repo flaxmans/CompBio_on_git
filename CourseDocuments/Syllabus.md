@@ -164,7 +164,13 @@ ______________________________
         + `install.packages("tidyverse")`
         + In the `dplyr` package, check out `arrange()` and `summarise()`
         + Play with `ggplot()`
-        
+
+###### Week 12
++ Topics:
+    + More exploration of `ggplot()`
+    + More work with the [tree density database](https://doi.org/10.5061/dryad.234)
++ Action Items: 
+    + [Assignment 08][Assignment8link]
 
  
 ###### More to come soon!
