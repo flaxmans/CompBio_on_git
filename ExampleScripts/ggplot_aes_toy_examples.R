@@ -36,6 +36,11 @@ ggplot(mydata, aes(y = treatment, x = var2)) + geom_line()
 ggplot(mydata, aes(y = var2, LOLCATS = treatment)) + 
   geom_boxplot()
 
+# this makes the same plot as the previous one, but at least it gives
+# a warning message
+ggplot( mydata ) + 
+  geom_boxplot( aes(y = var2, LOLCATS = treatment) )
+
 #################################################################
 # playing with mappings vs. appearances:
 # two lines:
@@ -72,19 +77,19 @@ head(mydata)
 
 # Here is a typical example of mapping with aesthetics.  
 # Note use of objects in aes() call:
-ggplot(mydata) + 
+p1 <- ggplot(mydata) + 
   geom_line(aes( x, y, color = treatment1, linetype = treatment2 )) +
   geom_point( aes( x, y, shape = treatment2 ))
 
 # Here is a typical example of optional aesthetic arguments 
 # given outside of aes().  
 # Note use of values as part of optional arguments:
-ggplot(mydata) + 
+p2 <- ggplot(mydata) + 
   geom_line( aes( x, y ), 
              color = "red", linetype = "dashed" ) +
-  geom_point( aes( x, y ), shape = 12 )
-
-
+  geom_point( aes( x, y ), shape = 12 ) + 
+  
+cowplot::plot_grid(p1,p2)
 
 ###########################################################
 ## Demonstrating Inheritance of aes() mappings
@@ -101,3 +106,5 @@ ggplot( mydata ) +
 ggplot( mydata, aes(x, y) ) + 
   geom_line( aes( color = treatment1 ) ) +
   geom_point( aes( shape = treatment2 ) )
+
+
