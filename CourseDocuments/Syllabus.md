@@ -171,7 +171,14 @@ ______________________________
     + More work with the [tree density database](https://doi.org/10.5061/dryad.234)
 + Action Items: 
     + [Assignment 08][Assignment8link]
-
+    
+###### Week 13
++ Topics:
+    + Student presentations of work to each other! (see [Assignment 08][Assignment8link])
+    + Reviewing problems from Labs 11 and 12
++ **No lab this week!**
++ Action items:
+    + [Independent project, Step 2 = Assignment 09][Assignment9link]
  
 ###### More to come soon!
 
@@ -252,6 +259,7 @@ See the [campus policy regarding religious observances](https://www.colorado.edu
 [Assignment6link]: https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/06_TasksForWeek7.md
 [Assignment7link]: https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/07_TasksForWeek8.md
 [Assignment8link]: https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/08_Independent_Project_Step1.md
+[Assignment9link]: https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/09_Independent_Project_Step2.md
 
 [Lab8link]: https://github.com/flaxmans/CompBio_on_git/blob/master/Labs/Lab08/Lab08_documentation_and_metadata.md
 
