@@ -1,6 +1,6 @@
 # Assignment 09: Independent Project, Step 2: <br> A fully reproducible analysis
 
-### Announced: Thursday, 4/16/19
+### Announced: Tuesday, 4/16/19
 
 ### Due: Friday, May 3rd, at 11:59 p.m.
 
