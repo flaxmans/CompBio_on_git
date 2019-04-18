@@ -16,6 +16,10 @@ This course's main learning goals are for students to:
 
 #### What the course is not:
 This course is intended to give you tools that should help you in other courses focused on topics like "genomics," "bioinformatics," and "statistics," but this is NOT a course that will teach you those subject areas.
+
+#### Why is this an upper division / grad course? 
+Even though this course provides introductory material in computer programming, I expect you to know some fundamentals of organismal biology (like you would learn in 2000- and 3000- level Ecology and Evolution courses).  I also expect you to engage with your own critical thinking abilities, independent problem solving abilities, and independent research abilities.
+
 ______________________________
 
 ## Logistics and Contact Info
@@ -175,10 +179,20 @@ ______________________________
 ###### Week 13
 + Topics:
     + Student presentations of work to each other! (see [Assignment 08][Assignment8link])
-    + Reviewing problems from Labs 11 and 12
+    + Reviewing problems from Labs 11 and 12 if needed
+    + Working with data sets comprising many files
 + **No lab this week!**
 + Action items:
     + [Independent project, Step 2 = Assignment 09][Assignment9link]
+    + Please read [Flaxman et al. 2013](https://doi.org/10.1111/evo.12055) and check out the README file for [the archived data set](https://doi.org/10.5061/dryad.t894r).
+    
+###### Week 14
++ Topics:
+    + Working with data sets comprising many files
++ No official lab this week; "lab" will be like extended office hours
+    + Action items:
+    + [Independent project, Step 2 = Assignment 09][Assignment9link]
+    + Please read [Flaxman et al. 2013](https://doi.org/10.1111/evo.12055) and check out the README file for [the archived data set](https://doi.org/10.5061/dryad.t894r) PRIOR to class this week
  
 ###### More to come soon!
 
