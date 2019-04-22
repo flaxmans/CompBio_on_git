@@ -190,9 +190,10 @@ ______________________________
 + Topics:
     + Working with data sets comprising many files
 + No official lab this week; "lab" will be like extended office hours
-    + Action items:
++ Action items:
     + [Independent project, Step 2 = Assignment 09][Assignment9link]
     + Please read [Flaxman et al. 2013](https://doi.org/10.1111/evo.12055) and check out the README file for [the archived data set](https://doi.org/10.5061/dryad.t894r) PRIOR to class this week
+    + Example data from the `bu2s` model can be found in [this Google Drive folder](https://drive.google.com/drive/folders/17JDH0grD4J6ZW3jMLtfVlRq0bHIih6xa?usp=sharing)
  
 ###### More to come soon!
 
