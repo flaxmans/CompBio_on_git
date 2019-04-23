@@ -189,7 +189,8 @@ ______________________________
 ###### Week 14
 + Topics:
     + Working with data sets comprising many files
-+ No official lab this week; "lab" will be like extended office hours
+    + Shell command line tools applied to big data
++ No official lab this week; "lab" will be like extended office hours; Sam will be in N1B75 during the regularly scheduled time
 + Action items:
     + [Independent project, Step 2 = Assignment 09][Assignment9link]
     + Please read [Flaxman et al. 2013](https://doi.org/10.1111/evo.12055) and check out the README file for [the archived data set](https://doi.org/10.5061/dryad.t894r) PRIOR to class this week
