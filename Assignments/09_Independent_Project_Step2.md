@@ -30,6 +30,8 @@ Your grade on Assignment 9 will be out of a total of 37 available points.  The b
 * A subjective evaluation of the difficulty of your challenge and the elegance, ingenuity, and creativity displayed by your code: 4 points
 
 
+* You must also properly **cite references, of course!!**  See [this guide](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html). 
+
 ____
 
 

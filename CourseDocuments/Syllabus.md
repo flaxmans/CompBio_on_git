@@ -195,6 +195,7 @@ ______________________________
     + [Independent project, Step 2 = Assignment 09][Assignment9link]
     + Please read [Flaxman et al. 2013](https://doi.org/10.1111/evo.12055) and check out the README file for [the archived data set](https://doi.org/10.5061/dryad.t894r) PRIOR to class this week
     + Example data from the `bu2s` model can be found in [this Google Drive folder](https://drive.google.com/drive/folders/17JDH0grD4J6ZW3jMLtfVlRq0bHIih6xa?usp=sharing)
+    + Read this [guide on citing references][CitationLink] for doing Assignment 09.
  
 ###### More to come soon!
 
@@ -282,3 +283,5 @@ See the [campus policy regarding religious observances](https://www.colorado.edu
 [CanvasSiteLink]: https://cuboulder.instructure.com/courses/25233
 
 [WordsToCodeLink]: https://docs.google.com/document/d/1jAa5_lQL5AMd6Qg2UZGkjI_z5a6xtIj9IUgzG2J10vg/edit?usp=sharing
+
+[CitationLink]: https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html
