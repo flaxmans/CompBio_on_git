@@ -25,3 +25,6 @@ cat RegExpTestStrings.txt | grep my[A-Za-z]*tring
 printf "\nResult of: cat RegExpTestStrings.txt | grep m[A-Za-z]*g\n"
 cat RegExpTestStrings.txt | grep m[A-Za-z]*g
 
+printf "\nResult of: cat RegExpTestStrings.txt | sed 's/m.*g/myString/g'\n"
+cat RegExpTestStrings.txt | sed 's/m.*g/myString/g'
+
