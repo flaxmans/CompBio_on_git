@@ -15,7 +15,8 @@ ls | grep Run[12] | wc -l | awk '{print $1}'
 
 # make a variable to store run directories:
 RunDirs=$(ls | grep Run[12])
-
+# also put the list of runs into a file:
+ls | grep Run[12] > dirsHere.txt
 
 # Validate:
 for i in $RunDirs
