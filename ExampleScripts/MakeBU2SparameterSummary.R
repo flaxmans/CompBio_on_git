@@ -33,7 +33,7 @@ makeParameterSummary <- function( dirname = "~/playground/bu2splay/", DEBUG = T)
     ri_status[i] <- RI_REACHED == 1
     
     # some directories/runs didn't have certain parameters
-    # these discovered from error messages
+    # this was discovered from error messages
     if ( exists( "PURE_NEUTRAL_MODEL" ) ) {
       is_neutral_model[i] <- PURE_NEUTRAL_MODEL == 1
     } else {
@@ -57,8 +57,7 @@ makeParameterSummary <- function( dirname = "~/playground/bu2splay/", DEBUG = T)
           cat(c(totalMutationsIntroduced, MUTATIONS_PER_GENERATION, totalGenerationsElapsed))
           cat("\n")
         }
-        # end debugging stuff
-      }
+      } # end debugging stuff
     } else {
       mut_per_gen[i] <- NA
     }
@@ -89,14 +88,16 @@ makeParameterSummary <- function( dirname = "~/playground/bu2splay/", DEBUG = T)
   
 }
 
-testParameterCombos <- makeParameterSummary()
 
+
+testParameterCombos <- makeParameterSummary( DEBUG = F )
 testParameterCombos
 
+# now try the whole data set of over 6000 directories:
 system.time( allParameterCombos <- makeParameterSummary("/Volumes/4TB_USB_SG2/"))
 # first try took 129 seconds and returned no errors!
-
 head(allParameterCombos, n = 50)
+write.csv(allParameterCombos, row.names = F, file = "/Volumes/4TB_USB_SG2/ParameterSummaryOfRuns.csv")
 
 
 # visualize some results for fun:
@@ -113,7 +114,11 @@ myjit <- 0.001
 ggplot(mySubset, mapping = aes(x = s, y = m)) + 
   geom_jitter(aes(color = RI), height = myjit, width = myjit)
 
-ggplot(mySubset, mapping = aes(x = s, y = (total_mutations))) + 
+ggplot(mySubset, mapping = aes(x = s, y = (mut_per_gen * total_gens))) + 
+  stat_smooth(aes(color = as.factor(m)), method = lm) + 
+  facet_wrap( ~ N )
+
+ggplot(mySubset, mapping = aes(x = s, y = (mut_per_gen * total_gens))) + 
   geom_smooth(aes(color = as.factor(m)), method = lm) + 
   facet_wrap( ~ N )
 
