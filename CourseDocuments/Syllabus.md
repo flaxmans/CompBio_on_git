@@ -201,8 +201,8 @@ ______________________________
  + Topics:
     + Working with data sets comprising many files
     + Methods for creating visual and quantitative summaries across multiple data files
- + No official lab this week; "lab" will be like extended office hours; Sam will be in N1B75 during the regularly scheduled time
- + Action items:
++ No lab this week; Friday is the reading day
++ Action items:
     + [Independent project, Step 2 = Assignment 09][Assignment9link]
     + Example data from the `bu2s` model can be found in [this Google Drive folder](https://drive.google.com/drive/folders/17JDH0grD4J6ZW3jMLtfVlRq0bHIih6xa?usp=sharing)
     + Read this [guide on citing references][CitationLink] for doing Assignment 09.
