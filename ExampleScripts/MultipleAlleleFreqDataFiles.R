@@ -74,15 +74,17 @@ matchingRunDirs <- paramCombos %>%
   filter(m %in% mvals & s %in% svals & N %in% Nvals & !is_neutral_model & !is_allopatry_model & fracSelLoci < 1 & endPerAllo <= 0 & startPerAllo <= 0 & secCntctMut <= 0 & mut_per_gen %in% c(10, 100))
 
 nrow(matchingRunDirs)
-# looks like 71 directories
+# looks like 68 directories
 system.time( nVarTS <- combineNumVarTimeSeries(mydir = "/Volumes/4TB_USB_SG2/", rundirs = matchingRunDirs$Directory) )
+
+write.csv(x = nVarTS, file = "~/compbio/CompBio_on_git/Datasets/NumberVariableSites68BU2SRuns.csv", row.names = F)
 
 ggplot( data = nVarTS ) +
   geom_point( aes(x = MutationTime, y = nVariable, color = dir)) + 
   facet_grid( rows = vars(N), cols = vars(s), scales = "free") +
   geom_smooth( aes(x = MutationTime, y = nVariable, linetype = as.factor(mut_per_gen)) ) + 
   guides(color = F) + 
-  theme_gray(base_size = 16) +
+  theme_gray(base_size = 14) +
   theme(legend.position="top")  +
   xlab("time x mutations/gen") + 
   ylab("number of variable sites in genome")
