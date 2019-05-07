@@ -2,6 +2,12 @@
 # EBIO 4420/5420
 ### Spring 2019
 
+## Looking for the final exam?
+* Check your email.
+* It was emailed to the class email list at 7:02 a.m. on Tuesday, May 7th and is due (via email submission) by 7:02 a.m. on Wednesday, May 8th.
+
+<hr>
+
 **STUDENTS:** Contents of this repository will change often during the semester.  Please check  back at least weekly ("pull" updates).
 
 This repo will house information for the course on Computational Biology led by Prof. Sam Flaxman at the University of Colorado Boulder.
