@@ -11,9 +11,9 @@ createMessageBody <- function( studentName, scoreBreakdown )
   
   msg <- "Below please find a breakdown of your final exam score, point by point.  The first column denotes the question, the second gives the maximum possible points, and the third gives your actual points earned on that question/part.  The last two lines indicate point totals and overall percentage, respectively.  Please note that I decreased the weighting of the parts of question 16 based upon feedback that question 16 was very hard.  Please let me know if you have any questions or concerns.\n\nHave a great summer,\nSam\n\n"
   
-  postscript <- "\nP.S. My final challenge for myself was writing a script to generate these emails from the exam data.  If you're curious, check out "
+  postscript <- "\nP.S. My final challenge for myself was writing a script to generate these emails from the exam data.  If you're curious, check out https://github.com/flaxmans/CompBio_on_git/blob/master/ExampleScripts/FinalExamScoreEmails.R\n\n"
   
-  msg <- paste(salutation, msg, scoreBreakdown, "\n", sep = "")
+  msg <- paste(salutation, msg, scoreBreakdown, "\n", postscript, sep = "")
   
   return( msg )
 }
