@@ -236,8 +236,11 @@ metaCols <- 1:2 # column indexes in studentFinalScores with metadata
 numMetaCols <- length(metaCols)
 nrow(studentNamesEmails) == (ncol(studentFinalScores) - numMetaCols)
 
-# test:
-myGradeSummary <- main( studentNamesEmails[12:14, ], studentFinalScores, metaCols )
+# test it:
+# myGradeSummary <- main( studentNamesEmails[1:2, ], studentFinalScores, metaCols, DEBUG = T )
+
+# Run it!:
+myGradeSummary <- main( studentNamesEmails, studentFinalScores, metaCols )
 write.csv(myGradeSummary, file = "~/compbio/Private_Files/FinalExamCanvasUpload.csv", row.names = F)
 
 
