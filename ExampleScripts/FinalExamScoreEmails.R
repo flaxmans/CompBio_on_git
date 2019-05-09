@@ -150,16 +150,18 @@ composeMessage <- function( studentFirstName, studentEmail, scoreBreakdown ) {
 }
 
 dataFrameAsOneString <- function( mydf ) {
-  myStr <- ""
+  # turn an entire  data frame into something that 
+  # can be printed as characters
+  myStr <- ""  # make an object that will grow dynamically
   for ( i in 1:length(names(mydf))) {
-    myStr <- paste(myStr, names(mydf)[i])
+    myStr <- paste(myStr, names(mydf)[i]) # get the header
   }
-  myStr <- paste(myStr, "\n", sep = "")
-  for ( i in 1:nrow(mydf) ) {
-    for ( j in 1:ncol(mydf) ) {
-      myStr <- paste(myStr, mydf[i,j], "\t")
+  myStr <- paste(myStr, "\n", sep = "") # new line
+  for ( i in 1:nrow(mydf) ) { # row-by-row
+    for ( j in 1:ncol(mydf) ) { # column-by-column
+      myStr <- paste(myStr, mydf[i,j], "\t") # tab delimited printing
     }
-    myStr <- paste(myStr, "\n", sep = "")
+    myStr <- paste(myStr, "\n", sep = "") # newline
   }
   return(myStr)
 }
@@ -170,16 +172,16 @@ main <- function( studentNamesEmails, studentFinalScores,
                   SEND_EMAILS = T, MAKE_CANVAS_UPLOAD = T ) {
   
   if ( MAKE_CANVAS_UPLOAD ) {
-    canUpNames <- c("idnum", "cuID", "FinalExamPts")
-    canvasUpload <- as.data.frame(matrix( data = NA, nrow = nrow(studentNamesEmails), ncol = length(canUpNames)))
-    names(canvasUpload) <- canUpNames
+    # take all columns but email address:
+    canvasUpload <- data.frame(studentNamesEmails[, 1:ncol(studentNamesEmails)-1], FinalExam = rep(0, nrow(studentNamesEmails)))
     totalRowIndex <- grep("Raw Points", studentFinalScores$Question)
   }
   
+  # loop over student ID info:
   for ( i in 1:nrow(studentNamesEmails)) {
     # parse first and last names
-    firstName <- strsplit(studentNamesEmails$name[i], ", ")[[1]][2]
-    lastName <- strsplit(studentNamesEmails$name[i], ", ")[[1]][1]
+    firstName <- strsplit(studentNamesEmails$Student[i], ", ")[[1]][2]
+    lastName <- strsplit(studentNamesEmails$Student[i], ", ")[[1]][1]
     email <- studentNamesEmails$email[i]
     
     # which column of final exam data to use:
@@ -201,9 +203,7 @@ main <- function( studentNamesEmails, studentFinalScores,
                      scoreBreakdown = scoreBreakdown)
     }
     if ( MAKE_CANVAS_UPLOAD ) {
-      canvasUpload$idnum[i] <- studentNamesEmails$idnum[i]
-      canvasUpload$cuID[i] <- studentNamesEmails$studentID[i]
-      canvasUpload$FinalExamPts[i] <- studentFinalScores[totalRowIndex, workingColumn]
+      canvasUpload$FinalExam[i] <- studentFinalScores[totalRowIndex, workingColumn]
     } 
 
   }
@@ -226,9 +226,9 @@ main <- function( studentNamesEmails, studentFinalScores,
 studentFinalScores <- read.csv("~/compbio/Private_Files/FinalExamIdeas/FinalExamPointByPointGrading.csv", stringsAsFactors = F)
 
 # get names and contact info:
-studentNamesEmails <- read.csv("~/compbio/Private_Files/StudentNamesIDsEmails.csv", stringsAsFactors = F)
-names(studentNamesEmails) <- c("name", "idnum", "studentID")
-emailAddresses <- paste(studentNamesEmails$studentID, "@colorado.edu", sep = "")
+studentNamesEmails <- read.csv("~/compbio/Private_Files/CanvasStudentData.csv", stringsAsFactors = F)
+canvasColumnNames <- names(studentNamesEmails)
+emailAddresses <- paste(studentNamesEmails$SIS.Login.ID, "@colorado.edu", sep = "")
 studentNamesEmails <- data.frame(studentNamesEmails, email = emailAddresses)
 
 # check that all students are accounted for in both data sets:
@@ -236,14 +236,17 @@ metaCols <- 1:2 # column indexes in studentFinalScores with metadata
 numMetaCols <- length(metaCols)
 nrow(studentNamesEmails) == (ncol(studentFinalScores) - numMetaCols)
 
-# test it:
+## test it:
 # myGradeSummary <- main( studentNamesEmails[1:2, ], studentFinalScores, metaCols, DEBUG = T )
 
-# Run it!:
-myGradeSummary <- main( studentNamesEmails, studentFinalScores, metaCols )
+## Run it!:
+myGradeSummary <- main( studentNamesEmails, studentFinalScores, metaCols, SEND_EMAILS = F )
+namesOfCols <- names(myGradeSummary)
+names(myGradeSummary) <- gsub("\\.", " ", namesOfCols) # get rid of periods that read.csv() put in names
+head(myGradeSummary)
+
+# canvas names for uploads:
 write.csv(myGradeSummary, file = "~/compbio/Private_Files/FinalExamCanvasUpload.csv", row.names = F)
-
-
 
 
 
