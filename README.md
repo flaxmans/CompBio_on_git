@@ -1,10 +1,6 @@
 # Computational Biology 
 # EBIO 4420/5420
-### Spring 2019
-
-## Looking for the final exam?
-* Check your email.
-* It was emailed to the class email list at 7:02 a.m. on Tuesday, May 7th and is due (via email submission) by 7:02 a.m. on Wednesday, May 8th.
+### Spring 2020
 
 <hr>
 

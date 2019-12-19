@@ -11,7 +11,7 @@ This course's main learning goals are for students to:
 1. Discover and implement computational tools for making their own professional work efficient, reproducible, transparent, shareable, maintainable, and robust.
 2. Learn and use tools of programming at a basic level, including but not limited to writing programs and scripts in R, using the git version control system, and using Github to share and publicly archive projects.
 3. Learn and apply tools for handling data (filtering, manipulating, subsetting, concatenating, re-formatting)
-4. Learn and apply tools for simulating biological systems to generate pseudo-data and test hypotheses, including difference-time models, stochastic models, and ordinary differential equations models.
+4. If time allows and if there is sufficient interest, we may optionally: Learn and apply tools for simulating biological systems to generate pseudo-data and test hypotheses, including difference-time models, stochastic models, and ordinary differential equations models.
 
 
 #### What the course is not:
@@ -25,12 +25,10 @@ ______________________________
 ## Logistics and Contact Info
 
 #### Course meeting times and locations: 
-TTH, 2:00 - 2:50, EKLC M203
-
-Fridays: noon - 1:50, RAMY N1B75
+TBD
 
 #### Office Hours: 
-Thursdays from 12:30 - 1:30 p.m.
+TBD
 
 Office Location: Ramaley N211
 
