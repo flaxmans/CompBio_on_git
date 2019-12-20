@@ -25,10 +25,12 @@ ______________________________
 ## Logistics and Contact Info
 
 #### Course meeting times and locations: 
-TBD
+Lecture: Mondays and Wednesdays, 11:00 a.m. - 11:50 a.m., KTCH 1B20
+
+Labs: Fridays, 12:00 noon - 1:50 p.m., RAMY 1B75
 
 #### Office Hours: 
-TBD
+Fridays, 11:00 - 11:50 a.m.
 
 Office Location: Ramaley N211
 
