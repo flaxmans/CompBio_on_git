@@ -3,7 +3,7 @@
 **STUDENTS:** Contents of this repository will change often during the semester.  Please check  back at least weekly ("pull" updates).
 
 ## Aims and Scope
-This is a course for scientists who want to learn basic tools of modern computing.  Students with in-depth experience in computer science will probably NOT find sufficient challenge from this course.
+This is a course for scientists who want to learn basic tools of modern computing.  Students with in-depth experience in computer science/programming will probably NOT find sufficient challenge from this course.
 
 #### What the course is:
 This course's main learning goals are for students to: 
@@ -11,7 +11,8 @@ This course's main learning goals are for students to:
 1. Discover and implement computational tools for making their own professional work efficient, reproducible, transparent, shareable, maintainable, and robust.
 2. Learn and use tools of programming at a basic level, including but not limited to writing programs and scripts in R, using the git version control system, and using Github to share and publicly archive projects.
 3. Learn and apply tools for handling data (filtering, manipulating, subsetting, concatenating, re-formatting)
-4. If time allows and if there is sufficient interest, we may optionally: Learn and apply tools for simulating biological systems to generate pseudo-data and test hypotheses, including difference-time models, stochastic models, and ordinary differential equations models.
+4. Learn how to learn new tools; learn how to find out how to use new tools
+5. If time allows and if there is sufficient interest, we may optionally: Learn and apply tools for simulating biological systems to generate pseudo-data and test hypotheses, including difference-time models, stochastic models, and ordinary differential equations models.
 
 
 #### What the course is not:
@@ -297,7 +298,7 @@ See the [campus policy regarding religious observances](http://www.colorado.edu/
 
 [Lab8link]: https://github.com/flaxmans/CompBio_on_git/blob/master/Labs/Lab08/Lab08_documentation_and_metadata.md
 
-[CanvasSiteLink]: https://cuboulder.instructure.com/courses/25233
+[CanvasSiteLink]: https://cuboulder.instructure.com/courses/59483
 
 [WordsToCodeLink]: https://docs.google.com/document/d/1jAa5_lQL5AMd6Qg2UZGkjI_z5a6xtIj9IUgzG2J10vg/edit?usp=sharing
 
