@@ -42,7 +42,7 @@ Office Phone: 303-492-7184
 ______________________________
 
 ## Week-by-Week Agenda  
-(subject to change and frequent updating; note that accompanying PowerPoint files are available at a [Dropbox folder][dropboxlink])
+(subject to change and frequent updating; note that accompanying PowerPoint files are available in a [Google Drive Folder][GoogleDriveLink])
 
 ###### Week 1: 
 + Topics
@@ -288,7 +288,7 @@ See the [campus policy regarding religious observances](http://www.colorado.edu/
  
  
  
-[dropboxlink]: https://www.dropbox.com/sh/dd7mpvmbdgyenoo/AAAgi560clFs7_H_XG69by60a?dl=0
+[GoogleDriveLink]: https://drive.google.com/drive/folders/1NnbmchARUxPdU6N4hdoRcbW9Yn_dXbEi?usp=sharing
 [bestpracticeslink]: https://github.com/flaxmans/CompBio_on_git/blob/master/CourseDocuments/BestPractices.md
 [Assignment5link]: https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/05_TasksForWeek5.md
 [Assignment6link]: https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/06_TasksForWeek7.md
