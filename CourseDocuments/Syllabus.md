@@ -53,7 +53,7 @@ ______________________________
 	+ UNIX Command Line  
 
 + Action Items required of YOU:
-	+ **[Assignment 01](https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/01_Day1_SoftwareInstalls.md) announced on first day of class and due on 1/15**
+	+ **[Assignment 01](https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/01_Day1_SoftwareInstalls.md) announced on first day of class and due by 11:59 p.m. on second day of class**
 	+ **Please visit [this tutorial](http://linuxcommand.org/lc3_learning_the_shell.php)** and read through that page **AND items numbered 1-5 near the bottom of that page**.  
 
 + Lab week 1: Doing stuff with the UNIX command line
