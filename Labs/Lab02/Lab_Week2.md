@@ -90,6 +90,11 @@ Best practices dictate that repositories have easy-to-read descriptions that hel
 ### VII. Examining the work you have done
 In your terminal, use `git log` and `git diff HEAD~N filename` to review the changes you have made during your work in your local repo, where "`N`" is the number of commits ago to which you want to look back.  If you are feeling brave, try `git checkout HEAD~N filename` to look at previous versions of the cookie recipe.  However, **make sure you have indeed committed the most recent version BEFORE you try to `checkout` a previous version**.  NOTE: "`N`" in these examples is *not* what you literally type.  It represents an integer number of your choosing.
 
+Also, if you indeed do a "checkout" operation, to get back to the most recently committed version of your repository, use
+```
+$ git checkout master
+```
+
 <hr>
 
 ### VIII. A shell script
