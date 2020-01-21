@@ -1,6 +1,6 @@
 # Assignment 02
-### *Assigned*: 
-Monday, second week of class
+### *Announced*: 
+Tuesday, second week of class
 ### *Due*: 
 Items #1-#6 are due by the *beginning* of lab on Friday this week (second week of class)
 
