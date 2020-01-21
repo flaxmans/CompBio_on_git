@@ -1,8 +1,8 @@
 # Assignment 02
 ### *Assigned*: 
-Tuesday, January 22
+Monday, second week of class
 ### *Due*: 
-Items #1-#6 are due by the *beginning* of lab on Friday, January 25
+Items #1-#6 are due by the *beginning* of lab on Friday this week (second week of class)
 
 ### *Short description of assignment*:
 Create a cookie recipe in a plain text file
@@ -10,8 +10,15 @@ Create a cookie recipe in a plain text file
 ### Details:
 1. Look up your favorite cookie recipe
 2. Write it down in a plain text file
-3. WINDOWS USERS: This should be a plain text file you know how to navigate to in git-bash
-4. Not sure about "plain text" or how to create it?  See the [software guide](https://github.com/flaxmans/CompBio_on_git/blob/master/CourseDocuments/SoftwareRequirements.md)
+3. About plain text:
+
+	3a. MAC USERS: use TextEdit with "Preferences" set to "plain text" (NOT rich text)
+
+	3b. WINDOWS USERS: This should be a plain text file you know how to navigate to in git-bash
+
+	3c. LINUX USERS: Try `gedit`.
+ 
+4. Still not sure about "plain text" or how to create it?  See the [software guide](https://github.com/flaxmans/CompBio_on_git/blob/master/CourseDocuments/SoftwareRequirements.md)
 5. Save your recipe in a subdirectory for this class such as `..../EBIO_4420/CompBioLabsAndHomework/`
 6. You do NOT have to send this file to Sam, but you must have this file available for use in lab on Friday.
 
