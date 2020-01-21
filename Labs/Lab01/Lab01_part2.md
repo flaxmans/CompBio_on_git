@@ -166,7 +166,7 @@ C.  Do you have any plain text files on your computer?  Perhaps some `.txt` or `
 
 <hr>
 
-#### 5.  If you have time (or on your own to just learn more) ... 
+#### 5.  A data-subsetting problem ... 
 
 Working with the provided data file `PredPreyData.csv`.
 

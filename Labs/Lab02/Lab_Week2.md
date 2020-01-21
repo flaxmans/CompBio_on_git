@@ -90,12 +90,17 @@ Best practices dictate that repositories have easy-to-read descriptions that hel
 ### VII. Examining the work you have done
 In your terminal, use `git log` and `git diff HEAD~N filename` to review the changes you have made during your work in your local repo, where "`N`" is the number of commits ago to which you want to look back.  If you are feeling brave, try `git checkout HEAD~N filename` to look at previous versions of the cookie recipe.  However, **make sure you have indeed committed the most recent version BEFORE you try to `checkout` a previous version**.  NOTE: "`N`" in these examples is *not* what you literally type.  It represents an integer number of your choosing.
 
+Also, if you indeed do a "checkout" operation, to get back to the most recently committed version of your repository, use
+```
+$ git checkout master
+```
+
 <hr>
 
 ### VIII. A shell script
 Formalizing Lab01's work
 
-Recall the [final task from last week's Lab](https://github.com/flaxmans/CompBio_on_git/blob/master/Labs/Lab01/Lab01_part2.md#5--if-you-have-time-or-on-your-own-to-just-learn-more-).  Note in particular the last three bullet points, which comprised a data-filtering problem.  The task now is to write down in a plain text file a sequence of commands that would work to accomplish the final bullet point of last week's lab.  Before you begin, think about the task from start to finish.  I would suggest the following as steps: 
+Recall the [final task from last week's Lab](https://github.com/flaxmans/CompBio_on_git/blob/master/Labs/Lab01/Lab01_part2.md#5--if-you-have-time-or-on-your-own-to-just-learn-more-).  Note in particular the last three bullet points, which comprised a data-subsetting problem.  The task now is to write down in a plain text file a sequence of commands that would work to accomplish the final bullet point of last week's lab.  Before you begin, think about the task from start to finish.  I would suggest the following as steps: 
 1. make a new directory for Lab01 (where should that directory be?)
 2. copy the data file named `PredPreyData.csv` from your clone of Sam's repo into your own directory for Lab01
 3. make a plain text file in your Lab01 directory called `Lab01finalProblem.sh`.  Note that the `.sh` file extension is used here to indicate that this will be written as a shell script, i.e., a sequence of commands that can be implemented directly by the shell (i.e., in your terminal)
