@@ -14,7 +14,7 @@ Create a cookie recipe in a plain text file
 
 	3a. MAC USERS: use TextEdit with "Preferences" set to "plain text" (NOT rich text)
 
-	3b. WINDOWS USERS: This should be a plain text file you know how to navigate to in git-bash
+	3b. WINDOWS USERS: This should be a plain text file you know how to navigate to in git-bash.  Try Notepad or Notepad++
 
 	3c. LINUX USERS: Try `gedit`.
  
