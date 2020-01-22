@@ -11,7 +11,7 @@
 Before embarking, in your terminal, navigate (with `cd`) to your clone of Sam's github repo and once you are in that repo (i.e., once your working directory is `../CompBio_on_git/`), give the command `git pull` to get the most up-to-date version of Sam's repo.  I recommend doing this at least once per week since Sam is always tweaking and updating.
 
 ### I. You Need a Github.com Account
-[Make an account on Gitbhub.com](https://github.com/join) if you have not done so already
+[Make an account on GitHub.com](https://github.com/join) if you have not done so already
 
 <hr>
 
