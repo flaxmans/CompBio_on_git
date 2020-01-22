@@ -1,10 +1,10 @@
 # Week 2, Lab 2
 ## *Goals*: 
 * Get acquainted with git
-* Set up your account on Github.com
+* Set up your account on GitHub.com
 * Set up your user account on your machine
-* Practice a couple of iterations of the git add, git commit cycle
-* Push a repository to Github
+* Practice a couple of iterations of the `git add`, `git commit` cycle
+* Push commits to GitHub
 
 ## *Steps for this lab*:
 
