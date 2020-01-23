@@ -21,7 +21,7 @@ In your terminal, you need to configure your git user account with the following
 	git config --global user.email "you@email.com"
 	git config --global user.name "yourname"
 
-**NOTE: the email and user name MUST match the email and user name you are using at Github.com**  You will NOT have to do this again on your computer.  If you use a new computer (or a new virtual machine), you will have to do this.
+**NOTE: the email and user name MUST match the email and user name you are using at GitHub.com**.  You will NOT have to do this again on your computer.  If you use a new computer (or a new virtual machine), you will have to do this.
 
 <hr>
 
