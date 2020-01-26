@@ -5,6 +5,7 @@
 * Set up your user account on your machine
 * Practice a couple of iterations of the `git add`, `git commit` cycle
 * Push commits to GitHub
+* Finish all of this and turn it all in (i.e., push everything) by Wednesday of week 3.
 
 ## *Steps for this lab*:
 
@@ -109,4 +110,6 @@ Recall the [final task from last week's Lab](https://github.com/flaxmans/CompBio
 5. When you are done, save it, and then use git to add, commit, and push.
 
 
+### *Finishing this lab*
+Please complete all steps of this lab by Wednesday of week 3 of class.
 
