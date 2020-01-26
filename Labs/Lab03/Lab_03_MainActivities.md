@@ -128,10 +128,13 @@ Let’s start with accessing one whole row or column
 
 (17) Access the fourth column from a data frame produced from step #12  
 
+
 Now, let’s do a specific element using any of the objects that work.
+
 (18) Access your ranking for Episode V.  
 
 (19) Access Penny’s ranking for Episode II.  
+
 
 Now, let’s do a range of rows:  
 
