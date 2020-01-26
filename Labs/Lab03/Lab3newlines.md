@@ -13,6 +13,9 @@ Get acquainted with the basic, universal features of R and RStudio that you will
 Please read and do all of the exercises below, in sequence.  Read the instructions carefully to save yourself time.  Have fun, ask questions, and talk to people around you about what you are doing!  Use Google searches like "how to ______ in R" if you are stuck.  Challenge yourself to become self-sufficient!  A detailed list of activities for this lab appears below.  The numbered items are the "action items", i.e., things you need to do for this lab.
 
 ### Cheat Sheat of R Commands:
+
+Note: do NOT type the "`>`" that you see at the beginning of each line below.  That symbol simply represents the command prompt in R and in RStudio's "console".
+
 ```
 	> help("commandname") 		# get help within RStudio on a command
 	
@@ -80,7 +83,7 @@ After watching the trilogy (and all the other movies), you and some of your frie
 |       IX    |      5  |   6    |     1    |     4   |
 
 
-(8) Make 5 vectors, one for each person, containing his/her rankings in the order given here.  In other words, the first element of each vector should be the rank given to Episode I, the second element the ranking for Episode II  and so on. (Hint: use the "`c()`" function.).  Yes, this involves some slightly tedious typing.  That’s all part of the learning and reinforcing.  Add an appropriate comment.
+(8) Make 4 vectors, one for each person, containing his/her/their rankings in the order given here.  In other words, the first element of each vector should be the rank given to Episode I, the second element the ranking for Episode II  and so on. (Hint: use the "`c()`" function.).  Yes, this involves some slightly repetitive and tedious typing.  That’s all part of the learning and reinforcing.  Add an appropriate comment.
 
 ##### Accessing elements of vectors.  
 
@@ -90,13 +93,13 @@ Once you have data in a vector, it is often essential to be able to access, mani
 (9) Using indexing (with a single set of square braces "`[ ]`"), access Penny’s ranking for Episode IV, and store it in a new variable called "`PennyIV`".  Make another variable for Lenny’s rank of Episode IV. Add an appropriate comment.  
 
 
-(10) Concatenate all 5 sets of rankings into a single data object.  (Hint:  use "`cbind()`").  This new object should have 7 rows and 5 columns. Add an appropriate comment.  
+(10) Concatenate all 4 sets of rankings into a single data object.  (Hint:  use "`cbind()`").  This new object should have 9 rows and 4 columns. Add an appropriate comment.  
 
 
 (11) Use the "`str()`" function to inspect the structure of `PennyIV`, `Penny`, and the result of step #10.  In words (using a "comment" after the code), verbally describe the differences between these three data objects in terms of the results you get from `str()`.  
 
 
-(12) Now make a "data frame" using the 5 vectors of rankings.  The data frame should have the names of the people as the names of its columns.  Given what we already have in memory (from the steps above), there are two ways to do this, one using "`data.frame()`" and one using "`as.data.frame()`".  Try BOTH ways in your code just for the sake of learning.  
+(12) Now make a "data frame" using the 4 vectors of rankings.  The data frame should have the names of the people as the names of its columns.  Given what we already have in memory (from the steps above), there are two ways to do this, one using "`data.frame()`" and one using "`as.data.frame()`".  Try BOTH ways in your code just for the sake of learning.  
 
 
 (13) Verbally (using a comment after step #12) describe the similarities and differences between (a) the object created in step #10 using `cbind()` and (b) one of the objects created as a data frame in step #12.   To do this you will probably find it helpful to use `dim()`, `str()`, `==`, and `typeof()` and verbally describe the results of what you get from each.
@@ -104,14 +107,14 @@ Once you have data in a vector, it is often essential to be able to access, mani
 R can make vectors of characters or "strings" of characters too.  To tell R that something is a character or string, just put quotes around it.   
 
  
-(14) Make a vector of the Episode names as Roman numerals (i.e., "I", "II", and so on). (hint: use `c()`).  Add an appropriate comment.  
+ (14) Make a vector of the Episode names as Roman numerals (i.e., "I", "II", and so on). (hint: use `c()`).  Add an appropriate comment.  Note that since these are made with text (not actual numbers), you will have to put quotes around each element when creating the vector.
 
 
 (15) Up to now, the results from steps #10 and #12 had names of the columns, but did not have names of the rows.  Using the result of step 14 and the `row.names()` function, name the rows of the objects created in steps 10 and 12.  Inspect the variables in your console window just to make sure this worked as intended.
 
 ##### Accessing elements of matrices and data frames.  
 
-There are multiple ways to access specific elements or ranges of elements of that are stored in two-dimensional matrices or data frames in R.  Let’s start with the method that is the most universal across programming languages, and the one we used above in step #9: indexing by position with integer numbers inside square braces. For a two-dimensional object (e.g., our 7 x 5 matrix), we specify data we want by specifying two pieces of information: one to specify the row(s) we want, and one to specify the column(s).  The row specification is always first, and the column specification always second, with the two separated by a comma.  For example, suppose we have a matrix named "x" that has 8 rows and 4 columns:
+There are multiple ways to access specific elements or ranges of elements of that are stored in two-dimensional matrices or data frames in R.  Let’s start with the method that is the most universal across programming languages, and the one we used above in step #9: indexing by position with integer numbers inside square braces. For a two-dimensional object (e.g., our 9 x 4 matrix), we specify data we want by specifying two pieces of information: one to specify the row(s) we want, and one to specify the column(s).  The row specification is always first, and the column specification always second, with the two separated by a comma.  For example, suppose we have a matrix named "`x`" that has 8 rows and 4 columns.  In R, we can do things like the following to specify or access elements in `x`.
 
 ```
 	x[2,3] # element in second row, third column
@@ -121,7 +124,7 @@ There are multiple ways to access specific elements or ranges of elements of tha
 
 Let’s start with accessing one whole row or column  
 
-(16) Access the third row of the matrix produced from step #10  
+(16) Access the third row of the matrix produced from step #10.  (Note: By "access", I mean write a line of code in your script that, when evaluated, causes the specified data to simply be printed out in RStudio's console.)
 
 (17) Access the fourth column from a data frame produced from step #12  
 
@@ -155,7 +158,7 @@ Accessing elements, rows, and columns by number (indexing) is indeed the most un
 
 (25) Use this method (names rather than indexes) to undo the switch made in step 23  
 
-Finally, a method that works only on data frames involves the "`$`" operator to access the columns of the data frame.  Recall from outputs above using `str()` that R refers to each column of a data frame as a "variable".  E.g., for a data frame from step 12, `str()` will tell you that it is a "`'data.frame': 7 obs. of  5 variables:`".   In this case, each person’s rankings are considered to be a "variable" in the data frame.  If "rankings" is a data frame, we can access all of one person’s rankings, e.g., Lenny’s, by typing: `rankings$Lenny`.  We could then access specific elements of Lenny’s rankings just as we did in step #9 above, that is, with a single number inside a set of square braces, e.g., Lenny’s ranking of Episode II could be accessed by typing: `rankings$Lenny[2]`.  
+Finally, a method that works only on data frames involves the "`$`" operator to access the columns of the data frame.  Recall from outputs above using `str()` that R refers to each column of a data frame as a "variable".  E.g., for a data frame from step 12, `str()` will tell you that it is a "`'data.frame': 9 obs. of  4 variables:`".   In this case, each person’s rankings are considered to be a "variable" in the data frame.  If "rankings" is a data frame, we can access all of one person’s rankings, e.g., Lenny’s, by typing: `rankings$Lenny`.  We could then access specific elements of Lenny’s rankings just as we did in step #9 above, that is, with a single number inside a set of square braces, e.g., Lenny’s ranking of Episode II could be accessed by typing: `rankings$Lenny[2]`.  
 
 
 (26) Use this last method to re-do the switch from step 23.
