@@ -44,7 +44,8 @@ Note: do NOT type the "`>`" that you see at the beginning of each line below.  T
 #### PART I.  BASIC OPERATIONS
 
 (1) Open RStudio  
-(2)	Open a new R script.  **Please do all work for this lab in that script so that you can save your work**.  **Please save your script as "YOURLASTNAME_Lab3.R"** (without the quotes) in a "Lab03" directory inside your CompBioHWandLabs directory (hint: you'll need to push it to GitHub when you are done).  
+(2)	Open a new R script.  **Please do all work for this lab in that script so that you can save your work**.  **Please save your script as "YOURLASTNAME_Lab3.R"** (without the quotes) in a "Lab03" directory inside your CompBioHWandLabs directory (hint: you'll need to push it to GitHub when you are done).    
+Note that this should be a plain R Script (*NOT* an R markdown document and *NOT* an "R Project").  In RStudio, this can be done from the "file" menu or from the button with the plain plus sign on it.
 *Hint*: Use the console to test lines of code, but make sure the finished product appears in the script.
 
 Now, we’re going to do a bunch of basic programming activities.  To make it more interesting, we’re going to tell a story.  Suppose you are a huge Star Wars fan, and you are having a movie-watching party at your home to watch Episodes IV-VI back-to-back-to-back.  As a well-practiced host/hostess, you want to make sure you have enough food and drink for everyone. You start the night with 5 bags of chips (Flaming Hot Cheetos, to be precise). Suppose you have 8 guests coming (not including yourself).
