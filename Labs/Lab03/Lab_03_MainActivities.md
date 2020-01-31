@@ -111,7 +111,8 @@ R can make vectors of characters or "strings" of characters too.  To tell R that
  (14) Make a vector of the Episode names as Roman numerals (i.e., "I", "II", and so on). (hint: use `c()`).  Add an appropriate comment.  Note that since these are made with text (not actual numbers), you will have to put quotes around each element when creating the vector.
 
 
-(15) Up to now, the results from steps #10 and #12 had names of the columns, but did not have names of the rows.  Using the result of step 14 and the `row.names()` function, name the rows of the objects created in steps 10 and 12.  Inspect the variables in your console window just to make sure this worked as intended.
+(15) Up to now, the results from steps #10 and #12 had names of the columns, but did not have names of the rows.  Using the result of step 14 and the `row.names()` function, name the rows of the objects created in steps 10 and 12.  Inspect the variables in your console window just to make sure this worked as intended.  
+HINT: If you aren't sure how to use `row.names()` and the vector from part #14 to do, this, try `help("row.names")` in your RStudio console.
 
 ##### Accessing elements of matrices and data frames.  
 
