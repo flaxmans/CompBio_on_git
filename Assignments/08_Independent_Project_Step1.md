@@ -30,7 +30,7 @@ For the independent project, the eventual goal will be for you to define and sol
 	
 <hr>
 
-### DUE DATE: Monday, 4/15, 11:59 p.m.
+### DUE DATE: Friday, 4/10, 11:59 p.m.
 + email your presentation to Sam
 + push your markdown doc to GitHub (make sure it has a sensible title and is in a sensible subdirectory of your repo)
 
