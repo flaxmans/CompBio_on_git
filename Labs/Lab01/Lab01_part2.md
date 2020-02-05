@@ -154,6 +154,25 @@ $ grep Swallow BirdList.txt | grep -v Swallow-tail
 ```
 Compare the output of that latter command with the former.  Based upon that, can you guess what the `-v` flag does with `grep`?  Check out the `man` page for `grep` if you aren't sure.
 
+##### **Some important considerations about using pipes**
+
+Note that in the examples with pipes above, the last part in the pipeline has NO file named.
+This is a crucial point.  
+If you were to name a file in the final part of each "pipeline", you would completely LOSE all the work done by the first part of the pipeline.  For example, compare what you see in your terminal from the following two pipelines.
+
+(i) Look at the output of this pipeline of commands: 
+```
+$ grep Swallow BirdList.txt | grep -v Swallow-tail
+```
+vs. (ii) the output of this line:
+```
+$ grep Swallow BirdList.txt | grep -v Swallow-tail BirdList.txt
+```
+
+The second pipeline (ii) is poor syntax that causes its first operation's output to be lost and ignored.  
+The first pipeline (i) actually uses the output of its first part as the input to its second part. 
+If you are unclear about this, please try some examples as given here and ask Sam some questions.
+
 <hr>
 
 #### 4. Open-ended problems
