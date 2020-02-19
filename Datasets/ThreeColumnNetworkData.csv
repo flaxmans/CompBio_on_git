@@ -1,0 +1,7 @@
+"Person1","Person2","InteractionStrength"
+"Kira","Nader",0.5
+"Kira","Tom",0.1
+"Kira","Soo",0.05
+"Nader","Tom",0.6
+"Nader","Soo",0.001
+"Tom","Soo",0.001
