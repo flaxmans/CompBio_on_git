@@ -2,7 +2,7 @@
 
 Announced: during Week 7 of class
 
-Due: by Tuesday of Week 8
+Due: by Wednesday of Week 8
 
 ### *Assignment*:
 + Clean up your public-facing repo.  Make sure all the work you have pushed from all labs looks good, has comments, works, etc.

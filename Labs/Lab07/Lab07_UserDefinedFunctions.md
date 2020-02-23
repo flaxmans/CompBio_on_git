@@ -53,7 +53,6 @@ Part 2b. Revise your function to make it work on vectors (unless it already does
 
 +  `c(1.1, 2, 0, -4.3, 9, -12)`
 
-Hint: Your function will almost certainly need to make use of some kind of conditional test.
 
 <hr>
 
