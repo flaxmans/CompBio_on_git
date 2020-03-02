@@ -1,7 +1,7 @@
 # Lotka-Volterra Predator-Prey Model
 ## Example of a parameter study
 
-This directory contains data produced from the discrete-time, Lotka-Volterra predator-prey model, "predPreyModelParameterStudy.R", on March 6, 2017, by Sam Flaxman (https://github.com/flaxmans/CompBio_on_git/tree/master/Models/L-V_Pred-PreyModel).  These data were produced to conduct a study of the effects of varying the attack rate parameter.
+This directory contains data produced from the discrete-time, Lotka-Volterra predator-prey model, "predPreyModelParameterStudy.R", on March 6, 2017, by Sam Flaxman [https://github.com/flaxmans/CompBio_on_git/tree/master/Datasets/L-V_Pred-PreyModel](https://github.com/flaxmans/CompBio_on_git/tree/master/Datasets/L-V_Pred-PreyModel).  These data were produced to conduct a study of the effects of varying the attack rate parameter.
 
 This markdown file is a duplicate of the plain text metadata file, just for the purposes of comparison.
 
