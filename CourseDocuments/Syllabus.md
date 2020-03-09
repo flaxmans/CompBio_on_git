@@ -140,6 +140,7 @@ ______________________________
  + Action items:
     + see two paragraphs of reading listed in week 8
     + Read about parsing dates and times in R at [https://www.stat.berkeley.edu/~s133/dates.html](https://www.stat.berkeley.edu/~s133/dates.html)
+    + Browse the Tidyverse's date-handling package, "lubridate", at [https://lubridate.tidyverse.org/](https://lubridate.tidyverse.org/)
 
 
 ###### Week 10
