@@ -26,8 +26,12 @@ camData <- read.csv("Cusack_et_al_random_versus_trail_camera_trap_data_Ruaha_201
 The import as written on above creates the `DateTime` column as characters.
 Using the information at [https://www.stat.berkeley.edu/~s133/dates.html][timeLink], 
 how could you convert those dates and times into actual objects that represent time (as we humans think about it)
-rather than just being character strings?  I suggest you try to use `strptime()`, 
-in which case the challenge will be to figure out how to use the `format` argument.  
+rather than just being character strings?  If you want to work on this in base R, I 
+suggest you try to use `strptime()`, 
+in which case the challenge will be to figure out how to use the `format` argument.
+If you want to try something from the `lubridate` package, you'll need to install
+that package (if you don't have it already) and then read a bit about it to see what 
+its offerings are.  See [https://lubridate.tidyverse.org/](https://lubridate.tidyverse.org/).
 
 Hints:
 1. Use the info at the [link given above][timeLink] and also try `?strptime` in your console.  Remember that the import of the data creates the DateTime vector as a vector of character strings.  That is the starting point.
