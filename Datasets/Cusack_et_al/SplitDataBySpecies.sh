@@ -33,17 +33,30 @@
 species=$(tail +2 Cusack_et_al_random_versus_trail_camera_trap_data_Ruaha_2013_14.csv | cut -f 5 -d, | sort | uniq | tr ' ' '_')
 
 # STEP 2: Loop over species, and make sure to keep the header
+
+# I'd like to put all the data into new files corresponding to species' 
+# names, and I'd also like to have all those files in a directory.
+# To do that, I'm going to have the shell make a directory, but I want the shell
+# to first check if the directory exists.
+# For this, I'll use an if statement:
+myDirName="dataFilesBySpecies"
+if [ ! -d "$myDirName" ]
+then
+	mkdir $myDirName
+fi
+
+# make a header for each new file created:
 header=$(head -n 1 Cusack_et_al_random_versus_trail_camera_trap_data_Ruaha_2013_14.csv)
 for i in $species
 do
     # make a filename:
     filename=$i.csv
     # get the header:
-    echo $header > dataFilesBySpecies/$filename
+    echo $header > $myDirName/$filename
     # species name with spaces for grep operation since originals have spaces:
     speciesName=$(echo $i | tr '_' ' ')
     # get the right lines of data:
-    grep "$speciesName" Cusack_et_al_random_versus_trail_camera_trap_data_Ruaha_2013_14.csv >> dataFilesBySpecies/$filename
+    grep "$speciesName" Cusack_et_al_random_versus_trail_camera_trap_data_Ruaha_2013_14.csv >> $myDirName/$filename
 done
 
 # Note: the grep command is a very simple way to approach this; not the most efficient computationally
