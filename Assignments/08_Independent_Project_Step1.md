@@ -27,8 +27,8 @@ For the independent project, the eventual goal will be for you to define and sol
             + nice formatting,  
             + proper spelling and grammar, etc.  
             + PLEASE use and follow [the markdown template that Sam has provided][mdtemplate] for this assignment. 
-            
-        b. Create a **5-minute PowerPoint presentation** that you will deliver to classmates in the second or third week of April.  Details on how this will be done will be announced after spring break.  A [suggested template is available in the Assignments directory](https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/08_Suggested_Presentation_Template.pptx) of Sam's repo.
+        
+    b. Create a **5-minute PowerPoint presentation** that you will deliver to classmates in the second or third week of April.  Details on how this will be done will be announced after spring break.  A [suggested template is available in the Assignments directory](https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/08_Suggested_Presentation_Template.pptx) of Sam's repo.
 	
 <hr>
 
