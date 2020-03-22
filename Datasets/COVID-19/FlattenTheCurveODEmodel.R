@@ -131,7 +131,7 @@ NoDistancing <- ode(y = n0, times = times, func = siirModel, parms = parameters)
 ##   SOCIAL DISTANCING
 #############################################################################
 parameters <- defaultParameters()
-parameters$reduce1 <- 0.5 # 60% effective social distancing
+parameters$reduce1 <- 0.5 # 50% effective social distancing
 Distancing <- ode(y = n0, times = times, func = siirModel, parms = parameters)
 # note about results in Distancing object: column 1 = time, column 2 = susceptible, 
 # column 3 = incubating, column 4 = sick, column 5 = recovered
