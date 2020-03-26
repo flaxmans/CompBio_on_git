@@ -14,7 +14,7 @@ Many viruses that infect animals additionally have a membrane surrounding the pa
 ## What does "replication" mean for a virus?  
 We humans replicate ourselves, sort of, by having babies.  A virus makes copies of itself by harnessing the powers of its host cell to assemble new viral particles.  Those particles eventually break out of the cell, and can then go on to infect new cells, thus repeating the process.  Here's an illustration I found online:
 
-![the lytic cycle in a phage, a virus that infects bacteria][https://classconnection.s3.amazonaws.com/801/flashcards/3736801/png/lytic_cycle-146692E074B150BD6B6.png]  
+![the lytic cycle in a phage, a virus that infects bacteria](https://classconnection.s3.amazonaws.com/801/flashcards/3736801/png/lytic_cycle-146692E074B150BD6B6.png)
 
 Note: that image is for a kind of virus that infects bacteria, called a "phage", but the principles of replication are the same for many viruses.
 
