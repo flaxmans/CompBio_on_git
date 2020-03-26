@@ -18,6 +18,8 @@ We humans replicate ourselves, sort of, by having babies.  A virus makes copies 
 
 Notes about the image: (1) That image is for a kind of virus that infects bacteria, called a "phage", but the principles of replication are the same for many viruses.  (2) The orange oblong shape is the host cell, the blue lines are the virus genome, and the purple shapes are the protein coat around the virus's genome.
 
+(Image source: https://classconnection.s3.amazonaws.com/801/flashcards/3736801/png/lytic_cycle-146692E074B150BD6B6.png)
+
 ##  3. DNA, RNA, Genomes, and Replication
 I said viruses replicate themselves using our machinery.  But what exactly is being replicated?  
 A virus has a genome.  Of course, living organisms also have genomes.  In each of our human cells, we have a copy of our genome.  A human genome is the complete set of genes possessed in one human body cell.  Each gene is a unit of "instructions" for how to make a cell and an organism run.  The human genome contains roughly 20,000 genes.  Viral genomes are much, much smaller.  Many viruses may only have around 10-20 genes or so.  [One article on coronaviruses that I found from 2015](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4369385/) had identified around 20 genes.  You might have learned that genes and genomes are constructed of repetitive building blocks, frequently represented by the letters A, T, G, and C.  You can think of one letter in the genome as being like a single lego brick; one gene might be hundreds or thousands of letters long (like several hundred lego bricks stuck together).  The entire human genome is 3 billion letters long.  Coronavirus genomes are around 30,000 letters long.
