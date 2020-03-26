@@ -1,4 +1,4 @@
-# The Basic Biology of Viruses 
+# Basic Biology of Viruses 
 A brief introduction compiled by Sam Flaxman, Ph.D., Associate Professor of Ecology and Evolutionary Biology at the University of Colorado Boulder.  
 
 Though many guides exist on the web, a non-biologist friend asked me to put this together, so I thought I would share.  Comments and suggestions are welcome (email to samuel.flaxman@colorado.edu).
@@ -11,14 +11,14 @@ Since a virus doesn't have cells of its own, a single virus is often referred to
 
 Many viruses that infect animals additionally have a membrane surrounding the particle.  Viruses with such a membrane are called "enveloped".  This membrane is derived from the host cell when the viral particle exits the cell.  (Going back to the box analogy in the previous paragraph, you can think of the membrane like wrapping paper around the box.)  In chemical terms, these membranes are made of fats.  Influenza and COVID-19 are examples of "enveloped" viruses.
 
-## What does "replication" mean for a virus?  
+## 2. What does "replication" mean for a virus?  
 We humans replicate ourselves, sort of, by having babies.  A virus makes copies of itself by harnessing the powers of its host cell to assemble new viral particles.  Those particles eventually break out of the cell, and can then go on to infect new cells, thus repeating the process.  Here's an illustration I found online:
 
 ![the lytic cycle in a phage, a virus that infects bacteria](https://classconnection.s3.amazonaws.com/801/flashcards/3736801/png/lytic_cycle-146692E074B150BD6B6.png)
 
-Note: that image is for a kind of virus that infects bacteria, called a "phage", but the principles of replication are the same for many viruses.
+Notes about the image: (1) That image is for a kind of virus that infects bacteria, called a "phage", but the principles of replication are the same for many viruses.  (2) The orange oblong shape is the host cell, the blue lines are the virus genome, and the purple shapes are the protein coat around the virus's genome.
 
-##  DNA, RNA, Genomes, and Replication
+##  3. DNA, RNA, Genomes, and Replication
 I said viruses replicate themselves using our machinery.  But what exactly is being replicated?  
 A virus has a genome.  Of course, living organisms also have genomes.  In each of our human cells, we have a copy of our genome.  A human genome is the complete set of genes possessed in one human body cell.  Each gene is a unit of "instructions" for how to make a cell and an organism run.  The human genome contains roughly 20,000 genes.  Viral genomes are much, much smaller.  Many viruses may only have around 10-20 genes or so.  [One article on coronaviruses that I found from 2015](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4369385/) had identified around 20 genes.  You might have learned that genes and genomes are constructed of repetitive building blocks, frequently represented by the letters A, T, G, and C.  You can think of one letter in the genome as being like a single lego brick; one gene might be hundreds or thousands of letters long (like several hundred lego bricks stuck together).  The entire human genome is 3 billion letters long.  Coronavirus genomes are around 30,000 letters long.
 
@@ -29,7 +29,7 @@ Several of the genes encode structural proteins; these are proteins that are use
 
 The key is that, when a virus replicates, you get lots of new particles.  Each particle is a complete viral genome packaged in protein coat (and a membrane, if applicable).  When new particles break out of a cell, they can go on to infect new host cells and repeat the process.
 
-##  "Killing" a virus with time, sanitizer, chemicals, etc...
+##  4. "Killing" a virus with time, sanitizer, chemicals, etc...
 Since viruses aren't alive, they can't be killed per se, but people say "kill" a lot.  We might more accurately think of that as "deactivation."  Here's an analogy.  Suppose you have a functional bicycle. If you leave it outside exposed to the elements, it may eventually get so rusty and corroded that it can't be pedaled anymore.  Likewise, a viral particle exposed to the elements degrades over time.  Eventually, it might become so degraded that, even if it were placed onto a host cell, it wouldn't be able to infect it.  The same forces that break down a neglected bicycle -- water, heat, UV radiation, etc. -- can break down viral particles.  This degradation can include breakdown of the membrane, the protein coat, and/or the genome.  Chemicals that "kill" viruses -- such as hand sanitizer and disinfecting wipes -- make this breakdown happen fast.  
 
 Returning to the bicycle analogy: suppose you smash a bicycle into a bunch of pieces.  You can still tell it was a bicycle, but it can't be ridden at all.  Thus, when investigators find COVID-19 RNA bits on some surface of a cruise ship, it can be like finding a broken bit of a smashed bicycle. If you find a bicycle cog, you know for sure that there was a bicycle there, but there's absolutely no way that having one cog can create a functional bicycle.  
@@ -38,6 +38,6 @@ The extent of the breakdown process is what determines whether the viral particl
 
 New information on how long COVID-19 can remain infectious on various surfaces is being published every day.  Keep an eye on unbiased news sources for reliable reports.  Please don't trust what you "hear" on social media.  Find the original sources.
 
-## Replication and Spread
+## 5. Replication and Spread
 The rush for N95 (and other) masks following the advent of COVID-19 was driven by people's knowledge that it, like many respiratory viruses, can be spread through the air in droplets.  How many viral particles are likely to be in a droplet?  That is still under study.  [Here is a link to a study on influenza from 2012](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4676262/).  In that study, the investigators found that the average cough of someone sick with influenza contained around 75,400 influenza viral particles.  However, keep in mind that COVID-19 is a different virus, everyone coughs slightly differently, and even within one person, there is huge variance from one cough to the next.
 
