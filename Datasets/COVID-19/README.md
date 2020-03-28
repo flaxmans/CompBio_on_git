@@ -2,10 +2,16 @@
 
 The goal of this subdirectory of the class is to provide some real-world ideas for applying tools we have been learning to understanding the COVID-19 pandemic.  
 
-DISCLAIMER:  Data are archived here for teaching purposes only.  No medical or public health advice should be construed from this repository.
+DISCLAIMER:  Data, code, and information are archived here for teaching purposes only.  No medical or public health advice should be construed from this repository.
 
 ## Some info about what is here
-I have been compiling some local, state, and national data that I think might be useful for teaching purposes.  I've tried to focus on (1)  visualizations that would lend themselves to teaching about how to make visualizations, and (2) some types of datasets that can be represented as .csv files and how one might write code to work with and visualize these data.
+I have been compiling some local, state, and national data that I think might be useful for teaching purposes.  I've tried to focus on (1)  visualizations that would lend themselves to teaching about how to make visualizations, and (2) some types of datasets that can be represented as .csv files and how one might write code to work with and visualize these data.  
+
+I've also archived here:
+
+1. a brief intro to the biology of viruses, [Basic_Virus_Biology.md](Basic_Virus_Biology.md), and
+
+2. a simple ODE model that can be used to illustrate how behavioral changes like social distancing can "flatten the curve", [FlattenTheCurveODEmodel.R](FlattenTheCurveODEmodel.R).  Comments in the latter explain its assumptions.  It can be run in its entirety in R and should produce an example plot.
 
 
 ## Some other data sources to check out:
