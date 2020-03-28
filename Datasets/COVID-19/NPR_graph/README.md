@@ -1,13 +1,17 @@
-graph is a screenshot from the NPR news story accessed at 
-https://www.npr.org/sections/goatsandsoda/2020/03/26/821688981/how-south-korea-reigned-in-the-outbreak-without-shutting-everything-down
+# An Example Graph Showing Growth of COVID-19 cases over time in several countries
+
+The graph below is a screenshot from an NPR news story accessed at 
+[https://www.npr.org/sections/goatsandsoda/2020/03/26/821688981/how-south-korea-reigned-in-the-outbreak-without-shutting-everything-down](https://www.npr.org/sections/goatsandsoda/2020/03/26/821688981/how-south-korea-reigned-in-the-outbreak-without-shutting-everything-down)
 on 3/26/20
 
-Caption under the graph read: "
-Notes
+The caption under the graph reads:
+> Notes
 
-A logarithmic scale is meant to emphasize rate of change and allows for the display of a wide range of numbers. Latest daily numbers as of 8:30 p.m. March 25.
+> A logarithmic scale is meant to emphasize rate of change and allows for the display of a wide range of numbers. Latest daily numbers as of 8:30 p.m. March 25.
 
-Source: Center for Systems Science and Engineering at Johns Hopkins University
+> Source: Center for Systems Science and Engineering at Johns Hopkins University
 
-Credit: Stephanie Adeline/NPR
-"
+> Credit: Stephanie Adeline/NPR
+
+
+![growth of COVID-19 in several Asian countries compared to the U.S.](SpreadOfCOVID-19inAsianCountries.png)
