@@ -1,5 +1,13 @@
-Images from the New York Times, screenshots taken March 24, 2020, around 11:55 a.m.
+# Deaths and Death Rates from COVID-19 
 
-Source: https://www.nytimes.com/interactive/2020/03/21/upshot/coronavirus-deaths-by-country.html accessed on that same day and time
+This directory has two example plots from the New York Times.  These images were taken as screeshots on March 24, 2020, around 11:55 a.m. from  [https://www.nytimes.com/interactive/2020/03/21/upshot/coronavirus-deaths-by-country.html](https://www.nytimes.com/interactive/2020/03/21/upshot/coronavirus-deaths-by-country.html)
 
 The captions in the images explain the data used.
+
+![Cumulative deaths from COVID-19 by country](CountryDoublingTimes.png)
+
+
+![Cumulative deaths from COVID-19 by state](StateDoublingTimes.png)
+
+## Question:
+What would be required if we wanted to produce plots like these?
