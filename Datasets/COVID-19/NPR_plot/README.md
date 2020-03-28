@@ -19,4 +19,4 @@ The caption under the plot reads:
 
 
 ## Question:
-How might we write code to reproduce a plot like this?
+What would it take for us to reproduce this plot?
