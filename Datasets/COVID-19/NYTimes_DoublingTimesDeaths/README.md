@@ -11,3 +11,6 @@ The captions in the images explain the data used.
 
 ## Question:
 What would be required if we wanted to produce plots like these?
+
+## Access to Raw Data:
+The Times has made its data public on GitHub!  You can find them at [https://github.com/nytimes/covid-19-data](https://github.com/nytimes/covid-19-data)

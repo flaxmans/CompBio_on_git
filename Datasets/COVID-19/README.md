@@ -5,11 +5,13 @@ The goal of this subdirectory of the class is to provide some real-world ideas f
 DISCLAIMER:  Data are archived here for teaching purposes only.  No medical or public health advice should be construed from this repository.
 
 ## Some info about what is here
-I have been compiling some local, state, and national data that I think might be useful for teaching purposes
+I have been compiling some local, state, and national data that I think might be useful for teaching purposes.  I've tried to focus on (1)  visualizations that would lend themselves to teaching about how to make visualizations, and (2) some types of datasets that can be represented as .csv files and how one might write code to work with and visualize these data.
 
 
-## Some other data sources to potentially check out:
+## Some other data sources to check out:
 
 1. John's Hopkins data repository: [https://github.com/CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19)
+
+2. New York Times data repository: [https://github.com/nytimes/covid-19-data](https://github.com/nytimes/covid-19-data)
 
 
