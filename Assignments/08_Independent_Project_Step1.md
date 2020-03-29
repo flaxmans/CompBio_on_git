@@ -15,7 +15,7 @@ For the independent project, the eventual goal will be for you to define and sol
 		 1. format?  
 		 2. size?  
 		 3. any inconsistencies in the data files?  anything that looks problematic?  
-                4. what the data represent about the biology?
+                4. what the data represent about the biology?  
                 5. source code?
 5. **Now for the substance of the project**: Define and describe an analysis that YOU want to do with the data and with programming.  This could be (i) repeating an analysis from the paper (as long as the authors did NOT give code that you are simply re-running ;-) ), (ii) doing something new that the authors didn't do, or (iii) a combination of the two.  The challenge you define for yourself should indeed be something you expect to be *challenging*.  For example: "Import the data and calculate the mean of each variable" would **NOT** be a sufficient challenge.  This is supposed to be a *project* that will require you to do some creative programming, not an easy few lines of code.  Your challenge should also follow from some question about the biology of the system you are investigating.  Hence, **you should formulate a question**, and **your challenge statement should address both the biological elements of the question and the computational challenge involved**.
 6. **For completion of this assignment, you will need to do two things**:  
