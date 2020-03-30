@@ -3,7 +3,7 @@
 rm(list = ls())  # start with a clean workspace
 
 # Get data.  
-setwd("~/compbio/CompBio_on_git/Datasets/Cusack_et_al/")
+setwd("~/compbio/CompBio_on_git/Datasets/Cusack_et_al/IdeasFrom2019/")
 camData <- read.csv("CusackDataFourDigitYears.csv", stringsAsFactors = F)
 
 # cross-tabulate to get count data:

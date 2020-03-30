@@ -1,5 +1,5 @@
 rm(list = ls())
-setwd("~/compbio/CompBio_on_git/Datasets/Cusack_et_al/") # set for your clone of Sam's repo
+setwd("~/compbio/CompBio_on_git/Datasets/Cusack_et_al/IdeasFrom2019/") # set for your clone of Sam's repo
 camData <- read.csv("CusackDataFourDigitYears.csv", stringsAsFactors = F)
 # NOTE, this uses file with two digit years replaced to be four-digits
 
