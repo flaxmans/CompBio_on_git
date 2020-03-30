@@ -18,6 +18,10 @@ I've also archived here:
 
 1. John's Hopkins data repository: [https://github.com/CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19)
 
-2. New York Times data repository: [https://github.com/nytimes/covid-19-data](https://github.com/nytimes/covid-19-data)
+2. Building on the John's Hopkins data above, [https://github.com/datasets/covid-19](https://github.com/datasets/covid-19) claims they "... have cleaned and normalized that data, for example tidying dates and consolidating several files into normalized time series. We have also added some metadata ..."
+
+3. New York Times data repository: [https://github.com/nytimes/covid-19-data](https://github.com/nytimes/covid-19-data)
+
+4. See also this article about resources for/in R specifically, a great number of which are on GitHub: [https://towardsdatascience.com/top-5-r-resources-on-covid-19-coronavirus-1d4c8df6d85f](https://towardsdatascience.com/top-5-r-resources-on-covid-19-coronavirus-1d4c8df6d85f)
 
 
