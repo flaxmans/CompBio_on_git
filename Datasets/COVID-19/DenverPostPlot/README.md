@@ -9,5 +9,10 @@ Data like these could be used to partially reconstruct a plot like the one shown
 ![COVID-19 cases over time in Colorado](COVID-19_DenverPost_ExamplePlot.png)
 
 
+Starting around March 30th, the data were displayed in two separate plots as follows:
+
+![COVID-19 cases over time in Colorado, second example](COVID-19_DenverPost_SecondExample.png)
+
+
 ## Question:
-How could we use the data here to reproduce the figure shown?
+How could we use the data here to reproduce the plots shown?
