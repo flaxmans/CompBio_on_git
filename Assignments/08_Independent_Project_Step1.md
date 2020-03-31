@@ -18,7 +18,7 @@ For the independent project, the eventual goal will be for you to define and sol
                 4. what the data represent about the biology?  
                 5. source code?
 5. **Now for the substance of the project**: Define and describe an analysis that YOU want to do with the data and with programming.  This could be (i) repeating an analysis from the paper (as long as the authors did NOT give code that you are simply re-running ;-) ), (ii) doing something new that the authors didn't do, or (iii) a combination of the two.  The challenge you define for yourself should indeed be something you expect to be *challenging*.  For example: "Import the data and calculate the mean of each variable" would **NOT** be a sufficient challenge.  This is supposed to be a *project* that will require you to do some creative programming, not an easy few lines of code.  Your challenge should also follow from some question about the biology of the system you are investigating.  Hence, **you should formulate a question**, and **your challenge statement should address both the biological elements of the question and the computational challenge involved**.
-6. **For completion of this assignment, you will need to do two things**:  
+6. **For completion of this assignment, you will need to do ~~two~~ THREE things**:  
         a. Write a markdown document that contains all of the details listed in items #4 and #5 above. Push this document to your GitHub repository for this class. The markdown document should have:  
             + all the information requested above,   
             + the full citations of the original publication *and* the data archive,  
@@ -28,12 +28,15 @@ For the independent project, the eventual goal will be for you to define and sol
             + proper spelling and grammar, etc.  
             + PLEASE use and follow [the markdown template that Sam has provided][mdtemplate] for this assignment. 
         
-    b. Create a **5-minute PowerPoint presentation** that you will deliver to classmates in the second or third week of April.  Details on how this will be done will be announced after spring break.  A [suggested template is available in the Assignments directory](https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/08_Suggested_Presentation_Template.pptx) of Sam's repo.
+    b. Create a **5-minute PowerPoint presentation** that you will deliver to classmates in the second or third week of April.  Details on how this will be done will be announced after spring break.  A [suggested template is available in the Assignments directory](https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/08_Suggested_Presentation_Template.pptx) of Sam's repo.  
+    **UPDATED**: For part b (the presentation), please make a 5-minute screencast of you giving your presentation, this presentation will be uploaded to Canvas as part of Assignment 8.  See helpful links, below
+    
+    c. **UPDATED**:  Peer review TWO classmates' videos.  Canvas will automatically assign these to you.  Peer reviews will be due by Friday, 4/17, at 11:59 p.m.
 	
 <hr>
 
-### DUE DATE: Friday, 4/10, 11:59 p.m.
-+ email your presentation to Sam
+### DUE DATE: ~~old: Friday, 4/10, 11:59 p.m.~~ Monday, 4/13, 11:59 p.m.
++ ~~old: email your presentation to Sam~~ **UPDATED**: Submit screencast to Canvas using "Submit" option for Assignment 8 there in Canvas.
 + push your markdown doc to GitHub (make sure it has a sensible title and is in a sensible subdirectory of your repo)
 
 <hr>
@@ -52,3 +55,22 @@ This Assignment is part of that 15% .
 
 [dryad]: https://datadryad.org/
 [mdtemplate]: https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/08_MarkdownTemplate.md
+
+<hr>
+
+## Helpful links:
+
+#### How to make a screen recording? There are SEVERAL ways:
+
++ Record your screen with Mac, PC, or PowerPoint: [https://www.digitaltrends.com/computing/how-to-record-your-computer-screen/](https://www.digitaltrends.com/computing/how-to-record-your-computer-screen/)
++ A guide for Mac:  [https://www.laptopmag.com/articles/make-screen-recording-mac](https://www.laptopmag.com/articles/make-screen-recording-mac)
++ A guide for PowerPoint:  [https://support.office.com/en-us/article/record-your-screen-in-powerpoint-0b4c3f65-534c-4cf1-9c59-402b6e9d79d0](https://support.office.com/en-us/article/record-your-screen-in-powerpoint-0b4c3f65-534c-4cf1-9c59-402b6e9d79d0)
++ If you are running Fedora, maybe try this? [https://fedoramagazine.org/taking-screencast-fedora/](https://fedoramagazine.org/taking-screencast-fedora/) 
++ If you are running Ubuntu, maybe try this? [https://tipsonubuntu.com/2018/06/09/record-gnome-desktop-ubuntu-18-04/](https://tipsonubuntu.com/2018/06/09/record-gnome-desktop-ubuntu-18-04/)
++ There is also a built-in option in Canvas, but I've never tried it
+
+ 
+
+#### How to submit a screen recording on Canvas?  
+
+Here's a YouTube video with several options depending upon your preferences and where your recording is:  [https://youtu.be/FB-ibMSAGh0](https://youtu.be/FB-ibMSAGh0) 
