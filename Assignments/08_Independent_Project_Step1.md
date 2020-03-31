@@ -35,9 +35,12 @@ For the independent project, the eventual goal will be for you to define and sol
 	
 <hr>
 
-### DUE DATE: ~~old: Friday, 4/10, 11:59 p.m.~~ Monday, 4/13, 11:59 p.m.
+### DUE DATE for Submission of Your Work: ~~old: Friday, 4/10, 11:59 p.m.~~ UPDATED: Monday, 4/13, 11:59 p.m.
 + ~~old: email your presentation to Sam~~ **UPDATED**: Submit screencast to Canvas using "Submit" option for Assignment 8 there in Canvas.
 + push your markdown doc to GitHub (make sure it has a sensible title and is in a sensible subdirectory of your repo)
+
+
+### DUE DATE FOR PEER REVIEW: Friday, 4/17, 11:59 p.m.
 
 <hr>
 
