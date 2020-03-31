@@ -29,7 +29,7 @@ For the independent project, the eventual goal will be for you to define and sol
             + PLEASE use and follow [the markdown template that Sam has provided][mdtemplate] for this assignment. 
         
     b. Create a **5-minute PowerPoint presentation** that you will deliver to classmates in the second or third week of April.  Details on how this will be done will be announced after spring break.  A [suggested template is available in the Assignments directory](https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/08_Suggested_Presentation_Template.pptx) of Sam's repo.  
-    **UPDATED**: For part b (the presentation), please make a 5-minute screencast of you giving your presentation, this presentation will be uploaded to Canvas as part of Assignment 8.  See helpful links, below
+    **UPDATED**: For part b (the presentation), please make a 5-minute screencast of you giving your presentation.  This presentation will be uploaded to Canvas as part of Assignment 8.  See helpful links, below, for tech advice.  If you've never done this before, start early so you can work out the technical issues!
     
     c. **UPDATED**:  Peer review TWO classmates' videos.  Canvas will automatically assign these to you.  Peer reviews will be due by Friday, 4/17, at 11:59 p.m.
 	
