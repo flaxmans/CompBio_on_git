@@ -87,7 +87,7 @@ p1 <- ggplot(mydata) +
 p2 <- ggplot(mydata) + 
   geom_line( aes( x, y ), 
              color = "red", linetype = "dashed" ) +
-  geom_point( aes( x, y ), shape = 12 ) + 
+  geom_point( aes( x, y ), shape = 12 )
   
 cowplot::plot_grid(p1,p2)
 
@@ -107,4 +107,53 @@ ggplot( mydata, aes(x, y) ) +
   geom_line( aes( color = treatment1 ) ) +
   geom_point( aes( shape = treatment2 ) )
 
+
+####################################################
+## Some ggplot examples with the Cusack et al. data
+####################################################
+
+# get the data:
+setwd("~/compbio/CompBio_on_git/Datasets/Cusack_et_al/IdeasFrom2019/") # set for your clone of Sam's repo
+camData <- read.csv("CusackDataFourDigitYears.csv", stringsAsFactors = F)
+
+
+# make a subset as a small exaxmple: just two species, elephants and impalas
+ElAndIm <- camData[ (camData$Species %in% c("Elephant", "Impala")),  ]
+
+# cross tabulate:
+counts <- as.data.frame( with( ElAndIm, table(Species, Station, Placement, Season) ), stringsAsFactors = F )
+# use pairwise differences:
+require(tidyr)
+countsSpread <- spread( counts, key = Placement, value = Freq)
+head(countsSpread)
+
+
+# let's see what happens when add things to the mapping bit by bit:
+
+require(ggplot2)
+ggplot( data = countsSpread, aes( y = Random - Trail ) ) +  # ALWAYS pairwise count differences on y-axis
+  geom_boxplot( )
+# so there, we get a single boxplot of ALL the data.  Not very useful
+
+# Ways we could split by species:
+# Way 1: x axis separation of data on species:
+ggplot( data = countsSpread, aes( y = Random - Trail ) ) +
+  geom_boxplot( mapping = aes( x = Species ))
+# Way 2: facets for species:
+ggplot( data = countsSpread, aes( y = Random - Trail ) ) +
+  geom_boxplot( ) + 
+  facet_wrap( ~Species )
+
+# We could do the same things with seasons or stations:
+ggplot( data = countsSpread, aes( y = Random - Trail ) ) +
+  geom_boxplot( mapping = aes( x = Station ))
+ggplot( data = countsSpread, aes( y = Random - Trail ) ) +
+  geom_boxplot( ) + 
+  facet_wrap( ~Season )
+
+# But, of course, the real power of ggplot is in doing those things, AND also being able to combine them
+ggplot( data = countsSpread, aes( y = Random - Trail ) ) +
+  geom_boxplot( mapping = aes( x = Species, color = Season ))
+
+# Of course, just becoause it works doesn't mean it loooks good or is informative, and thus we need to experiment with it...
 
