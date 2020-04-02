@@ -22,6 +22,9 @@ I've also archived here:
 
 3. New York Times data repository: [https://github.com/nytimes/covid-19-data](https://github.com/nytimes/covid-19-data)
 
-4. See also this article about resources for/in R specifically, a great number of which are on GitHub: [https://towardsdatascience.com/top-5-r-resources-on-covid-19-coronavirus-1d4c8df6d85f](https://towardsdatascience.com/top-5-r-resources-on-covid-19-coronavirus-1d4c8df6d85f)
+4. This article suggests resources for/in R specifically, a great number of which are on GitHub: [https://towardsdatascience.com/top-5-r-resources-on-covid-19-coronavirus-1d4c8df6d85f](https://towardsdatascience.com/top-5-r-resources-on-covid-19-coronavirus-1d4c8df6d85f)
+
+5. For some modeling ideas, check out [http://covid19.healthdata.org/](http://covid19.healthdata.org/)
+
 
 
