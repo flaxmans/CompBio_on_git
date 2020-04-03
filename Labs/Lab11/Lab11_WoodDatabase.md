@@ -138,6 +138,9 @@ Try to figure out the syntax in `ggplot` to plot the same data but instead in th
 + You no longer need `facet_wrap()`, but you will need `coord_flip()`.  
 + For ease, I made these as two separate plots (not a single plot with "facets").
 
+<hr>
 
+## "Finishing" Lab 11:
+There is no formal, graded assignment associated with Lab 11.  Rather, please spend two hours working on it during the normally scheduled lab time, and then push whatever you have done at the end of that time to GitHub.  Sam will look through work and we will discuss it in class next week.
 
 [datalink]: https://doi.org/10.5061/dryad.234
