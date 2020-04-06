@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# script for converting .m parameter files to .R compatible
+
+# the only argument is the (path to the) directory where runs are stored
 
 orig=$(pwd)
 
