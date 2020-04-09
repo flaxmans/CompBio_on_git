@@ -14,14 +14,17 @@ names(dpp)[2:3] <- c("New_Cases", "New_Deaths")
 head(dpp)
 
 
-# how to proceed? 
+# How to proceed?   We need to answer the following questions 
+# before we can even start to plot:
+# 1. What do we need to calculate to complete the data set?
+# 2. How should we assemble the different metrics into a single data frame?
 
 
-
+#############################################
+## 1. Calculations of cumulative totals
+#############################################
 
 # need some new variables created for the cumulative counts.  
-# We'll look at two ways of assembling a data frame
-# after doing the necessary calculations:
 Total_Cases <- dpp$New_Cases      # preallocate with correct number in position 1
 Total_Deaths <- dpp$New_Deaths    # preallocate with correct number in position 1
 for ( day in 2:nrow(dpp) ) {
@@ -31,7 +34,7 @@ for ( day in 2:nrow(dpp) ) {
 }
 
 ###############################################################
-## Building data frames that work nicely for ggplot
+## 2. Building data frames that work nicely for ggplot
 ###############################################################
 
 ## Method 1 for building one data frame: "spread out" or "wide form"
@@ -56,7 +59,7 @@ dppStacked <- dppSpread %>%
 head(dppStacked)
 
 ##################################################################
-## Actually plotting
+## 3. Actually Plotting
 ##################################################################
 # Sometimes, the spread form is nice, like when you only want 
 # to plot a subset of the data.  Note that data differentiation
