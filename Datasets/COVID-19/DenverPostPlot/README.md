@@ -27,6 +27,9 @@ On April 9th, the following note appeared on the [Denver Post page][DenverPostPa
 > Note: We have changed the way we present the daily data to match the Colorado Department of Public Health and Environment's revised figures. Reported data is through the previous day, which is reflected on the charts. Not all cumulative cases are active — the state has not released recovery data. Source for all data is the [CDPHE](https://www.colorado.gov/pacific/cdphe/2019-novel-coronavirus).
 
 
+As such, the current version of the data are now in the a file named `RevisedData.csv`.  The original data were removed from subsequent commits but are in the history of commits.  Numbers were revised for dates starting on 3/19.
+
+
 ## Question:
 How could we use the data here to reproduce the plots shown?
 
