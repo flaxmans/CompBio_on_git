@@ -1,6 +1,6 @@
 # Data on COVID-19 in Colorado By County
 
-Accessed during March 2020 at [https://data-cdphe.opendata.arcgis.com/datasets/colorado-covid-19-positive-cases-and-rates-of-infection-by-county-of-identification][sourcewebpage]
+Accessed during March 2020 and beyond at [https://data-cdphe.opendata.arcgis.com/datasets/colorado-covid-19-positive-cases-and-rates-of-infection-by-county-of-identification][sourcewebpage]
 
 ## Notes about the raw data and their source:
 
@@ -15,7 +15,8 @@ There is also a "metadata" link from that webpage, which points to:  [https://ww
 ## Notes about files here
 Each day, I visited [website][sourcewebpage] and clicked on the "Download" button to export the "Full Dataset" as a spreadsheet (.csv).  Names of .csv files indicate the dates on which they were obtained.
 
-
+## Additional Data Availability
+Data from the Colorado Department of Public Health and Environment are also archived on Google Drive at [https://drive.google.com/drive/folders/11ulhC5FwnRhiKqxDl6_9PnSMOjCWnLPB?usp=sharing](https://drive.google.com/drive/folders/11ulhC5FwnRhiKqxDl6_9PnSMOjCWnLPB?usp=sharing).  That link was found at [https://covid19.colorado.gov/case-data](https://covid19.colorado.gov/case-data).
 
 [metadatalink]: https://www.arcgis.com/sharing/rest/content/items/fbae539746324ca69ff34f086286845b/info/metadata/metadata.xml?format=default&output=html
 
