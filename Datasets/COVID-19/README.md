@@ -26,5 +26,7 @@ I've also archived here:
 
 5. For some modeling ideas, check out [http://covid19.healthdata.org/](http://covid19.healthdata.org/)
 
+6. And for a compelling model that many people, regardless of mathematical background, find informative, check out this simulation series from the Washington Post: [https://www.washingtonpost.com/graphics/2020/world/corona-simulator/](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
+
 
 

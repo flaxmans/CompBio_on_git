@@ -4,7 +4,7 @@
 # https://github.com/flaxmans/CompBio_on_git/tree/master/Datasets/COVID-19/DenverPostPlot 
 rm(list = ls())
 # import:
-dpp <- read.csv( file = "~/compbio/CompBio_on_git/Datasets/COVID-19/DenverPostPlot/COVID-19_DenverPost_data.csv", stringsAsFactors = F)
+dpp <- read.csv( file = "~/compbio/CompBio_on_git/Datasets/COVID-19/DenverPostPlot/RevisedData.csv", stringsAsFactors = F)
 # convert date from char to date:
 dpp$Date <- as.Date( dpp$Date, format = "%m/%d/%y" )
 # take a look:
