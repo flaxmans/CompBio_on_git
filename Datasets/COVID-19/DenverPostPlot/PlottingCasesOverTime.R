@@ -74,7 +74,8 @@ ggplot( dppSpread ) +
 # with the SAME GEOM:
 ggplot( dppStacked ) + 
   geom_line( aes(x = Date, y = Count, linetype = CountType, color = Outcome)) +
-  facet_wrap( ~Outcome, nrow = 2) 
+  facet_wrap( ~Outcome, nrow = 2)  + 
+  scale_y_log10()
 
 # Which would be better/easier for reconstructing the Denver Post's plots?
 # And, how would we do it?
