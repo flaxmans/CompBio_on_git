@@ -1,8 +1,8 @@
 # Assignment 09: Independent Project, Step 2: <br> A fully reproducible analysis
 
-### Announced: Tuesday, 4/16/19
+### Announced: Wednesday of Week 13
 
-### Due: Friday, May 3rd, at 11:59 p.m.
+### Due: Last day of class, Thursday, April 30th, at 11:59 p.m.
 
 ___
 
@@ -18,7 +18,7 @@ Completing Assignment 9 will require pushing a minimum of four files to an "Assi
 
 The data file(s) should be the raw data as you obtained them.  The script should include the parsing/formatting of the raw data AND the steps you took with those data to arrive at your results.  The markdown document should explain it all (see "[suggested format and organization](#ExampleLayout)", below).
 
-Your grade on Assignment 9 will be out of a total of 37 available points.  The breakdown of these points will be as follows:  
+Your grade on Assignment 9 will be out of a total of 39 available points.  The breakdown of these points will be as follows:  
 
 * All required files are present: 1 point (but see note above about large and/or private data)
 * Your script(s) achieves its goals and works perfectly when I run it: 15 points
@@ -30,7 +30,7 @@ Your grade on Assignment 9 will be out of a total of 37 available points.  The b
 * A subjective evaluation of the difficulty of your challenge and the elegance, ingenuity, and creativity displayed by your code: 4 points
 
 
-* You must also properly **cite references, of course!!**  See [this guide](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html). 
+* You must also properly **cite references, of course!!**  See [this guide][refguide]. 2 points
 
 ____
 
@@ -71,5 +71,9 @@ Verbally describe what your approach was and how you achieved it.  You don't nee
 ### Results and conclusions
 What did you find?  How does this relate to your question?  Include at least one visualization.
 
+### References Cited
+Give full bibliographic information for all cited references.  There should be a one-to-one correspondence: each reference listed here should be cited at least once in the main text, and each reference cited above should be listed here.  Please follow [standard practices of citation and bibliography][refguide].
 
 
+
+[refguide]: https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html
