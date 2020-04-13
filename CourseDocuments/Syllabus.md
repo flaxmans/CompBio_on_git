@@ -183,11 +183,10 @@ ______________________________
 + Topics:
     + Student presentations of work to each other! (see [Assignment 08][Assignment8link])
     + Reviewing problems from Labs 11 and 12 if needed
-    + Working with data sets comprising many files
-+ **No lab this week!**
+    + Working with `ggplot()` and [COVID-19 data from the Denver Post](https://github.com/flaxmans/CompBio_on_git/tree/master/Datasets/COVID-19/DenverPostPlot)
+    + **No lab this week!  Instead, please work on Assignment 9**.
 + Action items:
     + [Independent project, Step 2 = Assignment 09][Assignment9link]
-    + Please read [Flaxman et al. 2013](https://doi.org/10.1111/evo.12055) and check out the README file for [the archived data set](https://doi.org/10.5061/dryad.t894r).
     
 ###### Week 14
 + Topics:
