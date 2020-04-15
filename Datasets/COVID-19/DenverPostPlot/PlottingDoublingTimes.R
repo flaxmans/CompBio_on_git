@@ -110,8 +110,9 @@ doublingTimePlot <- function( dataVec, thresh, doublingPeriods, varname ) {
   # 1. threshold the data and set them up:
   dataVec <- dataVec[ dataVec >= thresh ]
   daysSince <- 0:(length(dataVec) - 1)
-  dataToPlot <- data.frame( count = dataVec,
-                            days = daysSince )
+  dataToPlot <- na.omit( data.frame( count = dataVec,
+                            days = daysSince ))
+
   # Some useful variables for customizing the plot:
   smallest <- min(dataToPlot$count)
   largest <- max(dataToPlot$count)
@@ -140,7 +141,7 @@ doublingTimePlot <- function( dataVec, thresh, doublingPeriods, varname ) {
 }
   
 # Some example calls:
-doublingTimePlot( dppWide$Total_Cases, 50, seq(2, 7), "case")  
+doublingTimePlot( dppWide$Total_Cases, 50, 2:7, "case")  
 doublingTimePlot( dppWide$Total_Deaths, 20, seq(3, 11, 2), "death")  
   
 
