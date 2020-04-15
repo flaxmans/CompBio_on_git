@@ -46,6 +46,7 @@ dppWide <- cbind(dpp, Total_Cases, Total_Deaths)
 # note the pattern: two variables stored in four names, separated by underscores
 
 require(tidyr)
+head(dpp)
 # "long form" data frame with ONLY daily counts:
 dailyData <- pivot_longer(data = dpp, 
                          cols = 2:3, 
@@ -64,6 +65,12 @@ cumulativeData <-
 # data frame with all of it in long form:
 head(dppWide)
 # FILL IN CODE HERE:
+dppLong <- dppWide %>%
+  pivot_longer( cols = 2:5,
+                names_to = c("Daily or Total", "Cases or Deaths"),
+                values_to = "Count",
+                names_sep = "_")
+dppLong
 
 ##################################################################
 ## 3. Actually Plotting
@@ -81,7 +88,11 @@ ggplot( data = dppWide, mapping = aes( x = Date) ) +
   geom_bar( aes(y = Daily_Cases), 
             stat = "identity", 
             fill = DPcolors[1], 
-            width = 0.5) 
+            width = 0.5)  + 
+  geom_bar( aes( y = Daily_Deaths ),
+            stat = "identity",
+            fill = DPcolors[2],
+            width = 0.5)
   # + FILL IN CODE HERE FOR SECOND SET OF BARS
 
 
@@ -90,16 +101,24 @@ ggplot( data = dppWide, mapping = aes( x = Date) ) +
 # choosing colors, linetypes, etc., and you want all data to be displayed
 # with the SAME GEOM:
 
-# ADD CODE HERE TO MAKE DAILY BAR PLOTS with dailyData:
-p1 <- ggplot( data = dailyData ) 
+# ADD MORE CODE HERE TO MAKE DAILY BAR PLOTS with dailyData:
+p1 <- ggplot( data = dailyData ) +
+  geom_bar( aes( x = Date, y = count, fill = `Cases or Deaths`),
+            stat = "identity",
+            width = 0.5,
+            position = "dodge") +
+  scale_fill_manual( values = DPcolors) +
+  theme_bw()
 
 p1
 
-# ADD CODE HERE TO MAKE CUMULATIVE POINT AND LINE PLOTS with cumulativeData
+# ADD MORE CODE HERE TO MAKE CUMULATIVE POINT AND LINE PLOTS with cumulativeData
 p2 <- ggplot( data = cumulativeData, 
-        aes( x = Date, y = `Cumulative count`, color = `Cases or Deaths`) ) 
-
-
+              aes( x = Date, y = `Cumulative count`, color = `Cases or Deaths`) ) +
+  geom_point( size = 1.25 ) + 
+  geom_line() + 
+  scale_color_manual(values = DPcolors) + 
+  theme_bw()
 p2
 
 
