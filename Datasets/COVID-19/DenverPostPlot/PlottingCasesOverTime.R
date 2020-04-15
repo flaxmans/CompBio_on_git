@@ -44,25 +44,63 @@ dppWide <- cbind(dpp, Total_Cases, Total_Deaths)
 # vignette at https://tidyr.tidyverse.org/articles/pivot.html 
  
 # note the pattern: two variables stored in four names, separated by underscores
-require(tidyr)
 
+require(tidyr)
+# "long form" data frame with ONLY daily counts:
+dailyData <- pivot_longer(data = dpp, 
+                         cols = 2:3, 
+                         names_to = "Cases or Deaths", 
+                         values_to = "count" )
+
+# "long form" data frame with ONLY cumulative totals:
+cumulativeData <- 
+  data.frame(Date = dpp$Date, 
+             Total_Cases, 
+             Total_Deaths) %>%
+  pivot_longer( cols = 2:3,
+                names_to = "Cases or Deaths", 
+                values_to = "Cumulative count" )
+
+# data frame with all of it in long form:
+head(dppWide)
+# FILL IN CODE HERE:
 
 ##################################################################
 ## 3. Actually Plotting
 ##################################################################
 
 require(ggplot2)
+DPcolors <- c("#5C8BBC", "#C26064") # found using "Colorzilla" tool
 
+## PLOTTING WITH "WIDE" or "SPREAD" FORM:
 # Sometimes, the spread form is nice, like when you only want 
 # to plot a subset of the data.  Note that data differentiation
 # occurs through calls to multiple geom's:
 
+ggplot( data = dppWide, mapping = aes( x = Date) ) + 
+  geom_bar( aes(y = Daily_Cases), 
+            stat = "identity", 
+            fill = DPcolors[1], 
+            width = 0.5) 
+  # + FILL IN CODE HERE FOR SECOND SET OF BARS
 
 
+## PLOTTING WITH "LONG" OR "STACKED" FORMS
 # The "stacked" form is nice when you want to let ggplot do the work of 
 # choosing colors, linetypes, etc., and you want all data to be displayed
 # with the SAME GEOM:
 
+# ADD CODE HERE TO MAKE DAILY BAR PLOTS with dailyData:
+p1 <- ggplot( data = dailyData ) 
+
+p1
+
+# ADD CODE HERE TO MAKE CUMULATIVE POINT AND LINE PLOTS with cumulativeData
+p2 <- ggplot( data = cumulativeData, 
+        aes( x = Date, y = `Cumulative count`, color = `Cases or Deaths`) ) 
+
+
+p2
 
 
 # Which would be better/easier for reconstructing the Denver Post's plots?
@@ -71,4 +109,5 @@ require(ggplot2)
 
 require(cowplot)
 #plot_grid()  # getting multiple separate graphics objects in one plot
-  
+plot_grid( p1, p2, nrow = 2 )
+
