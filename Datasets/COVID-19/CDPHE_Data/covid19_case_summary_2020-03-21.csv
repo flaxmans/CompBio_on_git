@@ -1,0 +1,175 @@
+description,attribute,metric,value
+State Data,Statewide,Cases,475
+State Data,Statewide,Hospitalizations,49
+State Data,Statewide,Counties,29
+State Data,Statewide,People Tested,4550
+State Data,Statewide,Deaths,5
+State Data,Statewide,Rate Per 100000,8.34
+Case Counts by County,*Unknown or pending,Rate Per 100000,NA
+Case Counts by County,*Unknown or pending,Cases,1
+Case Counts by County,Adams,Rate Per 100000,2.73587118
+Case Counts by County,Adams,Cases,14
+Case Counts by County,Alamosa,Rate Per 100000,NA
+Case Counts by County,Alamosa,Cases,0
+Case Counts by County,Arapahoe,Rate Per 100000,6.139555159
+Case Counts by County,Arapahoe,Cases,40
+Case Counts by County,Archuleta,Rate Per 100000,NA
+Case Counts by County,Archuleta,Cases,0
+Case Counts by County,Baca,Rate Per 100000,NA
+Case Counts by County,Baca,Cases,0
+Case Counts by County,Bent,Rate Per 100000,NA
+Case Counts by County,Bent,Cases,0
+Case Counts by County,Boulder,Rate Per 100000,9.216023593
+Case Counts by County,Boulder,Cases,30
+Case Counts by County,Broomfield,Rate Per 100000,1.446549978
+Case Counts by County,Broomfield,Cases,1
+Case Counts by County,Chaffee,Rate Per 100000,9.995002499
+Case Counts by County,Chaffee,Cases,2
+Case Counts by County,Cheyenne,Rate Per 100000,NA
+Case Counts by County,Cheyenne,Cases,0
+Case Counts by County,Clear Creek,Rate Per 100000,31.05911585
+Case Counts by County,Clear Creek,Cases,3
+Case Counts by County,Conejos,Rate Per 100000,NA
+Case Counts by County,Conejos,Cases,0
+Case Counts by County,Costilla,Rate Per 100000,NA
+Case Counts by County,Costilla,Cases,0
+Case Counts by County,Crowley,Rate Per 100000,17.0794193
+Case Counts by County,Crowley,Cases,1
+Case Counts by County,Custer,Rate Per 100000,NA
+Case Counts by County,Custer,Cases,0
+Case Counts by County,Delta,Rate Per 100000,NA
+Case Counts by County,Delta,Cases,0
+Case Counts by County,Denver,Rate Per 100000,13.51234638
+Case Counts by County,Denver,Cases,97
+Case Counts by County,Dolores,Rate Per 100000,NA
+Case Counts by County,Dolores,Cases,0
+Case Counts by County,Douglas,Rate Per 100000,7.873166208
+Case Counts by County,Douglas,Cases,27
+Case Counts by County,Eagle,Rate Per 100000,134.8028054
+Case Counts by County,Eagle,Cases,74
+Case Counts by County,El Paso,Rate Per 100000,5.178185564
+Case Counts by County,El Paso,Cases,37
+Case Counts by County,Elbert,Rate Per 100000,11.43161986
+Case Counts by County,Elbert,Cases,3
+Case Counts by County,Fremont,Rate Per 100000,NA
+Case Counts by County,Fremont,Cases,0
+Case Counts by County,Garfield,Rate Per 100000,11.6951248
+Case Counts by County,Garfield,Cases,7
+Case Counts by County,Gilpin,Rate Per 100000,NA
+Case Counts by County,Gilpin,Cases,0
+Case Counts by County,Grand,Rate Per 100000,12.90072889
+Case Counts by County,Grand,Cases,2
+Case Counts by County,Gunnison,Rate Per 100000,104.7607962
+Case Counts by County,Gunnison,Cases,18
+Case Counts by County,Hinsdale,Rate Per 100000,124.3781095
+Case Counts by County,Hinsdale,Cases,1
+Case Counts by County,Huerfano,Rate Per 100000,NA
+Case Counts by County,Huerfano,Cases,0
+Case Counts by County,Jackson,Rate Per 100000,NA
+Case Counts by County,Jackson,Cases,0
+Case Counts by County,Jefferson,Rate Per 100000,7.415365672
+Case Counts by County,Jefferson,Cases,43
+Case Counts by County,Kiowa,Rate Per 100000,NA
+Case Counts by County,Kiowa,Cases,0
+Case Counts by County,Kit Carson,Rate Per 100000,NA
+Case Counts by County,Kit Carson,Cases,0
+Case Counts by County,La Plata,Rate Per 100000,NA
+Case Counts by County,La Plata,Cases,0
+Case Counts by County,Lake,Rate Per 100000,NA
+Case Counts by County,Lake,Cases,0
+Case Counts by County,Larimer,Rate Per 100000,5.422003059
+Case Counts by County,Larimer,Cases,19
+Case Counts by County,Las Animas,Rate Per 100000,NA
+Case Counts by County,Las Animas,Cases,0
+Case Counts by County,Lincoln,Rate Per 100000,NA
+Case Counts by County,Lincoln,Cases,0
+Case Counts by County,Logan,Rate Per 100000,NA
+Case Counts by County,Logan,Cases,0
+Case Counts by County,Mesa,Rate Per 100000,0.650923009
+Case Counts by County,Mesa,Cases,1
+Case Counts by County,Mineral,Rate Per 100000,NA
+Case Counts by County,Mineral,Cases,0
+Case Counts by County,Moffat,Rate Per 100000,NA
+Case Counts by County,Moffat,Cases,0
+Case Counts by County,Montezuma,Rate Per 100000,NA
+Case Counts by County,Montezuma,Cases,0
+Case Counts by County,Montrose,Rate Per 100000,2.365184484
+Case Counts by County,Montrose,Cases,1
+Case Counts by County,Morgan,Rate Per 100000,7.033338022
+Case Counts by County,Morgan,Cases,2
+Case Counts by County,Otero,Rate Per 100000,NA
+Case Counts by County,Otero,Cases,0
+Case Counts by County,Ouray,Rate Per 100000,NA
+Case Counts by County,Ouray,Cases,0
+Case Counts by County,Park,Rate Per 100000,5.392289027
+Case Counts by County,Park,Cases,1
+Case Counts by County,Phillips,Rate Per 100000,NA
+Case Counts by County,Phillips,Cases,0
+Case Counts by County,Pitkin,Rate Per 100000,83.67734018
+Case Counts by County,Pitkin,Cases,15
+Case Counts by County,Prowers,Rate Per 100000,NA
+Case Counts by County,Prowers,Cases,0
+Case Counts by County,Pueblo,Rate Per 100000,1.795536297
+Case Counts by County,Pueblo,Cases,3
+Case Counts by County,Rio Blanco,Rate Per 100000,NA
+Case Counts by County,Rio Blanco,Cases,0
+Case Counts by County,Rio Grande,Rate Per 100000,NA
+Case Counts by County,Rio Grande,Cases,0
+Case Counts by County,Routt,Rate Per 100000,7.777259294
+Case Counts by County,Routt,Cases,2
+Case Counts by County,Saguache,Rate Per 100000,NA
+Case Counts by County,Saguache,Cases,0
+Case Counts by County,San Juan,Rate Per 100000,NA
+Case Counts by County,San Juan,Cases,0
+Case Counts by County,San Miguel,Rate Per 100000,12.20107369
+Case Counts by County,San Miguel,Cases,1
+Case Counts by County,Sedgwick,Rate Per 100000,NA
+Case Counts by County,Sedgwick,Cases,0
+Case Counts by County,Summit,Rate Per 100000,22.59668152
+Case Counts by County,Summit,Cases,7
+Case Counts by County,Teller,Rate Per 100000,NA
+Case Counts by County,Teller,Cases,0
+Case Counts by County,Washington,Rate Per 100000,NA
+Case Counts by County,Washington,Cases,0
+Case Counts by County,Weld,Rate Per 100000,6.681769587
+Case Counts by County,Weld,Cases,21
+Case Counts by County,Yuma,Rate Per 100000,9.963136395
+Case Counts by County,Yuma,Cases,1
+Case Counts by Age Group,0-9,Cases,3
+Case Counts by Age Group,0-9,Percent,0.63
+Case Counts by Age Group,10-19,Cases,15
+Case Counts by Age Group,10-19,Percent,3.16
+Case Counts by Age Group,20-29,Cases,65
+Case Counts by Age Group,20-29,Percent,13.68
+Case Counts by Age Group,30-39,Cases,84
+Case Counts by Age Group,30-39,Percent,17.68
+Case Counts by Age Group,40-49,Cases,95
+Case Counts by Age Group,40-49,Percent,20
+Case Counts by Age Group,50-59,Cases,79
+Case Counts by Age Group,50-59,Percent,16.63
+Case Counts by Age Group,60-69,Cases,66
+Case Counts by Age Group,60-69,Percent,13.89
+Case Counts by Age Group,70-79,Cases,46
+Case Counts by Age Group,70-79,Percent,9.68
+Case Counts by Age Group,80+,Cases,20
+Case Counts by Age Group,80+,Percent,4.21
+Case Counts by Age Group,Unknown,Cases,2
+Case Counts by Age Group,Unknown,Percent,0.42
+"Case Counts by Age Group, Hospitalizations","0-9, Not Hospitalized",Cases,3
+"Case Counts by Age Group, Hospitalizations","10-19, Not Hospitalized",Cases,15
+"Case Counts by Age Group, Hospitalizations","20-29, Not Hospitalized",Cases,65
+"Case Counts by Age Group, Hospitalizations","30-39, Hospitalized",Cases,4
+"Case Counts by Age Group, Hospitalizations","30-39, Not Hospitalized",Cases,80
+"Case Counts by Age Group, Hospitalizations","40-49, Hospitalized",Cases,4
+"Case Counts by Age Group, Hospitalizations","40-49, Not Hospitalized",Cases,91
+"Case Counts by Age Group, Hospitalizations","50-59, Hospitalized",Cases,10
+"Case Counts by Age Group, Hospitalizations","50-59, Not Hospitalized",Cases,69
+"Case Counts by Age Group, Hospitalizations","60-69, Hospitalized",Cases,17
+"Case Counts by Age Group, Hospitalizations","60-69, Not Hospitalized",Cases,49
+"Case Counts by Age Group, Hospitalizations","70-79, Hospitalized",Cases,10
+"Case Counts by Age Group, Hospitalizations","70-79, Not Hospitalized",Cases,36
+"Case Counts by Age Group, Hospitalizations","80+, Hospitalized",Cases,4
+"Case Counts by Age Group, Hospitalizations","80+, Not Hospitalized",Cases,16
+"Case Counts by Age Group, Hospitalizations","Unknown, Not Hospitalized",Cases,2
+Case Counts by Sex,Female,Cases,246
+Case Counts by Sex,Male,Cases,229

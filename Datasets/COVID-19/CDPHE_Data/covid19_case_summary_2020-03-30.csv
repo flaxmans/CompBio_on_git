@@ -1,0 +1,260 @@
+description,attribute,metric,value
+State Data,Statewide,Cases,2627
+State Data,Statewide,Hospitalizations,414
+State Data,Statewide,Counties,47
+State Data,Statewide,People Tested,15364
+State Data,Statewide,Deaths,51
+State Data,Statewide,Outbreaks,14
+State Data,Statewide,Rate Per 100000,46.13
+State Data,Note,Data is updated daily by about 4 p.m. and includes cases reported through the previous day.,NA
+State Data,Note,Outbreaks are investigated at residential and non-hospital heathcare facilities.,NA
+State Data,Note,"The state rate per 100,000 includes all cases (including cases who have not yet been assigned to a county).",NA
+Case Counts by County,Adams County,Cases,152
+Case Counts by County,Adams County,Rate Per 100000,29.7180887358668
+Case Counts by County,Alamosa County,Cases,1
+Case Counts by County,Alamosa County,Rate Per 100000,NA
+Case Counts by County,Arapahoe County,Cases,288
+Case Counts by County,Arapahoe County,Rate Per 100000,44.21640244295624
+Case Counts by County,Archuleta County,Cases,1
+Case Counts by County,Archuleta County,Rate Per 100000,NA
+Case Counts by County,Baca County,Cases,1
+Case Counts by County,Baca County,Rate Per 100000,NA
+Case Counts by County,Bent County,Cases,0
+Case Counts by County,Bent County,Rate Per 100000,NA
+Case Counts by County,Boulder County,Cases,100
+Case Counts by County,Boulder County,Rate Per 100000,30.724231586968006
+Case Counts by County,Broomfield County,Cases,18
+Case Counts by County,Broomfield County,Rate Per 100000,25.91680704937152
+Case Counts by County,Chaffee County,Cases,15
+Case Counts by County,Chaffee County,Rate Per 100000,74.89514679448772
+Case Counts by County,Cheyenne County,Cases,0
+Case Counts by County,Cheyenne County,Rate Per 100000,NA
+Case Counts by County,Clear Creek County,Cases,3
+Case Counts by County,Clear Creek County,Rate Per 100000,NA
+Case Counts by County,Conejos County,Cases,0
+Case Counts by County,Conejos County,Rate Per 100000,NA
+Case Counts by County,Costilla County,Cases,3
+Case Counts by County,Costilla County,Rate Per 100000,NA
+Case Counts by County,Crowley County,Cases,1
+Case Counts by County,Crowley County,Rate Per 100000,NA
+Case Counts by County,Custer County,Cases,0
+Case Counts by County,Custer County,Rate Per 100000,NA
+Case Counts by County,Delta County,Cases,1
+Case Counts by County,Delta County,Rate Per 100000,NA
+Case Counts by County,Denver County,Cases,465
+Case Counts by County,Denver County,Rate Per 100000,64.78154687188719
+Case Counts by County,Dolores County,Cases,0
+Case Counts by County,Dolores County,Rate Per 100000,NA
+Case Counts by County,Douglas County,Cases,119
+Case Counts by County,Douglas County,Rate Per 100000,34.709866352430566
+Case Counts by County,Eagle County,Cases,213
+Case Counts by County,Eagle County,Rate Per 100000,388.2397973133077
+Case Counts by County,El Paso County,Cases,245
+Case Counts by County,El Paso County,Rate Per 100000,34.29475290280587
+Case Counts by County,Elbert County,Cases,4
+Case Counts by County,Elbert County,Rate Per 100000,NA
+Case Counts by County,Fremont County,Cases,2
+Case Counts by County,Fremont County,Rate Per 100000,NA
+Case Counts by County,Garfield County,Cases,31
+Case Counts by County,Garfield County,Rate Per 100000,51.83339742839466
+Case Counts by County,Gilpin County,Cases,0
+Case Counts by County,Gilpin County,Rate Per 100000,NA
+Case Counts by County,Grand County,Cases,4
+Case Counts by County,Grand County,Rate Per 100000,NA
+Case Counts by County,Grand Total County,Cases,2627
+Case Counts by County,Grand Total County,Rate Per 100000,NA
+Case Counts by County,Gunnison County,Cases,80
+Case Counts by County,Gunnison County,Rate Per 100000,465.84755138880803
+Case Counts by County,Hinsdale County,Cases,1
+Case Counts by County,Hinsdale County,Rate Per 100000,NA
+Case Counts by County,Huerfano County,Cases,1
+Case Counts by County,Huerfano County,Rate Per 100000,NA
+Case Counts by County,Jackson County,Cases,0
+Case Counts by County,Jackson County,Rate Per 100000,NA
+Case Counts by County,Jefferson County,Cases,253
+Case Counts by County,Jefferson County,Rate Per 100000,43.65900419506084
+Case Counts by County,Kiowa County,Cases,0
+Case Counts by County,Kiowa County,Rate Per 100000,NA
+Case Counts by County,Kit Carson County,Cases,1
+Case Counts by County,Kit Carson County,Rate Per 100000,NA
+Case Counts by County,La Plata County,Cases,21
+Case Counts by County,La Plata County,Rate Per 100000,37.23206212435509
+Case Counts by County,Lake County,Cases,0
+Case Counts by County,Lake County,Rate Per 100000,NA
+Case Counts by County,Larimer County,Cases,92
+Case Counts by County,Larimer County,Rate Per 100000,26.258555436948072
+Case Counts by County,Las Animas County,Cases,0
+Case Counts by County,Las Animas County,Rate Per 100000,NA
+Case Counts by County,Lincoln County,Cases,1
+Case Counts by County,Lincoln County,Rate Per 100000,NA
+Case Counts by County,Logan County,Cases,5
+Case Counts by County,Logan County,Rate Per 100000,22.87910679967054
+Case Counts by County,Mesa County,Cases,12
+Case Counts by County,Mesa County,Rate Per 100000,7.810974419058779
+Case Counts by County,Mineral County,Cases,1
+Case Counts by County,Mineral County,Rate Per 100000,NA
+Case Counts by County,Moffat County,Cases,4
+Case Counts by County,Moffat County,Rate Per 100000,NA
+Case Counts by County,Montezuma County,Cases,1
+Case Counts by County,Montezuma County,Rate Per 100000,NA
+Case Counts by County,Montrose County,Cases,10
+Case Counts by County,Montrose County,Rate Per 100000,23.6630383341221
+Case Counts by County,Morgan County,Cases,4
+Case Counts by County,Morgan County,Rate Per 100000,NA
+Case Counts by County,Otero County,Cases,3
+Case Counts by County,Otero County,Rate Per 100000,NA
+Case Counts by County,Ouray County,Cases,0
+Case Counts by County,Ouray County,Rate Per 100000,NA
+Case Counts by County,Park County,Cases,4
+Case Counts by County,Park County,Rate Per 100000,NA
+Case Counts by County,Phillips County,Cases,0
+Case Counts by County,Phillips County,Rate Per 100000,NA
+Case Counts by County,Pitkin County,Cases,29
+Case Counts by County,Pitkin County,Rate Per 100000,162.20146540634263
+Case Counts by County,Prowers County,Cases,0
+Case Counts by County,Prowers County,Rate Per 100000,NA
+Case Counts by County,Pueblo County,Cases,16
+Case Counts by County,Pueblo County,Rate Per 100000,9.574187989181167
+Case Counts by County,Rio Blanco County,Cases,0
+Case Counts by County,Rio Blanco County,Rate Per 100000,NA
+Case Counts by County,Rio Grande County,Cases,4
+Case Counts by County,Rio Grande County,Rate Per 100000,NA
+Case Counts by County,Routt County,Cases,16
+Case Counts by County,Routt County,Rate Per 100000,62.29801814429778
+Case Counts by County,Saguache County,Cases,0
+Case Counts by County,Saguache County,Rate Per 100000,NA
+Case Counts by County,San Juan County,Cases,0
+Case Counts by County,San Juan County,Rate Per 100000,NA
+Case Counts by County,San Miguel County,Cases,1
+Case Counts by County,San Miguel County,Rate Per 100000,NA
+Case Counts by County,Sedgwick County,Cases,0
+Case Counts by County,Sedgwick County,Rate Per 100000,NA
+Case Counts by County,Summit County,Cases,14
+Case Counts by County,Summit County,Rate Per 100000,45.200658638168726
+Case Counts by County,Teller County,Cases,8
+Case Counts by County,Teller County,Rate Per 100000,31.923383878691137
+Case Counts by County,Unknown Or Pending County,Cases,160
+Case Counts by County,Unknown Or Pending County,Rate Per 100000,NA
+Case Counts by County,Washington County,Cases,1
+Case Counts by County,Washington County,Rate Per 100000,NA
+Case Counts by County,Weld County,Cases,215
+Case Counts by County,Weld County,Rate Per 100000,68.41664783882948
+Case Counts by County,Yuma County,Cases,2
+Case Counts by County,Yuma County,Rate Per 100000,NA
+Case Counts by County,Note,Cases include people who had a positive lab test positive and cases that public health identified and determined were likely to have COVID-19 because of their symptoms and close contact with someone who tested positive. The number of untested cases included in the total case count is a very small portion of the total cases reported.,NA
+Case Counts by County,Note,People who tested positive for COVID-19 in Colorado while visiting are included in the county where they were identified.,NA
+Case Counts by County,Note,"County rates per 100,000 are calculated using 2018 population estimates from the Demography Section, Colorado Division of Local Government.",NA
+Case Counts by County,Note,Rates are not shown for counties with fewer than 5 cases.,NA
+Case Counts by County,Note,Caution should be used when interpreting rates in counties with small populations.,NA
+Case Counts by County,Note,Some cases may still be under investigation and county not assigned yet.,NA
+Case Counts by Age Group,0-9,Cases,28
+Case Counts by Age Group,0-9,Percent,1.07
+Case Counts by Age Group,10-19,Cases,49
+Case Counts by Age Group,10-19,Percent,1.87
+Case Counts by Age Group,20-29,Cases,384
+Case Counts by Age Group,20-29,Percent,14.62
+Case Counts by Age Group,30-39,Cases,455
+Case Counts by Age Group,30-39,Percent,17.32
+Case Counts by Age Group,40-49,Cases,404
+Case Counts by Age Group,40-49,Percent,15.38
+Case Counts by Age Group,50-59,Cases,471
+Case Counts by Age Group,50-59,Percent,17.93
+Case Counts by Age Group,60-69,Cases,369
+Case Counts by Age Group,60-69,Percent,14.05
+Case Counts by Age Group,70-79,Cases,282
+Case Counts by Age Group,70-79,Percent,10.73
+Case Counts by Age Group,80+,Cases,174
+Case Counts by Age Group,80+,Percent,6.62
+Case Counts by Age Group,Unknown,Cases,11
+Case Counts by Age Group,Unknown,Percent,0.42
+Case Counts by Sex,Female,Cases,1358
+Case Counts by Sex,Female,Percent,51.69
+Case Counts by Sex,Male,Cases,1257
+Case Counts by Sex,Male,Percent,47.85
+Case Counts by Sex,Unknown,Cases,12
+Case Counts by Sex,Unknown,Percent,0.46
+Fatal cases by sex,Female,Cases,19
+Fatal cases by sex,Female,Percent,37.25
+Fatal cases by sex,Male,Cases,32
+Fatal cases by sex,Male,Percent,62.75
+Case Counts by Onset Date,2020-02-15,Cases,1
+Case Counts by Onset Date,2020-02-18,Cases,1
+Case Counts by Onset Date,2020-02-19,Cases,1
+Case Counts by Onset Date,2020-02-20,Cases,3
+Case Counts by Onset Date,2020-02-23,Cases,2
+Case Counts by Onset Date,2020-02-24,Cases,2
+Case Counts by Onset Date,2020-02-25,Cases,1
+Case Counts by Onset Date,2020-02-26,Cases,1
+Case Counts by Onset Date,2020-02-27,Cases,2
+Case Counts by Onset Date,2020-02-28,Cases,3
+Case Counts by Onset Date,2020-02-29,Cases,2
+Case Counts by Onset Date,2020-03-01,Cases,17
+Case Counts by Onset Date,2020-03-02,Cases,12
+Case Counts by Onset Date,2020-03-03,Cases,18
+Case Counts by Onset Date,2020-03-04,Cases,22
+Case Counts by Onset Date,2020-03-05,Cases,17
+Case Counts by Onset Date,2020-03-06,Cases,30
+Case Counts by Onset Date,2020-03-07,Cases,29
+Case Counts by Onset Date,2020-03-08,Cases,45
+Case Counts by Onset Date,2020-03-09,Cases,72
+Case Counts by Onset Date,2020-03-10,Cases,83
+Case Counts by Onset Date,2020-03-11,Cases,72
+Case Counts by Onset Date,2020-03-12,Cases,91
+Case Counts by Onset Date,2020-03-13,Cases,103
+Case Counts by Onset Date,2020-03-14,Cases,82
+Case Counts by Onset Date,2020-03-15,Cases,73
+Case Counts by Onset Date,2020-03-16,Cases,147
+Case Counts by Onset Date,2020-03-17,Cases,161
+Case Counts by Onset Date,2020-03-18,Cases,144
+Case Counts by Onset Date,2020-03-19,Cases,117
+Case Counts by Onset Date,2020-03-20,Cases,142
+Case Counts by Onset Date,2020-03-21,Cases,76
+Case Counts by Onset Date,2020-03-22,Cases,72
+Case Counts by Onset Date,2020-03-23,Cases,226
+Case Counts by Onset Date,2020-03-24,Cases,183
+Case Counts by Onset Date,2020-03-25,Cases,194
+Case Counts by Onset Date,2020-03-26,Cases,153
+Case Counts by Onset Date,2020-03-27,Cases,162
+Case Counts by Onset Date,2020-03-28,Cases,50
+Case Counts by Onset Date,2020-03-29,Cases,15
+Case Counts by Onset Date,Note,Onset date may be unavailable for some cases and inferred.,NA
+Deaths,El Paso County,Cases,11
+Deaths,Weld County,Cases,10
+Deaths,Denver County,Cases,6
+Deaths,Jefferson County,Cases,5
+Deaths,Eagle County,Cases,4
+Deaths,Larimer County,Cases,4
+Deaths,Pitkin County,Cases,2
+Deaths,Pueblo County,Cases,2
+Deaths,Boulder County,Cases,1
+Deaths,Chaffee County,Cases,1
+Deaths,Crowley County,Cases,1
+Deaths,Garfield County,Cases,1
+Deaths,Gunnison County,Cases,1
+Deaths,Out Of State County,Cases,1
+Deaths,Teller County,Cases,1
+"Case Counts by Age Group, Hospitalizations, and Deaths","0-9, Hospitalized",Cases,1
+"Case Counts by Age Group, Hospitalizations, and Deaths","0-9, Not Hospitalized",Cases,27
+"Case Counts by Age Group, Hospitalizations, and Deaths","10-19, Not Hospitalized",Cases,49
+"Case Counts by Age Group, Hospitalizations, and Deaths","20-29, Hospitalized",Cases,12
+"Case Counts by Age Group, Hospitalizations, and Deaths","20-29, Not Hospitalized",Cases,372
+"Case Counts by Age Group, Hospitalizations, and Deaths","30-39, Hospitalized",Cases,33
+"Case Counts by Age Group, Hospitalizations, and Deaths","30-39, Not Hospitalized",Cases,422
+"Case Counts by Age Group, Hospitalizations, and Deaths","40-49, Deaths",Cases,2
+"Case Counts by Age Group, Hospitalizations, and Deaths","40-49, Hospitalized",Cases,44
+"Case Counts by Age Group, Hospitalizations, and Deaths","40-49, Not Hospitalized",Cases,358
+"Case Counts by Age Group, Hospitalizations, and Deaths","50-59, Deaths",Cases,3
+"Case Counts by Age Group, Hospitalizations, and Deaths","50-59, Hospitalized",Cases,86
+"Case Counts by Age Group, Hospitalizations, and Deaths","50-59, Not Hospitalized",Cases,382
+"Case Counts by Age Group, Hospitalizations, and Deaths","60-69, Deaths",Cases,5
+"Case Counts by Age Group, Hospitalizations, and Deaths","60-69, Hospitalized",Cases,80
+"Case Counts by Age Group, Hospitalizations, and Deaths","60-69, Not Hospitalized",Cases,284
+"Case Counts by Age Group, Hospitalizations, and Deaths","70-79, Deaths",Cases,18
+"Case Counts by Age Group, Hospitalizations, and Deaths","70-79, Hospitalized",Cases,78
+"Case Counts by Age Group, Hospitalizations, and Deaths","70-79, Not Hospitalized",Cases,186
+"Case Counts by Age Group, Hospitalizations, and Deaths","80+, Deaths",Cases,23
+"Case Counts by Age Group, Hospitalizations, and Deaths","80+, Hospitalized",Cases,48
+"Case Counts by Age Group, Hospitalizations, and Deaths","80+, Not Hospitalized",Cases,103
+"Case Counts by Age Group, Hospitalizations, and Deaths","Unknown, Not Hospitalized",Cases,11
+"Case Counts by Age Group, Hospitalizations, and Deaths",Note,Data on cases recovered is unavailable.,NA
+"Case Counts by Age Group, Hospitalizations, and Deaths",Note,Patients who were hospitalized and subsequently died are only counted once as a death.,NA

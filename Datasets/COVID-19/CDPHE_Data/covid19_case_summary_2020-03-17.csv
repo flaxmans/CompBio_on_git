@@ -1,0 +1,96 @@
+description,attribute,metric,value
+State Data,Statewide,Cases,183
+State Data,Statewide,Hospitalizations,20
+State Data,Statewide,Counties,19
+State Data,Statewide,People Tested,1790
+State Data,Statewide,Deaths,2
+State Data,Statewide,Rate Per 100000,3.16
+Case Counts by County,Denver,Cases,38
+Case Counts by County,Denver,Rate Per 100000,5.293496522
+Case Counts by County,Eagle,Cases,34
+Case Counts by County,Eagle,Rate Per 100000,61.93642408
+Case Counts by County,Arapahoe,Cases,18
+Case Counts by County,Arapahoe,Rate Per 100000,2.762799821
+Case Counts by County,Jefferson,Cases,17
+Case Counts by County,Jefferson,Rate Per 100000,2.931656196
+Case Counts by County,Gunnison,Cases,11
+Case Counts by County,Gunnison,Rate Per 100000,64.02048656
+Case Counts by County,Pitkin,Cases,11
+Case Counts by County,Pitkin,Rate Per 100000,61.3633828
+Case Counts by County,Douglas,Cases,10
+Case Counts by County,Douglas,Rate Per 100000,2.915987485
+Case Counts by County,Adams,Cases,8
+Case Counts by County,Adams,Rate Per 100000,1.56335496
+Case Counts by County,Boulder,Cases,8
+Case Counts by County,Boulder,Rate Per 100000,2.457606291
+Case Counts by County,El Paso,Cases,6
+Case Counts by County,El Paso,Rate Per 100000,0.839705767
+Case Counts by County,Weld,Cases,5
+Case Counts by County,Weld,Rate Per 100000,1.590897521
+Case Counts by County,Summit,Cases,3
+Case Counts by County,Summit,Rate Per 100000,9.684292078
+Case Counts by County,Clear Creek,Cases,2
+Case Counts by County,Clear Creek,Rate Per 100000,20.70607723
+Case Counts by County,Garfield,Cases,2
+Case Counts by County,Garfield,Rate Per 100000,3.34146423
+Case Counts by County,Larimer,Cases,2
+Case Counts by County,Larimer,Rate Per 100000,0.570737164
+Case Counts by County,Routt,Cases,2
+Case Counts by County,Routt,Rate Per 100000,7.777259294
+Case Counts by County,Mesa,Cases,1
+Case Counts by County,Mesa,Rate Per 100000,0.650923009
+Case Counts by County,Pueblo,Cases,1
+Case Counts by County,Pueblo,Rate Per 100000,0.598512099
+Case Counts by County,*County is unknown or pending,Cases,4
+Case Counts by County,*County is unknown or pending,Rate Per 100000,N/A
+Case Counts by Age Group,0-9,Cases,2
+Case Counts by Age Group,0-9,Percent,1.09
+Case Counts by Age Group,10-19,Cases,7
+Case Counts by Age Group,10-19,Percent,3.83
+Case Counts by Age Group,20-29,Cases,20
+Case Counts by Age Group,20-29,Percent,10.93
+Case Counts by Age Group,30-39,Cases,39
+Case Counts by Age Group,30-39,Percent,21.31
+Case Counts by Age Group,40-49,Cases,35
+Case Counts by Age Group,40-49,Percent,19.13
+Case Counts by Age Group,50-59,Cases,33
+Case Counts by Age Group,50-59,Percent,18003
+Case Counts by Age Group,60-69,Cases,23
+Case Counts by Age Group,60-69,Percent,12.57
+Case Counts by Age Group,70-79,Cases,15
+Case Counts by Age Group,70-79,Percent,8.2
+Case Counts by Age Group,80+,Cases,6
+Case Counts by Age Group,80+,Percent,3.28
+Case Counts by Age Group,Unknown,Cases,3
+Case Counts by Age Group,Unknown,Percent,1.64
+Transmission Type,Under Investigation,Cases,92
+Transmission Type,Under Investigation,Percent,50.27
+Transmission Type,Community,Cases,36
+Transmission Type,Community,Percent,19.67
+Transmission Type,Travel,Cases,27
+Transmission Type,Travel,Percent,14.75
+Transmission Type,Person-to-Person,Cases,27
+Transmission Type,Person-to-Person,Percent,14.75
+Transmission Type,"Person to Person, also community possible",Cases,1
+Transmission Type,"Person to Person, also community possible",Percent,0.55
+Case Counts by Onset Date,2/17/2020,Cases,1
+Case Counts by Onset Date,2/18/2020,Cases,1
+Case Counts by Onset Date,2/19/2020,Cases,1
+Case Counts by Onset Date,2/20/2020,Cases,3
+Case Counts by Onset Date,2/23/2020,Cases,1
+Case Counts by Onset Date,2/26/2020,Cases,1
+Case Counts by Onset Date,2/27/2020,Cases,1
+Case Counts by Onset Date,2/28/2020,Cases,2
+Case Counts by Onset Date,2/29/2020,Cases,2
+Case Counts by Onset Date,3/1/2020,Cases,9
+Case Counts by Onset Date,3/2/2020,Cases,6
+Case Counts by Onset Date,3/3/2020,Cases,10
+Case Counts by Onset Date,3/4/2020,Cases,11
+Case Counts by Onset Date,3/5/2020,Cases,3
+Case Counts by Onset Date,3/6/2020,Cases,13
+Case Counts by Onset Date,3/7/2020,Cases,11
+Case Counts by Onset Date,3/8/2020,Cases,16
+Case Counts by Onset Date,3/9/2020,Cases,11
+Case Counts by Onset Date,3/10/2020,Cases,21
+Case Counts by Onset Date,3/11/2020,Cases,8
+Case Counts by Onset Date,3/12/2020,Cases,2

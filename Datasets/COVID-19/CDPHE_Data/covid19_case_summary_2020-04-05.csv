@@ -1,0 +1,575 @@
+description,attribute,metric,value
+State Data,Statewide,Cases,4950
+State Data,Statewide,Hospitalizations,924
+State Data,Statewide,Counties,54
+State Data,Statewide,People Tested,25773
+State Data,Statewide,Deaths,140
+State Data,Statewide,Outbreaks,37
+State Data,Note,Data is updated daily by about 4 p.m. and includes cases reported through the previous day.,NA
+State Data,Note,The number of cases includes people who have had a test that indicated they were positive for COVID-19. The number of cases also includes epidemiologically-linked cases -- or cases where public health epidemiologists have determined that infection is highly likely because a person exhibited symptoms and had close contact with someone who tested positive. The number of epidemiologically-linked cases represents a very small portion of the reported cases.,NA
+State Data,Note,Outbreaks are investigated at residential and non-hospital heathcare facilities.,NA
+State Data,Note,"The state rate per 100,000 includes all cases (including cases who have not yet been assigned to a county).",NA
+Case Counts by County,Adams County,Cases,354
+Case Counts by County,Adams County,Rate Per 100000,69.2118645559003
+Case Counts by County,Alamosa County,Cases,4
+Case Counts by County,Alamosa County,Rate Per 100000,NA
+Case Counts by County,Arapahoe County,Cases,608
+Case Counts by County,Arapahoe County,Rate Per 100000,93.34573849068538
+Case Counts by County,Archuleta County,Cases,1
+Case Counts by County,Archuleta County,Rate Per 100000,NA
+Case Counts by County,Baca County,Cases,9
+Case Counts by County,Baca County,Rate Per 100000,253.73555117000282
+Case Counts by County,Bent County,Cases,0
+Case Counts by County,Bent County,Rate Per 100000,NA
+Case Counts by County,Boulder County,Cases,177
+Case Counts by County,Boulder County,Rate Per 100000,54.381889908933374
+Case Counts by County,Broomfield County,Cases,50
+Case Counts by County,Broomfield County,Rate Per 100000,71.99113069269866
+Case Counts by County,Chaffee County,Cases,22
+Case Counts by County,Chaffee County,Rate Per 100000,109.846215298582
+Case Counts by County,Cheyenne County,Cases,0
+Case Counts by County,Cheyenne County,Rate Per 100000,NA
+Case Counts by County,Clear Creek County,Cases,6
+Case Counts by County,Clear Creek County,Rate Per 100000,62.09251785159888
+Case Counts by County,Conejos County,Cases,0
+Case Counts by County,Conejos County,Rate Per 100000,NA
+Case Counts by County,Costilla County,Cases,3
+Case Counts by County,Costilla County,Rate Per 100000,NA
+Case Counts by County,Crowley County,Cases,1
+Case Counts by County,Crowley County,Rate Per 100000,NA
+Case Counts by County,Custer County,Cases,2
+Case Counts by County,Custer County,Rate Per 100000,NA
+Case Counts by County,Delta County,Cases,4
+Case Counts by County,Delta County,Rate Per 100000,NA
+Case Counts by County,Denver County,Cases,825
+Case Counts by County,Denver County,Rate Per 100000,114.93500251463854
+Case Counts by County,Dolores County,Cases,0
+Case Counts by County,Dolores County,Rate Per 100000,NA
+Case Counts by County,Douglas County,Cases,223
+Case Counts by County,Douglas County,Rate Per 100000,65.0445394671598
+Case Counts by County,Eagle County,Cases,339
+Case Counts by County,Eagle County,Rate Per 100000,617.9027760056869
+Case Counts by County,El Paso County,Cases,435
+Case Counts by County,El Paso County,Rate Per 100000,60.89068372539002
+Case Counts by County,Elbert County,Cases,9
+Case Counts by County,Elbert County,Rate Per 100000,34.327561217484174
+Case Counts by County,Fremont County,Cases,3
+Case Counts by County,Fremont County,Rate Per 100000,NA
+Case Counts by County,Garfield County,Cases,46
+Case Counts by County,Garfield County,Rate Per 100000,76.91407360342436
+Case Counts by County,Gilpin County,Cases,0
+Case Counts by County,Gilpin County,Rate Per 100000,NA
+Case Counts by County,Grand County,Cases,4
+Case Counts by County,Grand County,Rate Per 100000,NA
+Case Counts by County,Grand Total County,Cases,4950
+Case Counts by County,Grand Total County,Rate Per 100000,NA
+Case Counts by County,Gunnison County,Cases,93
+Case Counts by County,Gunnison County,Rate Per 100000,541.5477784894894
+Case Counts by County,Hinsdale County,Cases,1
+Case Counts by County,Hinsdale County,Rate Per 100000,NA
+Case Counts by County,Huerfano County,Cases,1
+Case Counts by County,Huerfano County,Rate Per 100000,NA
+Case Counts by County,Jackson County,Cases,0
+Case Counts by County,Jackson County,Rate Per 100000,NA
+Case Counts by County,Jefferson County,Cases,519
+Case Counts by County,Jefferson County,Rate Per 100000,89.56135643176512
+Case Counts by County,Kiowa County,Cases,0
+Case Counts by County,Kiowa County,Rate Per 100000,NA
+Case Counts by County,Kit Carson County,Cases,5
+Case Counts by County,Kit Carson County,Rate Per 100000,69.8616738857063
+Case Counts by County,La Plata County,Cases,29
+Case Counts by County,La Plata County,Rate Per 100000,51.41570483839512
+Case Counts by County,Lake County,Cases,3
+Case Counts by County,Lake County,Rate Per 100000,NA
+Case Counts by County,Larimer County,Cases,153
+Case Counts by County,Larimer County,Rate Per 100000,43.66911936796799
+Case Counts by County,Las Animas County,Cases,1
+Case Counts by County,Las Animas County,Rate Per 100000,NA
+Case Counts by County,Lincoln County,Cases,1
+Case Counts by County,Lincoln County,Rate Per 100000,NA
+Case Counts by County,Logan County,Cases,9
+Case Counts by County,Logan County,Rate Per 100000,41.18239223940697
+Case Counts by County,Mesa County,Cases,22
+Case Counts by County,Mesa County,Rate Per 100000,14.320119768274425
+Case Counts by County,Mineral County,Cases,2
+Case Counts by County,Mineral County,Rate Per 100000,NA
+Case Counts by County,Moffat County,Cases,3
+Case Counts by County,Moffat County,Rate Per 100000,NA
+Case Counts by County,Montezuma County,Cases,8
+Case Counts by County,Montezuma County,Rate Per 100000,30.58220880003058
+Case Counts by County,Montrose County,Cases,32
+Case Counts by County,Montrose County,Rate Per 100000,75.72172266919073
+Case Counts by County,Morgan County,Cases,17
+Case Counts by County,Morgan County,Rate Per 100000,59.64284461284777
+Case Counts by County,Otero County,Cases,3
+Case Counts by County,Otero County,Rate Per 100000,NA
+Case Counts by County,Ouray County,Cases,2
+Case Counts by County,Ouray County,Rate Per 100000,NA
+Case Counts by County,Park County,Cases,5
+Case Counts by County,Park County,Rate Per 100000,26.944010346499972
+Case Counts by County,Phillips County,Cases,3
+Case Counts by County,Phillips County,Rate Per 100000,NA
+Case Counts by County,Pitkin County,Cases,38
+Case Counts by County,Pitkin County,Rate Per 100000,212.53985122210412
+Case Counts by County,Prowers County,Cases,0
+Case Counts by County,Prowers County,Rate Per 100000,NA
+Case Counts by County,Pueblo County,Cases,40
+Case Counts by County,Pueblo County,Rate Per 100000,23.93546997295292
+Case Counts by County,Rio Blanco County,Cases,1
+Case Counts by County,Rio Blanco County,Rate Per 100000,NA
+Case Counts by County,Rio Grande County,Cases,5
+Case Counts by County,Rio Grande County,Rate Per 100000,44.53946196329948
+Case Counts by County,Routt County,Cases,29
+Case Counts by County,Routt County,Rate Per 100000,112.91515788653973
+Case Counts by County,Saguache County,Cases,3
+Case Counts by County,Saguache County,Rate Per 100000,NA
+Case Counts by County,San Juan County,Cases,0
+Case Counts by County,San Juan County,Rate Per 100000,NA
+Case Counts by County,San Miguel County,Cases,10
+Case Counts by County,San Miguel County,Rate Per 100000,122.29423994129876
+Case Counts by County,Sedgwick County,Cases,0
+Case Counts by County,Sedgwick County,Rate Per 100000,NA
+Case Counts by County,Summit County,Cases,45
+Case Counts by County,Summit County,Rate Per 100000,145.28783133697092
+Case Counts by County,Teller County,Cases,11
+Case Counts by County,Teller County,Rate Per 100000,43.89465283320032
+Case Counts by County,Unknown Or Pending County,Cases,258
+Case Counts by County,Unknown Or Pending County,Rate Per 100000,NA
+Case Counts by County,Washington County,Cases,1
+Case Counts by County,Washington County,Rate Per 100000,NA
+Case Counts by County,Weld County,Cases,470
+Case Counts by County,Weld County,Rate Per 100000,149.56197434534815
+Case Counts by County,Yuma County,Cases,2
+Case Counts by County,Yuma County,Rate Per 100000,NA
+Case Counts by County,Note,People who tested positive for COVID-19 in Colorado while visiting are included in the county where they were identified.,NA
+Case Counts by County,Note,"County rates per 100,000 are calculated using 2018 population estimates from the Demography Section, Colorado Division of Local Government.",NA
+Case Counts by County,Note,Rates are not shown for counties with fewer than 5 cases.,NA
+Case Counts by County,Note,Caution should be used when interpreting rates in counties with small populations.,NA
+Case Counts by County,Note,Some cases may still be under investigation and county not assigned yet.,NA
+Case Counts by Age Group,0-9,Cases,49
+Case Counts by Age Group,0-9,Percent,0.99
+Case Counts by Age Group,10-19,Cases,93
+Case Counts by Age Group,10-19,Percent,1.88
+Case Counts by Age Group,20-29,Cases,681
+Case Counts by Age Group,20-29,Percent,13.76
+Case Counts by Age Group,30-39,Cases,802
+Case Counts by Age Group,30-39,Percent,16.2
+Case Counts by Age Group,40-49,Cases,788
+Case Counts by Age Group,40-49,Percent,15.92
+Case Counts by Age Group,50-59,Cases,913
+Case Counts by Age Group,50-59,Percent,18.44
+Case Counts by Age Group,60-69,Cases,734
+Case Counts by Age Group,60-69,Percent,14.83
+Case Counts by Age Group,70-79,Cases,512
+Case Counts by Age Group,70-79,Percent,10.34
+Case Counts by Age Group,80+,Cases,361
+Case Counts by Age Group,80+,Percent,7.29
+Case Counts by Age Group,Unknown,Cases,17
+Case Counts by Age Group,Unknown,Percent,0.34
+Case Counts by Sex,Female,Cases,2565
+Case Counts by Sex,Female,Percent,51.82
+Case Counts by Sex,Male,Cases,2360
+Case Counts by Sex,Male,Percent,47.68
+Case Counts by Sex,Unknown,Cases,25
+Case Counts by Sex,Unknown,Percent,0.51
+Fatal cases by sex,Female,Cases,55
+Fatal cases by sex,Female,Percent,39.29
+Fatal cases by sex,Male,Cases,85
+Fatal cases by sex,Male,Percent,60.71
+Case Counts by Onset Date,2020-02-06,Cases,1
+Case Counts by Onset Date,2020-02-14,Cases,1
+Case Counts by Onset Date,2020-02-15,Cases,1
+Case Counts by Onset Date,2020-02-17,Cases,1
+Case Counts by Onset Date,2020-02-18,Cases,1
+Case Counts by Onset Date,2020-02-19,Cases,1
+Case Counts by Onset Date,2020-02-20,Cases,4
+Case Counts by Onset Date,2020-02-21,Cases,1
+Case Counts by Onset Date,2020-02-23,Cases,2
+Case Counts by Onset Date,2020-02-24,Cases,2
+Case Counts by Onset Date,2020-02-25,Cases,1
+Case Counts by Onset Date,2020-02-26,Cases,1
+Case Counts by Onset Date,2020-02-27,Cases,4
+Case Counts by Onset Date,2020-02-28,Cases,6
+Case Counts by Onset Date,2020-02-29,Cases,3
+Case Counts by Onset Date,2020-03-01,Cases,20
+Case Counts by Onset Date,2020-03-02,Cases,15
+Case Counts by Onset Date,2020-03-03,Cases,23
+Case Counts by Onset Date,2020-03-04,Cases,26
+Case Counts by Onset Date,2020-03-05,Cases,20
+Case Counts by Onset Date,2020-03-06,Cases,39
+Case Counts by Onset Date,2020-03-07,Cases,33
+Case Counts by Onset Date,2020-03-08,Cases,59
+Case Counts by Onset Date,2020-03-09,Cases,106
+Case Counts by Onset Date,2020-03-10,Cases,108
+Case Counts by Onset Date,2020-03-11,Cases,99
+Case Counts by Onset Date,2020-03-12,Cases,123
+Case Counts by Onset Date,2020-03-13,Cases,138
+Case Counts by Onset Date,2020-03-14,Cases,120
+Case Counts by Onset Date,2020-03-15,Cases,129
+Case Counts by Onset Date,2020-03-16,Cases,187
+Case Counts by Onset Date,2020-03-17,Cases,223
+Case Counts by Onset Date,2020-03-18,Cases,238
+Case Counts by Onset Date,2020-03-19,Cases,171
+Case Counts by Onset Date,2020-03-20,Cases,175
+Case Counts by Onset Date,2020-03-21,Cases,118
+Case Counts by Onset Date,2020-03-22,Cases,113
+Case Counts by Onset Date,2020-03-23,Cases,276
+Case Counts by Onset Date,2020-03-24,Cases,235
+Case Counts by Onset Date,2020-03-25,Cases,264
+Case Counts by Onset Date,2020-03-26,Cases,229
+Case Counts by Onset Date,2020-03-27,Cases,224
+Case Counts by Onset Date,2020-03-28,Cases,122
+Case Counts by Onset Date,2020-03-29,Cases,121
+Case Counts by Onset Date,2020-03-30,Cases,321
+Case Counts by Onset Date,2020-03-31,Cases,280
+Case Counts by Onset Date,2020-04-01,Cases,281
+Case Counts by Onset Date,2020-04-02,Cases,166
+Case Counts by Onset Date,2020-04-03,Cases,82
+Case Counts by Onset Date,2020-04-04,Cases,36
+Case Counts by Onset Date,Note,Onset date may be unavailable for some cases and inferred.,NA
+Deaths,El Paso County,Cases,25
+Deaths,Weld County,Cases,24
+Deaths,Jefferson County,Cases,17
+Deaths,Denver County,Cases,16
+Deaths,Arapahoe County,Cases,13
+Deaths,Adams County,Cases,10
+Deaths,Larimer County,Cases,8
+Deaths,Eagle County,Cases,5
+Deaths,Boulder County,Cases,3
+Deaths,Douglas County,Cases,3
+Deaths,Broomfield County,Cases,2
+Deaths,Chaffee County,Cases,2
+Deaths,Pitkin County,Cases,2
+Deaths,Pueblo County,Cases,2
+Deaths,Crowley County,Cases,1
+Deaths,Elbert County,Cases,1
+Deaths,Garfield County,Cases,1
+Deaths,Gunnison County,Cases,1
+Deaths,Montezuma County,Cases,1
+Deaths,Montrose County,Cases,1
+Deaths,Out Of State County,Cases,1
+Deaths,Teller County,Cases,1
+"Case Counts by Age Group, Hospitalizations, and Deaths","0-9, Hospitalized",Cases,5
+"Case Counts by Age Group, Hospitalizations, and Deaths","0-9, Not Hospitalized",Cases,44
+"Case Counts by Age Group, Hospitalizations, and Deaths","10-19, Hospitalized",Cases,2
+"Case Counts by Age Group, Hospitalizations, and Deaths","10-19, Not Hospitalized",Cases,91
+"Case Counts by Age Group, Hospitalizations, and Deaths","20-29, Hospitalized",Cases,23
+"Case Counts by Age Group, Hospitalizations, and Deaths","20-29, Not Hospitalized",Cases,658
+"Case Counts by Age Group, Hospitalizations, and Deaths","30-39, Deaths",Cases,1
+"Case Counts by Age Group, Hospitalizations, and Deaths","30-39, Hospitalized",Cases,67
+"Case Counts by Age Group, Hospitalizations, and Deaths","30-39, Not Hospitalized",Cases,734
+"Case Counts by Age Group, Hospitalizations, and Deaths","40-49, Deaths",Cases,5
+"Case Counts by Age Group, Hospitalizations, and Deaths","40-49, Hospitalized",Cases,97
+"Case Counts by Age Group, Hospitalizations, and Deaths","40-49, Not Hospitalized",Cases,686
+"Case Counts by Age Group, Hospitalizations, and Deaths","50-59, Deaths",Cases,8
+"Case Counts by Age Group, Hospitalizations, and Deaths","50-59, Hospitalized",Cases,177
+"Case Counts by Age Group, Hospitalizations, and Deaths","50-59, Not Hospitalized",Cases,728
+"Case Counts by Age Group, Hospitalizations, and Deaths","60-69, Deaths",Cases,14
+"Case Counts by Age Group, Hospitalizations, and Deaths","60-69, Hospitalized",Cases,190
+"Case Counts by Age Group, Hospitalizations, and Deaths","60-69, Not Hospitalized",Cases,530
+"Case Counts by Age Group, Hospitalizations, and Deaths","70-79, Deaths",Cases,35
+"Case Counts by Age Group, Hospitalizations, and Deaths","70-79, Hospitalized",Cases,176
+"Case Counts by Age Group, Hospitalizations, and Deaths","70-79, Not Hospitalized",Cases,301
+"Case Counts by Age Group, Hospitalizations, and Deaths","80+, Deaths",Cases,77
+"Case Counts by Age Group, Hospitalizations, and Deaths","80+, Hospitalized",Cases,100
+"Case Counts by Age Group, Hospitalizations, and Deaths","80+, Not Hospitalized",Cases,184
+"Case Counts by Age Group, Hospitalizations, and Deaths","Unknown, Not Hospitalized",Cases,17
+"Case Counts by Age Group, Hospitalizations, and Deaths",Note,Data on cases recovered is unavailable.,NA
+"Case Counts by Age Group, Hospitalizations, and Deaths",Note,Patients who were hospitalized and subsequently died are only counted once as a death.,NA
+Positivity Data from Clinical Laboratories,2020-02-29,Count of people tested by CDPHE lab,6
+Positivity Data from Clinical Laboratories,2020-02-29,Percent Positivity,NA
+Positivity Data from Clinical Laboratories,2020-03-01,Count of people tested by CDPHE lab,2
+Positivity Data from Clinical Laboratories,2020-03-01,Percent Positivity,NA
+Positivity Data from Clinical Laboratories,2020-03-03,Count of people tested by CDPHE lab,5
+Positivity Data from Clinical Laboratories,2020-03-03,Percent Positivity,NA
+Positivity Data from Clinical Laboratories,2020-03-04,Count of people tested by CDPHE lab,12
+Positivity Data from Clinical Laboratories,2020-03-04,Percent Positivity,NA
+Positivity Data from Clinical Laboratories,2020-03-06,Count of people tested by CDPHE lab,33
+Positivity Data from Clinical Laboratories,2020-03-06,Percent Positivity,0
+Positivity Data from Clinical Laboratories,2020-03-07,Count of people tested by CDPHE lab,36
+Positivity Data from Clinical Laboratories,2020-03-07,Percent Positivity,0
+Positivity Data from Clinical Laboratories,2020-03-08,Count of people tested by CDPHE lab,27
+Positivity Data from Clinical Laboratories,2020-03-08,Percent Positivity,0
+Positivity Data from Clinical Laboratories,2020-03-09,Count of people tested by CDPHE lab,15
+Positivity Data from Clinical Laboratories,2020-03-09,Percent Positivity,33.33333333333333
+Positivity Data from Clinical Laboratories,2020-03-10,Count of people tested by CDPHE lab,68
+Positivity Data from Clinical Laboratories,2020-03-10,Count of people tested by non-CDPHE (commercial) lab,2
+Positivity Data from Clinical Laboratories,2020-03-10,Percent Positivity,8.571428571428571
+Positivity Data from Clinical Laboratories,2020-03-11,Count of people tested by CDPHE lab,125
+Positivity Data from Clinical Laboratories,2020-03-11,Count of people tested by non-CDPHE (commercial) lab,3
+Positivity Data from Clinical Laboratories,2020-03-11,Percent Positivity,14.84375
+Positivity Data from Clinical Laboratories,2020-03-12,Count of people tested by CDPHE lab,135
+Positivity Data from Clinical Laboratories,2020-03-12,Count of people tested by non-CDPHE (commercial) lab,1
+Positivity Data from Clinical Laboratories,2020-03-12,Percent Positivity,7.352941176470589
+Positivity Data from Clinical Laboratories,2020-03-13,Count of people tested by CDPHE lab,151
+Positivity Data from Clinical Laboratories,2020-03-13,Count of people tested by non-CDPHE (commercial) lab,42
+Positivity Data from Clinical Laboratories,2020-03-13,Percent Positivity,14.507772020725387
+Positivity Data from Clinical Laboratories,2020-03-14,Count of people tested by CDPHE lab,147
+Positivity Data from Clinical Laboratories,2020-03-14,Count of people tested by non-CDPHE (commercial) lab,32
+Positivity Data from Clinical Laboratories,2020-03-14,Percent Positivity,17.877094972067038
+Positivity Data from Clinical Laboratories,2020-03-15,Count of people tested by CDPHE lab,258
+Positivity Data from Clinical Laboratories,2020-03-15,Count of people tested by non-CDPHE (commercial) lab,45
+Positivity Data from Clinical Laboratories,2020-03-15,Percent Positivity,11.221122112211221
+Positivity Data from Clinical Laboratories,2020-03-16,Count of people tested by CDPHE lab,355
+Positivity Data from Clinical Laboratories,2020-03-16,Count of people tested by non-CDPHE (commercial) lab,117
+Positivity Data from Clinical Laboratories,2020-03-16,Percent Positivity,7.838983050847458
+Positivity Data from Clinical Laboratories,2020-03-17,Count of people tested by CDPHE lab,649
+Positivity Data from Clinical Laboratories,2020-03-17,Count of people tested by non-CDPHE (commercial) lab,90
+Positivity Data from Clinical Laboratories,2020-03-17,Percent Positivity,3.924221921515562
+Positivity Data from Clinical Laboratories,2020-03-18,Count of people tested by CDPHE lab,336
+Positivity Data from Clinical Laboratories,2020-03-18,Count of people tested by non-CDPHE (commercial) lab,190
+Positivity Data from Clinical Laboratories,2020-03-18,Percent Positivity,12.737642585551331
+Positivity Data from Clinical Laboratories,2020-03-19,Count of people tested by CDPHE lab,543
+Positivity Data from Clinical Laboratories,2020-03-19,Count of people tested by non-CDPHE (commercial) lab,295
+Positivity Data from Clinical Laboratories,2020-03-19,Percent Positivity,10.26252983293556
+Positivity Data from Clinical Laboratories,2020-03-20,Count of people tested by CDPHE lab,454
+Positivity Data from Clinical Laboratories,2020-03-20,Count of people tested by non-CDPHE (commercial) lab,509
+Positivity Data from Clinical Laboratories,2020-03-20,Percent Positivity,11.838006230529595
+Positivity Data from Clinical Laboratories,2020-03-21,Count of people tested by CDPHE lab,891
+Positivity Data from Clinical Laboratories,2020-03-21,Count of people tested by non-CDPHE (commercial) lab,591
+Positivity Data from Clinical Laboratories,2020-03-21,Percent Positivity,7.759784075573549
+Positivity Data from Clinical Laboratories,2020-03-22,Count of people tested by CDPHE lab,378
+Positivity Data from Clinical Laboratories,2020-03-22,Count of people tested by non-CDPHE (commercial) lab,565
+Positivity Data from Clinical Laboratories,2020-03-22,Percent Positivity,13.361611876988336
+Positivity Data from Clinical Laboratories,2020-03-23,Count of people tested by CDPHE lab,835
+Positivity Data from Clinical Laboratories,2020-03-23,Count of people tested by non-CDPHE (commercial) lab,471
+Positivity Data from Clinical Laboratories,2020-03-23,Percent Positivity,14.548238897396631
+Positivity Data from Clinical Laboratories,2020-03-24,Count of people tested by CDPHE lab,652
+Positivity Data from Clinical Laboratories,2020-03-24,Count of people tested by non-CDPHE (commercial) lab,510
+Positivity Data from Clinical Laboratories,2020-03-24,Percent Positivity,15.060240963855422
+Positivity Data from Clinical Laboratories,2020-03-25,Count of people tested by CDPHE lab,348
+Positivity Data from Clinical Laboratories,2020-03-25,Count of people tested by non-CDPHE (commercial) lab,1533
+Positivity Data from Clinical Laboratories,2020-03-25,Percent Positivity,17.543859649122805
+Positivity Data from Clinical Laboratories,2020-03-26,Count of people tested by CDPHE lab,463
+Positivity Data from Clinical Laboratories,2020-03-26,Count of people tested by non-CDPHE (commercial) lab,1327
+Positivity Data from Clinical Laboratories,2020-03-26,Percent Positivity,16.53631284916201
+Positivity Data from Clinical Laboratories,2020-03-27,Count of people tested by CDPHE lab,610
+Positivity Data from Clinical Laboratories,2020-03-27,Count of people tested by non-CDPHE (commercial) lab,1334
+Positivity Data from Clinical Laboratories,2020-03-27,Percent Positivity,16.820987654320987
+Positivity Data from Clinical Laboratories,2020-03-28,Count of people tested by CDPHE lab,240
+Positivity Data from Clinical Laboratories,2020-03-28,Count of people tested by non-CDPHE (commercial) lab,1256
+Positivity Data from Clinical Laboratories,2020-03-28,Percent Positivity,16.176470588235293
+Positivity Data from Clinical Laboratories,2020-03-29,Count of people tested by CDPHE lab,372
+Positivity Data from Clinical Laboratories,2020-03-29,Count of people tested by non-CDPHE (commercial) lab,1385
+Positivity Data from Clinical Laboratories,2020-03-29,Percent Positivity,18.952760387023336
+Positivity Data from Clinical Laboratories,2020-03-30,Count of people tested by CDPHE lab,412
+Positivity Data from Clinical Laboratories,2020-03-30,Count of people tested by non-CDPHE (commercial) lab,1442
+Positivity Data from Clinical Laboratories,2020-03-30,Percent Positivity,17.691477885652642
+Positivity Data from Clinical Laboratories,2020-03-31,Count of people tested by CDPHE lab,395
+Positivity Data from Clinical Laboratories,2020-03-31,Count of people tested by non-CDPHE (commercial) lab,1587
+Positivity Data from Clinical Laboratories,2020-03-31,Percent Positivity,19.424823410696266
+Positivity Data from Clinical Laboratories,2020-04-01,Count of people tested by CDPHE lab,338
+Positivity Data from Clinical Laboratories,2020-04-01,Count of people tested by non-CDPHE (commercial) lab,1306
+Positivity Data from Clinical Laboratories,2020-04-01,Percent Positivity,24.391727493917276
+Positivity Data from Clinical Laboratories,2020-04-02,Count of people tested by CDPHE lab,367
+Positivity Data from Clinical Laboratories,2020-04-02,Count of people tested by non-CDPHE (commercial) lab,1458
+Positivity Data from Clinical Laboratories,2020-04-02,Percent Positivity,24.602739726027398
+Positivity Data from Clinical Laboratories,2020-04-03,Count of people tested by CDPHE lab,192
+Positivity Data from Clinical Laboratories,2020-04-03,Count of people tested by non-CDPHE (commercial) lab,1891
+Positivity Data from Clinical Laboratories,2020-04-03,Percent Positivity,18.86701872299568
+Positivity Data from Clinical Laboratories,2020-04-04,Count of people tested by CDPHE lab,252
+Positivity Data from Clinical Laboratories,2020-04-04,Count of people tested by non-CDPHE (commercial) lab,2033
+Positivity Data from Clinical Laboratories,2020-04-04,Percent Positivity,16.849015317286653
+Cumulative Number of Cases by Onset Date,2020-02-06,Cases,1
+Cumulative Number of Cases by Onset Date,2020-02-14,Cases,2
+Cumulative Number of Cases by Onset Date,2020-02-15,Cases,3
+Cumulative Number of Cases by Onset Date,2020-02-17,Cases,4
+Cumulative Number of Cases by Onset Date,2020-02-18,Cases,5
+Cumulative Number of Cases by Onset Date,2020-02-19,Cases,6
+Cumulative Number of Cases by Onset Date,2020-02-20,Cases,10
+Cumulative Number of Cases by Onset Date,2020-02-21,Cases,11
+Cumulative Number of Cases by Onset Date,2020-02-23,Cases,13
+Cumulative Number of Cases by Onset Date,2020-02-24,Cases,15
+Cumulative Number of Cases by Onset Date,2020-02-25,Cases,16
+Cumulative Number of Cases by Onset Date,2020-02-26,Cases,17
+Cumulative Number of Cases by Onset Date,2020-02-27,Cases,21
+Cumulative Number of Cases by Onset Date,2020-02-28,Cases,27
+Cumulative Number of Cases by Onset Date,2020-02-29,Cases,30
+Cumulative Number of Cases by Onset Date,2020-03-01,Cases,50
+Cumulative Number of Cases by Onset Date,2020-03-02,Cases,65
+Cumulative Number of Cases by Onset Date,2020-03-03,Cases,88
+Cumulative Number of Cases by Onset Date,2020-03-04,Cases,114
+Cumulative Number of Cases by Onset Date,2020-03-05,Cases,134
+Cumulative Number of Cases by Onset Date,2020-03-06,Cases,173
+Cumulative Number of Cases by Onset Date,2020-03-07,Cases,206
+Cumulative Number of Cases by Onset Date,2020-03-08,Cases,265
+Cumulative Number of Cases by Onset Date,2020-03-09,Cases,371
+Cumulative Number of Cases by Onset Date,2020-03-10,Cases,479
+Cumulative Number of Cases by Onset Date,2020-03-11,Cases,578
+Cumulative Number of Cases by Onset Date,2020-03-12,Cases,701
+Cumulative Number of Cases by Onset Date,2020-03-13,Cases,839
+Cumulative Number of Cases by Onset Date,2020-03-14,Cases,959
+Cumulative Number of Cases by Onset Date,2020-03-15,Cases,1088
+Cumulative Number of Cases by Onset Date,2020-03-16,Cases,1275
+Cumulative Number of Cases by Onset Date,2020-03-17,Cases,1498
+Cumulative Number of Cases by Onset Date,2020-03-18,Cases,1736
+Cumulative Number of Cases by Onset Date,2020-03-19,Cases,1907
+Cumulative Number of Cases by Onset Date,2020-03-20,Cases,2082
+Cumulative Number of Cases by Onset Date,2020-03-21,Cases,2200
+Cumulative Number of Cases by Onset Date,2020-03-22,Cases,2313
+Cumulative Number of Cases by Onset Date,2020-03-23,Cases,2589
+Cumulative Number of Cases by Onset Date,2020-03-24,Cases,2824
+Cumulative Number of Cases by Onset Date,2020-03-25,Cases,3088
+Cumulative Number of Cases by Onset Date,2020-03-26,Cases,3317
+Cumulative Number of Cases by Onset Date,2020-03-27,Cases,3541
+Cumulative Number of Cases by Onset Date,2020-03-28,Cases,3663
+Cumulative Number of Cases by Onset Date,2020-03-29,Cases,3784
+Cumulative Number of Cases by Onset Date,2020-03-30,Cases,4105
+Cumulative Number of Cases by Onset Date,2020-03-31,Cases,4385
+Cumulative Number of Cases by Onset Date,2020-04-01,Cases,4666
+Cumulative Number of Cases by Onset Date,2020-04-02,Cases,4832
+Cumulative Number of Cases by Onset Date,2020-04-03,Cases,4914
+Cumulative Number of Cases by Onset Date,2020-04-04,Cases,4950
+Cumulative Number of Cases by Onset Date,Note,Data is reported daily around 4pm; subsequent days' data may show differences as cases are reported after this time.,NA
+Cumulative Number of Hospitalizations by Onset Date,2020-02-20,Cases,1
+Cumulative Number of Hospitalizations by Onset Date,2020-02-26,Cases,2
+Cumulative Number of Hospitalizations by Onset Date,2020-02-27,Cases,3
+Cumulative Number of Hospitalizations by Onset Date,2020-02-28,Cases,6
+Cumulative Number of Hospitalizations by Onset Date,2020-03-01,Cases,11
+Cumulative Number of Hospitalizations by Onset Date,2020-03-02,Cases,15
+Cumulative Number of Hospitalizations by Onset Date,2020-03-03,Cases,19
+Cumulative Number of Hospitalizations by Onset Date,2020-03-04,Cases,28
+Cumulative Number of Hospitalizations by Onset Date,2020-03-05,Cases,37
+Cumulative Number of Hospitalizations by Onset Date,2020-03-06,Cases,49
+Cumulative Number of Hospitalizations by Onset Date,2020-03-07,Cases,55
+Cumulative Number of Hospitalizations by Onset Date,2020-03-08,Cases,73
+Cumulative Number of Hospitalizations by Onset Date,2020-03-09,Cases,95
+Cumulative Number of Hospitalizations by Onset Date,2020-03-10,Cases,114
+Cumulative Number of Hospitalizations by Onset Date,2020-03-11,Cases,140
+Cumulative Number of Hospitalizations by Onset Date,2020-03-12,Cases,162
+Cumulative Number of Hospitalizations by Onset Date,2020-03-13,Cases,194
+Cumulative Number of Hospitalizations by Onset Date,2020-03-14,Cases,220
+Cumulative Number of Hospitalizations by Onset Date,2020-03-15,Cases,254
+Cumulative Number of Hospitalizations by Onset Date,2020-03-16,Cases,296
+Cumulative Number of Hospitalizations by Onset Date,2020-03-17,Cases,334
+Cumulative Number of Hospitalizations by Onset Date,2020-03-18,Cases,378
+Cumulative Number of Hospitalizations by Onset Date,2020-03-19,Cases,416
+Cumulative Number of Hospitalizations by Onset Date,2020-03-20,Cases,448
+Cumulative Number of Hospitalizations by Onset Date,2020-03-21,Cases,475
+Cumulative Number of Hospitalizations by Onset Date,2020-03-22,Cases,513
+Cumulative Number of Hospitalizations by Onset Date,2020-03-23,Cases,569
+Cumulative Number of Hospitalizations by Onset Date,2020-03-24,Cases,607
+Cumulative Number of Hospitalizations by Onset Date,2020-03-25,Cases,670
+Cumulative Number of Hospitalizations by Onset Date,2020-03-26,Cases,705
+Cumulative Number of Hospitalizations by Onset Date,2020-03-27,Cases,752
+Cumulative Number of Hospitalizations by Onset Date,2020-03-28,Cases,785
+Cumulative Number of Hospitalizations by Onset Date,2020-03-29,Cases,809
+Cumulative Number of Hospitalizations by Onset Date,2020-03-30,Cases,846
+Cumulative Number of Hospitalizations by Onset Date,2020-03-31,Cases,871
+Cumulative Number of Hospitalizations by Onset Date,2020-04-01,Cases,902
+Cumulative Number of Hospitalizations by Onset Date,2020-04-02,Cases,919
+Cumulative Number of Hospitalizations by Onset Date,2020-04-03,Cases,923
+Cumulative Number of Hospitalizations by Onset Date,2020-04-04,Cases,924
+Cumulative Number of Hospitalizations by Onset Date,Note,Data is reported daily around 4pm; subsequent days' data may show differences as cases are reported after this time.,NA
+Cumulative Number of Deaths by Onset Date,2020-03-01,Cases,3
+Cumulative Number of Deaths by Onset Date,2020-03-02,Cases,4
+Cumulative Number of Deaths by Onset Date,2020-03-03,Cases,5
+Cumulative Number of Deaths by Onset Date,2020-03-04,Cases,8
+Cumulative Number of Deaths by Onset Date,2020-03-05,Cases,10
+Cumulative Number of Deaths by Onset Date,2020-03-06,Cases,11
+Cumulative Number of Deaths by Onset Date,2020-03-07,Cases,13
+Cumulative Number of Deaths by Onset Date,2020-03-08,Cases,21
+Cumulative Number of Deaths by Onset Date,2020-03-09,Cases,24
+Cumulative Number of Deaths by Onset Date,2020-03-10,Cases,25
+Cumulative Number of Deaths by Onset Date,2020-03-11,Cases,28
+Cumulative Number of Deaths by Onset Date,2020-03-13,Cases,31
+Cumulative Number of Deaths by Onset Date,2020-03-14,Cases,35
+Cumulative Number of Deaths by Onset Date,2020-03-15,Cases,41
+Cumulative Number of Deaths by Onset Date,2020-03-16,Cases,49
+Cumulative Number of Deaths by Onset Date,2020-03-17,Cases,53
+Cumulative Number of Deaths by Onset Date,2020-03-18,Cases,54
+Cumulative Number of Deaths by Onset Date,2020-03-19,Cases,60
+Cumulative Number of Deaths by Onset Date,2020-03-20,Cases,64
+Cumulative Number of Deaths by Onset Date,2020-03-21,Cases,69
+Cumulative Number of Deaths by Onset Date,2020-03-22,Cases,73
+Cumulative Number of Deaths by Onset Date,2020-03-23,Cases,84
+Cumulative Number of Deaths by Onset Date,2020-03-24,Cases,90
+Cumulative Number of Deaths by Onset Date,2020-03-25,Cases,104
+Cumulative Number of Deaths by Onset Date,2020-03-26,Cases,111
+Cumulative Number of Deaths by Onset Date,2020-03-27,Cases,117
+Cumulative Number of Deaths by Onset Date,2020-03-28,Cases,121
+Cumulative Number of Deaths by Onset Date,2020-03-29,Cases,122
+Cumulative Number of Deaths by Onset Date,2020-03-30,Cases,131
+Cumulative Number of Deaths by Onset Date,2020-03-31,Cases,134
+Cumulative Number of Deaths by Onset Date,2020-04-01,Cases,137
+Cumulative Number of Deaths by Onset Date,2020-04-02,Cases,140
+Cumulative Number of Deaths by Onset Date,Note,Data is reported daily around 4pm; subsequent days' data may show differences as cases are reported after this time.,NA
+Cumulative Number of Cases by Reported Date,2020-03-05,Cases,8
+Cumulative Number of Cases by Reported Date,2020-03-09,Cases,13
+Cumulative Number of Cases by Reported Date,2020-03-10,Cases,19
+Cumulative Number of Cases by Reported Date,2020-03-11,Cases,38
+Cumulative Number of Cases by Reported Date,2020-03-12,Cases,48
+Cumulative Number of Cases by Reported Date,2020-03-13,Cases,76
+Cumulative Number of Cases by Reported Date,2020-03-14,Cases,108
+Cumulative Number of Cases by Reported Date,2020-03-15,Cases,142
+Cumulative Number of Cases by Reported Date,2020-03-16,Cases,179
+Cumulative Number of Cases by Reported Date,2020-03-17,Cases,208
+Cumulative Number of Cases by Reported Date,2020-03-18,Cases,275
+Cumulative Number of Cases by Reported Date,2020-03-19,Cases,361
+Cumulative Number of Cases by Reported Date,2020-03-20,Cases,475
+Cumulative Number of Cases by Reported Date,2020-03-21,Cases,590
+Cumulative Number of Cases by Reported Date,2020-03-22,Cases,716
+Cumulative Number of Cases by Reported Date,2020-03-23,Cases,906
+Cumulative Number of Cases by Reported Date,2020-03-24,Cases,1081
+Cumulative Number of Cases by Reported Date,2020-03-25,Cases,1411
+Cumulative Number of Cases by Reported Date,2020-03-26,Cases,1707
+Cumulative Number of Cases by Reported Date,2020-03-27,Cases,2034
+Cumulative Number of Cases by Reported Date,2020-03-28,Cases,2276
+Cumulative Number of Cases by Reported Date,2020-03-29,Cases,2609
+Cumulative Number of Cases by Reported Date,2020-03-30,Cases,2937
+Cumulative Number of Cases by Reported Date,2020-03-31,Cases,3322
+Cumulative Number of Cases by Reported Date,2020-04-01,Cases,3723
+Cumulative Number of Cases by Reported Date,2020-04-02,Cases,4172
+Cumulative Number of Cases by Reported Date,2020-04-03,Cases,4565
+Cumulative Number of Cases by Reported Date,2020-04-04,Cases,4950
+Cumulative Number of Cases by Reported Date,Note,Data is reported daily around 4pm; subsequent days' data may show differences as cases are reported after this time.,NA
+Cumulative Number of Hospitalizations by Reported Date,2020-03-09,Cases,3
+Cumulative Number of Hospitalizations by Reported Date,2020-03-10,Cases,5
+Cumulative Number of Hospitalizations by Reported Date,2020-03-11,Cases,7
+Cumulative Number of Hospitalizations by Reported Date,2020-03-12,Cases,9
+Cumulative Number of Hospitalizations by Reported Date,2020-03-13,Cases,13
+Cumulative Number of Hospitalizations by Reported Date,2020-03-14,Cases,18
+Cumulative Number of Hospitalizations by Reported Date,2020-03-15,Cases,20
+Cumulative Number of Hospitalizations by Reported Date,2020-03-16,Cases,26
+Cumulative Number of Hospitalizations by Reported Date,2020-03-17,Cases,32
+Cumulative Number of Hospitalizations by Reported Date,2020-03-18,Cases,41
+Cumulative Number of Hospitalizations by Reported Date,2020-03-19,Cases,53
+Cumulative Number of Hospitalizations by Reported Date,2020-03-20,Cases,71
+Cumulative Number of Hospitalizations by Reported Date,2020-03-21,Cases,97
+Cumulative Number of Hospitalizations by Reported Date,2020-03-22,Cases,126
+Cumulative Number of Hospitalizations by Reported Date,2020-03-23,Cases,169
+Cumulative Number of Hospitalizations by Reported Date,2020-03-24,Cases,205
+Cumulative Number of Hospitalizations by Reported Date,2020-03-25,Cases,263
+Cumulative Number of Hospitalizations by Reported Date,2020-03-26,Cases,326
+Cumulative Number of Hospitalizations by Reported Date,2020-03-27,Cases,391
+Cumulative Number of Hospitalizations by Reported Date,2020-03-28,Cases,451
+Cumulative Number of Hospitalizations by Reported Date,2020-03-29,Cases,542
+Cumulative Number of Hospitalizations by Reported Date,2020-03-30,Cases,640
+Cumulative Number of Hospitalizations by Reported Date,2020-03-31,Cases,714
+Cumulative Number of Hospitalizations by Reported Date,2020-04-01,Cases,784
+Cumulative Number of Hospitalizations by Reported Date,2020-04-02,Cases,861
+Cumulative Number of Hospitalizations by Reported Date,2020-04-03,Cases,899
+Cumulative Number of Hospitalizations by Reported Date,2020-04-04,Cases,924
+Cumulative Number of Hospitalizations by Reported Date,Note,Data is reported daily around 4pm; subsequent days' data may show differences as cases are reported after this time.,NA
+Cumulative Number of Deaths by Reported Date,2020-03-13,Cases,2
+Cumulative Number of Deaths by Reported Date,2020-03-14,Cases,3
+Cumulative Number of Deaths by Reported Date,2020-03-15,Cases,4
+Cumulative Number of Deaths by Reported Date,2020-03-18,Cases,7
+Cumulative Number of Deaths by Reported Date,2020-03-19,Cases,9
+Cumulative Number of Deaths by Reported Date,2020-03-20,Cases,11
+Cumulative Number of Deaths by Reported Date,2020-03-21,Cases,19
+Cumulative Number of Deaths by Reported Date,2020-03-22,Cases,23
+Cumulative Number of Deaths by Reported Date,2020-03-23,Cases,30
+Cumulative Number of Deaths by Reported Date,2020-03-24,Cases,35
+Cumulative Number of Deaths by Reported Date,2020-03-25,Cases,46
+Cumulative Number of Deaths by Reported Date,2020-03-26,Cases,62
+Cumulative Number of Deaths by Reported Date,2020-03-27,Cases,73
+Cumulative Number of Deaths by Reported Date,2020-03-28,Cases,88
+Cumulative Number of Deaths by Reported Date,2020-03-29,Cases,95
+Cumulative Number of Deaths by Reported Date,2020-03-30,Cases,102
+Cumulative Number of Deaths by Reported Date,2020-03-31,Cases,110
+Cumulative Number of Deaths by Reported Date,2020-04-01,Cases,122
+Cumulative Number of Deaths by Reported Date,2020-04-02,Cases,131
+Cumulative Number of Deaths by Reported Date,2020-04-03,Cases,136
+Cumulative Number of Deaths by Reported Date,2020-04-04,Cases,140
+Cumulative Number of Deaths by Reported Date,Note,Data is reported daily around 4pm; subsequent days' data may show differences as cases are reported after this time.,NA

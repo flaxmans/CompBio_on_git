@@ -186,6 +186,7 @@ ______________________________
     + Working with `ggplot()` and [COVID-19 data from the Denver Post](https://github.com/flaxmans/CompBio_on_git/tree/master/Datasets/COVID-19/DenverPostPlot)
     + **No lab this week!  Instead, please work on Assignment 9**.
 + Action items:
+    + Read this Tidyverse [vignette about "pivoting"](https://tidyr.tidyverse.org/articles/pivot.html)
     + [Independent project, Step 2 = Assignment 09][Assignment9link]
     
 ###### Week 14
