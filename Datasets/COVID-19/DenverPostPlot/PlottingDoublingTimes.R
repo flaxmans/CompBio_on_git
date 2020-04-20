@@ -98,10 +98,11 @@ addDoubRefLines <- function( dataToPlot, doublingPeriods, myylim, p ) {
     endPoints[i, ] <- plotNow[ nrow(plotNow), ]
   }
   
-  p <- p + geom_text( data = endPoints, 
+  p <- p + geom_label( data = endPoints, 
                       mapping = aes( x = endx, y = endy ),
                       label = paste(doublingPeriods, "days"), 
-                      color = "gray")
+                      color = "gray",
+                      vjust = 0)
   
   return(p)
 }
@@ -136,13 +137,14 @@ doublingTimePlot <- function( dataVec, thresh, doublingPeriods, varname ) {
                                limits = myylims ) + 
     theme_bw() + 
     labs( x = paste("Days since ", thresh, "th ", varname, sep = ""), 
-          y = paste("Total ", varname, "s", sep = "") )
+          y = paste("Total ", varname, "s", sep = ""),
+          title = "State of Colorado")
   return(p)
 }
   
 # Some example calls:
-doublingTimePlot( dppWide$Total_Cases, 50, 2:7, "case")  
-doublingTimePlot( dppWide$Total_Deaths, 20, seq(3, 11, 2), "death")  
+doublingTimePlot( dppWide$Total_Cases, 25, c(2:7, 14, 30, 60), "case")  
+doublingTimePlot( dppWide$Total_Deaths, 25, c(seq(3, 11, 2), 14, 30, 60), "death")  
   
 
 
