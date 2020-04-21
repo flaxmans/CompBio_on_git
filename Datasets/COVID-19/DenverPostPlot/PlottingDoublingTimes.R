@@ -63,7 +63,7 @@ p + scale_y_continuous( trans = "log10",
   labs( x = paste("Days since ", thresh, "th case", sep = ""), y = "Total cases" )
   
 
-############################################
+k############################################
 ## 3. Making generalizable functions
 ############################################
 
