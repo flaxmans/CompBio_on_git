@@ -32,14 +32,15 @@ dataToPlot <- subset( dppWide, Total_Cases >= thresh )
 daysSince <- 0:(nrow(dataToPlot)-1)
 dataToPlot <- cbind(dataToPlot, daysSince)
 # What the actual total was on the first day exceeding the threshold:
-startVal <- min(dataToPlot$Total_Cases)
+init <- min(dataToPlot$Total_Cases)
 
 # Here's a function to plot doubling reference lines:
-doublingFunction <- function( x, period, init ) {
-  init * ( 2^(x / period) )
-  # x is time in days, period is doubling time in days
+doublingFunction <- function( t, period, init ) {
+  return( init * ( 2^(t / period) ) )
+  # t is time in days, period is doubling time in days
   # init is the starting abundance.
-  # The sytax is set up in the way wanted by ggplot's stat_function()
+  # The sytax is set up in the way wanted by ggplot's stat_function(), 
+  # where the first argument is the x-axis aesthetic
 }
 
 
@@ -48,22 +49,22 @@ require(ggplot2)
 # first the data:
 p <- ggplot( data = dataToPlot, aes( x = daysSince ) ) + 
   geom_line( mapping = aes( y = Total_Cases ) )
-doublingPeriods <- 2:7 # vector of days between doubling
+periods <- 2:7 # vector of days between doubling
 # using a loop to sequentially add reference lines:
-for ( i in 1:length(doublingPeriods)) {
-  doub <- doublingPeriods[i]
+for ( i in 1:length(periods)) {
+  period <- periods[i]
   p <- p + stat_function( fun = doublingFunction, 
-                          args = list(doub, startVal), 
+                          args = list(period, init), 
                           linetype = "dashed")
 }
 # rescaling and adding labels:
 p + scale_y_continuous( trans = "log10", 
-                        limits = c(startVal, max(Total_Cases)) ) + 
+                        limits = c(init, max(Total_Cases)) ) + 
   theme_bw() + 
   labs( x = paste("Days since ", thresh, "th case", sep = ""), y = "Total cases" )
   
 
-k############################################
+############################################
 ## 3. Making generalizable functions
 ############################################
 
