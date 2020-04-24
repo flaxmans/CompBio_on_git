@@ -196,8 +196,7 @@ ______________________________
 + No official lab this week; "lab" will be like extended office hours; Sam will be in N1B75 during the regularly scheduled time
 + Action items:
     + [Independent project, Step 2 = Assignment 09][Assignment9link]
-    + Please read [Flaxman et al. 2013](https://doi.org/10.1111/evo.12055) and check out the README file for [the archived data set](https://doi.org/10.5061/dryad.t894r) PRIOR to class this week
-    + Example data from the `bu2s` model can be found in [this Google Drive folder](https://drive.google.com/drive/folders/17JDH0grD4J6ZW3jMLtfVlRq0bHIih6xa?usp=sharing)
+    + Check out one or two of the [raw data files on COVID-19 provided by CDPHE][CDPHEdata]
     + Read this [guide on citing references][CitationLink] for doing Assignment 09.
  
  ###### Week 15
@@ -207,8 +206,9 @@ ______________________________
 + No lab this week; Friday is the reading day
 + Action items:
     + [Independent project, Step 2 = Assignment 09][Assignment9link]
-    + Example data from the `bu2s` model can be found in [this Google Drive folder](https://drive.google.com/drive/folders/17JDH0grD4J6ZW3jMLtfVlRq0bHIih6xa?usp=sharing)
+    + Run the shell script "`IdeasForAnalyses.sh`" ([found in the CDPHE data folder][CDPHEdata]) on your own computer and look at the .csv files it produces.
     + Read this [guide on citing references][CitationLink] for doing Assignment 09.
+    
 
 _____________________________
 
@@ -305,3 +305,5 @@ See the [campus policy regarding religious observances](http://www.colorado.edu/
 [WordsToCodeLink]: https://docs.google.com/document/d/1jAa5_lQL5AMd6Qg2UZGkjI_z5a6xtIj9IUgzG2J10vg/edit?usp=sharing
 
 [CitationLink]: https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html
+
+[CDPHEdata]: https://github.com/flaxmans/CompBio_on_git/tree/master/Datasets/COVID-19/CDPHE_Data
