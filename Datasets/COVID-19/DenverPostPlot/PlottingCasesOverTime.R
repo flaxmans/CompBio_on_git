@@ -110,7 +110,7 @@ p1 <- ggplot( data = dailyData ) +
   scale_fill_manual( values = DPcolors) +
   theme_bw()
 
-p1
+show(p1)
 
 # ADD MORE CODE HERE TO MAKE CUMULATIVE POINT AND LINE PLOTS with cumulativeData
 p2 <- ggplot( data = cumulativeData, 
@@ -119,7 +119,8 @@ p2 <- ggplot( data = cumulativeData,
   geom_line() + 
   scale_color_manual(values = DPcolors) + 
   theme_bw()
-p2
+
+show(p2)
 
 
 # Which would be better/easier for reconstructing the Denver Post's plots?
@@ -128,5 +129,5 @@ p2
 
 require(cowplot)
 #plot_grid()  # getting multiple separate graphics objects in one plot
-plot_grid( p1, p2, nrow = 2 )
+show(plot_grid( p1, p2, nrow = 2 ))
 
