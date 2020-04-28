@@ -36,7 +36,7 @@ grep "Boulder" RawData_csv_files/*.csv |        # get all the data
 ################################################
 
 # We could try the same thing?
-grep "Case Counts by County" RawData_csv_files/*.csv |        # get all the data
+grep -i "by County" RawData_csv_files/*.csv |        # get all the data
     sed 's/_/,/g' |                             # replace underscores with commas
     sed 's/:/,/g' |                             # replace colons with commas
     sed 's/.csv//g' |                           # remove instances of ".csv"
