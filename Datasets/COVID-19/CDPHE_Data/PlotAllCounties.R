@@ -1,3 +1,14 @@
+####################################
+# Make sure data are current:
+####################################
+rm(list = ls())
+setwd("~/compbio/CompBio_on_git/Datasets/COVID-19/CDPHE_Data/")
+system("sh IdeasForAnalyses.sh", intern = T)
+
+#####################################
+# Read and clean data
+#####################################
+
 CountiesData <- read.csv("~/compbio/CompBio_on_git/Datasets/COVID-19/CDPHE_Data/AllCounties_WildCardGrep.csv", stringsAsFactors = F, header = F)
 str(CountiesData)
 names(CountiesData) <- c("Date", "Description", "County", "Metric", "Value")
@@ -39,18 +50,28 @@ sort(unique(filteredData$County))
 # So, why are we getting more?
 
 
-# other cleaning:
+# other checks/cleaning:
 unique(filteredData$Description)
 unique(filteredData$Metric)
 
 # is there a complete, unambiguous correspondence?
-# DEATHS FIRST:
-all( (filteredData$Description == "Number of Deaths by County") == (filteredData$Metric == "Deaths"))
-# YES!
-# Rates per 100000:
-all( (filteredData$Description == "Case Rates Per 100,000 People in Colorado by County") == (filteredData$Metric == "Rate Per 100000"))
-# NO!
-# Metric seems least ambiguous, so let's use that.  We could clean up description, or just ignore it
+# Deaths appear to be the problem from the plots first made.  So,
+# let's do some exploration of data
+# 
+# deathsInDescription <- grepl( pattern = "Death", x = filteredData$Description)
+# deathsInMetric <- grepl( pattern = "Deaths", x = filteredData$Metric)
+# all(deathsInDescription == deathsInMetric)
+# sum(deathsInDescription)
+# sum(deathsInMetric)
+# missingFromMetric <- deathsInDescription & !deathsInMetric
+# sum(missingFromMetric)
+# missingFromDescription <- !deathsInDescription & deathsInMetric
+# sum(missingFromDescription)
+
+
+########################################
+# Make some plots.  Step 1: Subset data
+########################################
 
 # Suppose we wanted to plot rates for the counties that most recently had the highest per capita rate:
 mostRecentDate <- max(filteredData$Date)
@@ -58,7 +79,7 @@ rankedCountiesByRate <- filteredData %>%
   filter( Date == mostRecentDate & Metric == "Rate Per 100000") %>%
   arrange( desc(Value) )
 
-nToKeep <- 10
+nToKeep <- 5
 highestCounties <- rankedCountiesByRate$County[1:nToKeep]
 
 plottingData <- filteredData %>%
@@ -66,11 +87,24 @@ plottingData <- filteredData %>%
 
 
 
+############################################
+# Make some plots.  Step 2: Actual plotting
+############################################
 
 
+# plot
+ggplot( data = plottingData, 
+        mapping = aes(x = Date, y = Value, color = County, linetype = County) ) + 
+  geom_line( size = 1.25 ) + 
+  facet_wrap( ~Metric, nrow = 3, scales = "free_y" ) + 
+  theme_bw()
 
-plot
-ggplot( data = subset(filteredData, Metric == "Cases" & Value >= 10), 
-        mapping = aes(x = Date, y = Value, color = County) ) + 
-  geom_line() + 
-  scale_y_log10()
+# The first time I made this plot, it showed a problem with the data ... 
+
+
+ggplot( data = plottingData, 
+        mapping = aes(x = Date, y = Value, color = County, linetype = County) ) + 
+  geom_line( size = 1.5 ) + 
+  facet_grid( Metric ~ County, scales = "free_y" ) + 
+  theme_bw() + 
+  guides( color = FALSE, linetype = F )

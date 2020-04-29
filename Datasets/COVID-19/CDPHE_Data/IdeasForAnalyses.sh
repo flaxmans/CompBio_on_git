@@ -36,19 +36,11 @@ grep "Boulder" RawData_csv_files/*.csv |        # get all the data
 ################################################
 
 # We could try the same thing?
-grep -i "by County" RawData_csv_files/*.csv |        # get all the data
+grep -i "County" RawData_csv_files/*.csv |        # get all the data
     sed 's/_/,/g' |                             # replace underscores with commas
     sed 's/:/,/g' |                             # replace colons with commas
     sed 's/.csv//g' |                           # remove instances of ".csv"
     cut -d, -f 5- > AllCounties_WildCardGrep.csv
-    
-# Turns out that misses many deaths in data prior to late april!
-# Earlier files just say "Death" in the first column of the first line!
-#grep "^Death" RawData_csv_files/*.csv |        # get all the data with lines that begin with the word 'Death'
-#    sed 's/_/,/g' |                             # replace underscores with commas
-#    sed 's/:/,/g' |                             # replace colons with commas
-#    sed 's/.csv//g' |                           # remove instances of ".csv"
-#    cut -d, -f 5- >> AllCounties_WildCardGrep.csv
 
 
 
