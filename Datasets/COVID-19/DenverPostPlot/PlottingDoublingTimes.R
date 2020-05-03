@@ -1,6 +1,7 @@
 rm(list = ls())
 # import:
-dpp <- read.csv( file = "~/compbio/CompBio_on_git/Datasets/COVID-19/DenverPostPlot/RevisedData.csv", stringsAsFactors = F)
+setwd("~/compbio/CompBio_on_git/Datasets/COVID-19/DenverPostPlot/")
+dpp <- read.csv( file = "RevisedData.csv", stringsAsFactors = F)
 # convert date from char to date:
 dpp$Date <- as.Date( dpp$Date, format = "%m/%d/%y" )
 # I'm going to change the names slightly to make it easier to parse later ...
@@ -68,92 +69,8 @@ p + scale_y_continuous( trans = "log10",
 ## 3. Making generalizable functions
 ############################################
 
-# Function for adding doubling time reference lines to an existing plot:
-addDoubRefLines <- function( dataToPlot, doublingPeriods, myylim, p ) {
-  
-  # arguments:
-      # dataToPlot: data frame having real data that were used
-      # doublePeriods: vector of double periods (in days) for reference lines
-      # myylim: limits on y-axis display
-      # p: the ggplot object that the lines should be added to
-  
-  # preallocate objects for end points
-  endx <- rep(0, length(doublingPeriods))
-  endy <- endx
-  endPoints <- data.frame(endx, endy)
-  
-  # plot the reference lines
-  nPeriods <- length(doublingPeriods)
-  
-  init <- dataToPlot$count[1] # initial abundance
-  
-  for ( i in 1:nPeriods ) {
-    dp <- doublingPeriods[i] # focal doubling period
-    # calculate ref lines:
-    refx <- dataToPlot$days
-    refy <- init * ( 2^(refx / dp) )
-    keepThese <- refy <= myylim
-    plotNow <- data.frame(refx, refy)
-    plotNow <- subset( plotNow, refy <= myylim )
-    p <- p + geom_line( data = plotNow, 
-                        mapping = aes( x = refx, y = refy ), 
-                        linetype = "dashed", 
-                        color = "gray")
-    endPoints[i, ] <- plotNow[ nrow(plotNow), ]
-  }
-  
-  p <- p + geom_label( data = endPoints, 
-                      mapping = aes( x = endx, y = endy ),
-                      label = paste(doublingPeriods, "days"), 
-                      color = "gray",
-                      vjust = 0)
-  
-  return(p)
-}
-
-doublingTimePlot <- function( dataVec, thresh, doublingPeriods, varname, myTitle = NULL ) {
-  # arguments: 
-      # dataVec is a vector of daily time series data
-      # thresh is the starting value of numbers of cases/deaths that will determine which day is "day 0"
-      # doublingPeriods is a vector of user-desired doubling periods for reference lines
-      # varname is a string for displays, such as "case" or "death"
-      # myTitle is for adding a title to the graph
-  
-  # 1. threshold the data and set them up:
-  dataVec <- dataVec[ dataVec >= thresh ]
-  daysSince <- 0:(length(dataVec) - 1)
-  dataToPlot <- na.omit( data.frame( count = dataVec,
-                            days = daysSince ))
-
-  # Some useful variables for customizing the plot:
-  smallest <- min(dataToPlot$count)
-  largest <- max(dataToPlot$count)
-  smallestP10 <- floor( log10(smallest) )
-  largestP10 <- round( log10( largest ) + 0.5 )
-  myylims <- c(0.9*smallest, largest/0.9)
-  myBreaks <- sort(c( 10^(smallestP10:largestP10), 
-                      5*10^(smallestP10:largestP10), 
-                      2*10^(smallestP10:largestP10) ))
-  
-  # 2. Create the plot of the actual real data:
-  p <- ggplot() +
-    geom_line( data = dataToPlot, mapping = aes( x = days, y = count ) ) 
-    
-  # 3. Add doubling reference lines using function above:
-  p <- addDoubRefLines( dataToPlot, doublingPeriods, myylims[2], p )
-  
-  # 4. finish up presentation aspects:
-  p <- p + scale_y_continuous( trans = "log10", 
-                               breaks = myBreaks,
-                               minor_breaks = NULL,
-                               limits = myylims ) + 
-    theme_bw() + 
-    labs( x = paste("Days since ", thresh, "th ", varname, sep = ""), 
-          y = paste("Total ", varname, "s", sep = ""),
-          title = myTitle)
-  
-  return(p)
-}
+# Functions for adding doubling time reference lines to an existing plot:
+source("../DoublingTimePlotFunctions.R")
   
 # Some example calls:
 doublingTimePlot( dppWide$Total_Cases, 25, c(2:7, 14, 30, 60), "case", "State of Colorado")  

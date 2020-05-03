@@ -62,6 +62,8 @@ filteredData$Description[ ratePer100k ] <- "Case Rate Per 100000 in Boulder Coun
 # note that at this point, the Description and Metric columns are completely redundant;
 # Metric is just a shorter version of description
 
+head(filteredData)
+
 ######################
 ## STEP 3: PLOTTING
 ######################
@@ -72,7 +74,9 @@ casesOnly <- ggplot( data = subset(filteredData, Metric == "Cases"),
                      mapping = aes(x = Date, y = Value)) +
   geom_line() + 
   geom_point() + 
-  labs( y = "Number of cases in Boulder County")
+  labs( y = "Number of cases in Boulder County") + 
+  scale_y_log10() + 
+  geom_smooth()
 show(casesOnly)
 
 # plot cases and deaths but not rates per 100000
@@ -87,3 +91,6 @@ CandD <- ggplot( data = subset(filteredData, Metric %in% c("Cases","Deaths")),
   theme(legend.position="none")
 show(CandD)
 
+source("../DoublingTimePlotFunctions.R")
+dtp <- subset(filteredData, Metric == "Cases")
+show( doublingTimePlot( dtp$Value, 50, c(2:7, 10, 14, 30, 60), "case", "Boulder County") )

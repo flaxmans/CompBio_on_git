@@ -98,3 +98,12 @@ totalsPlot <- ggplot ( data = onsetData,
   theme(legend.position = c(0.15, 0.8))
 show(totalsPlot)
 
+# doubling time plots?
+# get the functions:
+source("../../DoublingTimePlotFunctions.R")
+totalCases <- filter( onsetData, description == "Total Cases" )
+totalDeaths <- filter( onsetData, description == "Total Deaths")
+
+show( doublingTimePlot( totalCases$number, 50, c(2:7, 10, 14, 30, 60), "case", "State of Colorado") )
+
+show( doublingTimePlot( totalDeaths$number, 50, c(2:7, 10, 14, 30, 60), "death", "State of Colorado") )

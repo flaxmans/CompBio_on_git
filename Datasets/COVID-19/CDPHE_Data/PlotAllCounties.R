@@ -58,15 +58,17 @@ unique(filteredData$Metric)
 # Deaths appear to be the problem from the plots first made.  So,
 # let's do some exploration of data
 # 
-# deathsInDescription <- grepl( pattern = "Death", x = filteredData$Description)
-# deathsInMetric <- grepl( pattern = "Deaths", x = filteredData$Metric)
-# all(deathsInDescription == deathsInMetric)
-# sum(deathsInDescription)
-# sum(deathsInMetric)
-# missingFromMetric <- deathsInDescription & !deathsInMetric
-# sum(missingFromMetric)
-# missingFromDescription <- !deathsInDescription & deathsInMetric
-# sum(missingFromDescription)
+deathsInDescription <- grepl( pattern = "Death", x = filteredData$Description)
+deathsInMetric <- grepl( pattern = "Deaths", x = filteredData$Metric)
+all(deathsInDescription == deathsInMetric)
+sum(deathsInDescription)
+sum(deathsInMetric)
+missingFromMetric <- deathsInDescription & !deathsInMetric
+sum(missingFromMetric)
+missingFromDescription <- !deathsInDescription & deathsInMetric
+sum(missingFromDescription)
+
+filteredData$Metric[ deathsInDescription ] <- "Deaths"
 
 
 ########################################
@@ -81,6 +83,7 @@ rankedCountiesByRate <- filteredData %>%
 
 nToKeep <- 5
 highestCounties <- rankedCountiesByRate$County[1:nToKeep]
+# highestCounties <- c(rankedCountiesByRate$County[1:nToKeep], "Boulder")
 
 plottingData <- filteredData %>%
   filter( County %in% highestCounties )
@@ -91,20 +94,23 @@ plottingData <- filteredData %>%
 # Make some plots.  Step 2: Actual plotting
 ############################################
 
-
+require(ggplot2)
 # plot
-ggplot( data = plottingData, 
+show( 
+  ggplot( data = plottingData, 
         mapping = aes(x = Date, y = Value, color = County, linetype = County) ) + 
+  # geom_smooth() +
   geom_line( size = 1.25 ) + 
   facet_wrap( ~Metric, nrow = 3, scales = "free_y" ) + 
-  theme_bw()
-
+  theme_bw() 
+)
 # The first time I made this plot, it showed a problem with the data ... 
 
-
-ggplot( data = plottingData, 
+show( 
+  ggplot( data = plottingData, 
         mapping = aes(x = Date, y = Value, color = County, linetype = County) ) + 
   geom_line( size = 1.5 ) + 
   facet_grid( Metric ~ County, scales = "free_y" ) + 
   theme_bw() + 
   guides( color = FALSE, linetype = F )
+)
