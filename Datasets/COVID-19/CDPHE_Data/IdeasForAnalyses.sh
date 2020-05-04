@@ -40,6 +40,7 @@ grep -i "County" RawData_csv_files/*.csv |        # get all the data
     sed 's/_/,/g' |                             # replace underscores with commas
     sed 's/:/,/g' |                             # replace colons with commas
     sed 's/.csv//g' |                           # remove instances of ".csv"
+    grep -vi "test" |				# get rid of testing stats
     cut -d, -f 5- > AllCounties_WildCardGrep.csv
 
 
