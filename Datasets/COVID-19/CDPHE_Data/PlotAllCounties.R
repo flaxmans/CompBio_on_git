@@ -106,11 +106,11 @@ show(
 )
 # The first time I made this plot, it showed a problem with the data ... 
 
-show( 
-  ggplot( data = plottingData, 
-        mapping = aes(x = Date, y = Value, color = County, linetype = County) ) + 
-  geom_line( size = 1.5 ) + 
-  facet_grid( Metric ~ County, scales = "free_y" ) + 
-  theme_bw() + 
-  guides( color = FALSE, linetype = F )
-)
+# show( 
+#   ggplot( data = plottingData, 
+#         mapping = aes(x = Date, y = Value, color = County, linetype = County) ) + 
+#   geom_line( size = 1.5 ) + 
+#   facet_grid( Metric ~ County, scales = "free_y" ) + 
+#   theme_bw() + 
+#   guides( color = FALSE, linetype = F )
+# )
