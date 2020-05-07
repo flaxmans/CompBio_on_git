@@ -3,7 +3,7 @@
 ####################################
 rm(list = ls())
 setwd("~/compbio/CompBio_on_git/Datasets/COVID-19/CDPHE_Data/")
-system("sh IdeasForAnalyses.sh", intern = T)
+system("sh GreppingOnRawData.sh", intern = T)
 
 #####################################
 # Read and clean data
