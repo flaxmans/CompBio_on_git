@@ -12,9 +12,9 @@ setwd("~/compbio/CompBio_on_git/Datasets/COVID-19/CDPHE_Data/")
 system("sh IdeasForAnalyses.sh", intern = T)
 
 # Boulder County Data
-Boulder_WildCard_data <- read.csv("~/compbio/CompBio_on_git/Datasets/COVID-19/CDPHE_Data/Boulder_WildCardGrep.csv", stringsAsFactors = F, header = F)
+Boulder_WildCard_data <- read.csv("Boulder_WildCardGrep.csv", stringsAsFactors = F, header = F)
 str(Boulder_WildCard_data)
-names(Boulder_WildCard_data) <- c("Date", "Description", "Attribute", "Metric", "Value")
+names(Boulder_WildCard_data) <- c("Date", "Description", "Attribute", "Metric", "Number")
 Boulder_WildCard_data$Date <- as.Date(Boulder_WildCard_data$Date)
 
 #####################################
@@ -71,7 +71,7 @@ head(filteredData)
 require(ggplot2)
 # Plot only cases over time:
 casesOnly <- ggplot( data = subset(filteredData, Metric == "Cases"),
-                     mapping = aes(x = Date, y = Value)) +
+                     mapping = aes(x = Date, y = Number)) +
   geom_line() + 
   geom_point() + 
   labs( y = "Number of cases in Boulder County") + 
@@ -81,7 +81,7 @@ show(casesOnly)
 
 # plot cases and deaths but not rates per 100000
 CandD <- ggplot( data = subset(filteredData, Metric %in% c("Cases","Deaths")), 
-        mapping = aes(x = Date, y = Value, color = Metric)) +
+        mapping = aes(x = Date, y = Number, color = Metric)) +
   geom_smooth() +
   geom_point() + 
   facet_wrap( ~Description, scales = "free_y", nrow = 2 ) + 
@@ -93,4 +93,4 @@ show(CandD)
 
 source("../DoublingTimePlotFunctions.R")
 dtp <- subset(filteredData, Metric == "Cases")
-show( doublingTimePlot( dtp$Value, 50, c(2:7, 10, 14, 30, 60), "case", "Boulder County") )
+show( doublingTimePlot( dtp$Number, 50, c(2:7, 10, 14, 30, 60), "case", "Boulder County") )

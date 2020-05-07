@@ -80,6 +80,7 @@ dppColors <- c("#5C8BBC", "#FCCB88", "#C26064")
 dailyPlot <- ggplot( data = allDailyData, 
         mapping = aes( x = date, y = number )) + 
   geom_bar( aes(fill = descriptionf), stat = "identity" ) + 
+  geom_smooth() + 
   facet_wrap( ~descriptionf, nrow = 3, scales = "free_y" ) + 
   scale_fill_manual( values = dppColors ) + 
   theme_bw() + 

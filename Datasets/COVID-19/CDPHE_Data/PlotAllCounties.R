@@ -9,12 +9,12 @@ system("sh IdeasForAnalyses.sh", intern = T)
 # Read and clean data
 #####################################
 
-CountiesData <- read.csv("~/compbio/CompBio_on_git/Datasets/COVID-19/CDPHE_Data/AllCounties_WildCardGrep.csv", stringsAsFactors = F, header = F)
+CountiesData <- read.csv("AllCounties_WildCardGrep.csv", stringsAsFactors = F, header = F)
 str(CountiesData)
-names(CountiesData) <- c("Date", "Description", "County", "Metric", "Value")
+names(CountiesData) <- c("Date", "Description", "County", "Metric", "Number")
 CountiesData$Date <- as.Date(CountiesData$Date)
 # This time, values were imported as characters, so we need to coerce them to numeric:
-CountiesData$Value <- as.numeric(CountiesData$Value)
+CountiesData$Number <- as.numeric(CountiesData$Number)
 
 # see what we have:
 # Options include unique(), table(), summarize()
@@ -79,7 +79,7 @@ filteredData$Metric[ deathsInDescription ] <- "Deaths"
 mostRecentDate <- max(filteredData$Date)
 rankedCountiesByRate <- filteredData %>% 
   filter( Date == mostRecentDate & Metric == "Rate Per 100000") %>%
-  arrange( desc(Value) )
+  arrange( desc(Number) )
 
 nToKeep <- 5
 highestCounties <- rankedCountiesByRate$County[1:nToKeep]
@@ -98,7 +98,7 @@ require(ggplot2)
 # plot
 show( 
   ggplot( data = plottingData, 
-        mapping = aes(x = Date, y = Value, color = County, linetype = County) ) + 
+        mapping = aes(x = Date, y = Number, color = County, linetype = County) ) + 
   # geom_smooth() +
   geom_line( size = 1.25 ) + 
   facet_wrap( ~Metric, nrow = 3, scales = "free_y" ) + 
@@ -108,7 +108,7 @@ show(
 
 # show( 
 #   ggplot( data = plottingData, 
-#         mapping = aes(x = Date, y = Value, color = County, linetype = County) ) + 
+#         mapping = aes(x = Date, y = Number, color = County, linetype = County) ) + 
 #   geom_line( size = 1.5 ) + 
 #   facet_grid( Metric ~ County, scales = "free_y" ) + 
 #   theme_bw() + 
