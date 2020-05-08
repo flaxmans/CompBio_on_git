@@ -47,6 +47,7 @@ do
 done
 
 # diff them:
+newFileCount=0
 for (( i=0; i<$arrayLength; i++ ))
 do
     newOne="tmp/${names[$i]}${mydate}.csv"
@@ -62,7 +63,14 @@ do
         echo "     ******"
         echo " "
         mv $newOne ${subdirs[$i]}/
+	git add ${subdirs[$i]}/${names[$i]}${mydate}.csv
+	(( newFileCount++ ))
     fi
 done
 
+if (( $newFileCount > 0 ))
+then
+	echo "$newFileCount files found"
+	git commit -m "$newFileCount data files curled and added"
+fi
 
