@@ -1,341 +1,348 @@
 ﻿OBJECTID,Name,Pop,Desc_,Attr_Date,Metric,Value,Rep_Date,Shape__Area,Shape__Length
-1,Colorado,5694287,Positivity Data from Clinical Laboratories,03/10/2020,Count of people tested by CDPHE lab,68,05/09/2020,28.0394250010993,22.0199204177256
-2,Colorado,5694287,Positivity Data from Clinical Laboratories,03/10/2020,Count of people tested by non-CDPHE (commercial) lab,2,05/09/2020,28.0394250010993,22.0199204177256
-3,Colorado,5694287,Positivity Data from Clinical Laboratories,03/10/2020,Percent Positivity,8.6,05/09/2020,28.0394250010993,22.0199204177256
-4,Colorado,5694287,Positivity Data from Clinical Laboratories,03/10/2020,Total Tests per 100k People,1.2,05/09/2020,28.0394250010993,22.0199204177256
-5,Colorado,5694287,Positivity Data from Clinical Laboratories,03/11/2020,Count of people tested by CDPHE lab,125,05/09/2020,28.0394250010993,22.0199204177256
-6,Colorado,5694287,Positivity Data from Clinical Laboratories,03/11/2020,Count of people tested by non-CDPHE (commercial) lab,3,05/09/2020,28.0394250010993,22.0199204177256
-7,Colorado,5694287,Positivity Data from Clinical Laboratories,03/11/2020,Percent Positivity,14.8,05/09/2020,28.0394250010993,22.0199204177256
-8,Colorado,5694287,Positivity Data from Clinical Laboratories,03/11/2020,Total Tests per 100k People,2.3,05/09/2020,28.0394250010993,22.0199204177256
-9,Colorado,5694287,Positivity Data from Clinical Laboratories,03/12/2020,Count of people tested by CDPHE lab,135,05/09/2020,28.0394250010993,22.0199204177256
-10,Colorado,5694287,Positivity Data from Clinical Laboratories,03/12/2020,Count of people tested by non-CDPHE (commercial) lab,1,05/09/2020,28.0394250010993,22.0199204177256
-11,Colorado,5694287,Positivity Data from Clinical Laboratories,03/12/2020,Percent Positivity,6.6,05/09/2020,28.0394250010993,22.0199204177256
-12,Colorado,5694287,Positivity Data from Clinical Laboratories,03/12/2020,Three-day Moving Average of Percent Positivity,10,05/09/2020,28.0394250010993,22.0199204177256
-13,Colorado,5694287,Positivity Data from Clinical Laboratories,03/12/2020,Total Tests per 100k People,2.4,05/09/2020,28.0394250010993,22.0199204177256
-14,Colorado,5694287,Positivity Data from Clinical Laboratories,03/13/2020,Count of people tested by CDPHE lab,151,05/09/2020,28.0394250010993,22.0199204177256
-15,Colorado,5694287,Positivity Data from Clinical Laboratories,03/13/2020,Count of people tested by non-CDPHE (commercial) lab,42,05/09/2020,28.0394250010993,22.0199204177256
-16,Colorado,5694287,Positivity Data from Clinical Laboratories,03/13/2020,Percent Positivity,14,05/09/2020,28.0394250010993,22.0199204177256
-17,Colorado,5694287,Positivity Data from Clinical Laboratories,03/13/2020,Three-day Moving Average of Percent Positivity,11.8,05/09/2020,28.0394250010993,22.0199204177256
-18,Colorado,5694287,Positivity Data from Clinical Laboratories,03/13/2020,Total Tests per 100k People,3.4,05/09/2020,28.0394250010993,22.0199204177256
-19,Colorado,5694287,Positivity Data from Clinical Laboratories,03/14/2020,Count of people tested by CDPHE lab,147,05/09/2020,28.0394250010993,22.0199204177256
-20,Colorado,5694287,Positivity Data from Clinical Laboratories,03/14/2020,Count of people tested by non-CDPHE (commercial) lab,32,05/09/2020,28.0394250010993,22.0199204177256
-21,Colorado,5694287,Positivity Data from Clinical Laboratories,03/14/2020,Percent Positivity,16.2,05/09/2020,28.0394250010993,22.0199204177256
-22,Colorado,5694287,Positivity Data from Clinical Laboratories,03/14/2020,Three-day Moving Average of Percent Positivity,12.3,05/09/2020,28.0394250010993,22.0199204177256
-23,Colorado,5694287,Positivity Data from Clinical Laboratories,03/14/2020,Total Tests per 100k People,3.1,05/09/2020,28.0394250010993,22.0199204177256
-24,Colorado,5694287,Positivity Data from Clinical Laboratories,03/15/2020,Count of people tested by CDPHE lab,258,05/09/2020,28.0394250010993,22.0199204177256
-25,Colorado,5694287,Positivity Data from Clinical Laboratories,03/15/2020,Count of people tested by non-CDPHE (commercial) lab,45,05/09/2020,28.0394250010993,22.0199204177256
-26,Colorado,5694287,Positivity Data from Clinical Laboratories,03/15/2020,Percent Positivity,11.2,05/09/2020,28.0394250010993,22.0199204177256
-27,Colorado,5694287,Positivity Data from Clinical Laboratories,03/15/2020,Three-day Moving Average of Percent Positivity,13.8,05/09/2020,28.0394250010993,22.0199204177256
-28,Colorado,5694287,Positivity Data from Clinical Laboratories,03/15/2020,Total Tests per 100k People,5.3,05/09/2020,28.0394250010993,22.0199204177256
-29,Colorado,5694287,Positivity Data from Clinical Laboratories,03/16/2020,Count of people tested by CDPHE lab,356,05/09/2020,28.0394250010993,22.0199204177256
-30,Colorado,5694287,Positivity Data from Clinical Laboratories,03/16/2020,Count of people tested by non-CDPHE (commercial) lab,116,05/09/2020,28.0394250010993,22.0199204177256
-31,Colorado,5694287,Positivity Data from Clinical Laboratories,03/16/2020,Percent Positivity,7.4,05/09/2020,28.0394250010993,22.0199204177256
-32,Colorado,5694287,Positivity Data from Clinical Laboratories,03/16/2020,Three-day Moving Average of Percent Positivity,11.6,05/09/2020,28.0394250010993,22.0199204177256
-33,Colorado,5694287,Positivity Data from Clinical Laboratories,03/16/2020,Total Tests per 100k People,8.3,05/09/2020,28.0394250010993,22.0199204177256
-34,Colorado,5694287,Positivity Data from Clinical Laboratories,03/17/2020,Count of people tested by CDPHE lab,650,05/09/2020,28.0394250010993,22.0199204177256
-35,Colorado,5694287,Positivity Data from Clinical Laboratories,03/17/2020,Count of people tested by non-CDPHE (commercial) lab,89,05/09/2020,28.0394250010993,22.0199204177256
-36,Colorado,5694287,Positivity Data from Clinical Laboratories,03/17/2020,Percent Positivity,3.7,05/09/2020,28.0394250010993,22.0199204177256
-37,Colorado,5694287,Positivity Data from Clinical Laboratories,03/17/2020,Three-day Moving Average of Percent Positivity,7.4,05/09/2020,28.0394250010993,22.0199204177256
-38,Colorado,5694287,Positivity Data from Clinical Laboratories,03/17/2020,Total Tests per 100k People,13,05/09/2020,28.0394250010993,22.0199204177256
-39,Colorado,5694287,Positivity Data from Clinical Laboratories,03/18/2020,Count of people tested by CDPHE lab,332,05/09/2020,28.0394250010993,22.0199204177256
-40,Colorado,5694287,Positivity Data from Clinical Laboratories,03/18/2020,Count of people tested by non-CDPHE (commercial) lab,194,05/09/2020,28.0394250010993,22.0199204177256
-41,Colorado,5694287,Positivity Data from Clinical Laboratories,03/18/2020,Percent Positivity,11,05/09/2020,28.0394250010993,22.0199204177256
-42,Colorado,5694287,Positivity Data from Clinical Laboratories,03/18/2020,Three-day Moving Average of Percent Positivity,7.4,05/09/2020,28.0394250010993,22.0199204177256
-43,Colorado,5694287,Positivity Data from Clinical Laboratories,03/18/2020,Total Tests per 100k People,9.2,05/09/2020,28.0394250010993,22.0199204177256
-44,Colorado,5694287,Positivity Data from Clinical Laboratories,03/19/2020,Count of people tested by CDPHE lab,531,05/09/2020,28.0394250010993,22.0199204177256
-45,Colorado,5694287,Positivity Data from Clinical Laboratories,03/19/2020,Count of people tested by non-CDPHE (commercial) lab,307,05/09/2020,28.0394250010993,22.0199204177256
-46,Colorado,5694287,Positivity Data from Clinical Laboratories,03/19/2020,Percent Positivity,8.8,05/09/2020,28.0394250010993,22.0199204177256
-47,Colorado,5694287,Positivity Data from Clinical Laboratories,03/19/2020,Three-day Moving Average of Percent Positivity,7.8,05/09/2020,28.0394250010993,22.0199204177256
-48,Colorado,5694287,Positivity Data from Clinical Laboratories,03/19/2020,Total Tests per 100k People,14.7,05/09/2020,28.0394250010993,22.0199204177256
-49,Colorado,5694287,Positivity Data from Clinical Laboratories,03/20/2020,Count of people tested by CDPHE lab,457,05/09/2020,28.0394250010993,22.0199204177256
-50,Colorado,5694287,Positivity Data from Clinical Laboratories,03/20/2020,Count of people tested by non-CDPHE (commercial) lab,506,05/09/2020,28.0394250010993,22.0199204177256
-51,Colorado,5694287,Positivity Data from Clinical Laboratories,03/20/2020,Percent Positivity,11,05/09/2020,28.0394250010993,22.0199204177256
-52,Colorado,5694287,Positivity Data from Clinical Laboratories,03/20/2020,Three-day Moving Average of Percent Positivity,10.3,05/09/2020,28.0394250010993,22.0199204177256
-53,Colorado,5694287,Positivity Data from Clinical Laboratories,03/20/2020,Total Tests per 100k People,16.9,05/09/2020,28.0394250010993,22.0199204177256
-54,Colorado,5694287,Positivity Data from Clinical Laboratories,03/21/2020,Count of people tested by CDPHE lab,883,05/09/2020,28.0394250010993,22.0199204177256
-55,Colorado,5694287,Positivity Data from Clinical Laboratories,03/21/2020,Count of people tested by non-CDPHE (commercial) lab,599,05/09/2020,28.0394250010993,22.0199204177256
-56,Colorado,5694287,Positivity Data from Clinical Laboratories,03/21/2020,Percent Positivity,7.2,05/09/2020,28.0394250010993,22.0199204177256
-57,Colorado,5694287,Positivity Data from Clinical Laboratories,03/21/2020,Three-day Moving Average of Percent Positivity,9,05/09/2020,28.0394250010993,22.0199204177256
-58,Colorado,5694287,Positivity Data from Clinical Laboratories,03/21/2020,Total Tests per 100k People,26,05/09/2020,28.0394250010993,22.0199204177256
-59,Colorado,5694287,Positivity Data from Clinical Laboratories,03/22/2020,Count of people tested by CDPHE lab,370,05/09/2020,28.0394250010993,22.0199204177256
-60,Colorado,5694287,Positivity Data from Clinical Laboratories,03/22/2020,Count of people tested by non-CDPHE (commercial) lab,574,05/09/2020,28.0394250010993,22.0199204177256
-61,Colorado,5694287,Positivity Data from Clinical Laboratories,03/22/2020,Percent Positivity,12.1,05/09/2020,28.0394250010993,22.0199204177256
-62,Colorado,5694287,Positivity Data from Clinical Laboratories,03/22/2020,Three-day Moving Average of Percent Positivity,10.1,05/09/2020,28.0394250010993,22.0199204177256
-63,Colorado,5694287,Positivity Data from Clinical Laboratories,03/22/2020,Total Tests per 100k People,16.6,05/09/2020,28.0394250010993,22.0199204177256
-64,Colorado,5694287,Positivity Data from Clinical Laboratories,03/23/2020,Count of people tested by CDPHE lab,829,05/09/2020,28.0394250010993,22.0199204177256
-65,Colorado,5694287,Positivity Data from Clinical Laboratories,03/23/2020,Count of people tested by non-CDPHE (commercial) lab,478,05/09/2020,28.0394250010993,22.0199204177256
-66,Colorado,5694287,Positivity Data from Clinical Laboratories,03/23/2020,Percent Positivity,13,05/09/2020,28.0394250010993,22.0199204177256
-67,Colorado,5694287,Positivity Data from Clinical Laboratories,03/23/2020,Three-day Moving Average of Percent Positivity,10.8,05/09/2020,28.0394250010993,22.0199204177256
-68,Colorado,5694287,Positivity Data from Clinical Laboratories,03/23/2020,Total Tests per 100k People,23,05/09/2020,28.0394250010993,22.0199204177256
-69,Colorado,5694287,Positivity Data from Clinical Laboratories,03/24/2020,Count of people tested by CDPHE lab,651,05/09/2020,28.0394250010993,22.0199204177256
-70,Colorado,5694287,Positivity Data from Clinical Laboratories,03/24/2020,Count of people tested by non-CDPHE (commercial) lab,512,05/09/2020,28.0394250010993,22.0199204177256
-71,Colorado,5694287,Positivity Data from Clinical Laboratories,03/24/2020,Percent Positivity,13.7,05/09/2020,28.0394250010993,22.0199204177256
-72,Colorado,5694287,Positivity Data from Clinical Laboratories,03/24/2020,Three-day Moving Average of Percent Positivity,12.9,05/09/2020,28.0394250010993,22.0199204177256
-73,Colorado,5694287,Positivity Data from Clinical Laboratories,03/24/2020,Total Tests per 100k People,20.4,05/09/2020,28.0394250010993,22.0199204177256
-74,Colorado,5694287,Positivity Data from Clinical Laboratories,03/25/2020,Count of people tested by CDPHE lab,346,05/09/2020,28.0394250010993,22.0199204177256
-75,Colorado,5694287,Positivity Data from Clinical Laboratories,03/25/2020,Count of people tested by non-CDPHE (commercial) lab,1535,05/09/2020,28.0394250010993,22.0199204177256
-76,Colorado,5694287,Positivity Data from Clinical Laboratories,03/25/2020,Percent Positivity,15.5,05/09/2020,28.0394250010993,22.0199204177256
-77,Colorado,5694287,Positivity Data from Clinical Laboratories,03/25/2020,Three-day Moving Average of Percent Positivity,14.1,05/09/2020,28.0394250010993,22.0199204177256
-78,Colorado,5694287,Positivity Data from Clinical Laboratories,03/25/2020,Total Tests per 100k People,33,05/09/2020,28.0394250010993,22.0199204177256
-79,Colorado,5694287,Positivity Data from Clinical Laboratories,03/26/2020,Count of people tested by CDPHE lab,456,05/09/2020,28.0394250010993,22.0199204177256
-80,Colorado,5694287,Positivity Data from Clinical Laboratories,03/26/2020,Count of people tested by non-CDPHE (commercial) lab,1334,05/09/2020,28.0394250010993,22.0199204177256
-81,Colorado,5694287,Positivity Data from Clinical Laboratories,03/26/2020,Percent Positivity,15.4,05/09/2020,28.0394250010993,22.0199204177256
-82,Colorado,5694287,Positivity Data from Clinical Laboratories,03/26/2020,Three-day Moving Average of Percent Positivity,14.9,05/09/2020,28.0394250010993,22.0199204177256
-83,Colorado,5694287,Positivity Data from Clinical Laboratories,03/26/2020,Total Tests per 100k People,31.4,05/09/2020,28.0394250010993,22.0199204177256
-84,Colorado,5694287,Positivity Data from Clinical Laboratories,03/27/2020,Count of people tested by CDPHE lab,598,05/09/2020,28.0394250010993,22.0199204177256
-85,Colorado,5694287,Positivity Data from Clinical Laboratories,03/27/2020,Count of people tested by non-CDPHE (commercial) lab,1346,05/09/2020,28.0394250010993,22.0199204177256
-86,Colorado,5694287,Positivity Data from Clinical Laboratories,03/27/2020,Percent Positivity,15.1,05/09/2020,28.0394250010993,22.0199204177256
-87,Colorado,5694287,Positivity Data from Clinical Laboratories,03/27/2020,Three-day Moving Average of Percent Positivity,15.3,05/09/2020,28.0394250010993,22.0199204177256
-88,Colorado,5694287,Positivity Data from Clinical Laboratories,03/27/2020,Total Tests per 100k People,34.1,05/09/2020,28.0394250010993,22.0199204177256
-89,Colorado,5694287,Positivity Data from Clinical Laboratories,03/28/2020,Count of people tested by CDPHE lab,239,05/09/2020,28.0394250010993,22.0199204177256
-90,Colorado,5694287,Positivity Data from Clinical Laboratories,03/28/2020,Count of people tested by non-CDPHE (commercial) lab,1258,05/09/2020,28.0394250010993,22.0199204177256
-91,Colorado,5694287,Positivity Data from Clinical Laboratories,03/28/2020,Percent Positivity,15.3,05/09/2020,28.0394250010993,22.0199204177256
-92,Colorado,5694287,Positivity Data from Clinical Laboratories,03/28/2020,Three-day Moving Average of Percent Positivity,15.2,05/09/2020,28.0394250010993,22.0199204177256
-93,Colorado,5694287,Positivity Data from Clinical Laboratories,03/28/2020,Total Tests per 100k People,26.3,05/09/2020,28.0394250010993,22.0199204177256
-94,Colorado,5694287,Positivity Data from Clinical Laboratories,03/29/2020,Count of people tested by CDPHE lab,370,05/09/2020,28.0394250010993,22.0199204177256
-95,Colorado,5694287,Positivity Data from Clinical Laboratories,03/29/2020,Count of people tested by non-CDPHE (commercial) lab,1387,05/09/2020,28.0394250010993,22.0199204177256
-96,Colorado,5694287,Positivity Data from Clinical Laboratories,03/29/2020,Percent Positivity,17.8,05/09/2020,28.0394250010993,22.0199204177256
-97,Colorado,5694287,Positivity Data from Clinical Laboratories,03/29/2020,Three-day Moving Average of Percent Positivity,16,05/09/2020,28.0394250010993,22.0199204177256
-98,Colorado,5694287,Positivity Data from Clinical Laboratories,03/29/2020,Total Tests per 100k People,30.9,05/09/2020,28.0394250010993,22.0199204177256
-99,Colorado,5694287,Positivity Data from Clinical Laboratories,03/30/2020,Count of people tested by CDPHE lab,412,05/09/2020,28.0394250010993,22.0199204177256
-100,Colorado,5694287,Positivity Data from Clinical Laboratories,03/30/2020,Count of people tested by non-CDPHE (commercial) lab,1451,05/09/2020,28.0394250010993,22.0199204177256
-101,Colorado,5694287,Positivity Data from Clinical Laboratories,03/30/2020,Percent Positivity,15.8,05/09/2020,28.0394250010993,22.0199204177256
-102,Colorado,5694287,Positivity Data from Clinical Laboratories,03/30/2020,Three-day Moving Average of Percent Positivity,16.3,05/09/2020,28.0394250010993,22.0199204177256
-103,Colorado,5694287,Positivity Data from Clinical Laboratories,03/30/2020,Total Tests per 100k People,32.7,05/09/2020,28.0394250010993,22.0199204177256
-104,Colorado,5694287,Positivity Data from Clinical Laboratories,03/31/2020,Count of people tested by CDPHE lab,396,05/09/2020,28.0394250010993,22.0199204177256
-105,Colorado,5694287,Positivity Data from Clinical Laboratories,03/31/2020,Count of people tested by non-CDPHE (commercial) lab,1593,05/09/2020,28.0394250010993,22.0199204177256
-106,Colorado,5694287,Positivity Data from Clinical Laboratories,03/31/2020,Percent Positivity,18.1,05/09/2020,28.0394250010993,22.0199204177256
-107,Colorado,5694287,Positivity Data from Clinical Laboratories,03/31/2020,Three-day Moving Average of Percent Positivity,17.2,05/09/2020,28.0394250010993,22.0199204177256
-108,Colorado,5694287,Positivity Data from Clinical Laboratories,03/31/2020,Total Tests per 100k People,34.9,05/09/2020,28.0394250010993,22.0199204177256
-109,Colorado,5694287,Positivity Data from Clinical Laboratories,04/01/2020,Count of people tested by CDPHE lab,345,05/09/2020,28.0394250010993,22.0199204177256
-110,Colorado,5694287,Positivity Data from Clinical Laboratories,04/01/2020,Count of people tested by non-CDPHE (commercial) lab,1311,05/09/2020,28.0394250010993,22.0199204177256
-111,Colorado,5694287,Positivity Data from Clinical Laboratories,04/01/2020,Percent Positivity,21.9,05/09/2020,28.0394250010993,22.0199204177256
-112,Colorado,5694287,Positivity Data from Clinical Laboratories,04/01/2020,Three-day Moving Average of Percent Positivity,18.6,05/09/2020,28.0394250010993,22.0199204177256
-113,Colorado,5694287,Positivity Data from Clinical Laboratories,04/01/2020,Total Tests per 100k People,29.1,05/09/2020,28.0394250010993,22.0199204177256
-114,Colorado,5694287,Positivity Data from Clinical Laboratories,04/02/2020,Count of people tested by CDPHE lab,377,05/09/2020,28.0394250010993,22.0199204177256
-115,Colorado,5694287,Positivity Data from Clinical Laboratories,04/02/2020,Count of people tested by non-CDPHE (commercial) lab,1454,05/09/2020,28.0394250010993,22.0199204177256
-116,Colorado,5694287,Positivity Data from Clinical Laboratories,04/02/2020,Percent Positivity,22.3,05/09/2020,28.0394250010993,22.0199204177256
-117,Colorado,5694287,Positivity Data from Clinical Laboratories,04/02/2020,Three-day Moving Average of Percent Positivity,20.8,05/09/2020,28.0394250010993,22.0199204177256
-118,Colorado,5694287,Positivity Data from Clinical Laboratories,04/02/2020,Total Tests per 100k People,32.2,05/09/2020,28.0394250010993,22.0199204177256
-119,Colorado,5694287,Positivity Data from Clinical Laboratories,04/03/2020,Count of people tested by CDPHE lab,211,05/09/2020,28.0394250010993,22.0199204177256
-120,Colorado,5694287,Positivity Data from Clinical Laboratories,04/03/2020,Count of people tested by non-CDPHE (commercial) lab,1882,05/09/2020,28.0394250010993,22.0199204177256
-121,Colorado,5694287,Positivity Data from Clinical Laboratories,04/03/2020,Percent Positivity,17.2,05/09/2020,28.0394250010993,22.0199204177256
-122,Colorado,5694287,Positivity Data from Clinical Laboratories,04/03/2020,Three-day Moving Average of Percent Positivity,20.5,05/09/2020,28.0394250010993,22.0199204177256
-123,Colorado,5694287,Positivity Data from Clinical Laboratories,04/03/2020,Total Tests per 100k People,36.8,05/09/2020,28.0394250010993,22.0199204177256
-124,Colorado,5694287,Positivity Data from Clinical Laboratories,04/04/2020,Count of people tested by CDPHE lab,275,05/09/2020,28.0394250010993,22.0199204177256
-125,Colorado,5694287,Positivity Data from Clinical Laboratories,04/04/2020,Count of people tested by non-CDPHE (commercial) lab,2024,05/09/2020,28.0394250010993,22.0199204177256
-126,Colorado,5694287,Positivity Data from Clinical Laboratories,04/04/2020,Percent Positivity,15.3,05/09/2020,28.0394250010993,22.0199204177256
-127,Colorado,5694287,Positivity Data from Clinical Laboratories,04/04/2020,Three-day Moving Average of Percent Positivity,18.3,05/09/2020,28.0394250010993,22.0199204177256
-128,Colorado,5694287,Positivity Data from Clinical Laboratories,04/04/2020,Total Tests per 100k People,40.4,05/09/2020,28.0394250010993,22.0199204177256
-129,Colorado,5694287,Positivity Data from Clinical Laboratories,04/05/2020,Count of people tested by CDPHE lab,189,05/09/2020,28.0394250010993,22.0199204177256
-130,Colorado,5694287,Positivity Data from Clinical Laboratories,04/05/2020,Count of people tested by non-CDPHE (commercial) lab,1329,05/09/2020,28.0394250010993,22.0199204177256
-131,Colorado,5694287,Positivity Data from Clinical Laboratories,04/05/2020,Percent Positivity,13.1,05/09/2020,28.0394250010993,22.0199204177256
-132,Colorado,5694287,Positivity Data from Clinical Laboratories,04/05/2020,Three-day Moving Average of Percent Positivity,15.2,05/09/2020,28.0394250010993,22.0199204177256
-133,Colorado,5694287,Positivity Data from Clinical Laboratories,04/05/2020,Total Tests per 100k People,26.7,05/09/2020,28.0394250010993,22.0199204177256
-134,Colorado,5694287,Positivity Data from Clinical Laboratories,04/06/2020,Count of people tested by CDPHE lab,112,05/09/2020,28.0394250010993,22.0199204177256
-135,Colorado,5694287,Positivity Data from Clinical Laboratories,04/06/2020,Count of people tested by non-CDPHE (commercial) lab,1758,05/09/2020,28.0394250010993,22.0199204177256
-136,Colorado,5694287,Positivity Data from Clinical Laboratories,04/06/2020,Percent Positivity,12.3,05/09/2020,28.0394250010993,22.0199204177256
-137,Colorado,5694287,Positivity Data from Clinical Laboratories,04/06/2020,Three-day Moving Average of Percent Positivity,13.6,05/09/2020,28.0394250010993,22.0199204177256
-138,Colorado,5694287,Positivity Data from Clinical Laboratories,04/06/2020,Total Tests per 100k People,32.8,05/09/2020,28.0394250010993,22.0199204177256
-139,Colorado,5694287,Positivity Data from Clinical Laboratories,04/07/2020,Count of people tested by CDPHE lab,105,05/09/2020,28.0394250010993,22.0199204177256
-140,Colorado,5694287,Positivity Data from Clinical Laboratories,04/07/2020,Count of people tested by non-CDPHE (commercial) lab,1205,05/09/2020,28.0394250010993,22.0199204177256
-141,Colorado,5694287,Positivity Data from Clinical Laboratories,04/07/2020,Percent Positivity,17.3,05/09/2020,28.0394250010993,22.0199204177256
-142,Colorado,5694287,Positivity Data from Clinical Laboratories,04/07/2020,Three-day Moving Average of Percent Positivity,14.2,05/09/2020,28.0394250010993,22.0199204177256
-143,Colorado,5694287,Positivity Data from Clinical Laboratories,04/07/2020,Total Tests per 100k People,23,05/09/2020,28.0394250010993,22.0199204177256
-144,Colorado,5694287,Positivity Data from Clinical Laboratories,04/08/2020,Count of people tested by CDPHE lab,161,05/09/2020,28.0394250010993,22.0199204177256
-145,Colorado,5694287,Positivity Data from Clinical Laboratories,04/08/2020,Count of people tested by non-CDPHE (commercial) lab,2069,05/09/2020,28.0394250010993,22.0199204177256
-146,Colorado,5694287,Positivity Data from Clinical Laboratories,04/08/2020,Percent Positivity,22.6,05/09/2020,28.0394250010993,22.0199204177256
-147,Colorado,5694287,Positivity Data from Clinical Laboratories,04/08/2020,Three-day Moving Average of Percent Positivity,17.4,05/09/2020,28.0394250010993,22.0199204177256
-148,Colorado,5694287,Positivity Data from Clinical Laboratories,04/08/2020,Total Tests per 100k People,39.2,05/09/2020,28.0394250010993,22.0199204177256
-149,Colorado,5694287,Positivity Data from Clinical Laboratories,04/09/2020,Count of people tested by CDPHE lab,160,05/09/2020,28.0394250010993,22.0199204177256
-150,Colorado,5694287,Positivity Data from Clinical Laboratories,04/09/2020,Count of people tested by non-CDPHE (commercial) lab,1558,05/09/2020,28.0394250010993,22.0199204177256
-151,Colorado,5694287,Positivity Data from Clinical Laboratories,04/09/2020,Percent Positivity,19.6,05/09/2020,28.0394250010993,22.0199204177256
-152,Colorado,5694287,Positivity Data from Clinical Laboratories,04/09/2020,Three-day Moving Average of Percent Positivity,19.8,05/09/2020,28.0394250010993,22.0199204177256
-153,Colorado,5694287,Positivity Data from Clinical Laboratories,04/09/2020,Total Tests per 100k People,30.2,05/09/2020,28.0394250010993,22.0199204177256
-154,Colorado,5694287,Positivity Data from Clinical Laboratories,04/10/2020,Count of people tested by CDPHE lab,71,05/09/2020,28.0394250010993,22.0199204177256
-155,Colorado,5694287,Positivity Data from Clinical Laboratories,04/10/2020,Count of people tested by non-CDPHE (commercial) lab,2441,05/09/2020,28.0394250010993,22.0199204177256
-156,Colorado,5694287,Positivity Data from Clinical Laboratories,04/10/2020,Percent Positivity,16.6,05/09/2020,28.0394250010993,22.0199204177256
-157,Colorado,5694287,Positivity Data from Clinical Laboratories,04/10/2020,Three-day Moving Average of Percent Positivity,19.6,05/09/2020,28.0394250010993,22.0199204177256
-158,Colorado,5694287,Positivity Data from Clinical Laboratories,04/10/2020,Total Tests per 100k People,44.1,05/09/2020,28.0394250010993,22.0199204177256
-159,Colorado,5694287,Positivity Data from Clinical Laboratories,04/11/2020,Count of people tested by CDPHE lab,344,05/09/2020,28.0394250010993,22.0199204177256
-160,Colorado,5694287,Positivity Data from Clinical Laboratories,04/11/2020,Count of people tested by non-CDPHE (commercial) lab,2360,05/09/2020,28.0394250010993,22.0199204177256
-161,Colorado,5694287,Positivity Data from Clinical Laboratories,04/11/2020,Percent Positivity,14.9,05/09/2020,28.0394250010993,22.0199204177256
-162,Colorado,5694287,Positivity Data from Clinical Laboratories,04/11/2020,Three-day Moving Average of Percent Positivity,17,05/09/2020,28.0394250010993,22.0199204177256
-163,Colorado,5694287,Positivity Data from Clinical Laboratories,04/11/2020,Total Tests per 100k People,47.5,05/09/2020,28.0394250010993,22.0199204177256
-164,Colorado,5694287,Positivity Data from Clinical Laboratories,04/12/2020,Count of people tested by CDPHE lab,132,05/09/2020,28.0394250010993,22.0199204177256
-165,Colorado,5694287,Positivity Data from Clinical Laboratories,04/12/2020,Count of people tested by non-CDPHE (commercial) lab,1672,05/09/2020,28.0394250010993,22.0199204177256
-166,Colorado,5694287,Positivity Data from Clinical Laboratories,04/12/2020,Percent Positivity,19.5,05/09/2020,28.0394250010993,22.0199204177256
-167,Colorado,5694287,Positivity Data from Clinical Laboratories,04/12/2020,Three-day Moving Average of Percent Positivity,17,05/09/2020,28.0394250010993,22.0199204177256
-168,Colorado,5694287,Positivity Data from Clinical Laboratories,04/12/2020,Total Tests per 100k People,31.7,05/09/2020,28.0394250010993,22.0199204177256
-169,Colorado,5694287,Positivity Data from Clinical Laboratories,04/13/2020,Count of people tested by CDPHE lab,126,05/09/2020,28.0394250010993,22.0199204177256
-170,Colorado,5694287,Positivity Data from Clinical Laboratories,04/13/2020,Count of people tested by non-CDPHE (commercial) lab,969,05/09/2020,28.0394250010993,22.0199204177256
-171,Colorado,5694287,Positivity Data from Clinical Laboratories,04/13/2020,Percent Positivity,24.5,05/09/2020,28.0394250010993,22.0199204177256
-172,Colorado,5694287,Positivity Data from Clinical Laboratories,04/13/2020,Three-day Moving Average of Percent Positivity,19.6,05/09/2020,28.0394250010993,22.0199204177256
-173,Colorado,5694287,Positivity Data from Clinical Laboratories,04/13/2020,Total Tests per 100k People,19.2,05/09/2020,28.0394250010993,22.0199204177256
-174,Colorado,5694287,Positivity Data from Clinical Laboratories,04/14/2020,Count of people tested by CDPHE lab,145,05/09/2020,28.0394250010993,22.0199204177256
-175,Colorado,5694287,Positivity Data from Clinical Laboratories,04/14/2020,Count of people tested by non-CDPHE (commercial) lab,1078,05/09/2020,28.0394250010993,22.0199204177256
-176,Colorado,5694287,Positivity Data from Clinical Laboratories,04/14/2020,Percent Positivity,23.6,05/09/2020,28.0394250010993,22.0199204177256
-177,Colorado,5694287,Positivity Data from Clinical Laboratories,04/14/2020,Three-day Moving Average of Percent Positivity,22.5,05/09/2020,28.0394250010993,22.0199204177256
-178,Colorado,5694287,Positivity Data from Clinical Laboratories,04/14/2020,Total Tests per 100k People,21.5,05/09/2020,28.0394250010993,22.0199204177256
-179,Colorado,5694287,Positivity Data from Clinical Laboratories,04/15/2020,Count of people tested by CDPHE lab,296,05/09/2020,28.0394250010993,22.0199204177256
-180,Colorado,5694287,Positivity Data from Clinical Laboratories,04/15/2020,Count of people tested by non-CDPHE (commercial) lab,1236,05/09/2020,28.0394250010993,22.0199204177256
-181,Colorado,5694287,Positivity Data from Clinical Laboratories,04/15/2020,Percent Positivity,25.9,05/09/2020,28.0394250010993,22.0199204177256
-182,Colorado,5694287,Positivity Data from Clinical Laboratories,04/15/2020,Three-day Moving Average of Percent Positivity,24.6,05/09/2020,28.0394250010993,22.0199204177256
-183,Colorado,5694287,Positivity Data from Clinical Laboratories,04/15/2020,Total Tests per 100k People,26.9,05/09/2020,28.0394250010993,22.0199204177256
-184,Colorado,5694287,Positivity Data from Clinical Laboratories,04/16/2020,Count of people tested by CDPHE lab,196,05/09/2020,28.0394250010993,22.0199204177256
-185,Colorado,5694287,Positivity Data from Clinical Laboratories,04/16/2020,Count of people tested by non-CDPHE (commercial) lab,1562,05/09/2020,28.0394250010993,22.0199204177256
-186,Colorado,5694287,Positivity Data from Clinical Laboratories,04/16/2020,Percent Positivity,18.9,05/09/2020,28.0394250010993,22.0199204177256
-187,Colorado,5694287,Positivity Data from Clinical Laboratories,04/16/2020,Three-day Moving Average of Percent Positivity,22.8,05/09/2020,28.0394250010993,22.0199204177256
-188,Colorado,5694287,Positivity Data from Clinical Laboratories,04/16/2020,Total Tests per 100k People,30.9,05/09/2020,28.0394250010993,22.0199204177256
-189,Colorado,5694287,Positivity Data from Clinical Laboratories,04/17/2020,Count of people tested by CDPHE lab,202,05/09/2020,28.0394250010993,22.0199204177256
-190,Colorado,5694287,Positivity Data from Clinical Laboratories,04/17/2020,Count of people tested by non-CDPHE (commercial) lab,1536,05/09/2020,28.0394250010993,22.0199204177256
-191,Colorado,5694287,Positivity Data from Clinical Laboratories,04/17/2020,Percent Positivity,22.6,05/09/2020,28.0394250010993,22.0199204177256
-192,Colorado,5694287,Positivity Data from Clinical Laboratories,04/17/2020,Three-day Moving Average of Percent Positivity,22.5,05/09/2020,28.0394250010993,22.0199204177256
-193,Colorado,5694287,Positivity Data from Clinical Laboratories,04/17/2020,Total Tests per 100k People,30.5,05/09/2020,28.0394250010993,22.0199204177256
-194,Colorado,5694287,Positivity Data from Clinical Laboratories,04/18/2020,Count of people tested by CDPHE lab,492,05/09/2020,28.0394250010993,22.0199204177256
-195,Colorado,5694287,Positivity Data from Clinical Laboratories,04/18/2020,Count of people tested by non-CDPHE (commercial) lab,1476,05/09/2020,28.0394250010993,22.0199204177256
-196,Colorado,5694287,Positivity Data from Clinical Laboratories,04/18/2020,Percent Positivity,12.6,05/09/2020,28.0394250010993,22.0199204177256
-197,Colorado,5694287,Positivity Data from Clinical Laboratories,04/18/2020,Three-day Moving Average of Percent Positivity,18,05/09/2020,28.0394250010993,22.0199204177256
-198,Colorado,5694287,Positivity Data from Clinical Laboratories,04/18/2020,Total Tests per 100k People,34.6,05/09/2020,28.0394250010993,22.0199204177256
-199,Colorado,5694287,Positivity Data from Clinical Laboratories,04/19/2020,Count of people tested by CDPHE lab,400,05/09/2020,28.0394250010993,22.0199204177256
-200,Colorado,5694287,Positivity Data from Clinical Laboratories,04/19/2020,Count of people tested by non-CDPHE (commercial) lab,1219,05/09/2020,28.0394250010993,22.0199204177256
-201,Colorado,5694287,Positivity Data from Clinical Laboratories,04/19/2020,Percent Positivity,18,05/09/2020,28.0394250010993,22.0199204177256
-202,Colorado,5694287,Positivity Data from Clinical Laboratories,04/19/2020,Three-day Moving Average of Percent Positivity,17.7,05/09/2020,28.0394250010993,22.0199204177256
-203,Colorado,5694287,Positivity Data from Clinical Laboratories,04/19/2020,Total Tests per 100k People,28.4,05/09/2020,28.0394250010993,22.0199204177256
-204,Colorado,5694287,Positivity Data from Clinical Laboratories,04/20/2020,Count of people tested by CDPHE lab,430,05/09/2020,28.0394250010993,22.0199204177256
-205,Colorado,5694287,Positivity Data from Clinical Laboratories,04/20/2020,Count of people tested by non-CDPHE (commercial) lab,1130,05/09/2020,28.0394250010993,22.0199204177256
-206,Colorado,5694287,Positivity Data from Clinical Laboratories,04/20/2020,Percent Positivity,15.8,05/09/2020,28.0394250010993,22.0199204177256
-207,Colorado,5694287,Positivity Data from Clinical Laboratories,04/20/2020,Three-day Moving Average of Percent Positivity,15.5,05/09/2020,28.0394250010993,22.0199204177256
-208,Colorado,5694287,Positivity Data from Clinical Laboratories,04/20/2020,Total Tests per 100k People,27.4,05/09/2020,28.0394250010993,22.0199204177256
-209,Colorado,5694287,Positivity Data from Clinical Laboratories,04/21/2020,Count of people tested by CDPHE lab,453,05/09/2020,28.0394250010993,22.0199204177256
-210,Colorado,5694287,Positivity Data from Clinical Laboratories,04/21/2020,Count of people tested by non-CDPHE (commercial) lab,1748,05/09/2020,28.0394250010993,22.0199204177256
-211,Colorado,5694287,Positivity Data from Clinical Laboratories,04/21/2020,Percent Positivity,15.7,05/09/2020,28.0394250010993,22.0199204177256
-212,Colorado,5694287,Positivity Data from Clinical Laboratories,04/21/2020,Three-day Moving Average of Percent Positivity,16.5,05/09/2020,28.0394250010993,22.0199204177256
-213,Colorado,5694287,Positivity Data from Clinical Laboratories,04/21/2020,Total Tests per 100k People,38.7,05/09/2020,28.0394250010993,22.0199204177256
-214,Colorado,5694287,Positivity Data from Clinical Laboratories,04/22/2020,Count of people tested by CDPHE lab,426,05/09/2020,28.0394250010993,22.0199204177256
-215,Colorado,5694287,Positivity Data from Clinical Laboratories,04/22/2020,Count of people tested by non-CDPHE (commercial) lab,1600,05/09/2020,28.0394250010993,22.0199204177256
-216,Colorado,5694287,Positivity Data from Clinical Laboratories,04/22/2020,Percent Positivity,16.9,05/09/2020,28.0394250010993,22.0199204177256
-217,Colorado,5694287,Positivity Data from Clinical Laboratories,04/22/2020,Three-day Moving Average of Percent Positivity,16.1,05/09/2020,28.0394250010993,22.0199204177256
-218,Colorado,5694287,Positivity Data from Clinical Laboratories,04/22/2020,Total Tests per 100k People,35.6,05/09/2020,28.0394250010993,22.0199204177256
-219,Colorado,5694287,Positivity Data from Clinical Laboratories,04/23/2020,Count of people tested by CDPHE lab,679,05/09/2020,28.0394250010993,22.0199204177256
-220,Colorado,5694287,Positivity Data from Clinical Laboratories,04/23/2020,Count of people tested by non-CDPHE (commercial) lab,4653,05/09/2020,28.0394250010993,22.0199204177256
-221,Colorado,5694287,Positivity Data from Clinical Laboratories,04/23/2020,Percent Positivity,14.9,05/09/2020,28.0394250010993,22.0199204177256
-222,Colorado,5694287,Positivity Data from Clinical Laboratories,04/23/2020,Three-day Moving Average of Percent Positivity,15.8,05/09/2020,28.0394250010993,22.0199204177256
-223,Colorado,5694287,Positivity Data from Clinical Laboratories,04/23/2020,Total Tests per 100k People,93.6,05/09/2020,28.0394250010993,22.0199204177256
-224,Colorado,5694287,Positivity Data from Clinical Laboratories,04/24/2020,Count of people tested by CDPHE lab,615,05/09/2020,28.0394250010993,22.0199204177256
-225,Colorado,5694287,Positivity Data from Clinical Laboratories,04/24/2020,Count of people tested by non-CDPHE (commercial) lab,2594,05/09/2020,28.0394250010993,22.0199204177256
-226,Colorado,5694287,Positivity Data from Clinical Laboratories,04/24/2020,Percent Positivity,17.7,05/09/2020,28.0394250010993,22.0199204177256
-227,Colorado,5694287,Positivity Data from Clinical Laboratories,04/24/2020,Three-day Moving Average of Percent Positivity,16.5,05/09/2020,28.0394250010993,22.0199204177256
-228,Colorado,5694287,Positivity Data from Clinical Laboratories,04/24/2020,Total Tests per 100k People,56.4,05/09/2020,28.0394250010993,22.0199204177256
-229,Colorado,5694287,Positivity Data from Clinical Laboratories,04/25/2020,Count of people tested by CDPHE lab,707,05/09/2020,28.0394250010993,22.0199204177256
-230,Colorado,5694287,Positivity Data from Clinical Laboratories,04/25/2020,Count of people tested by non-CDPHE (commercial) lab,2540,05/09/2020,28.0394250010993,22.0199204177256
-231,Colorado,5694287,Positivity Data from Clinical Laboratories,04/25/2020,Percent Positivity,13.5,05/09/2020,28.0394250010993,22.0199204177256
-232,Colorado,5694287,Positivity Data from Clinical Laboratories,04/25/2020,Three-day Moving Average of Percent Positivity,15.4,05/09/2020,28.0394250010993,22.0199204177256
-233,Colorado,5694287,Positivity Data from Clinical Laboratories,04/25/2020,Total Tests per 100k People,57,05/09/2020,28.0394250010993,22.0199204177256
-234,Colorado,5694287,Positivity Data from Clinical Laboratories,04/26/2020,Count of people tested by CDPHE lab,572,05/09/2020,28.0394250010993,22.0199204177256
-235,Colorado,5694287,Positivity Data from Clinical Laboratories,04/26/2020,Count of people tested by non-CDPHE (commercial) lab,2191,05/09/2020,28.0394250010993,22.0199204177256
-236,Colorado,5694287,Positivity Data from Clinical Laboratories,04/26/2020,Percent Positivity,14,05/09/2020,28.0394250010993,22.0199204177256
-237,Colorado,5694287,Positivity Data from Clinical Laboratories,04/26/2020,Three-day Moving Average of Percent Positivity,15.1,05/09/2020,28.0394250010993,22.0199204177256
-238,Colorado,5694287,Positivity Data from Clinical Laboratories,04/26/2020,Total Tests per 100k People,48.5,05/09/2020,28.0394250010993,22.0199204177256
-239,Colorado,5694287,Positivity Data from Clinical Laboratories,04/27/2020,Count of people tested by CDPHE lab,775,05/09/2020,28.0394250010993,22.0199204177256
-240,Colorado,5694287,Positivity Data from Clinical Laboratories,04/27/2020,Count of people tested by non-CDPHE (commercial) lab,2154,05/09/2020,28.0394250010993,22.0199204177256
-241,Colorado,5694287,Positivity Data from Clinical Laboratories,04/27/2020,Percent Positivity,14.6,05/09/2020,28.0394250010993,22.0199204177256
-242,Colorado,5694287,Positivity Data from Clinical Laboratories,04/27/2020,Three-day Moving Average of Percent Positivity,14.1,05/09/2020,28.0394250010993,22.0199204177256
-243,Colorado,5694287,Positivity Data from Clinical Laboratories,04/27/2020,Total Tests per 100k People,51.4,05/09/2020,28.0394250010993,22.0199204177256
-244,Colorado,5694287,Positivity Data from Clinical Laboratories,04/28/2020,Count of people tested by CDPHE lab,463,05/09/2020,28.0394250010993,22.0199204177256
-245,Colorado,5694287,Positivity Data from Clinical Laboratories,04/28/2020,Count of people tested by non-CDPHE (commercial) lab,2563,05/09/2020,28.0394250010993,22.0199204177256
-246,Colorado,5694287,Positivity Data from Clinical Laboratories,04/28/2020,Percent Positivity,12.6,05/09/2020,28.0394250010993,22.0199204177256
-247,Colorado,5694287,Positivity Data from Clinical Laboratories,04/28/2020,Three-day Moving Average of Percent Positivity,13.7,05/09/2020,28.0394250010993,22.0199204177256
-248,Colorado,5694287,Positivity Data from Clinical Laboratories,04/28/2020,Total Tests per 100k People,53.1,05/09/2020,28.0394250010993,22.0199204177256
-249,Colorado,5694287,Positivity Data from Clinical Laboratories,04/29/2020,Count of people tested by CDPHE lab,436,05/09/2020,28.0394250010993,22.0199204177256
-250,Colorado,5694287,Positivity Data from Clinical Laboratories,04/29/2020,Count of people tested by non-CDPHE (commercial) lab,3060,05/09/2020,28.0394250010993,22.0199204177256
-251,Colorado,5694287,Positivity Data from Clinical Laboratories,04/29/2020,Percent Positivity,22.9,05/09/2020,28.0394250010993,22.0199204177256
-252,Colorado,5694287,Positivity Data from Clinical Laboratories,04/29/2020,Three-day Moving Average of Percent Positivity,16.7,05/09/2020,28.0394250010993,22.0199204177256
-253,Colorado,5694287,Positivity Data from Clinical Laboratories,04/29/2020,Total Tests per 100k People,61.4,05/09/2020,28.0394250010993,22.0199204177256
-254,Colorado,5694287,Positivity Data from Clinical Laboratories,04/30/2020,Count of people tested by CDPHE lab,738,05/09/2020,28.0394250010993,22.0199204177256
-255,Colorado,5694287,Positivity Data from Clinical Laboratories,04/30/2020,Count of people tested by non-CDPHE (commercial) lab,2741,05/09/2020,28.0394250010993,22.0199204177256
-256,Colorado,5694287,Positivity Data from Clinical Laboratories,04/30/2020,Percent Positivity,11.4,05/09/2020,28.0394250010993,22.0199204177256
-257,Colorado,5694287,Positivity Data from Clinical Laboratories,04/30/2020,Three-day Moving Average of Percent Positivity,15.6,05/09/2020,28.0394250010993,22.0199204177256
-258,Colorado,5694287,Positivity Data from Clinical Laboratories,04/30/2020,Total Tests per 100k People,61.1,05/09/2020,28.0394250010993,22.0199204177256
-259,Colorado,5694287,Positivity Data from Clinical Laboratories,05/01/2020,Count of people tested by CDPHE lab,441,05/09/2020,28.0394250010993,22.0199204177256
-260,Colorado,5694287,Positivity Data from Clinical Laboratories,05/01/2020,Count of people tested by non-CDPHE (commercial) lab,2940,05/09/2020,28.0394250010993,22.0199204177256
-261,Colorado,5694287,Positivity Data from Clinical Laboratories,05/01/2020,Percent Positivity,12.6,05/09/2020,28.0394250010993,22.0199204177256
-262,Colorado,5694287,Positivity Data from Clinical Laboratories,05/01/2020,Three-day Moving Average of Percent Positivity,15.6,05/09/2020,28.0394250010993,22.0199204177256
-263,Colorado,5694287,Positivity Data from Clinical Laboratories,05/01/2020,Total Tests per 100k People,59.4,05/09/2020,28.0394250010993,22.0199204177256
-264,Colorado,5694287,Positivity Data from Clinical Laboratories,05/02/2020,Count of people tested by CDPHE lab,617,05/09/2020,28.0394250010993,22.0199204177256
-265,Colorado,5694287,Positivity Data from Clinical Laboratories,05/02/2020,Count of people tested by non-CDPHE (commercial) lab,2958,05/09/2020,28.0394250010993,22.0199204177256
-266,Colorado,5694287,Positivity Data from Clinical Laboratories,05/02/2020,Percent Positivity,10.9,05/09/2020,28.0394250010993,22.0199204177256
-267,Colorado,5694287,Positivity Data from Clinical Laboratories,05/02/2020,Three-day Moving Average of Percent Positivity,11.6,05/09/2020,28.0394250010993,22.0199204177256
-268,Colorado,5694287,Positivity Data from Clinical Laboratories,05/02/2020,Total Tests per 100k People,62.8,05/09/2020,28.0394250010993,22.0199204177256
-269,Colorado,5694287,Positivity Data from Clinical Laboratories,05/03/2020,Count of people tested by CDPHE lab,313,05/09/2020,28.0394250010993,22.0199204177256
-270,Colorado,5694287,Positivity Data from Clinical Laboratories,05/03/2020,Count of people tested by non-CDPHE (commercial) lab,1882,05/09/2020,28.0394250010993,22.0199204177256
-271,Colorado,5694287,Positivity Data from Clinical Laboratories,05/03/2020,Percent Positivity,9.6,05/09/2020,28.0394250010993,22.0199204177256
-272,Colorado,5694287,Positivity Data from Clinical Laboratories,05/03/2020,Three-day Moving Average of Percent Positivity,11,05/09/2020,28.0394250010993,22.0199204177256
-273,Colorado,5694287,Positivity Data from Clinical Laboratories,05/03/2020,Total Tests per 100k People,38.6,05/09/2020,28.0394250010993,22.0199204177256
-274,Colorado,5694287,Positivity Data from Clinical Laboratories,05/04/2020,Count of people tested by CDPHE lab,125,05/09/2020,28.0394250010993,22.0199204177256
-275,Colorado,5694287,Positivity Data from Clinical Laboratories,05/04/2020,Count of people tested by non-CDPHE (commercial) lab,2965,05/09/2020,28.0394250010993,22.0199204177256
-276,Colorado,5694287,Positivity Data from Clinical Laboratories,05/04/2020,Percent Positivity,10.6,05/09/2020,28.0394250010993,22.0199204177256
-277,Colorado,5694287,Positivity Data from Clinical Laboratories,05/04/2020,Three-day Moving Average of Percent Positivity,10.4,05/09/2020,28.0394250010993,22.0199204177256
-278,Colorado,5694287,Positivity Data from Clinical Laboratories,05/04/2020,Total Tests per 100k People,54.3,05/09/2020,28.0394250010993,22.0199204177256
-279,Colorado,5694287,Positivity Data from Clinical Laboratories,05/05/2020,Count of people tested by CDPHE lab,321,05/09/2020,28.0394250010993,22.0199204177256
-280,Colorado,5694287,Positivity Data from Clinical Laboratories,05/05/2020,Count of people tested by non-CDPHE (commercial) lab,2931,05/09/2020,28.0394250010993,22.0199204177256
-281,Colorado,5694287,Positivity Data from Clinical Laboratories,05/05/2020,Percent Positivity,9.8,05/09/2020,28.0394250010993,22.0199204177256
-282,Colorado,5694287,Positivity Data from Clinical Laboratories,05/05/2020,Three-day Moving Average of Percent Positivity,10,05/09/2020,28.0394250010993,22.0199204177256
-283,Colorado,5694287,Positivity Data from Clinical Laboratories,05/05/2020,Total Tests per 100k People,57.1,05/09/2020,28.0394250010993,22.0199204177256
-284,Colorado,5694287,Positivity Data from Clinical Laboratories,05/06/2020,Count of people tested by CDPHE lab,685,05/09/2020,28.0394250010993,22.0199204177256
-285,Colorado,5694287,Positivity Data from Clinical Laboratories,05/06/2020,Count of people tested by non-CDPHE (commercial) lab,2742,05/09/2020,28.0394250010993,22.0199204177256
-286,Colorado,5694287,Positivity Data from Clinical Laboratories,05/06/2020,Percent Positivity,11.8,05/09/2020,28.0394250010993,22.0199204177256
-287,Colorado,5694287,Positivity Data from Clinical Laboratories,05/06/2020,Three-day Moving Average of Percent Positivity,10.7,05/09/2020,28.0394250010993,22.0199204177256
-288,Colorado,5694287,Positivity Data from Clinical Laboratories,05/06/2020,Total Tests per 100k People,60.2,05/09/2020,28.0394250010993,22.0199204177256
-289,Colorado,5694287,Positivity Data from Clinical Laboratories,05/07/2020,Count of people tested by CDPHE lab,692,05/09/2020,28.0394250010993,22.0199204177256
-290,Colorado,5694287,Positivity Data from Clinical Laboratories,05/07/2020,Count of people tested by non-CDPHE (commercial) lab,4703,05/09/2020,28.0394250010993,22.0199204177256
-291,Colorado,5694287,Positivity Data from Clinical Laboratories,05/07/2020,Percent Positivity,7,05/09/2020,28.0394250010993,22.0199204177256
-292,Colorado,5694287,Positivity Data from Clinical Laboratories,05/07/2020,Three-day Moving Average of Percent Positivity,9.5,05/09/2020,28.0394250010993,22.0199204177256
-293,Colorado,5694287,Positivity Data from Clinical Laboratories,05/07/2020,Total Tests per 100k People,94.7,05/09/2020,28.0394250010993,22.0199204177256
-294,Colorado,5694287,Positivity Data from Clinical Laboratories,05/08/2020,Count of people tested by CDPHE lab,843,05/09/2020,28.0394250010993,22.0199204177256
-295,Colorado,5694287,Positivity Data from Clinical Laboratories,05/08/2020,Count of people tested by non-CDPHE (commercial) lab,3864,05/09/2020,28.0394250010993,22.0199204177256
-296,Colorado,5694287,Positivity Data from Clinical Laboratories,05/08/2020,Percent Positivity,10.6,05/09/2020,28.0394250010993,22.0199204177256
-297,Colorado,5694287,Positivity Data from Clinical Laboratories,05/08/2020,Three-day Moving Average of Percent Positivity,9.8,05/09/2020,28.0394250010993,22.0199204177256
-298,Colorado,5694287,Positivity Data from Clinical Laboratories,05/08/2020,Total Tests per 100k People,82.7,05/09/2020,28.0394250010993,22.0199204177256
-299,Colorado,5694287,Daily Serology Data From Clinical Laboratories,04/20/2020,Number of negative tests,1,05/09/2020,28.0394250010993,22.0199204177256
-300,Colorado,5694287,Daily Serology Data From Clinical Laboratories,04/20/2020,Number of positive tests,0,05/09/2020,28.0394250010993,22.0199204177256
-301,Colorado,5694287,Daily Serology Data From Clinical Laboratories,04/21/2020,Number of negative tests,37,05/09/2020,28.0394250010993,22.0199204177256
-302,Colorado,5694287,Daily Serology Data From Clinical Laboratories,04/21/2020,Number of positive tests,0,05/09/2020,28.0394250010993,22.0199204177256
-303,Colorado,5694287,Daily Serology Data From Clinical Laboratories,04/22/2020,Number of negative tests,21,05/09/2020,28.0394250010993,22.0199204177256
-304,Colorado,5694287,Daily Serology Data From Clinical Laboratories,04/22/2020,Number of positive tests,10,05/09/2020,28.0394250010993,22.0199204177256
-305,Colorado,5694287,Daily Serology Data From Clinical Laboratories,04/23/2020,Number of negative tests,114,05/09/2020,28.0394250010993,22.0199204177256
-306,Colorado,5694287,Daily Serology Data From Clinical Laboratories,04/23/2020,Number of positive tests,27,05/09/2020,28.0394250010993,22.0199204177256
-307,Colorado,5694287,Daily Serology Data From Clinical Laboratories,04/24/2020,Number of negative tests,396,05/09/2020,28.0394250010993,22.0199204177256
-308,Colorado,5694287,Daily Serology Data From Clinical Laboratories,04/24/2020,Number of positive tests,46,05/09/2020,28.0394250010993,22.0199204177256
-309,Colorado,5694287,Daily Serology Data From Clinical Laboratories,04/25/2020,Number of negative tests,611,05/09/2020,28.0394250010993,22.0199204177256
-310,Colorado,5694287,Daily Serology Data From Clinical Laboratories,04/25/2020,Number of positive tests,57,05/09/2020,28.0394250010993,22.0199204177256
-311,Colorado,5694287,Daily Serology Data From Clinical Laboratories,04/26/2020,Number of negative tests,721,05/09/2020,28.0394250010993,22.0199204177256
-312,Colorado,5694287,Daily Serology Data From Clinical Laboratories,04/26/2020,Number of positive tests,56,05/09/2020,28.0394250010993,22.0199204177256
-313,Colorado,5694287,Daily Serology Data From Clinical Laboratories,04/27/2020,Number of negative tests,186,05/09/2020,28.0394250010993,22.0199204177256
-314,Colorado,5694287,Daily Serology Data From Clinical Laboratories,04/27/2020,Number of positive tests,33,05/09/2020,28.0394250010993,22.0199204177256
-315,Colorado,5694287,Daily Serology Data From Clinical Laboratories,04/28/2020,Number of negative tests,596,05/09/2020,28.0394250010993,22.0199204177256
-316,Colorado,5694287,Daily Serology Data From Clinical Laboratories,04/28/2020,Number of positive tests,75,05/09/2020,28.0394250010993,22.0199204177256
-317,Colorado,5694287,Daily Serology Data From Clinical Laboratories,04/29/2020,Number of negative tests,1120,05/09/2020,28.0394250010993,22.0199204177256
-318,Colorado,5694287,Daily Serology Data From Clinical Laboratories,04/29/2020,Number of positive tests,126,05/09/2020,28.0394250010993,22.0199204177256
-319,Colorado,5694287,Daily Serology Data From Clinical Laboratories,04/30/2020,Number of negative tests,1453,05/09/2020,28.0394250010993,22.0199204177256
-320,Colorado,5694287,Daily Serology Data From Clinical Laboratories,04/30/2020,Number of positive tests,142,05/09/2020,28.0394250010993,22.0199204177256
-321,Colorado,5694287,Daily Serology Data From Clinical Laboratories,05/01/2020,Number of negative tests,1509,05/09/2020,28.0394250010993,22.0199204177256
-322,Colorado,5694287,Daily Serology Data From Clinical Laboratories,05/01/2020,Number of positive tests,169,05/09/2020,28.0394250010993,22.0199204177256
-323,Colorado,5694287,Daily Serology Data From Clinical Laboratories,05/02/2020,Number of negative tests,1633,05/09/2020,28.0394250010993,22.0199204177256
-324,Colorado,5694287,Daily Serology Data From Clinical Laboratories,05/02/2020,Number of positive tests,133,05/09/2020,28.0394250010993,22.0199204177256
-325,Colorado,5694287,Daily Serology Data From Clinical Laboratories,05/03/2020,Number of negative tests,479,05/09/2020,28.0394250010993,22.0199204177256
-326,Colorado,5694287,Daily Serology Data From Clinical Laboratories,05/03/2020,Number of positive tests,55,05/09/2020,28.0394250010993,22.0199204177256
-327,Colorado,5694287,Daily Serology Data From Clinical Laboratories,05/04/2020,Number of negative tests,1582,05/09/2020,28.0394250010993,22.0199204177256
-328,Colorado,5694287,Daily Serology Data From Clinical Laboratories,05/04/2020,Number of positive tests,145,05/09/2020,28.0394250010993,22.0199204177256
-329,Colorado,5694287,Daily Serology Data From Clinical Laboratories,05/05/2020,Number of negative tests,597,05/09/2020,28.0394250010993,22.0199204177256
-330,Colorado,5694287,Daily Serology Data From Clinical Laboratories,05/05/2020,Number of positive tests,68,05/09/2020,28.0394250010993,22.0199204177256
-331,Colorado,5694287,Daily Serology Data From Clinical Laboratories,05/06/2020,Number of negative tests,1224,05/09/2020,28.0394250010993,22.0199204177256
-332,Colorado,5694287,Daily Serology Data From Clinical Laboratories,05/06/2020,Number of positive tests,174,05/09/2020,28.0394250010993,22.0199204177256
-333,Colorado,5694287,Daily Serology Data From Clinical Laboratories,05/07/2020,Number of negative tests,1891,05/09/2020,28.0394250010993,22.0199204177256
-334,Colorado,5694287,Daily Serology Data From Clinical Laboratories,05/07/2020,Number of positive tests,218,05/09/2020,28.0394250010993,22.0199204177256
-335,Colorado,5694287,Daily Serology Data From Clinical Laboratories,05/08/2020,Number of negative tests,1892,05/09/2020,28.0394250010993,22.0199204177256
-336,Colorado,5694287,Daily Serology Data From Clinical Laboratories,05/08/2020,Number of positive tests,146,05/09/2020,28.0394250010993,22.0199204177256
-337,Note,,Positivity Data from Clinical Laboratories,,May not include all negative results.,,05/09/2020,,
-338,Note,,Positivity Data from Clinical Laboratories,,Individuals with serology-positive tests are not included in daily case counts until they are confirmed to have had COVID-like symptoms.,,05/09/2020,,
-339,Note,,Positivity Data from Clinical Laboratories,,Includes only tests from labs that participate in electronic lab reporting.,,05/09/2020,,
-340,Note,,Daily Serology Data From Clinical Laboratories,,May not include all negative results.,,05/09/2020,,
+1,Colorado,5694287,Positivity Data from Clinical Laboratories,03/10/2020,Count of people tested by CDPHE lab,68,05/10/2020,28.0394250010993,22.0199204177256
+2,Colorado,5694287,Positivity Data from Clinical Laboratories,03/10/2020,Count of people tested by non-CDPHE (commercial) lab,2,05/10/2020,28.0394250010993,22.0199204177256
+3,Colorado,5694287,Positivity Data from Clinical Laboratories,03/10/2020,Percent Positivity,8.6,05/10/2020,28.0394250010993,22.0199204177256
+4,Colorado,5694287,Positivity Data from Clinical Laboratories,03/10/2020,Total Tests per 100k People,1.2,05/10/2020,28.0394250010993,22.0199204177256
+5,Colorado,5694287,Positivity Data from Clinical Laboratories,03/11/2020,Count of people tested by CDPHE lab,125,05/10/2020,28.0394250010993,22.0199204177256
+6,Colorado,5694287,Positivity Data from Clinical Laboratories,03/11/2020,Count of people tested by non-CDPHE (commercial) lab,3,05/10/2020,28.0394250010993,22.0199204177256
+7,Colorado,5694287,Positivity Data from Clinical Laboratories,03/11/2020,Percent Positivity,14.8,05/10/2020,28.0394250010993,22.0199204177256
+8,Colorado,5694287,Positivity Data from Clinical Laboratories,03/11/2020,Total Tests per 100k People,2.3,05/10/2020,28.0394250010993,22.0199204177256
+9,Colorado,5694287,Positivity Data from Clinical Laboratories,03/12/2020,Count of people tested by CDPHE lab,135,05/10/2020,28.0394250010993,22.0199204177256
+10,Colorado,5694287,Positivity Data from Clinical Laboratories,03/12/2020,Count of people tested by non-CDPHE (commercial) lab,1,05/10/2020,28.0394250010993,22.0199204177256
+11,Colorado,5694287,Positivity Data from Clinical Laboratories,03/12/2020,Percent Positivity,6.6,05/10/2020,28.0394250010993,22.0199204177256
+12,Colorado,5694287,Positivity Data from Clinical Laboratories,03/12/2020,Three-day Moving Average of Percent Positivity,10,05/10/2020,28.0394250010993,22.0199204177256
+13,Colorado,5694287,Positivity Data from Clinical Laboratories,03/12/2020,Total Tests per 100k People,2.4,05/10/2020,28.0394250010993,22.0199204177256
+14,Colorado,5694287,Positivity Data from Clinical Laboratories,03/13/2020,Count of people tested by CDPHE lab,151,05/10/2020,28.0394250010993,22.0199204177256
+15,Colorado,5694287,Positivity Data from Clinical Laboratories,03/13/2020,Count of people tested by non-CDPHE (commercial) lab,42,05/10/2020,28.0394250010993,22.0199204177256
+16,Colorado,5694287,Positivity Data from Clinical Laboratories,03/13/2020,Percent Positivity,14,05/10/2020,28.0394250010993,22.0199204177256
+17,Colorado,5694287,Positivity Data from Clinical Laboratories,03/13/2020,Three-day Moving Average of Percent Positivity,11.8,05/10/2020,28.0394250010993,22.0199204177256
+18,Colorado,5694287,Positivity Data from Clinical Laboratories,03/13/2020,Total Tests per 100k People,3.4,05/10/2020,28.0394250010993,22.0199204177256
+19,Colorado,5694287,Positivity Data from Clinical Laboratories,03/14/2020,Count of people tested by CDPHE lab,147,05/10/2020,28.0394250010993,22.0199204177256
+20,Colorado,5694287,Positivity Data from Clinical Laboratories,03/14/2020,Count of people tested by non-CDPHE (commercial) lab,32,05/10/2020,28.0394250010993,22.0199204177256
+21,Colorado,5694287,Positivity Data from Clinical Laboratories,03/14/2020,Percent Positivity,16.2,05/10/2020,28.0394250010993,22.0199204177256
+22,Colorado,5694287,Positivity Data from Clinical Laboratories,03/14/2020,Three-day Moving Average of Percent Positivity,12.3,05/10/2020,28.0394250010993,22.0199204177256
+23,Colorado,5694287,Positivity Data from Clinical Laboratories,03/14/2020,Total Tests per 100k People,3.1,05/10/2020,28.0394250010993,22.0199204177256
+24,Colorado,5694287,Positivity Data from Clinical Laboratories,03/15/2020,Count of people tested by CDPHE lab,258,05/10/2020,28.0394250010993,22.0199204177256
+25,Colorado,5694287,Positivity Data from Clinical Laboratories,03/15/2020,Count of people tested by non-CDPHE (commercial) lab,45,05/10/2020,28.0394250010993,22.0199204177256
+26,Colorado,5694287,Positivity Data from Clinical Laboratories,03/15/2020,Percent Positivity,11.2,05/10/2020,28.0394250010993,22.0199204177256
+27,Colorado,5694287,Positivity Data from Clinical Laboratories,03/15/2020,Three-day Moving Average of Percent Positivity,13.8,05/10/2020,28.0394250010993,22.0199204177256
+28,Colorado,5694287,Positivity Data from Clinical Laboratories,03/15/2020,Total Tests per 100k People,5.3,05/10/2020,28.0394250010993,22.0199204177256
+29,Colorado,5694287,Positivity Data from Clinical Laboratories,03/16/2020,Count of people tested by CDPHE lab,356,05/10/2020,28.0394250010993,22.0199204177256
+30,Colorado,5694287,Positivity Data from Clinical Laboratories,03/16/2020,Count of people tested by non-CDPHE (commercial) lab,116,05/10/2020,28.0394250010993,22.0199204177256
+31,Colorado,5694287,Positivity Data from Clinical Laboratories,03/16/2020,Percent Positivity,7.4,05/10/2020,28.0394250010993,22.0199204177256
+32,Colorado,5694287,Positivity Data from Clinical Laboratories,03/16/2020,Three-day Moving Average of Percent Positivity,11.6,05/10/2020,28.0394250010993,22.0199204177256
+33,Colorado,5694287,Positivity Data from Clinical Laboratories,03/16/2020,Total Tests per 100k People,8.3,05/10/2020,28.0394250010993,22.0199204177256
+34,Colorado,5694287,Positivity Data from Clinical Laboratories,03/17/2020,Count of people tested by CDPHE lab,650,05/10/2020,28.0394250010993,22.0199204177256
+35,Colorado,5694287,Positivity Data from Clinical Laboratories,03/17/2020,Count of people tested by non-CDPHE (commercial) lab,89,05/10/2020,28.0394250010993,22.0199204177256
+36,Colorado,5694287,Positivity Data from Clinical Laboratories,03/17/2020,Percent Positivity,3.7,05/10/2020,28.0394250010993,22.0199204177256
+37,Colorado,5694287,Positivity Data from Clinical Laboratories,03/17/2020,Three-day Moving Average of Percent Positivity,7.4,05/10/2020,28.0394250010993,22.0199204177256
+38,Colorado,5694287,Positivity Data from Clinical Laboratories,03/17/2020,Total Tests per 100k People,13,05/10/2020,28.0394250010993,22.0199204177256
+39,Colorado,5694287,Positivity Data from Clinical Laboratories,03/18/2020,Count of people tested by CDPHE lab,332,05/10/2020,28.0394250010993,22.0199204177256
+40,Colorado,5694287,Positivity Data from Clinical Laboratories,03/18/2020,Count of people tested by non-CDPHE (commercial) lab,194,05/10/2020,28.0394250010993,22.0199204177256
+41,Colorado,5694287,Positivity Data from Clinical Laboratories,03/18/2020,Percent Positivity,11,05/10/2020,28.0394250010993,22.0199204177256
+42,Colorado,5694287,Positivity Data from Clinical Laboratories,03/18/2020,Three-day Moving Average of Percent Positivity,7.4,05/10/2020,28.0394250010993,22.0199204177256
+43,Colorado,5694287,Positivity Data from Clinical Laboratories,03/18/2020,Total Tests per 100k People,9.2,05/10/2020,28.0394250010993,22.0199204177256
+44,Colorado,5694287,Positivity Data from Clinical Laboratories,03/19/2020,Count of people tested by CDPHE lab,532,05/10/2020,28.0394250010993,22.0199204177256
+45,Colorado,5694287,Positivity Data from Clinical Laboratories,03/19/2020,Count of people tested by non-CDPHE (commercial) lab,307,05/10/2020,28.0394250010993,22.0199204177256
+46,Colorado,5694287,Positivity Data from Clinical Laboratories,03/19/2020,Percent Positivity,8.8,05/10/2020,28.0394250010993,22.0199204177256
+47,Colorado,5694287,Positivity Data from Clinical Laboratories,03/19/2020,Three-day Moving Average of Percent Positivity,7.8,05/10/2020,28.0394250010993,22.0199204177256
+48,Colorado,5694287,Positivity Data from Clinical Laboratories,03/19/2020,Total Tests per 100k People,14.7,05/10/2020,28.0394250010993,22.0199204177256
+49,Colorado,5694287,Positivity Data from Clinical Laboratories,03/20/2020,Count of people tested by CDPHE lab,458,05/10/2020,28.0394250010993,22.0199204177256
+50,Colorado,5694287,Positivity Data from Clinical Laboratories,03/20/2020,Count of people tested by non-CDPHE (commercial) lab,506,05/10/2020,28.0394250010993,22.0199204177256
+51,Colorado,5694287,Positivity Data from Clinical Laboratories,03/20/2020,Percent Positivity,11,05/10/2020,28.0394250010993,22.0199204177256
+52,Colorado,5694287,Positivity Data from Clinical Laboratories,03/20/2020,Three-day Moving Average of Percent Positivity,10.3,05/10/2020,28.0394250010993,22.0199204177256
+53,Colorado,5694287,Positivity Data from Clinical Laboratories,03/20/2020,Total Tests per 100k People,16.9,05/10/2020,28.0394250010993,22.0199204177256
+54,Colorado,5694287,Positivity Data from Clinical Laboratories,03/21/2020,Count of people tested by CDPHE lab,883,05/10/2020,28.0394250010993,22.0199204177256
+55,Colorado,5694287,Positivity Data from Clinical Laboratories,03/21/2020,Count of people tested by non-CDPHE (commercial) lab,599,05/10/2020,28.0394250010993,22.0199204177256
+56,Colorado,5694287,Positivity Data from Clinical Laboratories,03/21/2020,Percent Positivity,7.2,05/10/2020,28.0394250010993,22.0199204177256
+57,Colorado,5694287,Positivity Data from Clinical Laboratories,03/21/2020,Three-day Moving Average of Percent Positivity,9,05/10/2020,28.0394250010993,22.0199204177256
+58,Colorado,5694287,Positivity Data from Clinical Laboratories,03/21/2020,Total Tests per 100k People,26,05/10/2020,28.0394250010993,22.0199204177256
+59,Colorado,5694287,Positivity Data from Clinical Laboratories,03/22/2020,Count of people tested by CDPHE lab,371,05/10/2020,28.0394250010993,22.0199204177256
+60,Colorado,5694287,Positivity Data from Clinical Laboratories,03/22/2020,Count of people tested by non-CDPHE (commercial) lab,573,05/10/2020,28.0394250010993,22.0199204177256
+61,Colorado,5694287,Positivity Data from Clinical Laboratories,03/22/2020,Percent Positivity,12.1,05/10/2020,28.0394250010993,22.0199204177256
+62,Colorado,5694287,Positivity Data from Clinical Laboratories,03/22/2020,Three-day Moving Average of Percent Positivity,10.1,05/10/2020,28.0394250010993,22.0199204177256
+63,Colorado,5694287,Positivity Data from Clinical Laboratories,03/22/2020,Total Tests per 100k People,16.6,05/10/2020,28.0394250010993,22.0199204177256
+64,Colorado,5694287,Positivity Data from Clinical Laboratories,03/23/2020,Count of people tested by CDPHE lab,829,05/10/2020,28.0394250010993,22.0199204177256
+65,Colorado,5694287,Positivity Data from Clinical Laboratories,03/23/2020,Count of people tested by non-CDPHE (commercial) lab,478,05/10/2020,28.0394250010993,22.0199204177256
+66,Colorado,5694287,Positivity Data from Clinical Laboratories,03/23/2020,Percent Positivity,13,05/10/2020,28.0394250010993,22.0199204177256
+67,Colorado,5694287,Positivity Data from Clinical Laboratories,03/23/2020,Three-day Moving Average of Percent Positivity,10.8,05/10/2020,28.0394250010993,22.0199204177256
+68,Colorado,5694287,Positivity Data from Clinical Laboratories,03/23/2020,Total Tests per 100k People,23,05/10/2020,28.0394250010993,22.0199204177256
+69,Colorado,5694287,Positivity Data from Clinical Laboratories,03/24/2020,Count of people tested by CDPHE lab,651,05/10/2020,28.0394250010993,22.0199204177256
+70,Colorado,5694287,Positivity Data from Clinical Laboratories,03/24/2020,Count of people tested by non-CDPHE (commercial) lab,512,05/10/2020,28.0394250010993,22.0199204177256
+71,Colorado,5694287,Positivity Data from Clinical Laboratories,03/24/2020,Percent Positivity,13.7,05/10/2020,28.0394250010993,22.0199204177256
+72,Colorado,5694287,Positivity Data from Clinical Laboratories,03/24/2020,Three-day Moving Average of Percent Positivity,12.9,05/10/2020,28.0394250010993,22.0199204177256
+73,Colorado,5694287,Positivity Data from Clinical Laboratories,03/24/2020,Total Tests per 100k People,20.4,05/10/2020,28.0394250010993,22.0199204177256
+74,Colorado,5694287,Positivity Data from Clinical Laboratories,03/25/2020,Count of people tested by CDPHE lab,346,05/10/2020,28.0394250010993,22.0199204177256
+75,Colorado,5694287,Positivity Data from Clinical Laboratories,03/25/2020,Count of people tested by non-CDPHE (commercial) lab,1535,05/10/2020,28.0394250010993,22.0199204177256
+76,Colorado,5694287,Positivity Data from Clinical Laboratories,03/25/2020,Percent Positivity,15.5,05/10/2020,28.0394250010993,22.0199204177256
+77,Colorado,5694287,Positivity Data from Clinical Laboratories,03/25/2020,Three-day Moving Average of Percent Positivity,14.1,05/10/2020,28.0394250010993,22.0199204177256
+78,Colorado,5694287,Positivity Data from Clinical Laboratories,03/25/2020,Total Tests per 100k People,33,05/10/2020,28.0394250010993,22.0199204177256
+79,Colorado,5694287,Positivity Data from Clinical Laboratories,03/26/2020,Count of people tested by CDPHE lab,457,05/10/2020,28.0394250010993,22.0199204177256
+80,Colorado,5694287,Positivity Data from Clinical Laboratories,03/26/2020,Count of people tested by non-CDPHE (commercial) lab,1334,05/10/2020,28.0394250010993,22.0199204177256
+81,Colorado,5694287,Positivity Data from Clinical Laboratories,03/26/2020,Percent Positivity,15.4,05/10/2020,28.0394250010993,22.0199204177256
+82,Colorado,5694287,Positivity Data from Clinical Laboratories,03/26/2020,Three-day Moving Average of Percent Positivity,14.9,05/10/2020,28.0394250010993,22.0199204177256
+83,Colorado,5694287,Positivity Data from Clinical Laboratories,03/26/2020,Total Tests per 100k People,31.5,05/10/2020,28.0394250010993,22.0199204177256
+84,Colorado,5694287,Positivity Data from Clinical Laboratories,03/27/2020,Count of people tested by CDPHE lab,599,05/10/2020,28.0394250010993,22.0199204177256
+85,Colorado,5694287,Positivity Data from Clinical Laboratories,03/27/2020,Count of people tested by non-CDPHE (commercial) lab,1346,05/10/2020,28.0394250010993,22.0199204177256
+86,Colorado,5694287,Positivity Data from Clinical Laboratories,03/27/2020,Percent Positivity,15.1,05/10/2020,28.0394250010993,22.0199204177256
+87,Colorado,5694287,Positivity Data from Clinical Laboratories,03/27/2020,Three-day Moving Average of Percent Positivity,15.3,05/10/2020,28.0394250010993,22.0199204177256
+88,Colorado,5694287,Positivity Data from Clinical Laboratories,03/27/2020,Total Tests per 100k People,34.2,05/10/2020,28.0394250010993,22.0199204177256
+89,Colorado,5694287,Positivity Data from Clinical Laboratories,03/28/2020,Count of people tested by CDPHE lab,240,05/10/2020,28.0394250010993,22.0199204177256
+90,Colorado,5694287,Positivity Data from Clinical Laboratories,03/28/2020,Count of people tested by non-CDPHE (commercial) lab,1257,05/10/2020,28.0394250010993,22.0199204177256
+91,Colorado,5694287,Positivity Data from Clinical Laboratories,03/28/2020,Percent Positivity,15.3,05/10/2020,28.0394250010993,22.0199204177256
+92,Colorado,5694287,Positivity Data from Clinical Laboratories,03/28/2020,Three-day Moving Average of Percent Positivity,15.2,05/10/2020,28.0394250010993,22.0199204177256
+93,Colorado,5694287,Positivity Data from Clinical Laboratories,03/28/2020,Total Tests per 100k People,26.3,05/10/2020,28.0394250010993,22.0199204177256
+94,Colorado,5694287,Positivity Data from Clinical Laboratories,03/29/2020,Count of people tested by CDPHE lab,370,05/10/2020,28.0394250010993,22.0199204177256
+95,Colorado,5694287,Positivity Data from Clinical Laboratories,03/29/2020,Count of people tested by non-CDPHE (commercial) lab,1387,05/10/2020,28.0394250010993,22.0199204177256
+96,Colorado,5694287,Positivity Data from Clinical Laboratories,03/29/2020,Percent Positivity,17.8,05/10/2020,28.0394250010993,22.0199204177256
+97,Colorado,5694287,Positivity Data from Clinical Laboratories,03/29/2020,Three-day Moving Average of Percent Positivity,16,05/10/2020,28.0394250010993,22.0199204177256
+98,Colorado,5694287,Positivity Data from Clinical Laboratories,03/29/2020,Total Tests per 100k People,30.9,05/10/2020,28.0394250010993,22.0199204177256
+99,Colorado,5694287,Positivity Data from Clinical Laboratories,03/30/2020,Count of people tested by CDPHE lab,412,05/10/2020,28.0394250010993,22.0199204177256
+100,Colorado,5694287,Positivity Data from Clinical Laboratories,03/30/2020,Count of people tested by non-CDPHE (commercial) lab,1451,05/10/2020,28.0394250010993,22.0199204177256
+101,Colorado,5694287,Positivity Data from Clinical Laboratories,03/30/2020,Percent Positivity,15.8,05/10/2020,28.0394250010993,22.0199204177256
+102,Colorado,5694287,Positivity Data from Clinical Laboratories,03/30/2020,Three-day Moving Average of Percent Positivity,16.3,05/10/2020,28.0394250010993,22.0199204177256
+103,Colorado,5694287,Positivity Data from Clinical Laboratories,03/30/2020,Total Tests per 100k People,32.7,05/10/2020,28.0394250010993,22.0199204177256
+104,Colorado,5694287,Positivity Data from Clinical Laboratories,03/31/2020,Count of people tested by CDPHE lab,396,05/10/2020,28.0394250010993,22.0199204177256
+105,Colorado,5694287,Positivity Data from Clinical Laboratories,03/31/2020,Count of people tested by non-CDPHE (commercial) lab,1593,05/10/2020,28.0394250010993,22.0199204177256
+106,Colorado,5694287,Positivity Data from Clinical Laboratories,03/31/2020,Percent Positivity,18.1,05/10/2020,28.0394250010993,22.0199204177256
+107,Colorado,5694287,Positivity Data from Clinical Laboratories,03/31/2020,Three-day Moving Average of Percent Positivity,17.2,05/10/2020,28.0394250010993,22.0199204177256
+108,Colorado,5694287,Positivity Data from Clinical Laboratories,03/31/2020,Total Tests per 100k People,34.9,05/10/2020,28.0394250010993,22.0199204177256
+109,Colorado,5694287,Positivity Data from Clinical Laboratories,04/01/2020,Count of people tested by CDPHE lab,346,05/10/2020,28.0394250010993,22.0199204177256
+110,Colorado,5694287,Positivity Data from Clinical Laboratories,04/01/2020,Count of people tested by non-CDPHE (commercial) lab,1311,05/10/2020,28.0394250010993,22.0199204177256
+111,Colorado,5694287,Positivity Data from Clinical Laboratories,04/01/2020,Percent Positivity,21.9,05/10/2020,28.0394250010993,22.0199204177256
+112,Colorado,5694287,Positivity Data from Clinical Laboratories,04/01/2020,Three-day Moving Average of Percent Positivity,18.6,05/10/2020,28.0394250010993,22.0199204177256
+113,Colorado,5694287,Positivity Data from Clinical Laboratories,04/01/2020,Total Tests per 100k People,29.1,05/10/2020,28.0394250010993,22.0199204177256
+114,Colorado,5694287,Positivity Data from Clinical Laboratories,04/02/2020,Count of people tested by CDPHE lab,377,05/10/2020,28.0394250010993,22.0199204177256
+115,Colorado,5694287,Positivity Data from Clinical Laboratories,04/02/2020,Count of people tested by non-CDPHE (commercial) lab,1454,05/10/2020,28.0394250010993,22.0199204177256
+116,Colorado,5694287,Positivity Data from Clinical Laboratories,04/02/2020,Percent Positivity,22.3,05/10/2020,28.0394250010993,22.0199204177256
+117,Colorado,5694287,Positivity Data from Clinical Laboratories,04/02/2020,Three-day Moving Average of Percent Positivity,20.8,05/10/2020,28.0394250010993,22.0199204177256
+118,Colorado,5694287,Positivity Data from Clinical Laboratories,04/02/2020,Total Tests per 100k People,32.2,05/10/2020,28.0394250010993,22.0199204177256
+119,Colorado,5694287,Positivity Data from Clinical Laboratories,04/03/2020,Count of people tested by CDPHE lab,212,05/10/2020,28.0394250010993,22.0199204177256
+120,Colorado,5694287,Positivity Data from Clinical Laboratories,04/03/2020,Count of people tested by non-CDPHE (commercial) lab,1881,05/10/2020,28.0394250010993,22.0199204177256
+121,Colorado,5694287,Positivity Data from Clinical Laboratories,04/03/2020,Percent Positivity,17.2,05/10/2020,28.0394250010993,22.0199204177256
+122,Colorado,5694287,Positivity Data from Clinical Laboratories,04/03/2020,Three-day Moving Average of Percent Positivity,20.5,05/10/2020,28.0394250010993,22.0199204177256
+123,Colorado,5694287,Positivity Data from Clinical Laboratories,04/03/2020,Total Tests per 100k People,36.8,05/10/2020,28.0394250010993,22.0199204177256
+124,Colorado,5694287,Positivity Data from Clinical Laboratories,04/04/2020,Count of people tested by CDPHE lab,275,05/10/2020,28.0394250010993,22.0199204177256
+125,Colorado,5694287,Positivity Data from Clinical Laboratories,04/04/2020,Count of people tested by non-CDPHE (commercial) lab,2024,05/10/2020,28.0394250010993,22.0199204177256
+126,Colorado,5694287,Positivity Data from Clinical Laboratories,04/04/2020,Percent Positivity,15.3,05/10/2020,28.0394250010993,22.0199204177256
+127,Colorado,5694287,Positivity Data from Clinical Laboratories,04/04/2020,Three-day Moving Average of Percent Positivity,18.3,05/10/2020,28.0394250010993,22.0199204177256
+128,Colorado,5694287,Positivity Data from Clinical Laboratories,04/04/2020,Total Tests per 100k People,40.4,05/10/2020,28.0394250010993,22.0199204177256
+129,Colorado,5694287,Positivity Data from Clinical Laboratories,04/05/2020,Count of people tested by CDPHE lab,190,05/10/2020,28.0394250010993,22.0199204177256
+130,Colorado,5694287,Positivity Data from Clinical Laboratories,04/05/2020,Count of people tested by non-CDPHE (commercial) lab,1329,05/10/2020,28.0394250010993,22.0199204177256
+131,Colorado,5694287,Positivity Data from Clinical Laboratories,04/05/2020,Percent Positivity,13.1,05/10/2020,28.0394250010993,22.0199204177256
+132,Colorado,5694287,Positivity Data from Clinical Laboratories,04/05/2020,Three-day Moving Average of Percent Positivity,15.2,05/10/2020,28.0394250010993,22.0199204177256
+133,Colorado,5694287,Positivity Data from Clinical Laboratories,04/05/2020,Total Tests per 100k People,26.7,05/10/2020,28.0394250010993,22.0199204177256
+134,Colorado,5694287,Positivity Data from Clinical Laboratories,04/06/2020,Count of people tested by CDPHE lab,112,05/10/2020,28.0394250010993,22.0199204177256
+135,Colorado,5694287,Positivity Data from Clinical Laboratories,04/06/2020,Count of people tested by non-CDPHE (commercial) lab,1758,05/10/2020,28.0394250010993,22.0199204177256
+136,Colorado,5694287,Positivity Data from Clinical Laboratories,04/06/2020,Percent Positivity,12.3,05/10/2020,28.0394250010993,22.0199204177256
+137,Colorado,5694287,Positivity Data from Clinical Laboratories,04/06/2020,Three-day Moving Average of Percent Positivity,13.6,05/10/2020,28.0394250010993,22.0199204177256
+138,Colorado,5694287,Positivity Data from Clinical Laboratories,04/06/2020,Total Tests per 100k People,32.8,05/10/2020,28.0394250010993,22.0199204177256
+139,Colorado,5694287,Positivity Data from Clinical Laboratories,04/07/2020,Count of people tested by CDPHE lab,106,05/10/2020,28.0394250010993,22.0199204177256
+140,Colorado,5694287,Positivity Data from Clinical Laboratories,04/07/2020,Count of people tested by non-CDPHE (commercial) lab,1205,05/10/2020,28.0394250010993,22.0199204177256
+141,Colorado,5694287,Positivity Data from Clinical Laboratories,04/07/2020,Percent Positivity,17.2,05/10/2020,28.0394250010993,22.0199204177256
+142,Colorado,5694287,Positivity Data from Clinical Laboratories,04/07/2020,Three-day Moving Average of Percent Positivity,14.2,05/10/2020,28.0394250010993,22.0199204177256
+143,Colorado,5694287,Positivity Data from Clinical Laboratories,04/07/2020,Total Tests per 100k People,23,05/10/2020,28.0394250010993,22.0199204177256
+144,Colorado,5694287,Positivity Data from Clinical Laboratories,04/08/2020,Count of people tested by CDPHE lab,162,05/10/2020,28.0394250010993,22.0199204177256
+145,Colorado,5694287,Positivity Data from Clinical Laboratories,04/08/2020,Count of people tested by non-CDPHE (commercial) lab,2068,05/10/2020,28.0394250010993,22.0199204177256
+146,Colorado,5694287,Positivity Data from Clinical Laboratories,04/08/2020,Percent Positivity,22.6,05/10/2020,28.0394250010993,22.0199204177256
+147,Colorado,5694287,Positivity Data from Clinical Laboratories,04/08/2020,Three-day Moving Average of Percent Positivity,17.4,05/10/2020,28.0394250010993,22.0199204177256
+148,Colorado,5694287,Positivity Data from Clinical Laboratories,04/08/2020,Total Tests per 100k People,39.2,05/10/2020,28.0394250010993,22.0199204177256
+149,Colorado,5694287,Positivity Data from Clinical Laboratories,04/09/2020,Count of people tested by CDPHE lab,161,05/10/2020,28.0394250010993,22.0199204177256
+150,Colorado,5694287,Positivity Data from Clinical Laboratories,04/09/2020,Count of people tested by non-CDPHE (commercial) lab,1557,05/10/2020,28.0394250010993,22.0199204177256
+151,Colorado,5694287,Positivity Data from Clinical Laboratories,04/09/2020,Percent Positivity,19.6,05/10/2020,28.0394250010993,22.0199204177256
+152,Colorado,5694287,Positivity Data from Clinical Laboratories,04/09/2020,Three-day Moving Average of Percent Positivity,19.8,05/10/2020,28.0394250010993,22.0199204177256
+153,Colorado,5694287,Positivity Data from Clinical Laboratories,04/09/2020,Total Tests per 100k People,30.2,05/10/2020,28.0394250010993,22.0199204177256
+154,Colorado,5694287,Positivity Data from Clinical Laboratories,04/10/2020,Count of people tested by CDPHE lab,74,05/10/2020,28.0394250010993,22.0199204177256
+155,Colorado,5694287,Positivity Data from Clinical Laboratories,04/10/2020,Count of people tested by non-CDPHE (commercial) lab,2440,05/10/2020,28.0394250010993,22.0199204177256
+156,Colorado,5694287,Positivity Data from Clinical Laboratories,04/10/2020,Percent Positivity,16.6,05/10/2020,28.0394250010993,22.0199204177256
+157,Colorado,5694287,Positivity Data from Clinical Laboratories,04/10/2020,Three-day Moving Average of Percent Positivity,19.6,05/10/2020,28.0394250010993,22.0199204177256
+158,Colorado,5694287,Positivity Data from Clinical Laboratories,04/10/2020,Total Tests per 100k People,44.2,05/10/2020,28.0394250010993,22.0199204177256
+159,Colorado,5694287,Positivity Data from Clinical Laboratories,04/11/2020,Count of people tested by CDPHE lab,346,05/10/2020,28.0394250010993,22.0199204177256
+160,Colorado,5694287,Positivity Data from Clinical Laboratories,04/11/2020,Count of people tested by non-CDPHE (commercial) lab,2359,05/10/2020,28.0394250010993,22.0199204177256
+161,Colorado,5694287,Positivity Data from Clinical Laboratories,04/11/2020,Percent Positivity,14.9,05/10/2020,28.0394250010993,22.0199204177256
+162,Colorado,5694287,Positivity Data from Clinical Laboratories,04/11/2020,Three-day Moving Average of Percent Positivity,17,05/10/2020,28.0394250010993,22.0199204177256
+163,Colorado,5694287,Positivity Data from Clinical Laboratories,04/11/2020,Total Tests per 100k People,47.5,05/10/2020,28.0394250010993,22.0199204177256
+164,Colorado,5694287,Positivity Data from Clinical Laboratories,04/12/2020,Count of people tested by CDPHE lab,134,05/10/2020,28.0394250010993,22.0199204177256
+165,Colorado,5694287,Positivity Data from Clinical Laboratories,04/12/2020,Count of people tested by non-CDPHE (commercial) lab,1671,05/10/2020,28.0394250010993,22.0199204177256
+166,Colorado,5694287,Positivity Data from Clinical Laboratories,04/12/2020,Percent Positivity,19.5,05/10/2020,28.0394250010993,22.0199204177256
+167,Colorado,5694287,Positivity Data from Clinical Laboratories,04/12/2020,Three-day Moving Average of Percent Positivity,17,05/10/2020,28.0394250010993,22.0199204177256
+168,Colorado,5694287,Positivity Data from Clinical Laboratories,04/12/2020,Total Tests per 100k People,31.7,05/10/2020,28.0394250010993,22.0199204177256
+169,Colorado,5694287,Positivity Data from Clinical Laboratories,04/13/2020,Count of people tested by CDPHE lab,127,05/10/2020,28.0394250010993,22.0199204177256
+170,Colorado,5694287,Positivity Data from Clinical Laboratories,04/13/2020,Count of people tested by non-CDPHE (commercial) lab,969,05/10/2020,28.0394250010993,22.0199204177256
+171,Colorado,5694287,Positivity Data from Clinical Laboratories,04/13/2020,Percent Positivity,24.5,05/10/2020,28.0394250010993,22.0199204177256
+172,Colorado,5694287,Positivity Data from Clinical Laboratories,04/13/2020,Three-day Moving Average of Percent Positivity,19.6,05/10/2020,28.0394250010993,22.0199204177256
+173,Colorado,5694287,Positivity Data from Clinical Laboratories,04/13/2020,Total Tests per 100k People,19.3,05/10/2020,28.0394250010993,22.0199204177256
+174,Colorado,5694287,Positivity Data from Clinical Laboratories,04/14/2020,Count of people tested by CDPHE lab,147,05/10/2020,28.0394250010993,22.0199204177256
+175,Colorado,5694287,Positivity Data from Clinical Laboratories,04/14/2020,Count of people tested by non-CDPHE (commercial) lab,1077,05/10/2020,28.0394250010993,22.0199204177256
+176,Colorado,5694287,Positivity Data from Clinical Laboratories,04/14/2020,Percent Positivity,23.5,05/10/2020,28.0394250010993,22.0199204177256
+177,Colorado,5694287,Positivity Data from Clinical Laboratories,04/14/2020,Three-day Moving Average of Percent Positivity,22.5,05/10/2020,28.0394250010993,22.0199204177256
+178,Colorado,5694287,Positivity Data from Clinical Laboratories,04/14/2020,Total Tests per 100k People,21.5,05/10/2020,28.0394250010993,22.0199204177256
+179,Colorado,5694287,Positivity Data from Clinical Laboratories,04/15/2020,Count of people tested by CDPHE lab,297,05/10/2020,28.0394250010993,22.0199204177256
+180,Colorado,5694287,Positivity Data from Clinical Laboratories,04/15/2020,Count of people tested by non-CDPHE (commercial) lab,1236,05/10/2020,28.0394250010993,22.0199204177256
+181,Colorado,5694287,Positivity Data from Clinical Laboratories,04/15/2020,Percent Positivity,25.8,05/10/2020,28.0394250010993,22.0199204177256
+182,Colorado,5694287,Positivity Data from Clinical Laboratories,04/15/2020,Three-day Moving Average of Percent Positivity,24.6,05/10/2020,28.0394250010993,22.0199204177256
+183,Colorado,5694287,Positivity Data from Clinical Laboratories,04/15/2020,Total Tests per 100k People,26.9,05/10/2020,28.0394250010993,22.0199204177256
+184,Colorado,5694287,Positivity Data from Clinical Laboratories,04/16/2020,Count of people tested by CDPHE lab,197,05/10/2020,28.0394250010993,22.0199204177256
+185,Colorado,5694287,Positivity Data from Clinical Laboratories,04/16/2020,Count of people tested by non-CDPHE (commercial) lab,1561,05/10/2020,28.0394250010993,22.0199204177256
+186,Colorado,5694287,Positivity Data from Clinical Laboratories,04/16/2020,Percent Positivity,18.9,05/10/2020,28.0394250010993,22.0199204177256
+187,Colorado,5694287,Positivity Data from Clinical Laboratories,04/16/2020,Three-day Moving Average of Percent Positivity,22.8,05/10/2020,28.0394250010993,22.0199204177256
+188,Colorado,5694287,Positivity Data from Clinical Laboratories,04/16/2020,Total Tests per 100k People,30.9,05/10/2020,28.0394250010993,22.0199204177256
+189,Colorado,5694287,Positivity Data from Clinical Laboratories,04/17/2020,Count of people tested by CDPHE lab,205,05/10/2020,28.0394250010993,22.0199204177256
+190,Colorado,5694287,Positivity Data from Clinical Laboratories,04/17/2020,Count of people tested by non-CDPHE (commercial) lab,1533,05/10/2020,28.0394250010993,22.0199204177256
+191,Colorado,5694287,Positivity Data from Clinical Laboratories,04/17/2020,Percent Positivity,22.6,05/10/2020,28.0394250010993,22.0199204177256
+192,Colorado,5694287,Positivity Data from Clinical Laboratories,04/17/2020,Three-day Moving Average of Percent Positivity,22.4,05/10/2020,28.0394250010993,22.0199204177256
+193,Colorado,5694287,Positivity Data from Clinical Laboratories,04/17/2020,Total Tests per 100k People,30.5,05/10/2020,28.0394250010993,22.0199204177256
+194,Colorado,5694287,Positivity Data from Clinical Laboratories,04/18/2020,Count of people tested by CDPHE lab,493,05/10/2020,28.0394250010993,22.0199204177256
+195,Colorado,5694287,Positivity Data from Clinical Laboratories,04/18/2020,Count of people tested by non-CDPHE (commercial) lab,1475,05/10/2020,28.0394250010993,22.0199204177256
+196,Colorado,5694287,Positivity Data from Clinical Laboratories,04/18/2020,Percent Positivity,12.6,05/10/2020,28.0394250010993,22.0199204177256
+197,Colorado,5694287,Positivity Data from Clinical Laboratories,04/18/2020,Three-day Moving Average of Percent Positivity,18,05/10/2020,28.0394250010993,22.0199204177256
+198,Colorado,5694287,Positivity Data from Clinical Laboratories,04/18/2020,Total Tests per 100k People,34.6,05/10/2020,28.0394250010993,22.0199204177256
+199,Colorado,5694287,Positivity Data from Clinical Laboratories,04/19/2020,Count of people tested by CDPHE lab,400,05/10/2020,28.0394250010993,22.0199204177256
+200,Colorado,5694287,Positivity Data from Clinical Laboratories,04/19/2020,Count of people tested by non-CDPHE (commercial) lab,1219,05/10/2020,28.0394250010993,22.0199204177256
+201,Colorado,5694287,Positivity Data from Clinical Laboratories,04/19/2020,Percent Positivity,18,05/10/2020,28.0394250010993,22.0199204177256
+202,Colorado,5694287,Positivity Data from Clinical Laboratories,04/19/2020,Three-day Moving Average of Percent Positivity,17.7,05/10/2020,28.0394250010993,22.0199204177256
+203,Colorado,5694287,Positivity Data from Clinical Laboratories,04/19/2020,Total Tests per 100k People,28.4,05/10/2020,28.0394250010993,22.0199204177256
+204,Colorado,5694287,Positivity Data from Clinical Laboratories,04/20/2020,Count of people tested by CDPHE lab,433,05/10/2020,28.0394250010993,22.0199204177256
+205,Colorado,5694287,Positivity Data from Clinical Laboratories,04/20/2020,Count of people tested by non-CDPHE (commercial) lab,1127,05/10/2020,28.0394250010993,22.0199204177256
+206,Colorado,5694287,Positivity Data from Clinical Laboratories,04/20/2020,Percent Positivity,15.8,05/10/2020,28.0394250010993,22.0199204177256
+207,Colorado,5694287,Positivity Data from Clinical Laboratories,04/20/2020,Three-day Moving Average of Percent Positivity,15.5,05/10/2020,28.0394250010993,22.0199204177256
+208,Colorado,5694287,Positivity Data from Clinical Laboratories,04/20/2020,Total Tests per 100k People,27.4,05/10/2020,28.0394250010993,22.0199204177256
+209,Colorado,5694287,Positivity Data from Clinical Laboratories,04/21/2020,Count of people tested by CDPHE lab,453,05/10/2020,28.0394250010993,22.0199204177256
+210,Colorado,5694287,Positivity Data from Clinical Laboratories,04/21/2020,Count of people tested by non-CDPHE (commercial) lab,1748,05/10/2020,28.0394250010993,22.0199204177256
+211,Colorado,5694287,Positivity Data from Clinical Laboratories,04/21/2020,Percent Positivity,15.7,05/10/2020,28.0394250010993,22.0199204177256
+212,Colorado,5694287,Positivity Data from Clinical Laboratories,04/21/2020,Three-day Moving Average of Percent Positivity,16.5,05/10/2020,28.0394250010993,22.0199204177256
+213,Colorado,5694287,Positivity Data from Clinical Laboratories,04/21/2020,Total Tests per 100k People,38.7,05/10/2020,28.0394250010993,22.0199204177256
+214,Colorado,5694287,Positivity Data from Clinical Laboratories,04/22/2020,Count of people tested by CDPHE lab,426,05/10/2020,28.0394250010993,22.0199204177256
+215,Colorado,5694287,Positivity Data from Clinical Laboratories,04/22/2020,Count of people tested by non-CDPHE (commercial) lab,1600,05/10/2020,28.0394250010993,22.0199204177256
+216,Colorado,5694287,Positivity Data from Clinical Laboratories,04/22/2020,Percent Positivity,16.9,05/10/2020,28.0394250010993,22.0199204177256
+217,Colorado,5694287,Positivity Data from Clinical Laboratories,04/22/2020,Three-day Moving Average of Percent Positivity,16.1,05/10/2020,28.0394250010993,22.0199204177256
+218,Colorado,5694287,Positivity Data from Clinical Laboratories,04/22/2020,Total Tests per 100k People,35.6,05/10/2020,28.0394250010993,22.0199204177256
+219,Colorado,5694287,Positivity Data from Clinical Laboratories,04/23/2020,Count of people tested by CDPHE lab,682,05/10/2020,28.0394250010993,22.0199204177256
+220,Colorado,5694287,Positivity Data from Clinical Laboratories,04/23/2020,Count of people tested by non-CDPHE (commercial) lab,4652,05/10/2020,28.0394250010993,22.0199204177256
+221,Colorado,5694287,Positivity Data from Clinical Laboratories,04/23/2020,Percent Positivity,14.9,05/10/2020,28.0394250010993,22.0199204177256
+222,Colorado,5694287,Positivity Data from Clinical Laboratories,04/23/2020,Three-day Moving Average of Percent Positivity,15.8,05/10/2020,28.0394250010993,22.0199204177256
+223,Colorado,5694287,Positivity Data from Clinical Laboratories,04/23/2020,Total Tests per 100k People,93.7,05/10/2020,28.0394250010993,22.0199204177256
+224,Colorado,5694287,Positivity Data from Clinical Laboratories,04/24/2020,Count of people tested by CDPHE lab,617,05/10/2020,28.0394250010993,22.0199204177256
+225,Colorado,5694287,Positivity Data from Clinical Laboratories,04/24/2020,Count of people tested by non-CDPHE (commercial) lab,2593,05/10/2020,28.0394250010993,22.0199204177256
+226,Colorado,5694287,Positivity Data from Clinical Laboratories,04/24/2020,Percent Positivity,17.7,05/10/2020,28.0394250010993,22.0199204177256
+227,Colorado,5694287,Positivity Data from Clinical Laboratories,04/24/2020,Three-day Moving Average of Percent Positivity,16.5,05/10/2020,28.0394250010993,22.0199204177256
+228,Colorado,5694287,Positivity Data from Clinical Laboratories,04/24/2020,Total Tests per 100k People,56.4,05/10/2020,28.0394250010993,22.0199204177256
+229,Colorado,5694287,Positivity Data from Clinical Laboratories,04/25/2020,Count of people tested by CDPHE lab,707,05/10/2020,28.0394250010993,22.0199204177256
+230,Colorado,5694287,Positivity Data from Clinical Laboratories,04/25/2020,Count of people tested by non-CDPHE (commercial) lab,2540,05/10/2020,28.0394250010993,22.0199204177256
+231,Colorado,5694287,Positivity Data from Clinical Laboratories,04/25/2020,Percent Positivity,13.5,05/10/2020,28.0394250010993,22.0199204177256
+232,Colorado,5694287,Positivity Data from Clinical Laboratories,04/25/2020,Three-day Moving Average of Percent Positivity,15.4,05/10/2020,28.0394250010993,22.0199204177256
+233,Colorado,5694287,Positivity Data from Clinical Laboratories,04/25/2020,Total Tests per 100k People,57,05/10/2020,28.0394250010993,22.0199204177256
+234,Colorado,5694287,Positivity Data from Clinical Laboratories,04/26/2020,Count of people tested by CDPHE lab,575,05/10/2020,28.0394250010993,22.0199204177256
+235,Colorado,5694287,Positivity Data from Clinical Laboratories,04/26/2020,Count of people tested by non-CDPHE (commercial) lab,2189,05/10/2020,28.0394250010993,22.0199204177256
+236,Colorado,5694287,Positivity Data from Clinical Laboratories,04/26/2020,Percent Positivity,14,05/10/2020,28.0394250010993,22.0199204177256
+237,Colorado,5694287,Positivity Data from Clinical Laboratories,04/26/2020,Three-day Moving Average of Percent Positivity,15.1,05/10/2020,28.0394250010993,22.0199204177256
+238,Colorado,5694287,Positivity Data from Clinical Laboratories,04/26/2020,Total Tests per 100k People,48.5,05/10/2020,28.0394250010993,22.0199204177256
+239,Colorado,5694287,Positivity Data from Clinical Laboratories,04/27/2020,Count of people tested by CDPHE lab,775,05/10/2020,28.0394250010993,22.0199204177256
+240,Colorado,5694287,Positivity Data from Clinical Laboratories,04/27/2020,Count of people tested by non-CDPHE (commercial) lab,2154,05/10/2020,28.0394250010993,22.0199204177256
+241,Colorado,5694287,Positivity Data from Clinical Laboratories,04/27/2020,Percent Positivity,14.6,05/10/2020,28.0394250010993,22.0199204177256
+242,Colorado,5694287,Positivity Data from Clinical Laboratories,04/27/2020,Three-day Moving Average of Percent Positivity,14.1,05/10/2020,28.0394250010993,22.0199204177256
+243,Colorado,5694287,Positivity Data from Clinical Laboratories,04/27/2020,Total Tests per 100k People,51.4,05/10/2020,28.0394250010993,22.0199204177256
+244,Colorado,5694287,Positivity Data from Clinical Laboratories,04/28/2020,Count of people tested by CDPHE lab,464,05/10/2020,28.0394250010993,22.0199204177256
+245,Colorado,5694287,Positivity Data from Clinical Laboratories,04/28/2020,Count of people tested by non-CDPHE (commercial) lab,2564,05/10/2020,28.0394250010993,22.0199204177256
+246,Colorado,5694287,Positivity Data from Clinical Laboratories,04/28/2020,Percent Positivity,12.6,05/10/2020,28.0394250010993,22.0199204177256
+247,Colorado,5694287,Positivity Data from Clinical Laboratories,04/28/2020,Three-day Moving Average of Percent Positivity,13.7,05/10/2020,28.0394250010993,22.0199204177256
+248,Colorado,5694287,Positivity Data from Clinical Laboratories,04/28/2020,Total Tests per 100k People,53.2,05/10/2020,28.0394250010993,22.0199204177256
+249,Colorado,5694287,Positivity Data from Clinical Laboratories,04/29/2020,Count of people tested by CDPHE lab,437,05/10/2020,28.0394250010993,22.0199204177256
+250,Colorado,5694287,Positivity Data from Clinical Laboratories,04/29/2020,Count of people tested by non-CDPHE (commercial) lab,3058,05/10/2020,28.0394250010993,22.0199204177256
+251,Colorado,5694287,Positivity Data from Clinical Laboratories,04/29/2020,Percent Positivity,23,05/10/2020,28.0394250010993,22.0199204177256
+252,Colorado,5694287,Positivity Data from Clinical Laboratories,04/29/2020,Three-day Moving Average of Percent Positivity,16.7,05/10/2020,28.0394250010993,22.0199204177256
+253,Colorado,5694287,Positivity Data from Clinical Laboratories,04/29/2020,Total Tests per 100k People,61.4,05/10/2020,28.0394250010993,22.0199204177256
+254,Colorado,5694287,Positivity Data from Clinical Laboratories,04/30/2020,Count of people tested by CDPHE lab,741,05/10/2020,28.0394250010993,22.0199204177256
+255,Colorado,5694287,Positivity Data from Clinical Laboratories,04/30/2020,Count of people tested by non-CDPHE (commercial) lab,2739,05/10/2020,28.0394250010993,22.0199204177256
+256,Colorado,5694287,Positivity Data from Clinical Laboratories,04/30/2020,Percent Positivity,11.4,05/10/2020,28.0394250010993,22.0199204177256
+257,Colorado,5694287,Positivity Data from Clinical Laboratories,04/30/2020,Three-day Moving Average of Percent Positivity,15.6,05/10/2020,28.0394250010993,22.0199204177256
+258,Colorado,5694287,Positivity Data from Clinical Laboratories,04/30/2020,Total Tests per 100k People,61.1,05/10/2020,28.0394250010993,22.0199204177256
+259,Colorado,5694287,Positivity Data from Clinical Laboratories,05/01/2020,Count of people tested by CDPHE lab,446,05/10/2020,28.0394250010993,22.0199204177256
+260,Colorado,5694287,Positivity Data from Clinical Laboratories,05/01/2020,Count of people tested by non-CDPHE (commercial) lab,2939,05/10/2020,28.0394250010993,22.0199204177256
+261,Colorado,5694287,Positivity Data from Clinical Laboratories,05/01/2020,Percent Positivity,12.6,05/10/2020,28.0394250010993,22.0199204177256
+262,Colorado,5694287,Positivity Data from Clinical Laboratories,05/01/2020,Three-day Moving Average of Percent Positivity,15.6,05/10/2020,28.0394250010993,22.0199204177256
+263,Colorado,5694287,Positivity Data from Clinical Laboratories,05/01/2020,Total Tests per 100k People,59.5,05/10/2020,28.0394250010993,22.0199204177256
+264,Colorado,5694287,Positivity Data from Clinical Laboratories,05/02/2020,Count of people tested by CDPHE lab,618,05/10/2020,28.0394250010993,22.0199204177256
+265,Colorado,5694287,Positivity Data from Clinical Laboratories,05/02/2020,Count of people tested by non-CDPHE (commercial) lab,2957,05/10/2020,28.0394250010993,22.0199204177256
+266,Colorado,5694287,Positivity Data from Clinical Laboratories,05/02/2020,Percent Positivity,10.9,05/10/2020,28.0394250010993,22.0199204177256
+267,Colorado,5694287,Positivity Data from Clinical Laboratories,05/02/2020,Three-day Moving Average of Percent Positivity,11.6,05/10/2020,28.0394250010993,22.0199204177256
+268,Colorado,5694287,Positivity Data from Clinical Laboratories,05/02/2020,Total Tests per 100k People,62.8,05/10/2020,28.0394250010993,22.0199204177256
+269,Colorado,5694287,Positivity Data from Clinical Laboratories,05/03/2020,Count of people tested by CDPHE lab,315,05/10/2020,28.0394250010993,22.0199204177256
+270,Colorado,5694287,Positivity Data from Clinical Laboratories,05/03/2020,Count of people tested by non-CDPHE (commercial) lab,1881,05/10/2020,28.0394250010993,22.0199204177256
+271,Colorado,5694287,Positivity Data from Clinical Laboratories,05/03/2020,Percent Positivity,9.6,05/10/2020,28.0394250010993,22.0199204177256
+272,Colorado,5694287,Positivity Data from Clinical Laboratories,05/03/2020,Three-day Moving Average of Percent Positivity,11,05/10/2020,28.0394250010993,22.0199204177256
+273,Colorado,5694287,Positivity Data from Clinical Laboratories,05/03/2020,Total Tests per 100k People,38.6,05/10/2020,28.0394250010993,22.0199204177256
+274,Colorado,5694287,Positivity Data from Clinical Laboratories,05/04/2020,Count of people tested by CDPHE lab,127,05/10/2020,28.0394250010993,22.0199204177256
+275,Colorado,5694287,Positivity Data from Clinical Laboratories,05/04/2020,Count of people tested by non-CDPHE (commercial) lab,2964,05/10/2020,28.0394250010993,22.0199204177256
+276,Colorado,5694287,Positivity Data from Clinical Laboratories,05/04/2020,Percent Positivity,10.6,05/10/2020,28.0394250010993,22.0199204177256
+277,Colorado,5694287,Positivity Data from Clinical Laboratories,05/04/2020,Three-day Moving Average of Percent Positivity,10.4,05/10/2020,28.0394250010993,22.0199204177256
+278,Colorado,5694287,Positivity Data from Clinical Laboratories,05/04/2020,Total Tests per 100k People,54.3,05/10/2020,28.0394250010993,22.0199204177256
+279,Colorado,5694287,Positivity Data from Clinical Laboratories,05/05/2020,Count of people tested by CDPHE lab,322,05/10/2020,28.0394250010993,22.0199204177256
+280,Colorado,5694287,Positivity Data from Clinical Laboratories,05/05/2020,Count of people tested by non-CDPHE (commercial) lab,2929,05/10/2020,28.0394250010993,22.0199204177256
+281,Colorado,5694287,Positivity Data from Clinical Laboratories,05/05/2020,Percent Positivity,9.9,05/10/2020,28.0394250010993,22.0199204177256
+282,Colorado,5694287,Positivity Data from Clinical Laboratories,05/05/2020,Three-day Moving Average of Percent Positivity,10,05/10/2020,28.0394250010993,22.0199204177256
+283,Colorado,5694287,Positivity Data from Clinical Laboratories,05/05/2020,Total Tests per 100k People,57.1,05/10/2020,28.0394250010993,22.0199204177256
+284,Colorado,5694287,Positivity Data from Clinical Laboratories,05/06/2020,Count of people tested by CDPHE lab,687,05/10/2020,28.0394250010993,22.0199204177256
+285,Colorado,5694287,Positivity Data from Clinical Laboratories,05/06/2020,Count of people tested by non-CDPHE (commercial) lab,2741,05/10/2020,28.0394250010993,22.0199204177256
+286,Colorado,5694287,Positivity Data from Clinical Laboratories,05/06/2020,Percent Positivity,11.8,05/10/2020,28.0394250010993,22.0199204177256
+287,Colorado,5694287,Positivity Data from Clinical Laboratories,05/06/2020,Three-day Moving Average of Percent Positivity,10.8,05/10/2020,28.0394250010993,22.0199204177256
+288,Colorado,5694287,Positivity Data from Clinical Laboratories,05/06/2020,Total Tests per 100k People,60.2,05/10/2020,28.0394250010993,22.0199204177256
+289,Colorado,5694287,Positivity Data from Clinical Laboratories,05/07/2020,Count of people tested by CDPHE lab,693,05/10/2020,28.0394250010993,22.0199204177256
+290,Colorado,5694287,Positivity Data from Clinical Laboratories,05/07/2020,Count of people tested by non-CDPHE (commercial) lab,4702,05/10/2020,28.0394250010993,22.0199204177256
+291,Colorado,5694287,Positivity Data from Clinical Laboratories,05/07/2020,Percent Positivity,7,05/10/2020,28.0394250010993,22.0199204177256
+292,Colorado,5694287,Positivity Data from Clinical Laboratories,05/07/2020,Three-day Moving Average of Percent Positivity,9.6,05/10/2020,28.0394250010993,22.0199204177256
+293,Colorado,5694287,Positivity Data from Clinical Laboratories,05/07/2020,Total Tests per 100k People,94.7,05/10/2020,28.0394250010993,22.0199204177256
+294,Colorado,5694287,Positivity Data from Clinical Laboratories,05/08/2020,Count of people tested by CDPHE lab,845,05/10/2020,28.0394250010993,22.0199204177256
+295,Colorado,5694287,Positivity Data from Clinical Laboratories,05/08/2020,Count of people tested by non-CDPHE (commercial) lab,3864,05/10/2020,28.0394250010993,22.0199204177256
+296,Colorado,5694287,Positivity Data from Clinical Laboratories,05/08/2020,Percent Positivity,10.6,05/10/2020,28.0394250010993,22.0199204177256
+297,Colorado,5694287,Positivity Data from Clinical Laboratories,05/08/2020,Three-day Moving Average of Percent Positivity,9.8,05/10/2020,28.0394250010993,22.0199204177256
+298,Colorado,5694287,Positivity Data from Clinical Laboratories,05/08/2020,Total Tests per 100k People,82.7,05/10/2020,28.0394250010993,22.0199204177256
+299,Colorado,5694287,Positivity Data from Clinical Laboratories,05/09/2020,Count of people tested by CDPHE lab,852,05/10/2020,28.0394250010993,22.0199204177256
+300,Colorado,5694287,Positivity Data from Clinical Laboratories,05/09/2020,Count of people tested by non-CDPHE (commercial) lab,3250,05/10/2020,28.0394250010993,22.0199204177256
+301,Colorado,5694287,Positivity Data from Clinical Laboratories,05/09/2020,Percent Positivity,7.7,05/10/2020,28.0394250010993,22.0199204177256
+302,Colorado,5694287,Positivity Data from Clinical Laboratories,05/09/2020,Three-day Moving Average of Percent Positivity,8.5,05/10/2020,28.0394250010993,22.0199204177256
+303,Colorado,5694287,Positivity Data from Clinical Laboratories,05/09/2020,Total Tests per 100k People,72,05/10/2020,28.0394250010993,22.0199204177256
+304,Colorado,5694287,Daily Serology Data From Clinical Laboratories,04/20/2020,Number of negative tests,1,05/10/2020,28.0394250010993,22.0199204177256
+305,Colorado,5694287,Daily Serology Data From Clinical Laboratories,04/20/2020,Number of positive tests,0,05/10/2020,28.0394250010993,22.0199204177256
+306,Colorado,5694287,Daily Serology Data From Clinical Laboratories,04/21/2020,Number of negative tests,37,05/10/2020,28.0394250010993,22.0199204177256
+307,Colorado,5694287,Daily Serology Data From Clinical Laboratories,04/21/2020,Number of positive tests,0,05/10/2020,28.0394250010993,22.0199204177256
+308,Colorado,5694287,Daily Serology Data From Clinical Laboratories,04/22/2020,Number of negative tests,21,05/10/2020,28.0394250010993,22.0199204177256
+309,Colorado,5694287,Daily Serology Data From Clinical Laboratories,04/22/2020,Number of positive tests,10,05/10/2020,28.0394250010993,22.0199204177256
+310,Colorado,5694287,Daily Serology Data From Clinical Laboratories,04/23/2020,Number of negative tests,114,05/10/2020,28.0394250010993,22.0199204177256
+311,Colorado,5694287,Daily Serology Data From Clinical Laboratories,04/23/2020,Number of positive tests,27,05/10/2020,28.0394250010993,22.0199204177256
+312,Colorado,5694287,Daily Serology Data From Clinical Laboratories,04/24/2020,Number of negative tests,396,05/10/2020,28.0394250010993,22.0199204177256
+313,Colorado,5694287,Daily Serology Data From Clinical Laboratories,04/24/2020,Number of positive tests,46,05/10/2020,28.0394250010993,22.0199204177256
+314,Colorado,5694287,Daily Serology Data From Clinical Laboratories,04/25/2020,Number of negative tests,611,05/10/2020,28.0394250010993,22.0199204177256
+315,Colorado,5694287,Daily Serology Data From Clinical Laboratories,04/25/2020,Number of positive tests,57,05/10/2020,28.0394250010993,22.0199204177256
+316,Colorado,5694287,Daily Serology Data From Clinical Laboratories,04/26/2020,Number of negative tests,721,05/10/2020,28.0394250010993,22.0199204177256
+317,Colorado,5694287,Daily Serology Data From Clinical Laboratories,04/26/2020,Number of positive tests,56,05/10/2020,28.0394250010993,22.0199204177256
+318,Colorado,5694287,Daily Serology Data From Clinical Laboratories,04/27/2020,Number of negative tests,186,05/10/2020,28.0394250010993,22.0199204177256
+319,Colorado,5694287,Daily Serology Data From Clinical Laboratories,04/27/2020,Number of positive tests,33,05/10/2020,28.0394250010993,22.0199204177256
+320,Colorado,5694287,Daily Serology Data From Clinical Laboratories,04/28/2020,Number of negative tests,596,05/10/2020,28.0394250010993,22.0199204177256
+321,Colorado,5694287,Daily Serology Data From Clinical Laboratories,04/28/2020,Number of positive tests,75,05/10/2020,28.0394250010993,22.0199204177256
+322,Colorado,5694287,Daily Serology Data From Clinical Laboratories,04/29/2020,Number of negative tests,1120,05/10/2020,28.0394250010993,22.0199204177256
+323,Colorado,5694287,Daily Serology Data From Clinical Laboratories,04/29/2020,Number of positive tests,126,05/10/2020,28.0394250010993,22.0199204177256
+324,Colorado,5694287,Daily Serology Data From Clinical Laboratories,04/30/2020,Number of negative tests,1453,05/10/2020,28.0394250010993,22.0199204177256
+325,Colorado,5694287,Daily Serology Data From Clinical Laboratories,04/30/2020,Number of positive tests,142,05/10/2020,28.0394250010993,22.0199204177256
+326,Colorado,5694287,Daily Serology Data From Clinical Laboratories,05/01/2020,Number of negative tests,1509,05/10/2020,28.0394250010993,22.0199204177256
+327,Colorado,5694287,Daily Serology Data From Clinical Laboratories,05/01/2020,Number of positive tests,169,05/10/2020,28.0394250010993,22.0199204177256
+328,Colorado,5694287,Daily Serology Data From Clinical Laboratories,05/02/2020,Number of negative tests,1633,05/10/2020,28.0394250010993,22.0199204177256
+329,Colorado,5694287,Daily Serology Data From Clinical Laboratories,05/02/2020,Number of positive tests,133,05/10/2020,28.0394250010993,22.0199204177256
+330,Colorado,5694287,Daily Serology Data From Clinical Laboratories,05/03/2020,Number of negative tests,479,05/10/2020,28.0394250010993,22.0199204177256
+331,Colorado,5694287,Daily Serology Data From Clinical Laboratories,05/03/2020,Number of positive tests,55,05/10/2020,28.0394250010993,22.0199204177256
+332,Colorado,5694287,Daily Serology Data From Clinical Laboratories,05/04/2020,Number of negative tests,1581,05/10/2020,28.0394250010993,22.0199204177256
+333,Colorado,5694287,Daily Serology Data From Clinical Laboratories,05/04/2020,Number of positive tests,145,05/10/2020,28.0394250010993,22.0199204177256
+334,Colorado,5694287,Daily Serology Data From Clinical Laboratories,05/05/2020,Number of negative tests,597,05/10/2020,28.0394250010993,22.0199204177256
+335,Colorado,5694287,Daily Serology Data From Clinical Laboratories,05/05/2020,Number of positive tests,68,05/10/2020,28.0394250010993,22.0199204177256
+336,Colorado,5694287,Daily Serology Data From Clinical Laboratories,05/06/2020,Number of negative tests,1221,05/10/2020,28.0394250010993,22.0199204177256
+337,Colorado,5694287,Daily Serology Data From Clinical Laboratories,05/06/2020,Number of positive tests,174,05/10/2020,28.0394250010993,22.0199204177256
+338,Colorado,5694287,Daily Serology Data From Clinical Laboratories,05/07/2020,Number of negative tests,1889,05/10/2020,28.0394250010993,22.0199204177256
+339,Colorado,5694287,Daily Serology Data From Clinical Laboratories,05/07/2020,Number of positive tests,217,05/10/2020,28.0394250010993,22.0199204177256
+340,Colorado,5694287,Daily Serology Data From Clinical Laboratories,05/08/2020,Number of negative tests,1867,05/10/2020,28.0394250010993,22.0199204177256
+341,Colorado,5694287,Daily Serology Data From Clinical Laboratories,05/08/2020,Number of positive tests,146,05/10/2020,28.0394250010993,22.0199204177256
+342,Colorado,5694287,Daily Serology Data From Clinical Laboratories,05/09/2020,Number of negative tests,1646,05/10/2020,28.0394250010993,22.0199204177256
+343,Colorado,5694287,Daily Serology Data From Clinical Laboratories,05/09/2020,Number of positive tests,141,05/10/2020,28.0394250010993,22.0199204177256
+344,Note,,Positivity Data from Clinical Laboratories,,May not include all negative results.,,05/10/2020,,
+345,Note,,Positivity Data from Clinical Laboratories,,Individuals with serology-positive tests are not included in daily case counts until they are confirmed to have had COVID-like symptoms.,,05/10/2020,,
+346,Note,,Positivity Data from Clinical Laboratories,,Includes only tests from labs that participate in electronic lab reporting.,,05/10/2020,,
+347,Note,,Daily Serology Data From Clinical Laboratories,,May not include all negative results.,,05/10/2020,,

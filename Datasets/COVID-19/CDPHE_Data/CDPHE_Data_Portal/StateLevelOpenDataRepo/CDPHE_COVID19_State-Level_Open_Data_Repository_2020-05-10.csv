@@ -23763,28 +23763,1013 @@
 23762,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,5/5/2020,Deaths,8,5/9/2020,28.0394250010993,22.0199204177256
 23763,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,5/6/2020,Deaths,6,5/9/2020,28.0394250010993,22.0199204177256
 23764,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,5/7/2020,Deaths,2,5/9/2020,28.0394250010993,22.0199204177256
-24234,Note,,Cases of COVID-19 in Colorado by Date of Illness Onset,Note,,Onset date may be unavailable for some cases and inferred.,,5/9/2020,,
-24235,Note,,Cases of COVID-19 in Colorado by Date of Illness Onset,Note,,Illnesses might not yet be reported due to the time it takes between when a person becomes ill and when the illness is reported.,,5/9/2020,,
-24236,Note,,Cases of COVID-19 in Colorado by Date of Illness Onset,Note,,Onset date may be unavailable for some cases and inferred.,,5/9/2020,,
-24237,Note,,Cases of COVID-19 in Colorado by Date of Illness Onset,Note,,Illnesses might not yet be reported due to the time it takes between when a person becomes ill and when the illness is reported.,,5/9/2020,,
-24238,Note,,Cases of COVID-19 in Colorado by Date Reported to the State,Note,,"Data reported daily around 4PM; subsequent days' data may show differences as cases are reported after this time.",,5/9/2020,,
-24239,Note,,Cases of COVID-19 in Colorado by Date Reported to the State,Note,,"Data reported daily around 4PM; subsequent days' data may show differences as cases are reported after this time.",,5/9/2020,,
-24240,Note,,"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome",Note,,Data on cases recovered is unavailable.,,5/9/2020,,
-24241,Note,,"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome",Note,,Patients who were hospitalized and subsequently died are only counted once as a death.,,5/9/2020,,
-24242,Note,,COVID-19 in Colorado by Age Group,Note,,Percent of cases and deaths by age group compared to percent of total Colorado (CO) population.,,5/9/2020,,
-24243,Note,,COVID-19 in Colorado by Age Group,Note,,"Population Data: Colorado Department of Local Affairs State Demography Office, 2018 Regional Estimates",,5/9/2020,,
-24244,Note,,COVID-19 in Colorado by Race & Ethnicity,Note,,Percent of cases and deaths by race and ethnicity compared to percent of total Colorado (CO) population.,,5/9/2020,,
-24245,Note,,COVID-19 in Colorado by Race & Ethnicity,Note,,"Population Data: U.S. Census Bureau, 2018 American Community Survey 1-Year Estimates",,5/9/2020,,
-24246,Note,,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,Note,,"Data is reported daily around 4pm; subsequent days' data may show differences as cases are reported after this time.",,5/9/2020,,
-24247,Note,,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,Note,,Onset date may be unavailable for some cases and inferred.,,5/9/2020,,
-24248,Note,,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,Note,,Illnesses might not yet be reported due to the time it takes between when a person becomes ill and when the illness is reported.,,5/9/2020,,
-24249,Note,,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,Note,,"Data is reported daily around 4pm; subsequent days' data may show differences as cases are reported after this time.",,5/9/2020,,
-24250,Note,,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,Note,,Deaths,,5/9/2020,,
-24251,Note,,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,Note,,Deaths,,5/9/2020,,
-24252,Note,,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,Note,,Deaths,,5/9/2020,,
-24253,Note,,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,Note,,Deaths,,5/9/2020,,
-24254,Note,,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,Note,,Deaths,,5/9/2020,,
-24255,Note,,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,Note,,"Data is reported daily around 4pm; subsequent days' data may show differences as cases are reported after this time.",,5/9/2020,,
-24256,Note,,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,Note,,Onset date may be unavailable for some cases and inferred.,,5/9/2020,,
-24257,Note,,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,Note,,Illnesses might not yet be reported due to the time it takes between when a person becomes ill and when the illness is reported.,,5/9/2020,,
-24258,Note,,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,Note,,"Data is reported daily around 4pm; subsequent days' data may show differences as cases are reported after this time.",,5/9/2020,,
+23765,Colorado,5694287,Case Status for Cases & Deaths,Confirmed,,Number of Cases,17809,5/10/2020,28.0394250010993,22.0199204177256
+23766,Colorado,5694287,Case Status for Cases & Deaths,Confirmed,,Percent of Cases,0.9,5/10/2020,28.0394250010993,22.0199204177256
+23767,Colorado,5694287,Case Status for Cases & Deaths,Confirmed,,Number of Deaths,828,5/10/2020,28.0394250010993,22.0199204177256
+23768,Colorado,5694287,Case Status for Cases & Deaths,Confirmed,,Percent of Deaths,0.85,5/10/2020,28.0394250010993,22.0199204177256
+23769,Colorado,5694287,Case Status for Cases & Deaths,Probable,,Number of Cases,1823,5/10/2020,28.0394250010993,22.0199204177256
+23770,Colorado,5694287,Case Status for Cases & Deaths,Probable,,Percent of Cases,0.09,5/10/2020,28.0394250010993,22.0199204177256
+23771,Colorado,5694287,Case Status for Cases & Deaths,Probable,,Number of Deaths,143,5/10/2020,28.0394250010993,22.0199204177256
+23772,Colorado,5694287,Case Status for Cases & Deaths,Probable,,Percent of Deaths,0.15,5/10/2020,28.0394250010993,22.0199204177256
+23773,Colorado,5694287,Case Status for Cases & Deaths,Unknown,,Number of Cases,71,5/10/2020,28.0394250010993,22.0199204177256
+23774,Colorado,5694287,Case Status for Cases & Deaths,Unknown,,Percent of Cases,0,5/10/2020,28.0394250010993,22.0199204177256
+23775,Colorado,5694287,Case Status for Cases & Deaths,Unknown,,Number of Deaths,,5/10/2020,28.0394250010993,22.0199204177256
+23776,Colorado,5694287,Case Status for Cases & Deaths,Unknown,,Percent of Deaths,,5/10/2020,28.0394250010993,22.0199204177256
+23777,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/3/2020,Three-Day Moving Average Of Cases,1,5/10/2020,28.0394250010993,22.0199204177256
+23778,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/4/2020,Three-Day Moving Average Of Cases,0.33,5/10/2020,28.0394250010993,22.0199204177256
+23779,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/5/2020,Three-Day Moving Average Of Cases,0.67,5/10/2020,28.0394250010993,22.0199204177256
+23780,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/6/2020,Three-Day Moving Average Of Cases,1,5/10/2020,28.0394250010993,22.0199204177256
+23781,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/7/2020,Three-Day Moving Average Of Cases,1,5/10/2020,28.0394250010993,22.0199204177256
+23782,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/8/2020,Three-Day Moving Average Of Cases,0.33,5/10/2020,28.0394250010993,22.0199204177256
+23783,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/9/2020,Three-Day Moving Average Of Cases,0.33,5/10/2020,28.0394250010993,22.0199204177256
+23784,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/10/2020,Three-Day Moving Average Of Cases,1.67,5/10/2020,28.0394250010993,22.0199204177256
+23785,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/11/2020,Three-Day Moving Average Of Cases,1.67,5/10/2020,28.0394250010993,22.0199204177256
+23786,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/12/2020,Three-Day Moving Average Of Cases,1.33,5/10/2020,28.0394250010993,22.0199204177256
+23787,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/13/2020,Three-Day Moving Average Of Cases,0.33,5/10/2020,28.0394250010993,22.0199204177256
+23788,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/14/2020,Three-Day Moving Average Of Cases,0.67,5/10/2020,28.0394250010993,22.0199204177256
+23789,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/15/2020,Three-Day Moving Average Of Cases,2.33,5/10/2020,28.0394250010993,22.0199204177256
+23790,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/16/2020,Three-Day Moving Average Of Cases,2,5/10/2020,28.0394250010993,22.0199204177256
+23791,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/17/2020,Three-Day Moving Average Of Cases,2.33,5/10/2020,28.0394250010993,22.0199204177256
+23792,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/18/2020,Three-Day Moving Average Of Cases,1,5/10/2020,28.0394250010993,22.0199204177256
+23793,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/19/2020,Three-Day Moving Average Of Cases,1.67,5/10/2020,28.0394250010993,22.0199204177256
+23794,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/20/2020,Three-Day Moving Average Of Cases,3,5/10/2020,28.0394250010993,22.0199204177256
+23795,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/21/2020,Three-Day Moving Average Of Cases,3.33,5/10/2020,28.0394250010993,22.0199204177256
+23796,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/22/2020,Three-Day Moving Average Of Cases,3.67,5/10/2020,28.0394250010993,22.0199204177256
+23797,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/23/2020,Three-Day Moving Average Of Cases,3.33,5/10/2020,28.0394250010993,22.0199204177256
+23798,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/24/2020,Three-Day Moving Average Of Cases,4.67,5/10/2020,28.0394250010993,22.0199204177256
+23799,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/25/2020,Three-Day Moving Average Of Cases,5,5/10/2020,28.0394250010993,22.0199204177256
+23800,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/26/2020,Three-Day Moving Average Of Cases,6,5/10/2020,28.0394250010993,22.0199204177256
+23801,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/27/2020,Three-Day Moving Average Of Cases,7.67,5/10/2020,28.0394250010993,22.0199204177256
+23802,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/28/2020,Three-Day Moving Average Of Cases,9.67,5/10/2020,28.0394250010993,22.0199204177256
+23803,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/29/2020,Three-Day Moving Average Of Cases,10.67,5/10/2020,28.0394250010993,22.0199204177256
+23804,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/1/2020,Three-Day Moving Average Of Cases,20,5/10/2020,28.0394250010993,22.0199204177256
+23805,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/2/2020,Three-Day Moving Average Of Cases,24,5/10/2020,28.0394250010993,22.0199204177256
+23806,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/3/2020,Three-Day Moving Average Of Cases,32,5/10/2020,28.0394250010993,22.0199204177256
+23807,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/4/2020,Three-Day Moving Average Of Cases,34,5/10/2020,28.0394250010993,22.0199204177256
+23808,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/5/2020,Three-Day Moving Average Of Cases,37.67,5/10/2020,28.0394250010993,22.0199204177256
+23809,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/6/2020,Three-Day Moving Average Of Cases,45.33,5/10/2020,28.0394250010993,22.0199204177256
+23810,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/7/2020,Three-Day Moving Average Of Cases,49.67,5/10/2020,28.0394250010993,22.0199204177256
+23811,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/8/2020,Three-Day Moving Average Of Cases,75.33,5/10/2020,28.0394250010993,22.0199204177256
+23812,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/9/2020,Three-Day Moving Average Of Cases,115.67,5/10/2020,28.0394250010993,22.0199204177256
+23813,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/10/2020,Three-Day Moving Average Of Cases,152.33,5/10/2020,28.0394250010993,22.0199204177256
+23814,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/11/2020,Three-Day Moving Average Of Cases,175,5/10/2020,28.0394250010993,22.0199204177256
+23815,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/12/2020,Three-Day Moving Average Of Cases,173.67,5/10/2020,28.0394250010993,22.0199204177256
+23816,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/13/2020,Three-Day Moving Average Of Cases,203.67,5/10/2020,28.0394250010993,22.0199204177256
+23817,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/14/2020,Three-Day Moving Average Of Cases,213,5/10/2020,28.0394250010993,22.0199204177256
+23818,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/15/2020,Three-Day Moving Average Of Cases,248.33,5/10/2020,28.0394250010993,22.0199204177256
+23819,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/16/2020,Three-Day Moving Average Of Cases,269,5/10/2020,28.0394250010993,22.0199204177256
+23820,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/17/2020,Three-Day Moving Average Of Cases,303,5/10/2020,28.0394250010993,22.0199204177256
+23821,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/18/2020,Three-Day Moving Average Of Cases,321.33,5/10/2020,28.0394250010993,22.0199204177256
+23822,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/19/2020,Three-Day Moving Average Of Cases,308.67,5/10/2020,28.0394250010993,22.0199204177256
+23823,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/20/2020,Three-Day Moving Average Of Cases,319.33,5/10/2020,28.0394250010993,22.0199204177256
+23824,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/21/2020,Three-Day Moving Average Of Cases,303,5/10/2020,28.0394250010993,22.0199204177256
+23825,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/22/2020,Three-Day Moving Average Of Cases,295,5/10/2020,28.0394250010993,22.0199204177256
+23826,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/23/2020,Three-Day Moving Average Of Cases,318.67,5/10/2020,28.0394250010993,22.0199204177256
+23827,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/24/2020,Three-Day Moving Average Of Cases,333.67,5/10/2020,28.0394250010993,22.0199204177256
+23828,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/25/2020,Three-Day Moving Average Of Cases,381,5/10/2020,28.0394250010993,22.0199204177256
+23829,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/26/2020,Three-Day Moving Average Of Cases,343.33,5/10/2020,28.0394250010993,22.0199204177256
+23830,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/27/2020,Three-Day Moving Average Of Cases,363.67,5/10/2020,28.0394250010993,22.0199204177256
+23831,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/28/2020,Three-Day Moving Average Of Cases,337.67,5/10/2020,28.0394250010993,22.0199204177256
+23832,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/29/2020,Three-Day Moving Average Of Cases,334.33,5/10/2020,28.0394250010993,22.0199204177256
+23833,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/30/2020,Three-Day Moving Average Of Cases,351,5/10/2020,28.0394250010993,22.0199204177256
+23834,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/31/2020,Three-Day Moving Average Of Cases,336.33,5/10/2020,28.0394250010993,22.0199204177256
+23835,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/1/2020,Three-Day Moving Average Of Cases,395,5/10/2020,28.0394250010993,22.0199204177256
+23836,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/2/2020,Three-Day Moving Average Of Cases,369.33,5/10/2020,28.0394250010993,22.0199204177256
+23837,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/3/2020,Three-Day Moving Average Of Cases,417.33,5/10/2020,28.0394250010993,22.0199204177256
+23838,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/4/2020,Three-Day Moving Average Of Cases,369.67,5/10/2020,28.0394250010993,22.0199204177256
+23839,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/5/2020,Three-Day Moving Average Of Cases,353.33,5/10/2020,28.0394250010993,22.0199204177256
+23840,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/6/2020,Three-Day Moving Average Of Cases,365.67,5/10/2020,28.0394250010993,22.0199204177256
+23841,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/7/2020,Three-Day Moving Average Of Cases,385,5/10/2020,28.0394250010993,22.0199204177256
+23842,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/8/2020,Three-Day Moving Average Of Cases,406.33,5/10/2020,28.0394250010993,22.0199204177256
+23843,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/9/2020,Three-Day Moving Average Of Cases,383,5/10/2020,28.0394250010993,22.0199204177256
+23844,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/10/2020,Three-Day Moving Average Of Cases,404.67,5/10/2020,28.0394250010993,22.0199204177256
+23845,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/11/2020,Three-Day Moving Average Of Cases,398.33,5/10/2020,28.0394250010993,22.0199204177256
+23846,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/12/2020,Three-Day Moving Average Of Cases,398.67,5/10/2020,28.0394250010993,22.0199204177256
+23847,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/13/2020,Three-Day Moving Average Of Cases,404.67,5/10/2020,28.0394250010993,22.0199204177256
+23848,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/14/2020,Three-Day Moving Average Of Cases,417.67,5/10/2020,28.0394250010993,22.0199204177256
+23849,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/15/2020,Three-Day Moving Average Of Cases,441.33,5/10/2020,28.0394250010993,22.0199204177256
+23850,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/16/2020,Three-Day Moving Average Of Cases,407.67,5/10/2020,28.0394250010993,22.0199204177256
+23851,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/17/2020,Three-Day Moving Average Of Cases,436,5/10/2020,28.0394250010993,22.0199204177256
+23852,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/18/2020,Three-Day Moving Average Of Cases,409.67,5/10/2020,28.0394250010993,22.0199204177256
+23853,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/19/2020,Three-Day Moving Average Of Cases,380.67,5/10/2020,28.0394250010993,22.0199204177256
+23854,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/20/2020,Three-Day Moving Average Of Cases,410.67,5/10/2020,28.0394250010993,22.0199204177256
+23855,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/21/2020,Three-Day Moving Average Of Cases,385.33,5/10/2020,28.0394250010993,22.0199204177256
+23856,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/22/2020,Three-Day Moving Average Of Cases,421,5/10/2020,28.0394250010993,22.0199204177256
+23857,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/23/2020,Three-Day Moving Average Of Cases,345,5/10/2020,28.0394250010993,22.0199204177256
+23858,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/24/2020,Three-Day Moving Average Of Cases,378,5/10/2020,28.0394250010993,22.0199204177256
+23859,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/25/2020,Three-Day Moving Average Of Cases,383.67,5/10/2020,28.0394250010993,22.0199204177256
+23860,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/26/2020,Three-Day Moving Average Of Cases,374,5/10/2020,28.0394250010993,22.0199204177256
+23861,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/27/2020,Three-Day Moving Average Of Cases,366,5/10/2020,28.0394250010993,22.0199204177256
+23862,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/28/2020,Three-Day Moving Average Of Cases,320,5/10/2020,28.0394250010993,22.0199204177256
+23863,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/29/2020,Three-Day Moving Average Of Cases,305.67,5/10/2020,28.0394250010993,22.0199204177256
+23864,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/30/2020,Three-Day Moving Average Of Cases,282,5/10/2020,28.0394250010993,22.0199204177256
+23865,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,5/1/2020,Three-Day Moving Average Of Cases,262.67,5/10/2020,28.0394250010993,22.0199204177256
+23866,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,5/2/2020,Three-Day Moving Average Of Cases,231,5/10/2020,28.0394250010993,22.0199204177256
+23867,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,5/3/2020,Three-Day Moving Average Of Cases,189.33,5/10/2020,28.0394250010993,22.0199204177256
+23868,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,5/4/2020,Three-Day Moving Average Of Cases,163.67,5/10/2020,28.0394250010993,22.0199204177256
+23869,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,5/5/2020,Three-Day Moving Average Of Cases,153.67,5/10/2020,28.0394250010993,22.0199204177256
+23870,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,5/6/2020,Three-Day Moving Average Of Cases,123.67,5/10/2020,28.0394250010993,22.0199204177256
+23871,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,5/7/2020,Three-Day Moving Average Of Cases,99.67,5/10/2020,28.0394250010993,22.0199204177256
+23872,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/1/2020,Cases,2,5/10/2020,28.0394250010993,22.0199204177256
+23873,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/2/2020,Cases,1,5/10/2020,28.0394250010993,22.0199204177256
+23874,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/3/2020,Cases,0,5/10/2020,28.0394250010993,22.0199204177256
+23875,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/4/2020,Cases,0,5/10/2020,28.0394250010993,22.0199204177256
+23876,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/5/2020,Cases,2,5/10/2020,28.0394250010993,22.0199204177256
+23877,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/6/2020,Cases,1,5/10/2020,28.0394250010993,22.0199204177256
+23878,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/7/2020,Cases,0,5/10/2020,28.0394250010993,22.0199204177256
+23879,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/8/2020,Cases,0,5/10/2020,28.0394250010993,22.0199204177256
+23880,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/9/2020,Cases,1,5/10/2020,28.0394250010993,22.0199204177256
+23881,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/10/2020,Cases,4,5/10/2020,28.0394250010993,22.0199204177256
+23882,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/11/2020,Cases,0,5/10/2020,28.0394250010993,22.0199204177256
+23883,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/12/2020,Cases,0,5/10/2020,28.0394250010993,22.0199204177256
+23884,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/13/2020,Cases,1,5/10/2020,28.0394250010993,22.0199204177256
+23885,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/14/2020,Cases,1,5/10/2020,28.0394250010993,22.0199204177256
+23886,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/15/2020,Cases,5,5/10/2020,28.0394250010993,22.0199204177256
+23887,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/16/2020,Cases,0,5/10/2020,28.0394250010993,22.0199204177256
+23888,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/17/2020,Cases,2,5/10/2020,28.0394250010993,22.0199204177256
+23889,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/18/2020,Cases,1,5/10/2020,28.0394250010993,22.0199204177256
+23890,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/19/2020,Cases,2,5/10/2020,28.0394250010993,22.0199204177256
+23891,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/20/2020,Cases,6,5/10/2020,28.0394250010993,22.0199204177256
+23892,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/21/2020,Cases,2,5/10/2020,28.0394250010993,22.0199204177256
+23893,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/22/2020,Cases,3,5/10/2020,28.0394250010993,22.0199204177256
+23894,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/23/2020,Cases,5,5/10/2020,28.0394250010993,22.0199204177256
+23895,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/24/2020,Cases,6,5/10/2020,28.0394250010993,22.0199204177256
+23896,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/25/2020,Cases,4,5/10/2020,28.0394250010993,22.0199204177256
+23897,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/26/2020,Cases,8,5/10/2020,28.0394250010993,22.0199204177256
+23898,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/27/2020,Cases,11,5/10/2020,28.0394250010993,22.0199204177256
+23899,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/28/2020,Cases,10,5/10/2020,28.0394250010993,22.0199204177256
+23900,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,2/29/2020,Cases,11,5/10/2020,28.0394250010993,22.0199204177256
+23901,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/1/2020,Cases,39,5/10/2020,28.0394250010993,22.0199204177256
+23902,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/2/2020,Cases,22,5/10/2020,28.0394250010993,22.0199204177256
+23903,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/3/2020,Cases,35,5/10/2020,28.0394250010993,22.0199204177256
+23904,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/4/2020,Cases,45,5/10/2020,28.0394250010993,22.0199204177256
+23905,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/5/2020,Cases,33,5/10/2020,28.0394250010993,22.0199204177256
+23906,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/6/2020,Cases,58,5/10/2020,28.0394250010993,22.0199204177256
+23907,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/7/2020,Cases,58,5/10/2020,28.0394250010993,22.0199204177256
+23908,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/8/2020,Cases,110,5/10/2020,28.0394250010993,22.0199204177256
+23909,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/9/2020,Cases,179,5/10/2020,28.0394250010993,22.0199204177256
+23910,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/10/2020,Cases,168,5/10/2020,28.0394250010993,22.0199204177256
+23911,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/11/2020,Cases,178,5/10/2020,28.0394250010993,22.0199204177256
+23912,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/12/2020,Cases,175,5/10/2020,28.0394250010993,22.0199204177256
+23913,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/13/2020,Cases,258,5/10/2020,28.0394250010993,22.0199204177256
+23914,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/14/2020,Cases,206,5/10/2020,28.0394250010993,22.0199204177256
+23915,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/15/2020,Cases,281,5/10/2020,28.0394250010993,22.0199204177256
+23916,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/16/2020,Cases,320,5/10/2020,28.0394250010993,22.0199204177256
+23917,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/17/2020,Cases,308,5/10/2020,28.0394250010993,22.0199204177256
+23918,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/18/2020,Cases,336,5/10/2020,28.0394250010993,22.0199204177256
+23919,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/19/2020,Cases,282,5/10/2020,28.0394250010993,22.0199204177256
+23920,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/20/2020,Cases,340,5/10/2020,28.0394250010993,22.0199204177256
+23921,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/21/2020,Cases,287,5/10/2020,28.0394250010993,22.0199204177256
+23922,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/22/2020,Cases,258,5/10/2020,28.0394250010993,22.0199204177256
+23923,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/23/2020,Cases,411,5/10/2020,28.0394250010993,22.0199204177256
+23924,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/24/2020,Cases,332,5/10/2020,28.0394250010993,22.0199204177256
+23925,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/25/2020,Cases,400,5/10/2020,28.0394250010993,22.0199204177256
+23926,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/26/2020,Cases,298,5/10/2020,28.0394250010993,22.0199204177256
+23927,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/27/2020,Cases,393,5/10/2020,28.0394250010993,22.0199204177256
+23928,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/28/2020,Cases,322,5/10/2020,28.0394250010993,22.0199204177256
+23929,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/29/2020,Cases,288,5/10/2020,28.0394250010993,22.0199204177256
+23930,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/30/2020,Cases,443,5/10/2020,28.0394250010993,22.0199204177256
+23931,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,3/31/2020,Cases,278,5/10/2020,28.0394250010993,22.0199204177256
+23932,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/1/2020,Cases,464,5/10/2020,28.0394250010993,22.0199204177256
+23933,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/2/2020,Cases,366,5/10/2020,28.0394250010993,22.0199204177256
+23934,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/3/2020,Cases,422,5/10/2020,28.0394250010993,22.0199204177256
+23935,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/4/2020,Cases,321,5/10/2020,28.0394250010993,22.0199204177256
+23936,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/5/2020,Cases,317,5/10/2020,28.0394250010993,22.0199204177256
+23937,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/6/2020,Cases,459,5/10/2020,28.0394250010993,22.0199204177256
+23938,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/7/2020,Cases,379,5/10/2020,28.0394250010993,22.0199204177256
+23939,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/8/2020,Cases,381,5/10/2020,28.0394250010993,22.0199204177256
+23940,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/9/2020,Cases,389,5/10/2020,28.0394250010993,22.0199204177256
+23941,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/10/2020,Cases,444,5/10/2020,28.0394250010993,22.0199204177256
+23942,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/11/2020,Cases,362,5/10/2020,28.0394250010993,22.0199204177256
+23943,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/12/2020,Cases,390,5/10/2020,28.0394250010993,22.0199204177256
+23944,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/13/2020,Cases,462,5/10/2020,28.0394250010993,22.0199204177256
+23945,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/14/2020,Cases,401,5/10/2020,28.0394250010993,22.0199204177256
+23946,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/15/2020,Cases,461,5/10/2020,28.0394250010993,22.0199204177256
+23947,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/16/2020,Cases,361,5/10/2020,28.0394250010993,22.0199204177256
+23948,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/17/2020,Cases,486,5/10/2020,28.0394250010993,22.0199204177256
+23949,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/18/2020,Cases,382,5/10/2020,28.0394250010993,22.0199204177256
+23950,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/19/2020,Cases,274,5/10/2020,28.0394250010993,22.0199204177256
+23951,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/20/2020,Cases,576,5/10/2020,28.0394250010993,22.0199204177256
+23952,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/21/2020,Cases,306,5/10/2020,28.0394250010993,22.0199204177256
+23953,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/22/2020,Cases,381,5/10/2020,28.0394250010993,22.0199204177256
+23954,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/23/2020,Cases,348,5/10/2020,28.0394250010993,22.0199204177256
+23955,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/24/2020,Cases,405,5/10/2020,28.0394250010993,22.0199204177256
+23956,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/25/2020,Cases,398,5/10/2020,28.0394250010993,22.0199204177256
+23957,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/26/2020,Cases,319,5/10/2020,28.0394250010993,22.0199204177256
+23958,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/27/2020,Cases,381,5/10/2020,28.0394250010993,22.0199204177256
+23959,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/28/2020,Cases,260,5/10/2020,28.0394250010993,22.0199204177256
+23960,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/29/2020,Cases,276,5/10/2020,28.0394250010993,22.0199204177256
+23961,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,4/30/2020,Cases,310,5/10/2020,28.0394250010993,22.0199204177256
+23962,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,5/1/2020,Cases,202,5/10/2020,28.0394250010993,22.0199204177256
+23963,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,5/2/2020,Cases,181,5/10/2020,28.0394250010993,22.0199204177256
+23964,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,5/3/2020,Cases,185,5/10/2020,28.0394250010993,22.0199204177256
+23965,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,5/4/2020,Cases,125,5/10/2020,28.0394250010993,22.0199204177256
+23966,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,5/5/2020,Cases,151,5/10/2020,28.0394250010993,22.0199204177256
+23967,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,5/6/2020,Cases,95,5/10/2020,28.0394250010993,22.0199204177256
+23968,Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,5/7/2020,Cases,53,5/10/2020,28.0394250010993,22.0199204177256
+23969,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,3/7/2020,Three-Day Moving Average Of Cases,2.67,5/10/2020,28.0394250010993,22.0199204177256
+23970,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,3/8/2020,Three-Day Moving Average Of Cases,0,5/10/2020,28.0394250010993,22.0199204177256
+23971,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,3/9/2020,Three-Day Moving Average Of Cases,1.67,5/10/2020,28.0394250010993,22.0199204177256
+23972,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,3/10/2020,Three-Day Moving Average Of Cases,3.67,5/10/2020,28.0394250010993,22.0199204177256
+23973,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,3/11/2020,Three-Day Moving Average Of Cases,10,5/10/2020,28.0394250010993,22.0199204177256
+23974,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,3/12/2020,Three-Day Moving Average Of Cases,11.67,5/10/2020,28.0394250010993,22.0199204177256
+23975,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,3/13/2020,Three-Day Moving Average Of Cases,19,5/10/2020,28.0394250010993,22.0199204177256
+23976,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,3/14/2020,Three-Day Moving Average Of Cases,23.33,5/10/2020,28.0394250010993,22.0199204177256
+23977,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,3/15/2020,Three-Day Moving Average Of Cases,31.33,5/10/2020,28.0394250010993,22.0199204177256
+23978,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,3/16/2020,Three-Day Moving Average Of Cases,34.33,5/10/2020,28.0394250010993,22.0199204177256
+23979,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,3/17/2020,Three-Day Moving Average Of Cases,34,5/10/2020,28.0394250010993,22.0199204177256
+23980,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,3/18/2020,Three-Day Moving Average Of Cases,45.33,5/10/2020,28.0394250010993,22.0199204177256
+23981,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,3/19/2020,Three-Day Moving Average Of Cases,61.67,5/10/2020,28.0394250010993,22.0199204177256
+23982,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,3/20/2020,Three-Day Moving Average Of Cases,91,5/10/2020,28.0394250010993,22.0199204177256
+23983,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,3/21/2020,Three-Day Moving Average Of Cases,106.67,5/10/2020,28.0394250010993,22.0199204177256
+23984,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,3/22/2020,Three-Day Moving Average Of Cases,120,5/10/2020,28.0394250010993,22.0199204177256
+23985,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,3/23/2020,Three-Day Moving Average Of Cases,144.33,5/10/2020,28.0394250010993,22.0199204177256
+23986,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,3/24/2020,Three-Day Moving Average Of Cases,164.33,5/10/2020,28.0394250010993,22.0199204177256
+23987,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,3/25/2020,Three-Day Moving Average Of Cases,227.67,5/10/2020,28.0394250010993,22.0199204177256
+23988,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,3/26/2020,Three-Day Moving Average Of Cases,262.33,5/10/2020,28.0394250010993,22.0199204177256
+23989,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,3/27/2020,Three-Day Moving Average Of Cases,313.33,5/10/2020,28.0394250010993,22.0199204177256
+23990,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,3/28/2020,Three-Day Moving Average Of Cases,289,5/10/2020,28.0394250010993,22.0199204177256
+23991,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,3/29/2020,Three-Day Moving Average Of Cases,301,5/10/2020,28.0394250010993,22.0199204177256
+23992,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,3/30/2020,Three-Day Moving Average Of Cases,300.33,5/10/2020,28.0394250010993,22.0199204177256
+23993,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,3/31/2020,Three-Day Moving Average Of Cases,347.67,5/10/2020,28.0394250010993,22.0199204177256
+23994,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/1/2020,Three-Day Moving Average Of Cases,369,5/10/2020,28.0394250010993,22.0199204177256
+23995,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/2/2020,Three-Day Moving Average Of Cases,410.67,5/10/2020,28.0394250010993,22.0199204177256
+23996,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/3/2020,Three-Day Moving Average Of Cases,413,5/10/2020,28.0394250010993,22.0199204177256
+23997,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/4/2020,Three-Day Moving Average Of Cases,410,5/10/2020,28.0394250010993,22.0199204177256
+23998,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/5/2020,Three-Day Moving Average Of Cases,333,5/10/2020,28.0394250010993,22.0199204177256
+23999,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/6/2020,Three-Day Moving Average Of Cases,291.67,5/10/2020,28.0394250010993,22.0199204177256
+24000,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/7/2020,Three-Day Moving Average Of Cases,245.33,5/10/2020,28.0394250010993,22.0199204177256
+24001,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/8/2020,Three-Day Moving Average Of Cases,355,5/10/2020,28.0394250010993,22.0199204177256
+24002,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/9/2020,Three-Day Moving Average Of Cases,387.33,5/10/2020,28.0394250010993,22.0199204177256
+24003,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/10/2020,Three-Day Moving Average Of Cases,449.67,5/10/2020,28.0394250010993,22.0199204177256
+24004,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/11/2020,Three-Day Moving Average Of Cases,410.67,5/10/2020,28.0394250010993,22.0199204177256
+24005,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/12/2020,Three-Day Moving Average Of Cases,416,5/10/2020,28.0394250010993,22.0199204177256
+24006,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/13/2020,Three-Day Moving Average Of Cases,370,5/10/2020,28.0394250010993,22.0199204177256
+24007,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/14/2020,Three-Day Moving Average Of Cases,328.33,5/10/2020,28.0394250010993,22.0199204177256
+24008,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/15/2020,Three-Day Moving Average Of Cases,340.33,5/10/2020,28.0394250010993,22.0199204177256
+24009,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/16/2020,Three-Day Moving Average Of Cases,359.67,5/10/2020,28.0394250010993,22.0199204177256
+24010,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/17/2020,Three-Day Moving Average Of Cases,400.33,5/10/2020,28.0394250010993,22.0199204177256
+24011,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/18/2020,Three-Day Moving Average Of Cases,351,5/10/2020,28.0394250010993,22.0199204177256
+24012,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/19/2020,Three-Day Moving Average Of Cases,341.33,5/10/2020,28.0394250010993,22.0199204177256
+24013,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/20/2020,Three-Day Moving Average Of Cases,293.67,5/10/2020,28.0394250010993,22.0199204177256
+24014,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/21/2020,Three-Day Moving Average Of Cases,359.67,5/10/2020,28.0394250010993,22.0199204177256
+24015,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/22/2020,Three-Day Moving Average Of Cases,382.33,5/10/2020,28.0394250010993,22.0199204177256
+24016,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/23/2020,Three-Day Moving Average Of Cases,609.67,5/10/2020,28.0394250010993,22.0199204177256
+24017,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/24/2020,Three-Day Moving Average Of Cases,690.33,5/10/2020,28.0394250010993,22.0199204177256
+24018,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/25/2020,Three-Day Moving Average Of Cases,724.33,5/10/2020,28.0394250010993,22.0199204177256
+24019,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/26/2020,Three-Day Moving Average Of Cases,546.33,5/10/2020,28.0394250010993,22.0199204177256
+24020,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/27/2020,Three-Day Moving Average Of Cases,474.67,5/10/2020,28.0394250010993,22.0199204177256
+24021,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/28/2020,Three-Day Moving Average Of Cases,449.33,5/10/2020,28.0394250010993,22.0199204177256
+24022,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/29/2020,Three-Day Moving Average Of Cases,579.67,5/10/2020,28.0394250010993,22.0199204177256
+24023,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/30/2020,Three-Day Moving Average Of Cases,563.67,5/10/2020,28.0394250010993,22.0199204177256
+24024,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,5/1/2020,Three-Day Moving Average Of Cases,574.67,5/10/2020,28.0394250010993,22.0199204177256
+24025,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,5/2/2020,Three-Day Moving Average Of Cases,434.33,5/10/2020,28.0394250010993,22.0199204177256
+24026,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,5/3/2020,Three-Day Moving Average Of Cases,365,5/10/2020,28.0394250010993,22.0199204177256
+24027,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,5/4/2020,Three-Day Moving Average Of Cases,332.33,5/10/2020,28.0394250010993,22.0199204177256
+24028,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,5/5/2020,Three-Day Moving Average Of Cases,324.67,5/10/2020,28.0394250010993,22.0199204177256
+24029,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,5/6/2020,Three-Day Moving Average Of Cases,388.33,5/10/2020,28.0394250010993,22.0199204177256
+24030,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,5/7/2020,Three-Day Moving Average Of Cases,406.33,5/10/2020,28.0394250010993,22.0199204177256
+24031,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,5/8/2020,Three-Day Moving Average Of Cases,454.67,5/10/2020,28.0394250010993,22.0199204177256
+24032,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,5/9/2020,Three-Day Moving Average Of Cases,421,5/10/2020,28.0394250010993,22.0199204177256
+24033,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,3/5/2020,Cases,8,5/10/2020,28.0394250010993,22.0199204177256
+24034,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,3/6/2020,Cases,0,5/10/2020,28.0394250010993,22.0199204177256
+24035,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,3/7/2020,Cases,0,5/10/2020,28.0394250010993,22.0199204177256
+24036,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,3/8/2020,Cases,0,5/10/2020,28.0394250010993,22.0199204177256
+24037,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,3/9/2020,Cases,5,5/10/2020,28.0394250010993,22.0199204177256
+24038,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,3/10/2020,Cases,6,5/10/2020,28.0394250010993,22.0199204177256
+24039,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,3/11/2020,Cases,19,5/10/2020,28.0394250010993,22.0199204177256
+24040,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,3/12/2020,Cases,10,5/10/2020,28.0394250010993,22.0199204177256
+24041,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,3/13/2020,Cases,28,5/10/2020,28.0394250010993,22.0199204177256
+24042,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,3/14/2020,Cases,32,5/10/2020,28.0394250010993,22.0199204177256
+24043,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,3/15/2020,Cases,34,5/10/2020,28.0394250010993,22.0199204177256
+24044,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,3/16/2020,Cases,37,5/10/2020,28.0394250010993,22.0199204177256
+24045,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,3/17/2020,Cases,31,5/10/2020,28.0394250010993,22.0199204177256
+24046,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,3/18/2020,Cases,68,5/10/2020,28.0394250010993,22.0199204177256
+24047,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,3/19/2020,Cases,86,5/10/2020,28.0394250010993,22.0199204177256
+24048,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,3/20/2020,Cases,119,5/10/2020,28.0394250010993,22.0199204177256
+24049,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,3/21/2020,Cases,115,5/10/2020,28.0394250010993,22.0199204177256
+24050,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,3/22/2020,Cases,126,5/10/2020,28.0394250010993,22.0199204177256
+24051,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,3/23/2020,Cases,192,5/10/2020,28.0394250010993,22.0199204177256
+24052,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,3/24/2020,Cases,175,5/10/2020,28.0394250010993,22.0199204177256
+24053,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,3/25/2020,Cases,316,5/10/2020,28.0394250010993,22.0199204177256
+24054,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,3/26/2020,Cases,296,5/10/2020,28.0394250010993,22.0199204177256
+24055,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,3/27/2020,Cases,328,5/10/2020,28.0394250010993,22.0199204177256
+24056,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,3/28/2020,Cases,243,5/10/2020,28.0394250010993,22.0199204177256
+24057,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,3/29/2020,Cases,332,5/10/2020,28.0394250010993,22.0199204177256
+24058,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,3/30/2020,Cases,326,5/10/2020,28.0394250010993,22.0199204177256
+24059,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,3/31/2020,Cases,385,5/10/2020,28.0394250010993,22.0199204177256
+24060,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/1/2020,Cases,396,5/10/2020,28.0394250010993,22.0199204177256
+24061,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/2/2020,Cases,451,5/10/2020,28.0394250010993,22.0199204177256
+24062,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/3/2020,Cases,392,5/10/2020,28.0394250010993,22.0199204177256
+24063,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/4/2020,Cases,387,5/10/2020,28.0394250010993,22.0199204177256
+24064,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/5/2020,Cases,220,5/10/2020,28.0394250010993,22.0199204177256
+24065,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/6/2020,Cases,268,5/10/2020,28.0394250010993,22.0199204177256
+24066,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/7/2020,Cases,248,5/10/2020,28.0394250010993,22.0199204177256
+24067,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/8/2020,Cases,549,5/10/2020,28.0394250010993,22.0199204177256
+24068,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/9/2020,Cases,365,5/10/2020,28.0394250010993,22.0199204177256
+24069,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/10/2020,Cases,435,5/10/2020,28.0394250010993,22.0199204177256
+24070,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/11/2020,Cases,432,5/10/2020,28.0394250010993,22.0199204177256
+24071,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/12/2020,Cases,381,5/10/2020,28.0394250010993,22.0199204177256
+24072,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/13/2020,Cases,297,5/10/2020,28.0394250010993,22.0199204177256
+24073,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/14/2020,Cases,307,5/10/2020,28.0394250010993,22.0199204177256
+24074,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/15/2020,Cases,417,5/10/2020,28.0394250010993,22.0199204177256
+24075,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/16/2020,Cases,355,5/10/2020,28.0394250010993,22.0199204177256
+24076,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/17/2020,Cases,429,5/10/2020,28.0394250010993,22.0199204177256
+24077,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/18/2020,Cases,269,5/10/2020,28.0394250010993,22.0199204177256
+24078,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/19/2020,Cases,326,5/10/2020,28.0394250010993,22.0199204177256
+24079,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/20/2020,Cases,286,5/10/2020,28.0394250010993,22.0199204177256
+24080,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/21/2020,Cases,467,5/10/2020,28.0394250010993,22.0199204177256
+24081,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/22/2020,Cases,394,5/10/2020,28.0394250010993,22.0199204177256
+24082,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/23/2020,Cases,968,5/10/2020,28.0394250010993,22.0199204177256
+24083,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/24/2020,Cases,709,5/10/2020,28.0394250010993,22.0199204177256
+24084,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/25/2020,Cases,496,5/10/2020,28.0394250010993,22.0199204177256
+24085,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/26/2020,Cases,434,5/10/2020,28.0394250010993,22.0199204177256
+24086,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/27/2020,Cases,494,5/10/2020,28.0394250010993,22.0199204177256
+24087,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/28/2020,Cases,420,5/10/2020,28.0394250010993,22.0199204177256
+24088,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/29/2020,Cases,825,5/10/2020,28.0394250010993,22.0199204177256
+24089,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,4/30/2020,Cases,446,5/10/2020,28.0394250010993,22.0199204177256
+24090,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,5/1/2020,Cases,453,5/10/2020,28.0394250010993,22.0199204177256
+24091,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,5/2/2020,Cases,404,5/10/2020,28.0394250010993,22.0199204177256
+24092,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,5/3/2020,Cases,238,5/10/2020,28.0394250010993,22.0199204177256
+24093,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,5/4/2020,Cases,355,5/10/2020,28.0394250010993,22.0199204177256
+24094,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,5/5/2020,Cases,381,5/10/2020,28.0394250010993,22.0199204177256
+24095,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,5/6/2020,Cases,429,5/10/2020,28.0394250010993,22.0199204177256
+24096,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,5/7/2020,Cases,409,5/10/2020,28.0394250010993,22.0199204177256
+24097,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,5/8/2020,Cases,526,5/10/2020,28.0394250010993,22.0199204177256
+24098,Colorado,5694287,Cases of COVID-19 in Colorado by Date Reported to the State,,5/9/2020,Cases,328,5/10/2020,28.0394250010993,22.0199204177256
+24099,Colorado,5694287,"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","0-9, Hospitalized",,Cases,29,5/10/2020,28.0394250010993,22.0199204177256
+24100,Colorado,5694287,"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","0-9, Not Hospitalized",,Cases,301,5/10/2020,28.0394250010993,22.0199204177256
+24101,Colorado,5694287,"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","10-19, Deaths",,Cases,1,5/10/2020,28.0394250010993,22.0199204177256
+24102,Colorado,5694287,"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","10-19, Hospitalized",,Cases,27,5/10/2020,28.0394250010993,22.0199204177256
+24103,Colorado,5694287,"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","10-19, Not Hospitalized",,Cases,682,5/10/2020,28.0394250010993,22.0199204177256
+24104,Colorado,5694287,"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","20-29, Deaths",,Cases,5,5/10/2020,28.0394250010993,22.0199204177256
+24105,Colorado,5694287,"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","20-29, Hospitalized",,Cases,155,5/10/2020,28.0394250010993,22.0199204177256
+24106,Colorado,5694287,"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","20-29, Not Hospitalized",,Cases,2791,5/10/2020,28.0394250010993,22.0199204177256
+24107,Colorado,5694287,"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","30-39, Deaths",,Cases,5,5/10/2020,28.0394250010993,22.0199204177256
+24108,Colorado,5694287,"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","30-39, Hospitalized",,Cases,297,5/10/2020,28.0394250010993,22.0199204177256
+24109,Colorado,5694287,"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","30-39, Not Hospitalized",,Cases,3078,5/10/2020,28.0394250010993,22.0199204177256
+24110,Colorado,5694287,"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","40-49, Deaths",,Cases,25,5/10/2020,28.0394250010993,22.0199204177256
+24111,Colorado,5694287,"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","40-49, Hospitalized",,Cases,454,5/10/2020,28.0394250010993,22.0199204177256
+24112,Colorado,5694287,"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","40-49, Not Hospitalized",,Cases,2923,5/10/2020,28.0394250010993,22.0199204177256
+24113,Colorado,5694287,"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","50-59, Deaths",,Cases,47,5/10/2020,28.0394250010993,22.0199204177256
+24114,Colorado,5694287,"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","50-59, Hospitalized",,Cases,650,5/10/2020,28.0394250010993,22.0199204177256
+24115,Colorado,5694287,"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","50-59, Not Hospitalized",,Cases,2594,5/10/2020,28.0394250010993,22.0199204177256
+24116,Colorado,5694287,"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","60-69, Deaths",,Cases,131,5/10/2020,28.0394250010993,22.0199204177256
+24117,Colorado,5694287,"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","60-69, Hospitalized",,Cases,654,5/10/2020,28.0394250010993,22.0199204177256
+24118,Colorado,5694287,"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","60-69, Not Hospitalized",,Cases,1645,5/10/2020,28.0394250010993,22.0199204177256
+24119,Colorado,5694287,"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","70-79, Deaths",,Cases,227,5/10/2020,28.0394250010993,22.0199204177256
+24120,Colorado,5694287,"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","70-79, Hospitalized",,Cases,505,5/10/2020,28.0394250010993,22.0199204177256
+24121,Colorado,5694287,"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","70-79, Not Hospitalized",,Cases,816,5/10/2020,28.0394250010993,22.0199204177256
+24122,Colorado,5694287,"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","80+, Deaths",,Cases,530,5/10/2020,28.0394250010993,22.0199204177256
+24123,Colorado,5694287,"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","80+, Hospitalized",,Cases,333,5/10/2020,28.0394250010993,22.0199204177256
+24124,Colorado,5694287,"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","80+, Not Hospitalized",,Cases,743,5/10/2020,28.0394250010993,22.0199204177256
+24125,Colorado,5694287,"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","Unknown, Hospitalized",,Cases,1,5/10/2020,28.0394250010993,22.0199204177256
+24126,Colorado,5694287,"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","Unknown, Not Hospitalized",,Cases,54,5/10/2020,28.0394250010993,22.0199204177256
+24127,Colorado,5694287,COVID-19 in Colorado by Age Group,0-9,,Percent of Cases,1.67,5/10/2020,28.0394250010993,22.0199204177256
+24128,Colorado,5694287,COVID-19 in Colorado by Age Group,10-19,,Percent of Cases,3.6,5/10/2020,28.0394250010993,22.0199204177256
+24129,Colorado,5694287,COVID-19 in Colorado by Age Group,20-29,,Percent of Cases,14.98,5/10/2020,28.0394250010993,22.0199204177256
+24130,Colorado,5694287,COVID-19 in Colorado by Age Group,30-39,,Percent of Cases,17.15,5/10/2020,28.0394250010993,22.0199204177256
+24131,Colorado,5694287,COVID-19 in Colorado by Age Group,40-49,,Percent of Cases,17.27,5/10/2020,28.0394250010993,22.0199204177256
+24132,Colorado,5694287,COVID-19 in Colorado by Age Group,50-59,,Percent of Cases,16.7,5/10/2020,28.0394250010993,22.0199204177256
+24133,Colorado,5694287,COVID-19 in Colorado by Age Group,60-69,,Percent of Cases,12.33,5/10/2020,28.0394250010993,22.0199204177256
+24134,Colorado,5694287,COVID-19 in Colorado by Age Group,70-79,,Percent of Cases,7.86,5/10/2020,28.0394250010993,22.0199204177256
+24135,Colorado,5694287,COVID-19 in Colorado by Age Group,80+,,Percent of Cases,8.15,5/10/2020,28.0394250010993,22.0199204177256
+24136,Colorado,5694287,COVID-19 in Colorado by Age Group,Unknown,,Percent of Cases,0.28,5/10/2020,28.0394250010993,22.0199204177256
+24137,Colorado,5694287,COVID-19 in Colorado by Age Group,10-19,,Percent of Deaths,0.1,5/10/2020,28.0394250010993,22.0199204177256
+24138,Colorado,5694287,COVID-19 in Colorado by Age Group,20-29,,Percent of Deaths,0.51,5/10/2020,28.0394250010993,22.0199204177256
+24139,Colorado,5694287,COVID-19 in Colorado by Age Group,30-39,,Percent of Deaths,0.51,5/10/2020,28.0394250010993,22.0199204177256
+24140,Colorado,5694287,COVID-19 in Colorado by Age Group,40-49,,Percent of Deaths,2.57,5/10/2020,28.0394250010993,22.0199204177256
+24141,Colorado,5694287,COVID-19 in Colorado by Age Group,50-59,,Percent of Deaths,4.84,5/10/2020,28.0394250010993,22.0199204177256
+24142,Colorado,5694287,COVID-19 in Colorado by Age Group,60-69,,Percent of Deaths,13.49,5/10/2020,28.0394250010993,22.0199204177256
+24143,Colorado,5694287,COVID-19 in Colorado by Age Group,70-79,,Percent of Deaths,23.38,5/10/2020,28.0394250010993,22.0199204177256
+24144,Colorado,5694287,COVID-19 in Colorado by Age Group,80+,,Percent of Deaths,54.58,5/10/2020,28.0394250010993,22.0199204177256
+24145,Colorado,5694287,COVID-19 in Colorado by Age Group,0-9,,Percent of Colorado Population,11.85,5/10/2020,28.0394250010993,22.0199204177256
+24146,Colorado,5694287,COVID-19 in Colorado by Age Group,10-19,,Percent of Colorado Population,13.11,5/10/2020,28.0394250010993,22.0199204177256
+24147,Colorado,5694287,COVID-19 in Colorado by Age Group,20-29,,Percent of Colorado Population,14.61,5/10/2020,28.0394250010993,22.0199204177256
+24148,Colorado,5694287,COVID-19 in Colorado by Age Group,30-39,,Percent of Colorado Population,14.56,5/10/2020,28.0394250010993,22.0199204177256
+24149,Colorado,5694287,COVID-19 in Colorado by Age Group,40-49,,Percent of Colorado Population,13.04,5/10/2020,28.0394250010993,22.0199204177256
+24150,Colorado,5694287,COVID-19 in Colorado by Age Group,50-59,,Percent of Colorado Population,12.67,5/10/2020,28.0394250010993,22.0199204177256
+24151,Colorado,5694287,COVID-19 in Colorado by Age Group,60-69,,Percent of Colorado Population,10.91,5/10/2020,28.0394250010993,22.0199204177256
+24152,Colorado,5694287,COVID-19 in Colorado by Age Group,70-79,,Percent of Colorado Population,6.12,5/10/2020,28.0394250010993,22.0199204177256
+24153,Colorado,5694287,COVID-19 in Colorado by Age Group,80+,,Percent of Colorado Population,3.13,5/10/2020,28.0394250010993,22.0199204177256
+24154,Colorado,5694287,COVID-19 in Colorado by Age Group,Unknown,,Percent of Colorado Population,0,5/10/2020,28.0394250010993,22.0199204177256
+24155,Colorado,5694287,COVID-19 in Colorado by Race & Ethnicity,AIAN - Non Hispanic,,Percent of Cases,0.43,5/10/2020,28.0394250010993,22.0199204177256
+24156,Colorado,5694287,COVID-19 in Colorado by Race & Ethnicity,Asian - Non Hispanic,,Percent of Cases,2.84,5/10/2020,28.0394250010993,22.0199204177256
+24157,Colorado,5694287,COVID-19 in Colorado by Race & Ethnicity,Black - Non Hispanic,,Percent of Cases,6.3,5/10/2020,28.0394250010993,22.0199204177256
+24158,Colorado,5694287,COVID-19 in Colorado by Race & Ethnicity,"Hispanic, All Races",,Percent of Cases,33.15,5/10/2020,28.0394250010993,22.0199204177256
+24159,Colorado,5694287,COVID-19 in Colorado by Race & Ethnicity,Multiple - Non Hispanic,,Percent of Cases,0.89,5/10/2020,28.0394250010993,22.0199204177256
+24160,Colorado,5694287,COVID-19 in Colorado by Race & Ethnicity,NHOPI - Non Hispanic,,Percent of Cases,0.42,5/10/2020,28.0394250010993,22.0199204177256
+24161,Colorado,5694287,COVID-19 in Colorado by Race & Ethnicity,White - Non Hispanic,,Percent of Cases,37.49,5/10/2020,28.0394250010993,22.0199204177256
+24162,Colorado,5694287,COVID-19 in Colorado by Race & Ethnicity,Other,,Percent of Cases,1.07,5/10/2020,28.0394250010993,22.0199204177256
+24163,Colorado,5694287,COVID-19 in Colorado by Race & Ethnicity,Unknown/Not Provided,,Percent of Cases,17.42,5/10/2020,28.0394250010993,22.0199204177256
+24164,Colorado,5694287,COVID-19 in Colorado by Race & Ethnicity,AIAN - Non Hispanic,,Percent of Deaths,0.31,5/10/2020,28.0394250010993,22.0199204177256
+24165,Colorado,5694287,COVID-19 in Colorado by Race & Ethnicity,Asian - Non Hispanic,,Percent of Deaths,3.91,5/10/2020,28.0394250010993,22.0199204177256
+24166,Colorado,5694287,COVID-19 in Colorado by Race & Ethnicity,Black - Non Hispanic,,Percent of Deaths,6.59,5/10/2020,28.0394250010993,22.0199204177256
+24167,Colorado,5694287,COVID-19 in Colorado by Race & Ethnicity,"Hispanic, All Races",,Percent of Deaths,16.68,5/10/2020,28.0394250010993,22.0199204177256
+24168,Colorado,5694287,COVID-19 in Colorado by Race & Ethnicity,Multiple - Non Hispanic,,Percent of Deaths,1.13,5/10/2020,28.0394250010993,22.0199204177256
+24169,Colorado,5694287,COVID-19 in Colorado by Race & Ethnicity,NHOPI - Non Hispanic,,Percent of Deaths,0.31,5/10/2020,28.0394250010993,22.0199204177256
+24170,Colorado,5694287,COVID-19 in Colorado by Race & Ethnicity,White - Non Hispanic,,Percent of Deaths,63.85,5/10/2020,28.0394250010993,22.0199204177256
+24171,Colorado,5694287,COVID-19 in Colorado by Race & Ethnicity,Other,,Percent of Deaths,0.72,5/10/2020,28.0394250010993,22.0199204177256
+24172,Colorado,5694287,COVID-19 in Colorado by Race & Ethnicity,Unknown/Not Provided,,Percent of Deaths,6.49,5/10/2020,28.0394250010993,22.0199204177256
+24173,Colorado,5694287,COVID-19 in Colorado by Race & Ethnicity,AIAN - Non Hispanic,,Percent of Colorado Population,0.56,5/10/2020,28.0394250010993,22.0199204177256
+24174,Colorado,5694287,COVID-19 in Colorado by Race & Ethnicity,Asian - Non Hispanic,,Percent of Colorado Population,3.12,5/10/2020,28.0394250010993,22.0199204177256
+24175,Colorado,5694287,COVID-19 in Colorado by Race & Ethnicity,Black - Non Hispanic,,Percent of Colorado Population,3.92,5/10/2020,28.0394250010993,22.0199204177256
+24176,Colorado,5694287,COVID-19 in Colorado by Race & Ethnicity,"Hispanic, All Races",,Percent of Colorado Population,21.69,5/10/2020,28.0394250010993,22.0199204177256
+24177,Colorado,5694287,COVID-19 in Colorado by Race & Ethnicity,Multiple - Non Hispanic,,Percent of Colorado Population,2.65,5/10/2020,28.0394250010993,22.0199204177256
+24178,Colorado,5694287,COVID-19 in Colorado by Race & Ethnicity,NHOPI - Non Hispanic,,Percent of Colorado Population,0.12,5/10/2020,28.0394250010993,22.0199204177256
+24179,Colorado,5694287,COVID-19 in Colorado by Race & Ethnicity,White - Non Hispanic,,Percent of Colorado Population,67.76,5/10/2020,28.0394250010993,22.0199204177256
+24180,Colorado,5694287,COVID-19 in Colorado by Race & Ethnicity,Other,,Percent of Colorado Population,0.19,5/10/2020,28.0394250010993,22.0199204177256
+24181,Colorado,5694287,COVID-19 in Colorado by Sex,Female,,Percent of Cases,50.49,5/10/2020,28.0394250010993,22.0199204177256
+24182,Colorado,5694287,COVID-19 in Colorado by Sex,Male,,Percent of Cases,48.06,5/10/2020,28.0394250010993,22.0199204177256
+24183,Colorado,5694287,COVID-19 in Colorado by Sex,Male to Female,,Percent of Cases,0.01,5/10/2020,28.0394250010993,22.0199204177256
+24184,Colorado,5694287,COVID-19 in Colorado by Sex,Unknown,,Percent of Cases,1.43,5/10/2020,28.0394250010993,22.0199204177256
+24185,Colorado,5694287,COVID-19 in Colorado by Sex,Female,,Percent of Deaths,43.15,5/10/2020,28.0394250010993,22.0199204177256
+24186,Colorado,5694287,COVID-19 in Colorado by Sex,Male,,Percent of Deaths,55.92,5/10/2020,28.0394250010993,22.0199204177256
+24187,Colorado,5694287,COVID-19 in Colorado by Sex,Unknown,,Percent of Deaths,0.93,5/10/2020,28.0394250010993,22.0199204177256
+24188,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,2/1/2020,Cases,2,5/10/2020,28.0394250010993,22.0199204177256
+24189,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,2/2/2020,Cases,3,5/10/2020,28.0394250010993,22.0199204177256
+24190,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,2/3/2020,Cases,3,5/10/2020,28.0394250010993,22.0199204177256
+24191,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,2/4/2020,Cases,3,5/10/2020,28.0394250010993,22.0199204177256
+24192,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,2/5/2020,Cases,5,5/10/2020,28.0394250010993,22.0199204177256
+24193,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,2/6/2020,Cases,6,5/10/2020,28.0394250010993,22.0199204177256
+24194,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,2/7/2020,Cases,6,5/10/2020,28.0394250010993,22.0199204177256
+24195,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,2/8/2020,Cases,6,5/10/2020,28.0394250010993,22.0199204177256
+24196,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,2/9/2020,Cases,7,5/10/2020,28.0394250010993,22.0199204177256
+24197,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,2/10/2020,Cases,11,5/10/2020,28.0394250010993,22.0199204177256
+24198,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,2/11/2020,Cases,11,5/10/2020,28.0394250010993,22.0199204177256
+24199,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,2/12/2020,Cases,11,5/10/2020,28.0394250010993,22.0199204177256
+24200,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,2/13/2020,Cases,12,5/10/2020,28.0394250010993,22.0199204177256
+24201,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,2/14/2020,Cases,13,5/10/2020,28.0394250010993,22.0199204177256
+24202,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,2/15/2020,Cases,18,5/10/2020,28.0394250010993,22.0199204177256
+24203,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,2/16/2020,Cases,18,5/10/2020,28.0394250010993,22.0199204177256
+24204,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,2/17/2020,Cases,20,5/10/2020,28.0394250010993,22.0199204177256
+24205,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,2/18/2020,Cases,21,5/10/2020,28.0394250010993,22.0199204177256
+24206,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,2/19/2020,Cases,23,5/10/2020,28.0394250010993,22.0199204177256
+24207,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,2/20/2020,Cases,29,5/10/2020,28.0394250010993,22.0199204177256
+24208,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,2/21/2020,Cases,31,5/10/2020,28.0394250010993,22.0199204177256
+24209,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,2/22/2020,Cases,34,5/10/2020,28.0394250010993,22.0199204177256
+24210,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,2/23/2020,Cases,39,5/10/2020,28.0394250010993,22.0199204177256
+24211,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,2/24/2020,Cases,45,5/10/2020,28.0394250010993,22.0199204177256
+24212,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,2/25/2020,Cases,49,5/10/2020,28.0394250010993,22.0199204177256
+24213,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,2/26/2020,Cases,57,5/10/2020,28.0394250010993,22.0199204177256
+24214,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,2/27/2020,Cases,68,5/10/2020,28.0394250010993,22.0199204177256
+24215,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,2/28/2020,Cases,78,5/10/2020,28.0394250010993,22.0199204177256
+24216,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,2/29/2020,Cases,89,5/10/2020,28.0394250010993,22.0199204177256
+24217,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,3/1/2020,Cases,128,5/10/2020,28.0394250010993,22.0199204177256
+24218,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,3/2/2020,Cases,150,5/10/2020,28.0394250010993,22.0199204177256
+24219,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,3/3/2020,Cases,185,5/10/2020,28.0394250010993,22.0199204177256
+24220,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,3/4/2020,Cases,230,5/10/2020,28.0394250010993,22.0199204177256
+24221,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,3/5/2020,Cases,263,5/10/2020,28.0394250010993,22.0199204177256
+24222,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,3/6/2020,Cases,321,5/10/2020,28.0394250010993,22.0199204177256
+24223,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,3/7/2020,Cases,379,5/10/2020,28.0394250010993,22.0199204177256
+24224,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,3/8/2020,Cases,489,5/10/2020,28.0394250010993,22.0199204177256
+24225,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,3/9/2020,Cases,668,5/10/2020,28.0394250010993,22.0199204177256
+24226,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,3/10/2020,Cases,836,5/10/2020,28.0394250010993,22.0199204177256
+24227,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,3/11/2020,Cases,1014,5/10/2020,28.0394250010993,22.0199204177256
+24228,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,3/12/2020,Cases,1189,5/10/2020,28.0394250010993,22.0199204177256
+24229,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,3/13/2020,Cases,1447,5/10/2020,28.0394250010993,22.0199204177256
+24230,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,3/14/2020,Cases,1653,5/10/2020,28.0394250010993,22.0199204177256
+24231,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,3/15/2020,Cases,1934,5/10/2020,28.0394250010993,22.0199204177256
+24232,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,3/16/2020,Cases,2254,5/10/2020,28.0394250010993,22.0199204177256
+24233,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,3/17/2020,Cases,2562,5/10/2020,28.0394250010993,22.0199204177256
+24234,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,3/18/2020,Cases,2898,5/10/2020,28.0394250010993,22.0199204177256
+24235,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,3/19/2020,Cases,3180,5/10/2020,28.0394250010993,22.0199204177256
+24236,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,3/20/2020,Cases,3520,5/10/2020,28.0394250010993,22.0199204177256
+24237,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,3/21/2020,Cases,3807,5/10/2020,28.0394250010993,22.0199204177256
+24238,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,3/22/2020,Cases,4065,5/10/2020,28.0394250010993,22.0199204177256
+24239,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,3/23/2020,Cases,4476,5/10/2020,28.0394250010993,22.0199204177256
+24240,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,3/24/2020,Cases,4808,5/10/2020,28.0394250010993,22.0199204177256
+24241,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,3/25/2020,Cases,5208,5/10/2020,28.0394250010993,22.0199204177256
+24242,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,3/26/2020,Cases,5506,5/10/2020,28.0394250010993,22.0199204177256
+24243,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,3/27/2020,Cases,5899,5/10/2020,28.0394250010993,22.0199204177256
+24244,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,3/28/2020,Cases,6221,5/10/2020,28.0394250010993,22.0199204177256
+24245,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,3/29/2020,Cases,6509,5/10/2020,28.0394250010993,22.0199204177256
+24246,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,3/30/2020,Cases,6952,5/10/2020,28.0394250010993,22.0199204177256
+24247,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,3/31/2020,Cases,7230,5/10/2020,28.0394250010993,22.0199204177256
+24248,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,4/1/2020,Cases,7694,5/10/2020,28.0394250010993,22.0199204177256
+24249,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,4/2/2020,Cases,8060,5/10/2020,28.0394250010993,22.0199204177256
+24250,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,4/3/2020,Cases,8482,5/10/2020,28.0394250010993,22.0199204177256
+24251,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,4/4/2020,Cases,8803,5/10/2020,28.0394250010993,22.0199204177256
+24252,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,4/5/2020,Cases,9120,5/10/2020,28.0394250010993,22.0199204177256
+24253,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,4/6/2020,Cases,9579,5/10/2020,28.0394250010993,22.0199204177256
+24254,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,4/7/2020,Cases,9958,5/10/2020,28.0394250010993,22.0199204177256
+24255,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,4/8/2020,Cases,10339,5/10/2020,28.0394250010993,22.0199204177256
+24256,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,4/9/2020,Cases,10728,5/10/2020,28.0394250010993,22.0199204177256
+24257,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,4/10/2020,Cases,11172,5/10/2020,28.0394250010993,22.0199204177256
+24258,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,4/11/2020,Cases,11534,5/10/2020,28.0394250010993,22.0199204177256
+24259,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,4/12/2020,Cases,11924,5/10/2020,28.0394250010993,22.0199204177256
+24260,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,4/13/2020,Cases,12386,5/10/2020,28.0394250010993,22.0199204177256
+24261,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,4/14/2020,Cases,12787,5/10/2020,28.0394250010993,22.0199204177256
+24262,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,4/15/2020,Cases,13248,5/10/2020,28.0394250010993,22.0199204177256
+24263,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,4/16/2020,Cases,13609,5/10/2020,28.0394250010993,22.0199204177256
+24264,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,4/17/2020,Cases,14095,5/10/2020,28.0394250010993,22.0199204177256
+24265,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,4/18/2020,Cases,14477,5/10/2020,28.0394250010993,22.0199204177256
+24266,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,4/19/2020,Cases,14751,5/10/2020,28.0394250010993,22.0199204177256
+24267,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,4/20/2020,Cases,15327,5/10/2020,28.0394250010993,22.0199204177256
+24268,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,4/21/2020,Cases,15633,5/10/2020,28.0394250010993,22.0199204177256
+24269,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,4/22/2020,Cases,16014,5/10/2020,28.0394250010993,22.0199204177256
+24270,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,4/23/2020,Cases,16362,5/10/2020,28.0394250010993,22.0199204177256
+24271,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,4/24/2020,Cases,16767,5/10/2020,28.0394250010993,22.0199204177256
+24272,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,4/25/2020,Cases,17165,5/10/2020,28.0394250010993,22.0199204177256
+24273,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,4/26/2020,Cases,17484,5/10/2020,28.0394250010993,22.0199204177256
+24274,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,4/27/2020,Cases,17865,5/10/2020,28.0394250010993,22.0199204177256
+24275,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,4/28/2020,Cases,18125,5/10/2020,28.0394250010993,22.0199204177256
+24276,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,4/29/2020,Cases,18401,5/10/2020,28.0394250010993,22.0199204177256
+24277,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,4/30/2020,Cases,18711,5/10/2020,28.0394250010993,22.0199204177256
+24278,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,5/1/2020,Cases,18913,5/10/2020,28.0394250010993,22.0199204177256
+24279,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,5/2/2020,Cases,19094,5/10/2020,28.0394250010993,22.0199204177256
+24280,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,5/3/2020,Cases,19279,5/10/2020,28.0394250010993,22.0199204177256
+24281,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,5/4/2020,Cases,19404,5/10/2020,28.0394250010993,22.0199204177256
+24282,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,5/5/2020,Cases,19555,5/10/2020,28.0394250010993,22.0199204177256
+24283,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,5/6/2020,Cases,19650,5/10/2020,28.0394250010993,22.0199204177256
+24284,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,5/7/2020,Cases,19703,5/10/2020,28.0394250010993,22.0199204177256
+24285,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,3/5/2020,Cases,8,5/10/2020,28.0394250010993,22.0199204177256
+24286,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,3/6/2020,Cases,8,5/10/2020,28.0394250010993,22.0199204177256
+24287,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,3/7/2020,Cases,8,5/10/2020,28.0394250010993,22.0199204177256
+24288,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,3/8/2020,Cases,8,5/10/2020,28.0394250010993,22.0199204177256
+24289,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,3/9/2020,Cases,13,5/10/2020,28.0394250010993,22.0199204177256
+24290,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,3/10/2020,Cases,19,5/10/2020,28.0394250010993,22.0199204177256
+24291,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,3/11/2020,Cases,38,5/10/2020,28.0394250010993,22.0199204177256
+24292,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,3/12/2020,Cases,48,5/10/2020,28.0394250010993,22.0199204177256
+24293,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,3/13/2020,Cases,76,5/10/2020,28.0394250010993,22.0199204177256
+24294,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,3/14/2020,Cases,108,5/10/2020,28.0394250010993,22.0199204177256
+24295,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,3/15/2020,Cases,142,5/10/2020,28.0394250010993,22.0199204177256
+24296,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,3/16/2020,Cases,179,5/10/2020,28.0394250010993,22.0199204177256
+24297,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,3/17/2020,Cases,210,5/10/2020,28.0394250010993,22.0199204177256
+24298,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,3/18/2020,Cases,278,5/10/2020,28.0394250010993,22.0199204177256
+24299,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,3/19/2020,Cases,364,5/10/2020,28.0394250010993,22.0199204177256
+24300,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,3/20/2020,Cases,483,5/10/2020,28.0394250010993,22.0199204177256
+24301,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,3/21/2020,Cases,598,5/10/2020,28.0394250010993,22.0199204177256
+24302,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,3/22/2020,Cases,724,5/10/2020,28.0394250010993,22.0199204177256
+24303,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,3/23/2020,Cases,916,5/10/2020,28.0394250010993,22.0199204177256
+24304,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,3/24/2020,Cases,1091,5/10/2020,28.0394250010993,22.0199204177256
+24305,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,3/25/2020,Cases,1407,5/10/2020,28.0394250010993,22.0199204177256
+24306,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,3/26/2020,Cases,1703,5/10/2020,28.0394250010993,22.0199204177256
+24307,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,3/27/2020,Cases,2031,5/10/2020,28.0394250010993,22.0199204177256
+24308,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,3/28/2020,Cases,2274,5/10/2020,28.0394250010993,22.0199204177256
+24309,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,3/29/2020,Cases,2606,5/10/2020,28.0394250010993,22.0199204177256
+24310,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,3/30/2020,Cases,2932,5/10/2020,28.0394250010993,22.0199204177256
+24311,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,3/31/2020,Cases,3317,5/10/2020,28.0394250010993,22.0199204177256
+24312,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,4/1/2020,Cases,3713,5/10/2020,28.0394250010993,22.0199204177256
+24313,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,4/2/2020,Cases,4164,5/10/2020,28.0394250010993,22.0199204177256
+24314,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,4/3/2020,Cases,4556,5/10/2020,28.0394250010993,22.0199204177256
+24315,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,4/4/2020,Cases,4943,5/10/2020,28.0394250010993,22.0199204177256
+24316,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,4/5/2020,Cases,5163,5/10/2020,28.0394250010993,22.0199204177256
+24317,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,4/6/2020,Cases,5431,5/10/2020,28.0394250010993,22.0199204177256
+24318,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,4/7/2020,Cases,5679,5/10/2020,28.0394250010993,22.0199204177256
+24319,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,4/8/2020,Cases,6228,5/10/2020,28.0394250010993,22.0199204177256
+24320,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,4/9/2020,Cases,6593,5/10/2020,28.0394250010993,22.0199204177256
+24321,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,4/10/2020,Cases,7028,5/10/2020,28.0394250010993,22.0199204177256
+24322,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,4/11/2020,Cases,7460,5/10/2020,28.0394250010993,22.0199204177256
+24323,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,4/12/2020,Cases,7841,5/10/2020,28.0394250010993,22.0199204177256
+24324,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,4/13/2020,Cases,8138,5/10/2020,28.0394250010993,22.0199204177256
+24325,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,4/14/2020,Cases,8445,5/10/2020,28.0394250010993,22.0199204177256
+24326,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,4/15/2020,Cases,8862,5/10/2020,28.0394250010993,22.0199204177256
+24327,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,4/16/2020,Cases,9217,5/10/2020,28.0394250010993,22.0199204177256
+24328,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,4/17/2020,Cases,9646,5/10/2020,28.0394250010993,22.0199204177256
+24329,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,4/18/2020,Cases,9915,5/10/2020,28.0394250010993,22.0199204177256
+24330,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,4/19/2020,Cases,10241,5/10/2020,28.0394250010993,22.0199204177256
+24331,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,4/20/2020,Cases,10527,5/10/2020,28.0394250010993,22.0199204177256
+24332,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,4/21/2020,Cases,10994,5/10/2020,28.0394250010993,22.0199204177256
+24333,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,4/22/2020,Cases,11388,5/10/2020,28.0394250010993,22.0199204177256
+24334,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,4/23/2020,Cases,12356,5/10/2020,28.0394250010993,22.0199204177256
+24335,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,4/24/2020,Cases,13065,5/10/2020,28.0394250010993,22.0199204177256
+24336,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,4/25/2020,Cases,13561,5/10/2020,28.0394250010993,22.0199204177256
+24337,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,4/26/2020,Cases,13995,5/10/2020,28.0394250010993,22.0199204177256
+24338,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,4/27/2020,Cases,14489,5/10/2020,28.0394250010993,22.0199204177256
+24339,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,4/28/2020,Cases,14909,5/10/2020,28.0394250010993,22.0199204177256
+24340,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,4/29/2020,Cases,15734,5/10/2020,28.0394250010993,22.0199204177256
+24341,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,4/30/2020,Cases,16180,5/10/2020,28.0394250010993,22.0199204177256
+24342,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,5/1/2020,Cases,16633,5/10/2020,28.0394250010993,22.0199204177256
+24343,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,5/2/2020,Cases,17037,5/10/2020,28.0394250010993,22.0199204177256
+24344,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,5/3/2020,Cases,17275,5/10/2020,28.0394250010993,22.0199204177256
+24345,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,5/4/2020,Cases,17630,5/10/2020,28.0394250010993,22.0199204177256
+24346,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,5/5/2020,Cases,18011,5/10/2020,28.0394250010993,22.0199204177256
+24347,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,5/6/2020,Cases,18440,5/10/2020,28.0394250010993,22.0199204177256
+24348,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,5/7/2020,Cases,18849,5/10/2020,28.0394250010993,22.0199204177256
+24349,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,5/8/2020,Cases,19375,5/10/2020,28.0394250010993,22.0199204177256
+24350,Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,,5/9/2020,Cases,19703,5/10/2020,28.0394250010993,22.0199204177256
+24351,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,3/9/2020,Deaths,1,5/10/2020,28.0394250010993,22.0199204177256
+24352,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,3/10/2020,Deaths,1,5/10/2020,28.0394250010993,22.0199204177256
+24353,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,3/11/2020,Deaths,1,5/10/2020,28.0394250010993,22.0199204177256
+24354,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,3/12/2020,Deaths,1,5/10/2020,28.0394250010993,22.0199204177256
+24355,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,3/13/2020,Deaths,3,5/10/2020,28.0394250010993,22.0199204177256
+24356,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,3/14/2020,Deaths,3,5/10/2020,28.0394250010993,22.0199204177256
+24357,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,3/15/2020,Deaths,4,5/10/2020,28.0394250010993,22.0199204177256
+24358,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,3/16/2020,Deaths,7,5/10/2020,28.0394250010993,22.0199204177256
+24359,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,3/17/2020,Deaths,10,5/10/2020,28.0394250010993,22.0199204177256
+24360,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,3/18/2020,Deaths,13,5/10/2020,28.0394250010993,22.0199204177256
+24361,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,3/19/2020,Deaths,18,5/10/2020,28.0394250010993,22.0199204177256
+24362,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,3/20/2020,Deaths,20,5/10/2020,28.0394250010993,22.0199204177256
+24363,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,3/21/2020,Deaths,26,5/10/2020,28.0394250010993,22.0199204177256
+24364,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,3/22/2020,Deaths,29,5/10/2020,28.0394250010993,22.0199204177256
+24365,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,3/23/2020,Deaths,36,5/10/2020,28.0394250010993,22.0199204177256
+24366,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,3/24/2020,Deaths,43,5/10/2020,28.0394250010993,22.0199204177256
+24367,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,3/25/2020,Deaths,58,5/10/2020,28.0394250010993,22.0199204177256
+24368,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,3/26/2020,Deaths,61,5/10/2020,28.0394250010993,22.0199204177256
+24369,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,3/27/2020,Deaths,71,5/10/2020,28.0394250010993,22.0199204177256
+24370,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,3/28/2020,Deaths,83,5/10/2020,28.0394250010993,22.0199204177256
+24371,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,3/29/2020,Deaths,93,5/10/2020,28.0394250010993,22.0199204177256
+24372,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,3/30/2020,Deaths,112,5/10/2020,28.0394250010993,22.0199204177256
+24373,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,3/31/2020,Deaths,127,5/10/2020,28.0394250010993,22.0199204177256
+24374,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,4/1/2020,Deaths,154,5/10/2020,28.0394250010993,22.0199204177256
+24375,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,4/2/2020,Deaths,176,5/10/2020,28.0394250010993,22.0199204177256
+24376,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,4/3/2020,Deaths,195,5/10/2020,28.0394250010993,22.0199204177256
+24377,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,4/4/2020,Deaths,222,5/10/2020,28.0394250010993,22.0199204177256
+24378,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,4/5/2020,Deaths,252,5/10/2020,28.0394250010993,22.0199204177256
+24379,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,4/6/2020,Deaths,280,5/10/2020,28.0394250010993,22.0199204177256
+24380,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,4/7/2020,Deaths,307,5/10/2020,28.0394250010993,22.0199204177256
+24381,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,4/8/2020,Deaths,341,5/10/2020,28.0394250010993,22.0199204177256
+24382,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,4/9/2020,Deaths,376,5/10/2020,28.0394250010993,22.0199204177256
+24383,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,4/10/2020,Deaths,410,5/10/2020,28.0394250010993,22.0199204177256
+24384,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,4/11/2020,Deaths,440,5/10/2020,28.0394250010993,22.0199204177256
+24385,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,4/12/2020,Deaths,470,5/10/2020,28.0394250010993,22.0199204177256
+24386,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,4/13/2020,Deaths,501,5/10/2020,28.0394250010993,22.0199204177256
+24387,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,4/14/2020,Deaths,534,5/10/2020,28.0394250010993,22.0199204177256
+24388,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,4/15/2020,Deaths,561,5/10/2020,28.0394250010993,22.0199204177256
+24389,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,4/16/2020,Deaths,592,5/10/2020,28.0394250010993,22.0199204177256
+24390,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,4/17/2020,Deaths,616,5/10/2020,28.0394250010993,22.0199204177256
+24391,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,4/18/2020,Deaths,635,5/10/2020,28.0394250010993,22.0199204177256
+24392,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,4/19/2020,Deaths,660,5/10/2020,28.0394250010993,22.0199204177256
+24393,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,4/20/2020,Deaths,685,5/10/2020,28.0394250010993,22.0199204177256
+24394,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,4/21/2020,Deaths,710,5/10/2020,28.0394250010993,22.0199204177256
+24395,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,4/22/2020,Deaths,731,5/10/2020,28.0394250010993,22.0199204177256
+24396,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,4/23/2020,Deaths,744,5/10/2020,28.0394250010993,22.0199204177256
+24397,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,4/24/2020,Deaths,762,5/10/2020,28.0394250010993,22.0199204177256
+24398,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,4/25/2020,Deaths,779,5/10/2020,28.0394250010993,22.0199204177256
+24399,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,4/26/2020,Deaths,797,5/10/2020,28.0394250010993,22.0199204177256
+24400,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,4/27/2020,Deaths,806,5/10/2020,28.0394250010993,22.0199204177256
+24401,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,4/28/2020,Deaths,819,5/10/2020,28.0394250010993,22.0199204177256
+24402,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,4/29/2020,Deaths,837,5/10/2020,28.0394250010993,22.0199204177256
+24403,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,4/30/2020,Deaths,844,5/10/2020,28.0394250010993,22.0199204177256
+24404,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,5/1/2020,Deaths,855,5/10/2020,28.0394250010993,22.0199204177256
+24405,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,5/2/2020,Deaths,866,5/10/2020,28.0394250010993,22.0199204177256
+24406,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,5/3/2020,Deaths,871,5/10/2020,28.0394250010993,22.0199204177256
+24407,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,5/4/2020,Deaths,882,5/10/2020,28.0394250010993,22.0199204177256
+24408,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,5/5/2020,Deaths,890,5/10/2020,28.0394250010993,22.0199204177256
+24409,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,5/6/2020,Deaths,896,5/10/2020,28.0394250010993,22.0199204177256
+24410,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,,5/7/2020,Deaths,898,5/10/2020,28.0394250010993,22.0199204177256
+24411,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,2/26/2020,Deaths,1,5/10/2020,28.0394250010993,22.0199204177256
+24412,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,2/27/2020,Deaths,2,5/10/2020,28.0394250010993,22.0199204177256
+24413,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,2/28/2020,Deaths,2,5/10/2020,28.0394250010993,22.0199204177256
+24414,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,2/29/2020,Deaths,2,5/10/2020,28.0394250010993,22.0199204177256
+24415,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,3/1/2020,Deaths,7,5/10/2020,28.0394250010993,22.0199204177256
+24416,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,3/2/2020,Deaths,8,5/10/2020,28.0394250010993,22.0199204177256
+24417,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,3/3/2020,Deaths,10,5/10/2020,28.0394250010993,22.0199204177256
+24418,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,3/4/2020,Deaths,13,5/10/2020,28.0394250010993,22.0199204177256
+24419,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,3/5/2020,Deaths,16,5/10/2020,28.0394250010993,22.0199204177256
+24420,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,3/6/2020,Deaths,17,5/10/2020,28.0394250010993,22.0199204177256
+24421,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,3/7/2020,Deaths,20,5/10/2020,28.0394250010993,22.0199204177256
+24422,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,3/8/2020,Deaths,31,5/10/2020,28.0394250010993,22.0199204177256
+24423,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,3/9/2020,Deaths,39,5/10/2020,28.0394250010993,22.0199204177256
+24424,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,3/10/2020,Deaths,41,5/10/2020,28.0394250010993,22.0199204177256
+24425,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,3/11/2020,Deaths,48,5/10/2020,28.0394250010993,22.0199204177256
+24426,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,3/12/2020,Deaths,50,5/10/2020,28.0394250010993,22.0199204177256
+24427,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,3/13/2020,Deaths,55,5/10/2020,28.0394250010993,22.0199204177256
+24428,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,3/14/2020,Deaths,62,5/10/2020,28.0394250010993,22.0199204177256
+24429,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,3/15/2020,Deaths,79,5/10/2020,28.0394250010993,22.0199204177256
+24430,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,3/16/2020,Deaths,104,5/10/2020,28.0394250010993,22.0199204177256
+24431,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,3/17/2020,Deaths,116,5/10/2020,28.0394250010993,22.0199204177256
+24432,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,3/18/2020,Deaths,127,5/10/2020,28.0394250010993,22.0199204177256
+24433,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,3/19/2020,Deaths,143,5/10/2020,28.0394250010993,22.0199204177256
+24434,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,3/20/2020,Deaths,172,5/10/2020,28.0394250010993,22.0199204177256
+24435,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,3/21/2020,Deaths,192,5/10/2020,28.0394250010993,22.0199204177256
+24436,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,3/22/2020,Deaths,208,5/10/2020,28.0394250010993,22.0199204177256
+24437,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,3/23/2020,Deaths,238,5/10/2020,28.0394250010993,22.0199204177256
+24438,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,3/24/2020,Deaths,259,5/10/2020,28.0394250010993,22.0199204177256
+24439,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,3/25/2020,Deaths,292,5/10/2020,28.0394250010993,22.0199204177256
+24440,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,3/26/2020,Deaths,313,5/10/2020,28.0394250010993,22.0199204177256
+24441,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,3/27/2020,Deaths,343,5/10/2020,28.0394250010993,22.0199204177256
+24442,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,3/28/2020,Deaths,355,5/10/2020,28.0394250010993,22.0199204177256
+24443,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,3/29/2020,Deaths,375,5/10/2020,28.0394250010993,22.0199204177256
+24444,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,3/30/2020,Deaths,405,5/10/2020,28.0394250010993,22.0199204177256
+24445,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,3/31/2020,Deaths,423,5/10/2020,28.0394250010993,22.0199204177256
+24446,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,4/1/2020,Deaths,464,5/10/2020,28.0394250010993,22.0199204177256
+24447,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,4/2/2020,Deaths,488,5/10/2020,28.0394250010993,22.0199204177256
+24448,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,4/3/2020,Deaths,516,5/10/2020,28.0394250010993,22.0199204177256
+24449,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,4/4/2020,Deaths,549,5/10/2020,28.0394250010993,22.0199204177256
+24450,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,4/5/2020,Deaths,586,5/10/2020,28.0394250010993,22.0199204177256
+24451,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,4/6/2020,Deaths,611,5/10/2020,28.0394250010993,22.0199204177256
+24452,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,4/7/2020,Deaths,649,5/10/2020,28.0394250010993,22.0199204177256
+24453,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,4/8/2020,Deaths,684,5/10/2020,28.0394250010993,22.0199204177256
+24454,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,4/9/2020,Deaths,711,5/10/2020,28.0394250010993,22.0199204177256
+24455,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,4/10/2020,Deaths,727,5/10/2020,28.0394250010993,22.0199204177256
+24456,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,4/11/2020,Deaths,742,5/10/2020,28.0394250010993,22.0199204177256
+24457,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,4/12/2020,Deaths,762,5/10/2020,28.0394250010993,22.0199204177256
+24458,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,4/13/2020,Deaths,783,5/10/2020,28.0394250010993,22.0199204177256
+24459,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,4/14/2020,Deaths,802,5/10/2020,28.0394250010993,22.0199204177256
+24460,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,4/15/2020,Deaths,817,5/10/2020,28.0394250010993,22.0199204177256
+24461,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,4/16/2020,Deaths,835,5/10/2020,28.0394250010993,22.0199204177256
+24462,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,4/17/2020,Deaths,862,5/10/2020,28.0394250010993,22.0199204177256
+24463,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,4/18/2020,Deaths,873,5/10/2020,28.0394250010993,22.0199204177256
+24464,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,4/19/2020,Deaths,886,5/10/2020,28.0394250010993,22.0199204177256
+24465,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,4/20/2020,Deaths,912,5/10/2020,28.0394250010993,22.0199204177256
+24466,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,4/21/2020,Deaths,923,5/10/2020,28.0394250010993,22.0199204177256
+24467,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,4/22/2020,Deaths,934,5/10/2020,28.0394250010993,22.0199204177256
+24468,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,4/23/2020,Deaths,939,5/10/2020,28.0394250010993,22.0199204177256
+24469,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,4/24/2020,Deaths,943,5/10/2020,28.0394250010993,22.0199204177256
+24470,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,4/25/2020,Deaths,948,5/10/2020,28.0394250010993,22.0199204177256
+24471,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,4/26/2020,Deaths,955,5/10/2020,28.0394250010993,22.0199204177256
+24472,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,4/27/2020,Deaths,957,5/10/2020,28.0394250010993,22.0199204177256
+24473,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,4/28/2020,Deaths,960,5/10/2020,28.0394250010993,22.0199204177256
+24474,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,4/29/2020,Deaths,963,5/10/2020,28.0394250010993,22.0199204177256
+24475,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,4/30/2020,Deaths,967,5/10/2020,28.0394250010993,22.0199204177256
+24476,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,5/1/2020,Deaths,970,5/10/2020,28.0394250010993,22.0199204177256
+24477,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,5/2/2020,Deaths,970,5/10/2020,28.0394250010993,22.0199204177256
+24478,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,5/3/2020,Deaths,970,5/10/2020,28.0394250010993,22.0199204177256
+24479,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,5/4/2020,Deaths,970,5/10/2020,28.0394250010993,22.0199204177256
+24480,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,5/5/2020,Deaths,970,5/10/2020,28.0394250010993,22.0199204177256
+24481,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,,5/6/2020,Deaths,971,5/10/2020,28.0394250010993,22.0199204177256
+24482,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,3/13/2020,Deaths,2,5/10/2020,28.0394250010993,22.0199204177256
+24483,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,3/14/2020,Deaths,3,5/10/2020,28.0394250010993,22.0199204177256
+24484,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,3/15/2020,Deaths,4,5/10/2020,28.0394250010993,22.0199204177256
+24485,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,3/16/2020,Deaths,4,5/10/2020,28.0394250010993,22.0199204177256
+24486,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,3/17/2020,Deaths,4,5/10/2020,28.0394250010993,22.0199204177256
+24487,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,3/18/2020,Deaths,8,5/10/2020,28.0394250010993,22.0199204177256
+24488,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,3/19/2020,Deaths,10,5/10/2020,28.0394250010993,22.0199204177256
+24489,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,3/20/2020,Deaths,12,5/10/2020,28.0394250010993,22.0199204177256
+24490,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,3/21/2020,Deaths,24,5/10/2020,28.0394250010993,22.0199204177256
+24491,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,3/22/2020,Deaths,30,5/10/2020,28.0394250010993,22.0199204177256
+24492,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,3/23/2020,Deaths,42,5/10/2020,28.0394250010993,22.0199204177256
+24493,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,3/24/2020,Deaths,52,5/10/2020,28.0394250010993,22.0199204177256
+24494,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,3/25/2020,Deaths,70,5/10/2020,28.0394250010993,22.0199204177256
+24495,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,3/26/2020,Deaths,94,5/10/2020,28.0394250010993,22.0199204177256
+24496,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,3/27/2020,Deaths,122,5/10/2020,28.0394250010993,22.0199204177256
+24497,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,3/28/2020,Deaths,144,5/10/2020,28.0394250010993,22.0199204177256
+24498,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,3/29/2020,Deaths,161,5/10/2020,28.0394250010993,22.0199204177256
+24499,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,3/30/2020,Deaths,187,5/10/2020,28.0394250010993,22.0199204177256
+24500,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,3/31/2020,Deaths,214,5/10/2020,28.0394250010993,22.0199204177256
+24501,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,4/1/2020,Deaths,243,5/10/2020,28.0394250010993,22.0199204177256
+24502,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,4/2/2020,Deaths,279,5/10/2020,28.0394250010993,22.0199204177256
+24503,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,4/3/2020,Deaths,309,5/10/2020,28.0394250010993,22.0199204177256
+24504,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,4/4/2020,Deaths,338,5/10/2020,28.0394250010993,22.0199204177256
+24505,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,4/5/2020,Deaths,363,5/10/2020,28.0394250010993,22.0199204177256
+24506,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,4/6/2020,Deaths,375,5/10/2020,28.0394250010993,22.0199204177256
+24507,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,4/7/2020,Deaths,396,5/10/2020,28.0394250010993,22.0199204177256
+24508,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,4/8/2020,Deaths,445,5/10/2020,28.0394250010993,22.0199204177256
+24509,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,4/9/2020,Deaths,469,5/10/2020,28.0394250010993,22.0199204177256
+24510,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,4/10/2020,Deaths,502,5/10/2020,28.0394250010993,22.0199204177256
+24511,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,4/11/2020,Deaths,538,5/10/2020,28.0394250010993,22.0199204177256
+24512,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,4/12/2020,Deaths,563,5/10/2020,28.0394250010993,22.0199204177256
+24513,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,4/13/2020,Deaths,583,5/10/2020,28.0394250010993,22.0199204177256
+24514,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,4/14/2020,Deaths,608,5/10/2020,28.0394250010993,22.0199204177256
+24515,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,4/15/2020,Deaths,638,5/10/2020,28.0394250010993,22.0199204177256
+24516,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,4/16/2020,Deaths,656,5/10/2020,28.0394250010993,22.0199204177256
+24517,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,4/17/2020,Deaths,675,5/10/2020,28.0394250010993,22.0199204177256
+24518,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,4/18/2020,Deaths,683,5/10/2020,28.0394250010993,22.0199204177256
+24519,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,4/19/2020,Deaths,698,5/10/2020,28.0394250010993,22.0199204177256
+24520,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,4/20/2020,Deaths,709,5/10/2020,28.0394250010993,22.0199204177256
+24521,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,4/21/2020,Deaths,730,5/10/2020,28.0394250010993,22.0199204177256
+24522,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,4/22/2020,Deaths,749,5/10/2020,28.0394250010993,22.0199204177256
+24523,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,4/23/2020,Deaths,850,5/10/2020,28.0394250010993,22.0199204177256
+24524,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,4/24/2020,Deaths,859,5/10/2020,28.0394250010993,22.0199204177256
+24525,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,4/25/2020,Deaths,874,5/10/2020,28.0394250010993,22.0199204177256
+24526,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,4/26/2020,Deaths,885,5/10/2020,28.0394250010993,22.0199204177256
+24527,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,4/27/2020,Deaths,893,5/10/2020,28.0394250010993,22.0199204177256
+24528,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,4/28/2020,Deaths,905,5/10/2020,28.0394250010993,22.0199204177256
+24529,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,4/29/2020,Deaths,919,5/10/2020,28.0394250010993,22.0199204177256
+24530,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,4/30/2020,Deaths,928,5/10/2020,28.0394250010993,22.0199204177256
+24531,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,5/1/2020,Deaths,940,5/10/2020,28.0394250010993,22.0199204177256
+24532,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,5/2/2020,Deaths,951,5/10/2020,28.0394250010993,22.0199204177256
+24533,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,5/3/2020,Deaths,954,5/10/2020,28.0394250010993,22.0199204177256
+24534,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,5/4/2020,Deaths,964,5/10/2020,28.0394250010993,22.0199204177256
+24535,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,5/5/2020,Deaths,965,5/10/2020,28.0394250010993,22.0199204177256
+24536,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,5/6/2020,Deaths,967,5/10/2020,28.0394250010993,22.0199204177256
+24537,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,5/7/2020,Deaths,969,5/10/2020,28.0394250010993,22.0199204177256
+24538,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,5/8/2020,Deaths,971,5/10/2020,28.0394250010993,22.0199204177256
+24539,Colorado,5694287,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,,5/9/2020,Deaths,971,5/10/2020,28.0394250010993,22.0199204177256
+24540,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,2/10/2020,Cases,1,5/10/2020,28.0394250010993,22.0199204177256
+24541,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,2/11/2020,Cases,1,5/10/2020,28.0394250010993,22.0199204177256
+24542,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,2/12/2020,Cases,1,5/10/2020,28.0394250010993,22.0199204177256
+24543,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,2/13/2020,Cases,1,5/10/2020,28.0394250010993,22.0199204177256
+24544,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,2/14/2020,Cases,1,5/10/2020,28.0394250010993,22.0199204177256
+24545,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,2/15/2020,Cases,3,5/10/2020,28.0394250010993,22.0199204177256
+24546,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,2/16/2020,Cases,3,5/10/2020,28.0394250010993,22.0199204177256
+24547,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,2/17/2020,Cases,3,5/10/2020,28.0394250010993,22.0199204177256
+24548,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,2/18/2020,Cases,3,5/10/2020,28.0394250010993,22.0199204177256
+24549,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,2/19/2020,Cases,4,5/10/2020,28.0394250010993,22.0199204177256
+24550,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,2/20/2020,Cases,6,5/10/2020,28.0394250010993,22.0199204177256
+24551,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,2/21/2020,Cases,6,5/10/2020,28.0394250010993,22.0199204177256
+24552,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,2/22/2020,Cases,6,5/10/2020,28.0394250010993,22.0199204177256
+24553,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,2/23/2020,Cases,6,5/10/2020,28.0394250010993,22.0199204177256
+24554,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,2/24/2020,Cases,7,5/10/2020,28.0394250010993,22.0199204177256
+24555,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,2/25/2020,Cases,7,5/10/2020,28.0394250010993,22.0199204177256
+24556,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,2/26/2020,Cases,11,5/10/2020,28.0394250010993,22.0199204177256
+24557,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,2/27/2020,Cases,12,5/10/2020,28.0394250010993,22.0199204177256
+24558,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,2/28/2020,Cases,15,5/10/2020,28.0394250010993,22.0199204177256
+24559,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,2/29/2020,Cases,16,5/10/2020,28.0394250010993,22.0199204177256
+24560,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,3/1/2020,Cases,25,5/10/2020,28.0394250010993,22.0199204177256
+24561,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,3/2/2020,Cases,31,5/10/2020,28.0394250010993,22.0199204177256
+24562,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,3/3/2020,Cases,40,5/10/2020,28.0394250010993,22.0199204177256
+24563,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,3/4/2020,Cases,52,5/10/2020,28.0394250010993,22.0199204177256
+24564,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,3/5/2020,Cases,63,5/10/2020,28.0394250010993,22.0199204177256
+24565,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,3/6/2020,Cases,82,5/10/2020,28.0394250010993,22.0199204177256
+24566,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,3/7/2020,Cases,94,5/10/2020,28.0394250010993,22.0199204177256
+24567,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,3/8/2020,Cases,130,5/10/2020,28.0394250010993,22.0199204177256
+24568,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,3/9/2020,Cases,166,5/10/2020,28.0394250010993,22.0199204177256
+24569,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,3/10/2020,Cases,195,5/10/2020,28.0394250010993,22.0199204177256
+24570,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,3/11/2020,Cases,242,5/10/2020,28.0394250010993,22.0199204177256
+24571,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,3/12/2020,Cases,279,5/10/2020,28.0394250010993,22.0199204177256
+24572,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,3/13/2020,Cases,352,5/10/2020,28.0394250010993,22.0199204177256
+24573,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,3/14/2020,Cases,405,5/10/2020,28.0394250010993,22.0199204177256
+24574,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,3/15/2020,Cases,474,5/10/2020,28.0394250010993,22.0199204177256
+24575,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,3/16/2020,Cases,564,5/10/2020,28.0394250010993,22.0199204177256
+24576,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,3/17/2020,Cases,641,5/10/2020,28.0394250010993,22.0199204177256
+24577,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,3/18/2020,Cases,738,5/10/2020,28.0394250010993,22.0199204177256
+24578,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,3/19/2020,Cases,827,5/10/2020,28.0394250010993,22.0199204177256
+24579,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,3/20/2020,Cases,913,5/10/2020,28.0394250010993,22.0199204177256
+24580,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,3/21/2020,Cases,990,5/10/2020,28.0394250010993,22.0199204177256
+24581,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,3/22/2020,Cases,1077,5/10/2020,28.0394250010993,22.0199204177256
+24582,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,3/23/2020,Cases,1194,5/10/2020,28.0394250010993,22.0199204177256
+24583,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,3/24/2020,Cases,1291,5/10/2020,28.0394250010993,22.0199204177256
+24584,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,3/25/2020,Cases,1407,5/10/2020,28.0394250010993,22.0199204177256
+24585,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,3/26/2020,Cases,1477,5/10/2020,28.0394250010993,22.0199204177256
+24586,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,3/27/2020,Cases,1578,5/10/2020,28.0394250010993,22.0199204177256
+24587,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,3/28/2020,Cases,1658,5/10/2020,28.0394250010993,22.0199204177256
+24588,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,3/29/2020,Cases,1742,5/10/2020,28.0394250010993,22.0199204177256
+24589,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,3/30/2020,Cases,1829,5/10/2020,28.0394250010993,22.0199204177256
+24590,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,3/31/2020,Cases,1890,5/10/2020,28.0394250010993,22.0199204177256
+24591,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,4/1/2020,Cases,1998,5/10/2020,28.0394250010993,22.0199204177256
+24592,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,4/2/2020,Cases,2080,5/10/2020,28.0394250010993,22.0199204177256
+24593,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,4/3/2020,Cases,2176,5/10/2020,28.0394250010993,22.0199204177256
+24594,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,4/4/2020,Cases,2234,5/10/2020,28.0394250010993,22.0199204177256
+24595,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,4/5/2020,Cases,2311,5/10/2020,28.0394250010993,22.0199204177256
+24596,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,4/6/2020,Cases,2393,5/10/2020,28.0394250010993,22.0199204177256
+24597,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,4/7/2020,Cases,2480,5/10/2020,28.0394250010993,22.0199204177256
+24598,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,4/8/2020,Cases,2555,5/10/2020,28.0394250010993,22.0199204177256
+24599,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,4/9/2020,Cases,2626,5/10/2020,28.0394250010993,22.0199204177256
+24600,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,4/10/2020,Cases,2693,5/10/2020,28.0394250010993,22.0199204177256
+24601,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,4/11/2020,Cases,2749,5/10/2020,28.0394250010993,22.0199204177256
+24602,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,4/12/2020,Cases,2820,5/10/2020,28.0394250010993,22.0199204177256
+24603,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,4/13/2020,Cases,2897,5/10/2020,28.0394250010993,22.0199204177256
+24604,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,4/14/2020,Cases,2966,5/10/2020,28.0394250010993,22.0199204177256
+24605,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,4/15/2020,Cases,3054,5/10/2020,28.0394250010993,22.0199204177256
+24606,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,4/16/2020,Cases,3097,5/10/2020,28.0394250010993,22.0199204177256
+24607,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,4/17/2020,Cases,3165,5/10/2020,28.0394250010993,22.0199204177256
+24608,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,4/18/2020,Cases,3218,5/10/2020,28.0394250010993,22.0199204177256
+24609,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,4/19/2020,Cases,3251,5/10/2020,28.0394250010993,22.0199204177256
+24610,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,4/20/2020,Cases,3316,5/10/2020,28.0394250010993,22.0199204177256
+24611,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,4/21/2020,Cases,3359,5/10/2020,28.0394250010993,22.0199204177256
+24612,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,4/22/2020,Cases,3398,5/10/2020,28.0394250010993,22.0199204177256
+24613,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,4/23/2020,Cases,3428,5/10/2020,28.0394250010993,22.0199204177256
+24614,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,4/24/2020,Cases,3455,5/10/2020,28.0394250010993,22.0199204177256
+24615,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,4/25/2020,Cases,3497,5/10/2020,28.0394250010993,22.0199204177256
+24616,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,4/26/2020,Cases,3524,5/10/2020,28.0394250010993,22.0199204177256
+24617,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,4/27/2020,Cases,3545,5/10/2020,28.0394250010993,22.0199204177256
+24618,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,4/28/2020,Cases,3559,5/10/2020,28.0394250010993,22.0199204177256
+24619,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,4/29/2020,Cases,3579,5/10/2020,28.0394250010993,22.0199204177256
+24620,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,4/30/2020,Cases,3592,5/10/2020,28.0394250010993,22.0199204177256
+24621,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,5/1/2020,Cases,3602,5/10/2020,28.0394250010993,22.0199204177256
+24622,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,5/2/2020,Cases,3609,5/10/2020,28.0394250010993,22.0199204177256
+24623,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,5/3/2020,Cases,3616,5/10/2020,28.0394250010993,22.0199204177256
+24624,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,5/4/2020,Cases,3617,5/10/2020,28.0394250010993,22.0199204177256
+24625,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,5/5/2020,Cases,3623,5/10/2020,28.0394250010993,22.0199204177256
+24626,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,5/6/2020,Cases,3629,5/10/2020,28.0394250010993,22.0199204177256
+24627,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,5/7/2020,Cases,3631,5/10/2020,28.0394250010993,22.0199204177256
+24628,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,3/9/2020,Cases,2,5/10/2020,28.0394250010993,22.0199204177256
+24629,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,3/10/2020,Cases,4,5/10/2020,28.0394250010993,22.0199204177256
+24630,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,3/11/2020,Cases,6,5/10/2020,28.0394250010993,22.0199204177256
+24631,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,3/12/2020,Cases,8,5/10/2020,28.0394250010993,22.0199204177256
+24632,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,3/13/2020,Cases,12,5/10/2020,28.0394250010993,22.0199204177256
+24633,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,3/14/2020,Cases,17,5/10/2020,28.0394250010993,22.0199204177256
+24634,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,3/15/2020,Cases,19,5/10/2020,28.0394250010993,22.0199204177256
+24635,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,3/16/2020,Cases,26,5/10/2020,28.0394250010993,22.0199204177256
+24636,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,3/17/2020,Cases,33,5/10/2020,28.0394250010993,22.0199204177256
+24637,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,3/18/2020,Cases,41,5/10/2020,28.0394250010993,22.0199204177256
+24638,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,3/19/2020,Cases,56,5/10/2020,28.0394250010993,22.0199204177256
+24639,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,3/20/2020,Cases,78,5/10/2020,28.0394250010993,22.0199204177256
+24640,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,3/21/2020,Cases,110,5/10/2020,28.0394250010993,22.0199204177256
+24641,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,3/22/2020,Cases,151,5/10/2020,28.0394250010993,22.0199204177256
+24642,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,3/23/2020,Cases,205,5/10/2020,28.0394250010993,22.0199204177256
+24643,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,3/24/2020,Cases,261,5/10/2020,28.0394250010993,22.0199204177256
+24644,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,3/25/2020,Cases,344,5/10/2020,28.0394250010993,22.0199204177256
+24645,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,3/26/2020,Cases,433,5/10/2020,28.0394250010993,22.0199204177256
+24646,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,3/27/2020,Cases,529,5/10/2020,28.0394250010993,22.0199204177256
+24647,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,3/28/2020,Cases,627,5/10/2020,28.0394250010993,22.0199204177256
+24648,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,3/29/2020,Cases,764,5/10/2020,28.0394250010993,22.0199204177256
+24649,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,3/30/2020,Cases,883,5/10/2020,28.0394250010993,22.0199204177256
+24650,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,3/31/2020,Cases,1019,5/10/2020,28.0394250010993,22.0199204177256
+24651,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,4/1/2020,Cases,1160,5/10/2020,28.0394250010993,22.0199204177256
+24652,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,4/2/2020,Cases,1335,5/10/2020,28.0394250010993,22.0199204177256
+24653,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,4/3/2020,Cases,1454,5/10/2020,28.0394250010993,22.0199204177256
+24654,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,4/4/2020,Cases,1566,5/10/2020,28.0394250010993,22.0199204177256
+24655,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,4/5/2020,Cases,1633,5/10/2020,28.0394250010993,22.0199204177256
+24656,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,4/6/2020,Cases,1695,5/10/2020,28.0394250010993,22.0199204177256
+24657,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,4/7/2020,Cases,1776,5/10/2020,28.0394250010993,22.0199204177256
+24658,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,4/8/2020,Cases,1936,5/10/2020,28.0394250010993,22.0199204177256
+24659,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,4/9/2020,Cases,2019,5/10/2020,28.0394250010993,22.0199204177256
+24660,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,4/10/2020,Cases,2101,5/10/2020,28.0394250010993,22.0199204177256
+24661,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,4/11/2020,Cases,2169,5/10/2020,28.0394250010993,22.0199204177256
+24662,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,4/12/2020,Cases,2254,5/10/2020,28.0394250010993,22.0199204177256
+24663,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,4/13/2020,Cases,2319,5/10/2020,28.0394250010993,22.0199204177256
+24664,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,4/14/2020,Cases,2402,5/10/2020,28.0394250010993,22.0199204177256
+24665,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,4/15/2020,Cases,2496,5/10/2020,28.0394250010993,22.0199204177256
+24666,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,4/16/2020,Cases,2573,5/10/2020,28.0394250010993,22.0199204177256
+24667,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,4/17/2020,Cases,2663,5/10/2020,28.0394250010993,22.0199204177256
+24668,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,4/18/2020,Cases,2716,5/10/2020,28.0394250010993,22.0199204177256
+24669,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,4/19/2020,Cases,2800,5/10/2020,28.0394250010993,22.0199204177256
+24670,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,4/20/2020,Cases,2870,5/10/2020,28.0394250010993,22.0199204177256
+24671,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,4/21/2020,Cases,2936,5/10/2020,28.0394250010993,22.0199204177256
+24672,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,4/22/2020,Cases,3017,5/10/2020,28.0394250010993,22.0199204177256
+24673,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,4/23/2020,Cases,3143,5/10/2020,28.0394250010993,22.0199204177256
+24674,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,4/24/2020,Cases,3202,5/10/2020,28.0394250010993,22.0199204177256
+24675,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,4/25/2020,Cases,3239,5/10/2020,28.0394250010993,22.0199204177256
+24676,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,4/26/2020,Cases,3282,5/10/2020,28.0394250010993,22.0199204177256
+24677,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,4/27/2020,Cases,3326,5/10/2020,28.0394250010993,22.0199204177256
+24678,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,4/28/2020,Cases,3366,5/10/2020,28.0394250010993,22.0199204177256
+24679,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,4/29/2020,Cases,3420,5/10/2020,28.0394250010993,22.0199204177256
+24680,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,4/30/2020,Cases,3464,5/10/2020,28.0394250010993,22.0199204177256
+24681,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,5/1/2020,Cases,3503,5/10/2020,28.0394250010993,22.0199204177256
+24682,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,5/2/2020,Cases,3539,5/10/2020,28.0394250010993,22.0199204177256
+24683,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,5/3/2020,Cases,3553,5/10/2020,28.0394250010993,22.0199204177256
+24684,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,5/4/2020,Cases,3571,5/10/2020,28.0394250010993,22.0199204177256
+24685,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,5/5/2020,Cases,3591,5/10/2020,28.0394250010993,22.0199204177256
+24686,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,5/6/2020,Cases,3604,5/10/2020,28.0394250010993,22.0199204177256
+24687,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,5/7/2020,Cases,3617,5/10/2020,28.0394250010993,22.0199204177256
+24688,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,5/8/2020,Cases,3627,5/10/2020,28.0394250010993,22.0199204177256
+24689,Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,,5/9/2020,Cases,3631,5/10/2020,28.0394250010993,22.0199204177256
+24690,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,3/9/2020,Deaths,1,5/10/2020,28.0394250010993,22.0199204177256
+24691,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,3/10/2020,Deaths,0,5/10/2020,28.0394250010993,22.0199204177256
+24692,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,3/11/2020,Deaths,0,5/10/2020,28.0394250010993,22.0199204177256
+24693,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,3/12/2020,Deaths,0,5/10/2020,28.0394250010993,22.0199204177256
+24694,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,3/13/2020,Deaths,2,5/10/2020,28.0394250010993,22.0199204177256
+24695,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,3/14/2020,Deaths,0,5/10/2020,28.0394250010993,22.0199204177256
+24696,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,3/15/2020,Deaths,1,5/10/2020,28.0394250010993,22.0199204177256
+24697,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,3/16/2020,Deaths,3,5/10/2020,28.0394250010993,22.0199204177256
+24698,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,3/17/2020,Deaths,3,5/10/2020,28.0394250010993,22.0199204177256
+24699,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,3/18/2020,Deaths,3,5/10/2020,28.0394250010993,22.0199204177256
+24700,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,3/19/2020,Deaths,5,5/10/2020,28.0394250010993,22.0199204177256
+24701,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,3/20/2020,Deaths,2,5/10/2020,28.0394250010993,22.0199204177256
+24702,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,3/21/2020,Deaths,6,5/10/2020,28.0394250010993,22.0199204177256
+24703,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,3/22/2020,Deaths,3,5/10/2020,28.0394250010993,22.0199204177256
+24704,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,3/23/2020,Deaths,7,5/10/2020,28.0394250010993,22.0199204177256
+24705,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,3/24/2020,Deaths,7,5/10/2020,28.0394250010993,22.0199204177256
+24706,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,3/25/2020,Deaths,15,5/10/2020,28.0394250010993,22.0199204177256
+24707,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,3/26/2020,Deaths,3,5/10/2020,28.0394250010993,22.0199204177256
+24708,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,3/27/2020,Deaths,10,5/10/2020,28.0394250010993,22.0199204177256
+24709,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,3/28/2020,Deaths,12,5/10/2020,28.0394250010993,22.0199204177256
+24710,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,3/29/2020,Deaths,10,5/10/2020,28.0394250010993,22.0199204177256
+24711,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,3/30/2020,Deaths,19,5/10/2020,28.0394250010993,22.0199204177256
+24712,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,3/31/2020,Deaths,15,5/10/2020,28.0394250010993,22.0199204177256
+24713,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,4/1/2020,Deaths,27,5/10/2020,28.0394250010993,22.0199204177256
+24714,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,4/2/2020,Deaths,22,5/10/2020,28.0394250010993,22.0199204177256
+24715,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,4/3/2020,Deaths,19,5/10/2020,28.0394250010993,22.0199204177256
+24716,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,4/4/2020,Deaths,27,5/10/2020,28.0394250010993,22.0199204177256
+24717,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,4/5/2020,Deaths,30,5/10/2020,28.0394250010993,22.0199204177256
+24718,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,4/6/2020,Deaths,28,5/10/2020,28.0394250010993,22.0199204177256
+24719,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,4/7/2020,Deaths,27,5/10/2020,28.0394250010993,22.0199204177256
+24720,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,4/8/2020,Deaths,34,5/10/2020,28.0394250010993,22.0199204177256
+24721,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,4/9/2020,Deaths,35,5/10/2020,28.0394250010993,22.0199204177256
+24722,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,4/10/2020,Deaths,34,5/10/2020,28.0394250010993,22.0199204177256
+24723,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,4/11/2020,Deaths,30,5/10/2020,28.0394250010993,22.0199204177256
+24724,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,4/12/2020,Deaths,30,5/10/2020,28.0394250010993,22.0199204177256
+24725,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,4/13/2020,Deaths,31,5/10/2020,28.0394250010993,22.0199204177256
+24726,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,4/14/2020,Deaths,33,5/10/2020,28.0394250010993,22.0199204177256
+24727,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,4/15/2020,Deaths,27,5/10/2020,28.0394250010993,22.0199204177256
+24728,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,4/16/2020,Deaths,31,5/10/2020,28.0394250010993,22.0199204177256
+24729,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,4/17/2020,Deaths,24,5/10/2020,28.0394250010993,22.0199204177256
+24730,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,4/18/2020,Deaths,19,5/10/2020,28.0394250010993,22.0199204177256
+24731,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,4/19/2020,Deaths,25,5/10/2020,28.0394250010993,22.0199204177256
+24732,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,4/20/2020,Deaths,25,5/10/2020,28.0394250010993,22.0199204177256
+24733,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,4/21/2020,Deaths,25,5/10/2020,28.0394250010993,22.0199204177256
+24734,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,4/22/2020,Deaths,21,5/10/2020,28.0394250010993,22.0199204177256
+24735,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,4/23/2020,Deaths,13,5/10/2020,28.0394250010993,22.0199204177256
+24736,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,4/24/2020,Deaths,18,5/10/2020,28.0394250010993,22.0199204177256
+24737,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,4/25/2020,Deaths,17,5/10/2020,28.0394250010993,22.0199204177256
+24738,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,4/26/2020,Deaths,18,5/10/2020,28.0394250010993,22.0199204177256
+24739,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,4/27/2020,Deaths,9,5/10/2020,28.0394250010993,22.0199204177256
+24740,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,4/28/2020,Deaths,13,5/10/2020,28.0394250010993,22.0199204177256
+24741,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,4/29/2020,Deaths,18,5/10/2020,28.0394250010993,22.0199204177256
+24742,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,4/30/2020,Deaths,7,5/10/2020,28.0394250010993,22.0199204177256
+24743,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,5/1/2020,Deaths,11,5/10/2020,28.0394250010993,22.0199204177256
+24744,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,5/2/2020,Deaths,11,5/10/2020,28.0394250010993,22.0199204177256
+24745,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,5/3/2020,Deaths,5,5/10/2020,28.0394250010993,22.0199204177256
+24746,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,5/4/2020,Deaths,11,5/10/2020,28.0394250010993,22.0199204177256
+24747,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,5/5/2020,Deaths,8,5/10/2020,28.0394250010993,22.0199204177256
+24748,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,5/6/2020,Deaths,6,5/10/2020,28.0394250010993,22.0199204177256
+24749,Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,5/7/2020,Deaths,2,5/10/2020,28.0394250010993,22.0199204177256
+25244,Note,,Cases of COVID-19 in Colorado by Date of Illness Onset,Note,,Onset date may be unavailable for some cases and inferred.,,5/10/2020,,
+25245,Note,,Cases of COVID-19 in Colorado by Date of Illness Onset,Note,,Illnesses might not yet be reported due to the time it takes between when a person becomes ill and when the illness is reported.,,5/10/2020,,
+25246,Note,,Cases of COVID-19 in Colorado by Date of Illness Onset,Note,,Onset date may be unavailable for some cases and inferred.,,5/10/2020,,
+25247,Note,,Cases of COVID-19 in Colorado by Date of Illness Onset,Note,,Illnesses might not yet be reported due to the time it takes between when a person becomes ill and when the illness is reported.,,5/10/2020,,
+25248,Note,,Cases of COVID-19 in Colorado by Date Reported to the State,Note,,"Data reported daily around 4PM; subsequent days' data may show differences as cases are reported after this time.",,5/10/2020,,
+25249,Note,,Cases of COVID-19 in Colorado by Date Reported to the State,Note,,"Data reported daily around 4PM; subsequent days' data may show differences as cases are reported after this time.",,5/10/2020,,
+25250,Note,,"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome",Note,,Data on cases recovered is unavailable.,,5/10/2020,,
+25251,Note,,"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome",Note,,Patients who were hospitalized and subsequently died are only counted once as a death.,,5/10/2020,,
+25252,Note,,COVID-19 in Colorado by Age Group,Note,,Percent of cases and deaths by age group compared to percent of total Colorado (CO) population.,,5/10/2020,,
+25253,Note,,COVID-19 in Colorado by Age Group,Note,,"Population Data: Colorado Department of Local Affairs State Demography Office, 2018 Regional Estimates",,5/10/2020,,
+25254,Note,,COVID-19 in Colorado by Race & Ethnicity,Note,,Percent of cases and deaths by race and ethnicity compared to percent of total Colorado (CO) population.,,5/10/2020,,
+25255,Note,,COVID-19 in Colorado by Race & Ethnicity,Note,,"Population Data: U.S. Census Bureau, 2018 American Community Survey 1-Year Estimates",,5/10/2020,,
+25256,Note,,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,Note,,"Data is reported daily around 4pm; subsequent days' data may show differences as cases are reported after this time.",,5/10/2020,,
+25257,Note,,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,Note,,Onset date may be unavailable for some cases and inferred.,,5/10/2020,,
+25258,Note,,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,Note,,Illnesses might not yet be reported due to the time it takes between when a person becomes ill and when the illness is reported.,,5/10/2020,,
+25259,Note,,Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,Note,,"Data is reported daily around 4pm; subsequent days' data may show differences as cases are reported after this time.",,5/10/2020,,
+25260,Note,,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,Note,,Deaths,,5/10/2020,,
+25261,Note,,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,Note,,Deaths,,5/10/2020,,
+25262,Note,,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,Note,,Deaths,,5/10/2020,,
+25263,Note,,Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,Note,,Deaths,,5/10/2020,,
+25264,Note,,Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,Note,,Deaths,,5/10/2020,,
+25265,Note,,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,Note,,"Data is reported daily around 4pm; subsequent days' data may show differences as cases are reported after this time.",,5/10/2020,,
+25266,Note,,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,Note,,Onset date may be unavailable for some cases and inferred.,,5/10/2020,,
+25267,Note,,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,Note,,Illnesses might not yet be reported due to the time it takes between when a person becomes ill and when the illness is reported.,,5/10/2020,,
+25268,Note,,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,Note,,"Data is reported daily around 4pm; subsequent days' data may show differences as cases are reported after this time.",,5/10/2020,,
