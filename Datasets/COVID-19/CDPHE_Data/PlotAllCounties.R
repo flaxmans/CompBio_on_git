@@ -82,7 +82,7 @@ rankedCountiesByRate <- filteredData %>%
   arrange( desc(Number) )
 
 nToKeep <- 5
-highestCounties <- rankedCountiesByRate$County[1:nToKeep]
+highestCounties <- c(rankedCountiesByRate$County[1:nToKeep], "Douglas", "Boulder")
 # highestCounties <- c(rankedCountiesByRate$County[1:nToKeep], "Boulder")
 
 plottingData <- filteredData %>%
