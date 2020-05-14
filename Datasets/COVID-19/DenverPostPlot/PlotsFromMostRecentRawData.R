@@ -1,9 +1,10 @@
 # Plot most recently obtained COVID-19 data from CDPHE
 rm(list = ls())
 # get the functions:
-source("../../DoublingTimePlotFunctions.R")
 
 setwd("~/compbio/CompBio_on_git/Datasets/COVID-19/CDPHE_Data/RawData_csv_files/")
+source("../../DoublingTimePlotFunctions.R")
+
 mostRecentFile <- system("ls -t *.csv | head -n 1", intern = T)
 # defaultFile <- "covid19_case_summary_2020-04-21.csv"
 require(stringr)
@@ -75,7 +76,7 @@ allDailyData$descriptionf <- factor(allDailyData$description,
 onsetData$descriptionf <- factor(onsetData$description, 
                                     levels = paste("Total", myLabels))
 
-allDailyData$rollingAvg <- calcRollingAvg( x = allDailyData$date, y = allDailyData$number, stratifyby = allDailyData$description, windowsize = 7 )
+allDailyData$rollingAvg <- calcRollingAvg( y = allDailyData$number, stratifyby = allDailyData$description, windowsize = 7 )
 
 # Now we have two data frames
 require(ggplot2)

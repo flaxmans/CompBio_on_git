@@ -92,7 +92,7 @@ calcWindowIndexes <- function( ny, position, windowSize ) {
 }
 
 
-calcRollingAvg <- function( x, y, stratifyby = NULL, windowsize = 7 ) {
+calcRollingAvg <- function( y, stratifyby = NULL, windowsize = 7 ) {
   rollingAvg <- y # preallocate
   ny <- length(y)
   if ( is.null(stratifyby) ) {
