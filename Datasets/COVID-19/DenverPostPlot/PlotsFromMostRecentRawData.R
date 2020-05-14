@@ -1,5 +1,8 @@
 # Plot most recently obtained COVID-19 data from CDPHE
 rm(list = ls())
+# get the functions:
+source("../../DoublingTimePlotFunctions.R")
+
 setwd("~/compbio/CompBio_on_git/Datasets/COVID-19/CDPHE_Data/RawData_csv_files/")
 mostRecentFile <- system("ls -t *.csv | head -n 1", intern = T)
 # defaultFile <- "covid19_case_summary_2020-04-21.csv"
@@ -72,20 +75,25 @@ allDailyData$descriptionf <- factor(allDailyData$description,
 onsetData$descriptionf <- factor(onsetData$description, 
                                     levels = paste("Total", myLabels))
 
+allDailyData$rollingAvg <- calcRollingAvg( x = allDailyData$date, y = allDailyData$number, stratifyby = allDailyData$description, windowsize = 7 )
+
 # Now we have two data frames
 require(ggplot2)
 
 # bar plots for daily tallies:
 dppColors <- c("#5C8BBC", "#FCCB88", "#C26064")
+lineColors <- c("blue", "orange", "magenta")
 dailyPlot <- ggplot( data = allDailyData, 
         mapping = aes( x = date, y = number )) + 
   geom_bar( aes(fill = descriptionf), stat = "identity" ) + 
-  geom_smooth() + 
+  geom_line( aes( y = rollingAvg, color = descriptionf )) +
+  #geom_smooth() + 
   facet_wrap( ~descriptionf, nrow = 3, scales = "free_y" ) + 
-  scale_fill_manual( values = dppColors ) + 
+  scale_fill_manual( values = dppColors ) +
+  scale_color_manual( values = lineColors ) +
   theme_bw() + 
-  guides( fill = F ) + 
-  labs( title = paste("CDPHE data as of", dateOfFile), fill = "Metric" )
+  guides( fill = F, color = F ) + 
+  labs( title = paste("CDPHE data as of", dateOfFile, "with 7-day averages"), fill = "Metric" )
 show(dailyPlot)
 
 # lines and points for cumulative:
@@ -100,8 +108,6 @@ totalsPlot <- ggplot ( data = onsetData,
 show(totalsPlot)
 
 # doubling time plots?
-# get the functions:
-source("../../DoublingTimePlotFunctions.R")
 totalCases <- filter( onsetData, description == "Total Cases" )
 totalDeaths <- filter( onsetData, description == "Total Deaths")
 

@@ -83,3 +83,38 @@ doublingTimePlot <- function( dataVec, thresh, doublingPeriods, varname, myTitle
   
   return(p)
 }
+
+calcWindowIndexes <- function( ny, position, windowSize ) {
+  hws <- floor(windowSize / 2) # half window size
+  myMin <- max(1, position - hws)
+  myMax <- min( ny, position + hws )
+  return( myMin:myMax )
+}
+
+
+calcRollingAvg <- function( x, y, stratifyby = NULL, windowsize = 7 ) {
+  rollingAvg <- y # preallocate
+  ny <- length(y)
+  if ( is.null(stratifyby) ) {
+    # no subgroups
+    for ( i in 1:length(y) ) {
+      rollingAvg[i] <- mean( y[ calcWindowIndexes(ny, i, windowsize) ])
+    }
+  } else {
+    subgroups <- unique(stratifyby)
+    n <- length(subgroups)
+    for ( j in 1:n ) {
+      wg <- subgroups[j] # working group
+      wi <- which( stratifyby == wg ) # working indexes
+      nwi <- length(wi) # number of working indexes
+      wvec <- y[wi] # working vector of raw data
+      results <- wvec # preallocate a temp object for rolling avg calcs
+      for ( i in 1:nwi ) {
+        results[i] <- mean( wvec[ calcWindowIndexes(nwi, i, windowsize)] )
+      } # end inner for loop over i
+      # match up data to proper indexes:
+      rollingAvg[wi] <- results
+    } # end outer for loop over j
+  } # end subgroup handling else clause
+  return( rollingAvg )
+}
