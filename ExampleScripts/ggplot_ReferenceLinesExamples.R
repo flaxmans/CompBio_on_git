@@ -59,7 +59,7 @@ goldDF$rollingAvg <- calcRollingAvg( goldDF$XAU.USD, windowsize = 7)
 # take a look with points and a smoothed line:
 require(ggplot2)
 goldPricePlot <- ggplot( data = goldDF, mapping = aes( x = date, y = XAU.USD) ) + 
-  geom_smooth() + 
+  # geom_smooth() + 
   geom_point() +
   geom_line( aes( x = date, y = rollingAvg )) + 
   labs(x = "Date", y = "Price per Troy ounce, USD") + 
