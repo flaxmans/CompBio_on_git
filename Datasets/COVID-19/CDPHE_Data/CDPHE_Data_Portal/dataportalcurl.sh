@@ -70,7 +70,7 @@ done
 
 if (( $newFileCount > 0 ))
 then
-	echo "$newFileCount files found"
+	echo "$newFileCount file(s) with new data created"
 	git commit -m "$newFileCount data file(s) curled and auto-added and auto-committed"
 fi
 

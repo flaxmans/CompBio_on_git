@@ -1,0 +1,2037 @@
+description,attribute,metric,value
+State Data,Statewide,Cases,22797
+State Data,Statewide,Hospitalizations,3990
+State Data,Statewide,Counties,60
+State Data,Statewide,People Tested,135611
+State Data,Statewide,Deaths Among Cases,1299
+State Data,Statewide,Deaths Due to COVID-19,1001
+State Data,Statewide,Outbreaks,249
+State Data,Statewide,"Rate per 100,000",400.35
+State Data,Note,Data is updated daily by about 4 p.m. and includes cases reported through the previous day.,NA
+State Data,Note,The number of cases includes people who have had a test that indicated they were positive for COVID-19. The number of cases also includes epidemiologically-linked cases -- or cases where public health epidemiologists have determined that infection is highly likely because a person exhibited symptoms and had close contact with someone who tested positive. The number of epidemiologically-linked cases represents a very small portion of the reported cases.,NA
+State Data,Note,Total people tested may not include all negative results. Testing data excludes serology and only counts PCR.,NA
+State Data,Note,Deaths due to COVID-19 (updated through the previous Saturday): https://www.cdc.gov/nchs/nvss/vsrr/covid19/index.htm (Table 2),NA
+Colorado Case Counts by County,Adams,Cases,2737
+Colorado Case Counts by County,Alamosa,Cases,43
+Colorado Case Counts by County,Arapahoe,Cases,3889
+Colorado Case Counts by County,Archuleta,Cases,8
+Colorado Case Counts by County,Baca,Cases,12
+Colorado Case Counts by County,Bent,Cases,1
+Colorado Case Counts by County,Boulder,Cases,878
+Colorado Case Counts by County,Broomfield,Cases,215
+Colorado Case Counts by County,Chaffee,Cases,69
+Colorado Case Counts by County,Cheyenne,Cases,5
+Colorado Case Counts by County,Clear Creek,Cases,16
+Colorado Case Counts by County,Conejos,Cases,1
+Colorado Case Counts by County,Costilla,Cases,3
+Colorado Case Counts by County,Crowley,Cases,42
+Colorado Case Counts by County,Custer,Cases,2
+Colorado Case Counts by County,Delta,Cases,55
+Colorado Case Counts by County,Denver,Cases,4858
+Colorado Case Counts by County,Dolores,Cases,0
+Colorado Case Counts by County,Douglas,Cases,659
+Colorado Case Counts by County,Eagle,Cases,572
+Colorado Case Counts by County,El Paso,Cases,1386
+Colorado Case Counts by County,Elbert,Cases,48
+Colorado Case Counts by County,Fremont,Cases,25
+Colorado Case Counts by County,Garfield,Cases,114
+Colorado Case Counts by County,Gilpin,Cases,3
+Colorado Case Counts by County,Grand,Cases,5
+Colorado Case Counts by County,Gunnison,Cases,176
+Colorado Case Counts by County,Hinsdale,Cases,3
+Colorado Case Counts by County,Huerfano,Cases,3
+Colorado Case Counts by County,Jackson,Cases,0
+Colorado Case Counts by County,Jefferson,Cases,1932
+Colorado Case Counts by County,Kiowa,Cases,0
+Colorado Case Counts by County,Kit Carson,Cases,26
+Colorado Case Counts by County,La Plata,Cases,72
+Colorado Case Counts by County,Lake,Cases,27
+Colorado Case Counts by County,Larimer,Cases,512
+Colorado Case Counts by County,Las Animas,Cases,4
+Colorado Case Counts by County,Lincoln,Cases,3
+Colorado Case Counts by County,Logan,Cases,489
+Colorado Case Counts by County,Mesa,Cases,50
+Colorado Case Counts by County,Mineral,Cases,2
+Colorado Case Counts by County,Moffat,Cases,6
+Colorado Case Counts by County,Montezuma,Cases,30
+Colorado Case Counts by County,Montrose,Cases,136
+Colorado Case Counts by County,Morgan,Cases,579
+Colorado Case Counts by County,Otero,Cases,13
+Colorado Case Counts by County,Ouray,Cases,7
+Colorado Case Counts by County,Park,Cases,20
+Colorado Case Counts by County,Phillips,Cases,10
+Colorado Case Counts by County,Pitkin,Cases,57
+Colorado Case Counts by County,Prowers,Cases,11
+Colorado Case Counts by County,Pueblo,Cases,220
+Colorado Case Counts by County,Rio Blanco,Cases,1
+Colorado Case Counts by County,Rio Grande,Cases,8
+Colorado Case Counts by County,Routt,Cases,59
+Colorado Case Counts by County,Saguache,Cases,18
+Colorado Case Counts by County,San Juan,Cases,2
+Colorado Case Counts by County,San Miguel,Cases,22
+Colorado Case Counts by County,Sedgwick,Cases,0
+Colorado Case Counts by County,Summit,Cases,194
+Colorado Case Counts by County,Teller,Cases,32
+Colorado Case Counts by County,Unknown Or Pending,Cases,67
+Colorado Case Counts by County,Washington,Cases,11
+Colorado Case Counts by County,Weld,Cases,2338
+Colorado Case Counts by County,Yuma,Cases,11
+Colorado Case Counts by County,Note,"County rates per 100,000 are calculated using 2018 population estimates from the Demography Section, Colorado Division of Local Government.",NA
+COVID-19 in Colorado by Age Group,0-9,Percent of Cases,2.06
+COVID-19 in Colorado by Age Group,19-Oct,Percent of Cases,4.11
+COVID-19 in Colorado by Age Group,20-29,Percent of Cases,15.44
+COVID-19 in Colorado by Age Group,30-39,Percent of Cases,17.17
+COVID-19 in Colorado by Age Group,40-49,Percent of Cases,17.27
+COVID-19 in Colorado by Age Group,50-59,Percent of Cases,16.33
+COVID-19 in Colorado by Age Group,60-69,Percent of Cases,11.83
+COVID-19 in Colorado by Age Group,70-79,Percent of Cases,7.49
+COVID-19 in Colorado by Age Group,80+,Percent of Cases,8.08
+COVID-19 in Colorado by Age Group,Unknown,Percent of Cases,0.23
+COVID-19 in Colorado by Age Group,19-Oct,Percent of Deaths,0.15
+COVID-19 in Colorado by Age Group,20-29,Percent of Deaths,0.54
+COVID-19 in Colorado by Age Group,30-39,Percent of Deaths,0.54
+COVID-19 in Colorado by Age Group,40-49,Percent of Deaths,2.39
+COVID-19 in Colorado by Age Group,50-59,Percent of Deaths,5.39
+COVID-19 in Colorado by Age Group,60-69,Percent of Deaths,13.09
+COVID-19 in Colorado by Age Group,70-79,Percent of Deaths,23.25
+COVID-19 in Colorado by Age Group,80+,Percent of Deaths,54.66
+COVID-19 in Colorado by Age Group,0-9,Percent of Colorado Population,11.85
+COVID-19 in Colorado by Age Group,19-Oct,Percent of Colorado Population,13.11
+COVID-19 in Colorado by Age Group,20-29,Percent of Colorado Population,14.61
+COVID-19 in Colorado by Age Group,30-39,Percent of Colorado Population,14.56
+COVID-19 in Colorado by Age Group,40-49,Percent of Colorado Population,13.04
+COVID-19 in Colorado by Age Group,50-59,Percent of Colorado Population,12.67
+COVID-19 in Colorado by Age Group,60-69,Percent of Colorado Population,10.91
+COVID-19 in Colorado by Age Group,70-79,Percent of Colorado Population,6.12
+COVID-19 in Colorado by Age Group,80+,Percent of Colorado Population,3.13
+COVID-19 in Colorado by Age Group,Unknown,Percent of Colorado Population,0
+COVID-19 in Colorado by Age Group,Note,Percent of cases and deaths by age group compared to percent of total Colorado (CO) population.,NA
+COVID-19 in Colorado by Age Group,Note,"Population Data: Colorado Department of Local Affairs State Demography Office, 2018 Regional Estimates",NA
+COVID-19 in Colorado by Race & Ethnicity,AIAN - Non Hispanic,Percent of Cases,0.45
+COVID-19 in Colorado by Race & Ethnicity,Asian - Non Hispanic,Percent of Cases,2.76
+COVID-19 in Colorado by Race & Ethnicity,Black - Non Hispanic,Percent of Cases,6.12
+COVID-19 in Colorado by Race & Ethnicity,"Hispanic, All Races",Percent of Cases,35.72
+COVID-19 in Colorado by Race & Ethnicity,Multiple - Non Hispanic,Percent of Cases,0.72
+COVID-19 in Colorado by Race & Ethnicity,NHOPI - Non Hispanic,Percent of Cases,0.4
+COVID-19 in Colorado by Race & Ethnicity,White - Non Hispanic,Percent of Cases,35.74
+COVID-19 in Colorado by Race & Ethnicity,Other,Percent of Cases,0.91
+COVID-19 in Colorado by Race & Ethnicity,Unknown/Not Provided,Percent of Cases,17.17
+COVID-19 in Colorado by Race & Ethnicity,AIAN - Non Hispanic,Percent of Deaths,0.62
+COVID-19 in Colorado by Race & Ethnicity,Asian - Non Hispanic,Percent of Deaths,4
+COVID-19 in Colorado by Race & Ethnicity,Black - Non Hispanic,Percent of Deaths,7.01
+COVID-19 in Colorado by Race & Ethnicity,"Hispanic, All Races",Percent of Deaths,18.86
+COVID-19 in Colorado by Race & Ethnicity,Multiple - Non Hispanic,Percent of Deaths,0.77
+COVID-19 in Colorado by Race & Ethnicity,NHOPI - Non Hispanic,Percent of Deaths,0.31
+COVID-19 in Colorado by Race & Ethnicity,White - Non Hispanic,Percent of Deaths,64.05
+COVID-19 in Colorado by Race & Ethnicity,Other,Percent of Deaths,0.54
+COVID-19 in Colorado by Race & Ethnicity,Unknown/Not Provided,Percent of Deaths,3.85
+COVID-19 in Colorado by Race & Ethnicity,AIAN - Non Hispanic,Percent of Colorado Population,0.56
+COVID-19 in Colorado by Race & Ethnicity,Asian - Non Hispanic,Percent of Colorado Population,3.12
+COVID-19 in Colorado by Race & Ethnicity,Black - Non Hispanic,Percent of Colorado Population,3.92
+COVID-19 in Colorado by Race & Ethnicity,"Hispanic, All Races",Percent of Colorado Population,21.69
+COVID-19 in Colorado by Race & Ethnicity,Multiple - Non Hispanic,Percent of Colorado Population,2.65
+COVID-19 in Colorado by Race & Ethnicity,NHOPI - Non Hispanic,Percent of Colorado Population,0.12
+COVID-19 in Colorado by Race & Ethnicity,White - Non Hispanic,Percent of Colorado Population,67.76
+COVID-19 in Colorado by Race & Ethnicity,Other,Percent of Colorado Population,0.19
+COVID-19 in Colorado by Race & Ethnicity,Note,Percent of cases and deaths by race and ethnicity compared to percent of total Colorado (CO) population.,NA
+COVID-19 in Colorado by Race & Ethnicity,Note,"Population Data: U.S. Census Bureau, 2018 American Community Survey 1-Year Estimates",NA
+COVID-19 in Colorado by Sex,Female,Percent of Cases,50.62
+COVID-19 in Colorado by Sex,Male,Percent of Cases,48.42
+COVID-19 in Colorado by Sex,Male to Female,Percent of Cases,0.01
+COVID-19 in Colorado by Sex,Unknown,Percent of Cases,0.96
+COVID-19 in Colorado by Sex,Female,Percent of Deaths,43.88
+COVID-19 in Colorado by Sex,Male,Percent of Deaths,55.74
+COVID-19 in Colorado by Sex,Unknown,Percent of Deaths,0.38
+Case Status for Cases & Deaths,Confirmed,Number of Cases,20595
+Case Status for Cases & Deaths,Confirmed,Percent of Cases,0.9
+Case Status for Cases & Deaths,Confirmed,Number of Deaths,1026
+Case Status for Cases & Deaths,Confirmed,Percent of Deaths,0.79
+Case Status for Cases & Deaths,Probable,Number of Cases,2157
+Case Status for Cases & Deaths,Probable,Percent of Cases,0.09
+Case Status for Cases & Deaths,Probable,Number of Deaths,273
+Case Status for Cases & Deaths,Probable,Percent of Deaths,0.21
+Case Status for Cases & Deaths,Unknown,Number of Cases,45
+Case Status for Cases & Deaths,Unknown,Percent of Cases,0
+Case Status for Cases & Deaths,Unknown,Number of Deaths,NA
+Case Status for Cases & Deaths,Unknown,Percent of Deaths,NA
+Cases of COVID-19 in Colorado by Date Reported to the State,3/7/20,Three-Day Moving Average Of Cases,2.33
+Cases of COVID-19 in Colorado by Date Reported to the State,3/8/20,Three-Day Moving Average Of Cases,0
+Cases of COVID-19 in Colorado by Date Reported to the State,3/9/20,Three-Day Moving Average Of Cases,1.67
+Cases of COVID-19 in Colorado by Date Reported to the State,3/10/20,Three-Day Moving Average Of Cases,3.67
+Cases of COVID-19 in Colorado by Date Reported to the State,3/11/20,Three-Day Moving Average Of Cases,10
+Cases of COVID-19 in Colorado by Date Reported to the State,3/12/20,Three-Day Moving Average Of Cases,11.67
+Cases of COVID-19 in Colorado by Date Reported to the State,3/13/20,Three-Day Moving Average Of Cases,19
+Cases of COVID-19 in Colorado by Date Reported to the State,3/14/20,Three-Day Moving Average Of Cases,22.33
+Cases of COVID-19 in Colorado by Date Reported to the State,3/15/20,Three-Day Moving Average Of Cases,30.33
+Cases of COVID-19 in Colorado by Date Reported to the State,3/16/20,Three-Day Moving Average Of Cases,32.33
+Cases of COVID-19 in Colorado by Date Reported to the State,3/17/20,Three-Day Moving Average Of Cases,32.33
+Cases of COVID-19 in Colorado by Date Reported to the State,3/18/20,Three-Day Moving Average Of Cases,43.33
+Cases of COVID-19 in Colorado by Date Reported to the State,3/19/20,Three-Day Moving Average Of Cases,59.67
+Cases of COVID-19 in Colorado by Date Reported to the State,3/20/20,Three-Day Moving Average Of Cases,89.67
+Cases of COVID-19 in Colorado by Date Reported to the State,3/21/20,Three-Day Moving Average Of Cases,105.67
+Cases of COVID-19 in Colorado by Date Reported to the State,3/22/20,Three-Day Moving Average Of Cases,119.67
+Cases of COVID-19 in Colorado by Date Reported to the State,3/23/20,Three-Day Moving Average Of Cases,144.33
+Cases of COVID-19 in Colorado by Date Reported to the State,3/24/20,Three-Day Moving Average Of Cases,164.33
+Cases of COVID-19 in Colorado by Date Reported to the State,3/25/20,Three-Day Moving Average Of Cases,227.33
+Cases of COVID-19 in Colorado by Date Reported to the State,3/26/20,Three-Day Moving Average Of Cases,260.33
+Cases of COVID-19 in Colorado by Date Reported to the State,3/27/20,Three-Day Moving Average Of Cases,311
+Cases of COVID-19 in Colorado by Date Reported to the State,3/28/20,Three-Day Moving Average Of Cases,287.33
+Cases of COVID-19 in Colorado by Date Reported to the State,3/29/20,Three-Day Moving Average Of Cases,300.67
+Cases of COVID-19 in Colorado by Date Reported to the State,3/30/20,Three-Day Moving Average Of Cases,299.67
+Cases of COVID-19 in Colorado by Date Reported to the State,3/31/20,Three-Day Moving Average Of Cases,346
+Cases of COVID-19 in Colorado by Date Reported to the State,4/1/20,Three-Day Moving Average Of Cases,367
+Cases of COVID-19 in Colorado by Date Reported to the State,4/2/20,Three-Day Moving Average Of Cases,408.33
+Cases of COVID-19 in Colorado by Date Reported to the State,4/3/20,Three-Day Moving Average Of Cases,410.67
+Cases of COVID-19 in Colorado by Date Reported to the State,4/4/20,Three-Day Moving Average Of Cases,407.67
+Cases of COVID-19 in Colorado by Date Reported to the State,4/5/20,Three-Day Moving Average Of Cases,331.67
+Cases of COVID-19 in Colorado by Date Reported to the State,4/6/20,Three-Day Moving Average Of Cases,291
+Cases of COVID-19 in Colorado by Date Reported to the State,4/7/20,Three-Day Moving Average Of Cases,245
+Cases of COVID-19 in Colorado by Date Reported to the State,4/8/20,Three-Day Moving Average Of Cases,354.67
+Cases of COVID-19 in Colorado by Date Reported to the State,4/9/20,Three-Day Moving Average Of Cases,386
+Cases of COVID-19 in Colorado by Date Reported to the State,4/10/20,Three-Day Moving Average Of Cases,447.33
+Cases of COVID-19 in Colorado by Date Reported to the State,4/11/20,Three-Day Moving Average Of Cases,408.33
+Cases of COVID-19 in Colorado by Date Reported to the State,4/12/20,Three-Day Moving Average Of Cases,414.33
+Cases of COVID-19 in Colorado by Date Reported to the State,4/13/20,Three-Day Moving Average Of Cases,368.33
+Cases of COVID-19 in Colorado by Date Reported to the State,4/14/20,Three-Day Moving Average Of Cases,325
+Cases of COVID-19 in Colorado by Date Reported to the State,4/15/20,Three-Day Moving Average Of Cases,337.67
+Cases of COVID-19 in Colorado by Date Reported to the State,4/16/20,Three-Day Moving Average Of Cases,356.33
+Cases of COVID-19 in Colorado by Date Reported to the State,4/17/20,Three-Day Moving Average Of Cases,396.67
+Cases of COVID-19 in Colorado by Date Reported to the State,4/18/20,Three-Day Moving Average Of Cases,347
+Cases of COVID-19 in Colorado by Date Reported to the State,4/19/20,Three-Day Moving Average Of Cases,334.33
+Cases of COVID-19 in Colorado by Date Reported to the State,4/20/20,Three-Day Moving Average Of Cases,288.33
+Cases of COVID-19 in Colorado by Date Reported to the State,4/21/20,Three-Day Moving Average Of Cases,354.67
+Cases of COVID-19 in Colorado by Date Reported to the State,4/22/20,Three-Day Moving Average Of Cases,381.67
+Cases of COVID-19 in Colorado by Date Reported to the State,4/23/20,Three-Day Moving Average Of Cases,611.67
+Cases of COVID-19 in Colorado by Date Reported to the State,4/24/20,Three-Day Moving Average Of Cases,692.33
+Cases of COVID-19 in Colorado by Date Reported to the State,4/25/20,Three-Day Moving Average Of Cases,726.33
+Cases of COVID-19 in Colorado by Date Reported to the State,4/26/20,Three-Day Moving Average Of Cases,546.33
+Cases of COVID-19 in Colorado by Date Reported to the State,4/27/20,Three-Day Moving Average Of Cases,475
+Cases of COVID-19 in Colorado by Date Reported to the State,4/28/20,Three-Day Moving Average Of Cases,454
+Cases of COVID-19 in Colorado by Date Reported to the State,4/29/20,Three-Day Moving Average Of Cases,586
+Cases of COVID-19 in Colorado by Date Reported to the State,4/30/20,Three-Day Moving Average Of Cases,572.33
+Cases of COVID-19 in Colorado by Date Reported to the State,5/1/20,Three-Day Moving Average Of Cases,581
+Cases of COVID-19 in Colorado by Date Reported to the State,5/2/20,Three-Day Moving Average Of Cases,438.67
+Cases of COVID-19 in Colorado by Date Reported to the State,5/3/20,Three-Day Moving Average Of Cases,366.67
+Cases of COVID-19 in Colorado by Date Reported to the State,5/4/20,Three-Day Moving Average Of Cases,332.67
+Cases of COVID-19 in Colorado by Date Reported to the State,5/5/20,Three-Day Moving Average Of Cases,329
+Cases of COVID-19 in Colorado by Date Reported to the State,5/6/20,Three-Day Moving Average Of Cases,397
+Cases of COVID-19 in Colorado by Date Reported to the State,5/7/20,Three-Day Moving Average Of Cases,427.33
+Cases of COVID-19 in Colorado by Date Reported to the State,5/8/20,Three-Day Moving Average Of Cases,479.67
+Cases of COVID-19 in Colorado by Date Reported to the State,5/9/20,Three-Day Moving Average Of Cases,447.33
+Cases of COVID-19 in Colorado by Date Reported to the State,5/10/20,Three-Day Moving Average Of Cases,367.67
+Cases of COVID-19 in Colorado by Date Reported to the State,5/11/20,Three-Day Moving Average Of Cases,267
+Cases of COVID-19 in Colorado by Date Reported to the State,5/12/20,Three-Day Moving Average Of Cases,251
+Cases of COVID-19 in Colorado by Date Reported to the State,5/13/20,Three-Day Moving Average Of Cases,325.33
+Cases of COVID-19 in Colorado by Date Reported to the State,5/14/20,Three-Day Moving Average Of Cases,370.67
+Cases of COVID-19 in Colorado by Date Reported to the State,5/15/20,Three-Day Moving Average Of Cases,407.33
+Cases of COVID-19 in Colorado by Date Reported to the State,5/16/20,Three-Day Moving Average Of Cases,368.67
+Cases of COVID-19 in Colorado by Date Reported to the State,5/17/20,Three-Day Moving Average Of Cases,310.33
+Cases of COVID-19 in Colorado by Date Reported to the State,5/18/20,Three-Day Moving Average Of Cases,260
+Cases of COVID-19 in Colorado by Date Reported to the State,5/19/20,Three-Day Moving Average Of Cases,246.33
+Cases of COVID-19 in Colorado by Date Reported to the State,Note,Data reported daily around 4PM; subsequent days' data may show differences as cases are reported after this time.,NA
+Cases of COVID-19 in Colorado by Date Reported to the State,3/5/20,Cases,7
+Cases of COVID-19 in Colorado by Date Reported to the State,3/6/20,Cases,0
+Cases of COVID-19 in Colorado by Date Reported to the State,3/7/20,Cases,0
+Cases of COVID-19 in Colorado by Date Reported to the State,3/8/20,Cases,0
+Cases of COVID-19 in Colorado by Date Reported to the State,3/9/20,Cases,5
+Cases of COVID-19 in Colorado by Date Reported to the State,3/10/20,Cases,6
+Cases of COVID-19 in Colorado by Date Reported to the State,3/11/20,Cases,19
+Cases of COVID-19 in Colorado by Date Reported to the State,3/12/20,Cases,10
+Cases of COVID-19 in Colorado by Date Reported to the State,3/13/20,Cases,28
+Cases of COVID-19 in Colorado by Date Reported to the State,3/14/20,Cases,29
+Cases of COVID-19 in Colorado by Date Reported to the State,3/15/20,Cases,34
+Cases of COVID-19 in Colorado by Date Reported to the State,3/16/20,Cases,34
+Cases of COVID-19 in Colorado by Date Reported to the State,3/17/20,Cases,29
+Cases of COVID-19 in Colorado by Date Reported to the State,3/18/20,Cases,67
+Cases of COVID-19 in Colorado by Date Reported to the State,3/19/20,Cases,83
+Cases of COVID-19 in Colorado by Date Reported to the State,3/20/20,Cases,119
+Cases of COVID-19 in Colorado by Date Reported to the State,3/21/20,Cases,115
+Cases of COVID-19 in Colorado by Date Reported to the State,3/22/20,Cases,125
+Cases of COVID-19 in Colorado by Date Reported to the State,3/23/20,Cases,193
+Cases of COVID-19 in Colorado by Date Reported to the State,3/24/20,Cases,175
+Cases of COVID-19 in Colorado by Date Reported to the State,3/25/20,Cases,314
+Cases of COVID-19 in Colorado by Date Reported to the State,3/26/20,Cases,292
+Cases of COVID-19 in Colorado by Date Reported to the State,3/27/20,Cases,327
+Cases of COVID-19 in Colorado by Date Reported to the State,3/28/20,Cases,243
+Cases of COVID-19 in Colorado by Date Reported to the State,3/29/20,Cases,332
+Cases of COVID-19 in Colorado by Date Reported to the State,3/30/20,Cases,324
+Cases of COVID-19 in Colorado by Date Reported to the State,3/31/20,Cases,382
+Cases of COVID-19 in Colorado by Date Reported to the State,4/1/20,Cases,395
+Cases of COVID-19 in Colorado by Date Reported to the State,4/2/20,Cases,448
+Cases of COVID-19 in Colorado by Date Reported to the State,4/3/20,Cases,389
+Cases of COVID-19 in Colorado by Date Reported to the State,4/4/20,Cases,386
+Cases of COVID-19 in Colorado by Date Reported to the State,4/5/20,Cases,220
+Cases of COVID-19 in Colorado by Date Reported to the State,4/6/20,Cases,267
+Cases of COVID-19 in Colorado by Date Reported to the State,4/7/20,Cases,248
+Cases of COVID-19 in Colorado by Date Reported to the State,4/8/20,Cases,549
+Cases of COVID-19 in Colorado by Date Reported to the State,4/9/20,Cases,361
+Cases of COVID-19 in Colorado by Date Reported to the State,4/10/20,Cases,432
+Cases of COVID-19 in Colorado by Date Reported to the State,4/11/20,Cases,432
+Cases of COVID-19 in Colorado by Date Reported to the State,4/12/20,Cases,379
+Cases of COVID-19 in Colorado by Date Reported to the State,4/13/20,Cases,294
+Cases of COVID-19 in Colorado by Date Reported to the State,4/14/20,Cases,302
+Cases of COVID-19 in Colorado by Date Reported to the State,4/15/20,Cases,417
+Cases of COVID-19 in Colorado by Date Reported to the State,4/16/20,Cases,350
+Cases of COVID-19 in Colorado by Date Reported to the State,4/17/20,Cases,423
+Cases of COVID-19 in Colorado by Date Reported to the State,4/18/20,Cases,268
+Cases of COVID-19 in Colorado by Date Reported to the State,4/19/20,Cases,312
+Cases of COVID-19 in Colorado by Date Reported to the State,4/20/20,Cases,285
+Cases of COVID-19 in Colorado by Date Reported to the State,4/21/20,Cases,467
+Cases of COVID-19 in Colorado by Date Reported to the State,4/22/20,Cases,393
+Cases of COVID-19 in Colorado by Date Reported to the State,4/23/20,Cases,975
+Cases of COVID-19 in Colorado by Date Reported to the State,4/24/20,Cases,709
+Cases of COVID-19 in Colorado by Date Reported to the State,4/25/20,Cases,495
+Cases of COVID-19 in Colorado by Date Reported to the State,4/26/20,Cases,435
+Cases of COVID-19 in Colorado by Date Reported to the State,4/27/20,Cases,495
+Cases of COVID-19 in Colorado by Date Reported to the State,4/28/20,Cases,432
+Cases of COVID-19 in Colorado by Date Reported to the State,4/29/20,Cases,831
+Cases of COVID-19 in Colorado by Date Reported to the State,4/30/20,Cases,454
+Cases of COVID-19 in Colorado by Date Reported to the State,5/1/20,Cases,458
+Cases of COVID-19 in Colorado by Date Reported to the State,5/2/20,Cases,404
+Cases of COVID-19 in Colorado by Date Reported to the State,5/3/20,Cases,238
+Cases of COVID-19 in Colorado by Date Reported to the State,5/4/20,Cases,356
+Cases of COVID-19 in Colorado by Date Reported to the State,5/5/20,Cases,393
+Cases of COVID-19 in Colorado by Date Reported to the State,5/6/20,Cases,442
+Cases of COVID-19 in Colorado by Date Reported to the State,5/7/20,Cases,447
+Cases of COVID-19 in Colorado by Date Reported to the State,5/8/20,Cases,550
+Cases of COVID-19 in Colorado by Date Reported to the State,5/9/20,Cases,345
+Cases of COVID-19 in Colorado by Date Reported to the State,5/10/20,Cases,208
+Cases of COVID-19 in Colorado by Date Reported to the State,5/11/20,Cases,248
+Cases of COVID-19 in Colorado by Date Reported to the State,5/12/20,Cases,297
+Cases of COVID-19 in Colorado by Date Reported to the State,5/13/20,Cases,431
+Cases of COVID-19 in Colorado by Date Reported to the State,5/14/20,Cases,384
+Cases of COVID-19 in Colorado by Date Reported to the State,5/15/20,Cases,407
+Cases of COVID-19 in Colorado by Date Reported to the State,5/16/20,Cases,315
+Cases of COVID-19 in Colorado by Date Reported to the State,5/17/20,Cases,209
+Cases of COVID-19 in Colorado by Date Reported to the State,5/18/20,Cases,256
+Cases of COVID-19 in Colorado by Date Reported to the State,5/19/20,Cases,274
+Cases of COVID-19 in Colorado by Date Reported to the State,Note,Data reported daily around 4PM; subsequent days' data may show differences as cases are reported after this time.,NA
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/3/20,Three-Day Moving Average Of Cases,1.33
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/4/20,Three-Day Moving Average Of Cases,0.33
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/5/20,Three-Day Moving Average Of Cases,0.67
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/6/20,Three-Day Moving Average Of Cases,1
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/7/20,Three-Day Moving Average Of Cases,1
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/8/20,Three-Day Moving Average Of Cases,0.33
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/9/20,Three-Day Moving Average Of Cases,0.33
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/10/20,Three-Day Moving Average Of Cases,1.33
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/11/20,Three-Day Moving Average Of Cases,1.33
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/12/20,Three-Day Moving Average Of Cases,1
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/13/20,Three-Day Moving Average Of Cases,0.33
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/14/20,Three-Day Moving Average Of Cases,0.67
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/15/20,Three-Day Moving Average Of Cases,2.67
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/16/20,Three-Day Moving Average Of Cases,2.33
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/17/20,Three-Day Moving Average Of Cases,2.67
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/18/20,Three-Day Moving Average Of Cases,1
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/19/20,Three-Day Moving Average Of Cases,1.67
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/20/20,Three-Day Moving Average Of Cases,3
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/21/20,Three-Day Moving Average Of Cases,3.33
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/22/20,Three-Day Moving Average Of Cases,3.67
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/23/20,Three-Day Moving Average Of Cases,3.33
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/24/20,Three-Day Moving Average Of Cases,4.67
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/25/20,Three-Day Moving Average Of Cases,5
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/26/20,Three-Day Moving Average Of Cases,5.67
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/27/20,Three-Day Moving Average Of Cases,7
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/28/20,Three-Day Moving Average Of Cases,9
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/29/20,Three-Day Moving Average Of Cases,10
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/1/20,Three-Day Moving Average Of Cases,23.67
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/2/20,Three-Day Moving Average Of Cases,29.33
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/3/20,Three-Day Moving Average Of Cases,37.33
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/4/20,Three-Day Moving Average Of Cases,35.33
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/5/20,Three-Day Moving Average Of Cases,37.67
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/6/20,Three-Day Moving Average Of Cases,46.33
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/7/20,Three-Day Moving Average Of Cases,49.33
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/8/20,Three-Day Moving Average Of Cases,74.33
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/9/20,Three-Day Moving Average Of Cases,114.67
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/10/20,Three-Day Moving Average Of Cases,151.67
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/11/20,Three-Day Moving Average Of Cases,175
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/12/20,Three-Day Moving Average Of Cases,174.67
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/13/20,Three-Day Moving Average Of Cases,206.67
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/14/20,Three-Day Moving Average Of Cases,220.33
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/15/20,Three-Day Moving Average Of Cases,254.33
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/16/20,Three-Day Moving Average Of Cases,275.67
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/17/20,Three-Day Moving Average Of Cases,310
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/18/20,Three-Day Moving Average Of Cases,328.67
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/19/20,Three-Day Moving Average Of Cases,314.67
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/20/20,Three-Day Moving Average Of Cases,318.67
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/21/20,Three-Day Moving Average Of Cases,302.67
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/22/20,Three-Day Moving Average Of Cases,296
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/23/20,Three-Day Moving Average Of Cases,321.67
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/24/20,Three-Day Moving Average Of Cases,337
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/25/20,Three-Day Moving Average Of Cases,382.67
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/26/20,Three-Day Moving Average Of Cases,343.67
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/27/20,Three-Day Moving Average Of Cases,363.67
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/28/20,Three-Day Moving Average Of Cases,338.67
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/29/20,Three-Day Moving Average Of Cases,338
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/30/20,Three-Day Moving Average Of Cases,348.33
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/31/20,Three-Day Moving Average Of Cases,334.67
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/1/20,Three-Day Moving Average Of Cases,390
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/2/20,Three-Day Moving Average Of Cases,365.67
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/3/20,Three-Day Moving Average Of Cases,414.67
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/4/20,Three-Day Moving Average Of Cases,368.67
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/5/20,Three-Day Moving Average Of Cases,355.33
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/6/20,Three-Day Moving Average Of Cases,362.67
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/7/20,Three-Day Moving Average Of Cases,376
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/8/20,Three-Day Moving Average Of Cases,400
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/9/20,Three-Day Moving Average Of Cases,381
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/10/20,Three-Day Moving Average Of Cases,412
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/11/20,Three-Day Moving Average Of Cases,406.67
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/12/20,Three-Day Moving Average Of Cases,407.67
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/13/20,Three-Day Moving Average Of Cases,409
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/14/20,Three-Day Moving Average Of Cases,419
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/15/20,Three-Day Moving Average Of Cases,445.33
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/16/20,Three-Day Moving Average Of Cases,410
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/17/20,Three-Day Moving Average Of Cases,440.33
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/18/20,Three-Day Moving Average Of Cases,411
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/19/20,Three-Day Moving Average Of Cases,391
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/20/20,Three-Day Moving Average Of Cases,428.33
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/21/20,Three-Day Moving Average Of Cases,401.67
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/22/20,Three-Day Moving Average Of Cases,436
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/23/20,Three-Day Moving Average Of Cases,359.33
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/24/20,Three-Day Moving Average Of Cases,393.33
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/25/20,Three-Day Moving Average Of Cases,386.33
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/26/20,Three-Day Moving Average Of Cases,374.67
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/27/20,Three-Day Moving Average Of Cases,370
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/28/20,Three-Day Moving Average Of Cases,352.33
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/29/20,Three-Day Moving Average Of Cases,349
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/30/20,Three-Day Moving Average Of Cases,323.67
+Cases of COVID-19 in Colorado by Date of Illness Onset,5/1/20,Three-Day Moving Average Of Cases,337.33
+Cases of COVID-19 in Colorado by Date of Illness Onset,5/2/20,Three-Day Moving Average Of Cases,327.33
+Cases of COVID-19 in Colorado by Date of Illness Onset,5/3/20,Three-Day Moving Average Of Cases,316.67
+Cases of COVID-19 in Colorado by Date of Illness Onset,5/4/20,Three-Day Moving Average Of Cases,308
+Cases of COVID-19 in Colorado by Date of Illness Onset,5/5/20,Three-Day Moving Average Of Cases,307
+Cases of COVID-19 in Colorado by Date of Illness Onset,5/6/20,Three-Day Moving Average Of Cases,317.67
+Cases of COVID-19 in Colorado by Date of Illness Onset,5/7/20,Three-Day Moving Average Of Cases,306.33
+Cases of COVID-19 in Colorado by Date of Illness Onset,5/8/20,Three-Day Moving Average Of Cases,307.33
+Cases of COVID-19 in Colorado by Date of Illness Onset,5/9/20,Three-Day Moving Average Of Cases,280
+Cases of COVID-19 in Colorado by Date of Illness Onset,5/10/20,Three-Day Moving Average Of Cases,261
+Cases of COVID-19 in Colorado by Date of Illness Onset,5/11/20,Three-Day Moving Average Of Cases,230
+Cases of COVID-19 in Colorado by Date of Illness Onset,5/12/20,Three-Day Moving Average Of Cases,200
+Cases of COVID-19 in Colorado by Date of Illness Onset,5/13/20,Three-Day Moving Average Of Cases,169.67
+Cases of COVID-19 in Colorado by Date of Illness Onset,5/14/20,Three-Day Moving Average Of Cases,136.67
+Cases of COVID-19 in Colorado by Date of Illness Onset,5/15/20,Three-Day Moving Average Of Cases,104.33
+Cases of COVID-19 in Colorado by Date of Illness Onset,5/16/20,Three-Day Moving Average Of Cases,82
+Cases of COVID-19 in Colorado by Date of Illness Onset,5/17/20,Three-Day Moving Average Of Cases,54.33
+Cases of COVID-19 in Colorado by Date of Illness Onset,5/18/20,Three-Day Moving Average Of Cases,38
+Cases of COVID-19 in Colorado by Date of Illness Onset,Note,Onset date may be unavailable for some cases and inferred.,NA
+Cases of COVID-19 in Colorado by Date of Illness Onset,Note,Illnesses might not yet be reported due to the time it takes between when a person becomes ill and when the illness is reported.,NA
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/1/20,Cases,3
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/2/20,Cases,1
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/3/20,Cases,0
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/4/20,Cases,0
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/5/20,Cases,2
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/6/20,Cases,1
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/7/20,Cases,0
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/8/20,Cases,0
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/9/20,Cases,1
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/10/20,Cases,3
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/11/20,Cases,0
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/12/20,Cases,0
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/13/20,Cases,1
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/14/20,Cases,1
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/15/20,Cases,6
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/16/20,Cases,0
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/17/20,Cases,2
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/18/20,Cases,1
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/19/20,Cases,2
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/20/20,Cases,6
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/21/20,Cases,2
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/22/20,Cases,3
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/23/20,Cases,5
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/24/20,Cases,6
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/25/20,Cases,4
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/26/20,Cases,7
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/27/20,Cases,10
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/28/20,Cases,10
+Cases of COVID-19 in Colorado by Date of Illness Onset,2/29/20,Cases,10
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/1/20,Cases,51
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/2/20,Cases,27
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/3/20,Cases,34
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/4/20,Cases,45
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/5/20,Cases,34
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/6/20,Cases,60
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/7/20,Cases,54
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/8/20,Cases,109
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/9/20,Cases,181
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/10/20,Cases,165
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/11/20,Cases,179
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/12/20,Cases,180
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/13/20,Cases,261
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/14/20,Cases,220
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/15/20,Cases,282
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/16/20,Cases,325
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/17/20,Cases,323
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/18/20,Cases,338
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/19/20,Cases,283
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/20/20,Cases,335
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/21/20,Cases,290
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/22/20,Cases,263
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/23/20,Cases,412
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/24/20,Cases,336
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/25/20,Cases,400
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/26/20,Cases,295
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/27/20,Cases,396
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/28/20,Cases,325
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/29/20,Cases,293
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/30/20,Cases,427
+Cases of COVID-19 in Colorado by Date of Illness Onset,3/31/20,Cases,284
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/1/20,Cases,459
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/2/20,Cases,354
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/3/20,Cases,431
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/4/20,Cases,321
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/5/20,Cases,314
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/6/20,Cases,453
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/7/20,Cases,361
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/8/20,Cases,386
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/9/20,Cases,396
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/10/20,Cases,454
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/11/20,Cases,370
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/12/20,Cases,399
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/13/20,Cases,458
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/14/20,Cases,400
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/15/20,Cases,478
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/16/20,Cases,352
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/17/20,Cases,491
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/18/20,Cases,390
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/19/20,Cases,292
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/20/20,Cases,603
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/21/20,Cases,310
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/22/20,Cases,395
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/23/20,Cases,373
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/24/20,Cases,412
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/25/20,Cases,374
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/26/20,Cases,338
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/27/20,Cases,398
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/28/20,Cases,321
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/29/20,Cases,328
+Cases of COVID-19 in Colorado by Date of Illness Onset,4/30/20,Cases,322
+Cases of COVID-19 in Colorado by Date of Illness Onset,5/1/20,Cases,362
+Cases of COVID-19 in Colorado by Date of Illness Onset,5/2/20,Cases,298
+Cases of COVID-19 in Colorado by Date of Illness Onset,5/3/20,Cases,290
+Cases of COVID-19 in Colorado by Date of Illness Onset,5/4/20,Cases,336
+Cases of COVID-19 in Colorado by Date of Illness Onset,5/5/20,Cases,295
+Cases of COVID-19 in Colorado by Date of Illness Onset,5/6/20,Cases,322
+Cases of COVID-19 in Colorado by Date of Illness Onset,5/7/20,Cases,302
+Cases of COVID-19 in Colorado by Date of Illness Onset,5/8/20,Cases,298
+Cases of COVID-19 in Colorado by Date of Illness Onset,5/9/20,Cases,240
+Cases of COVID-19 in Colorado by Date of Illness Onset,5/10/20,Cases,245
+Cases of COVID-19 in Colorado by Date of Illness Onset,5/11/20,Cases,205
+Cases of COVID-19 in Colorado by Date of Illness Onset,5/12/20,Cases,150
+Cases of COVID-19 in Colorado by Date of Illness Onset,5/13/20,Cases,154
+Cases of COVID-19 in Colorado by Date of Illness Onset,5/14/20,Cases,106
+Cases of COVID-19 in Colorado by Date of Illness Onset,5/15/20,Cases,53
+Cases of COVID-19 in Colorado by Date of Illness Onset,5/16/20,Cases,87
+Cases of COVID-19 in Colorado by Date of Illness Onset,5/17/20,Cases,23
+Cases of COVID-19 in Colorado by Date of Illness Onset,5/18/20,Cases,4
+Cases of COVID-19 in Colorado by Date of Illness Onset,Note,Onset date may be unavailable for some cases and inferred.,NA
+Cases of COVID-19 in Colorado by Date of Illness Onset,Note,Illnesses might not yet be reported due to the time it takes between when a person becomes ill and when the illness is reported.,NA
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,2/1/20,Cases,3
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,2/2/20,Cases,4
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,2/3/20,Cases,4
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,2/4/20,Cases,4
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,2/5/20,Cases,6
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,2/6/20,Cases,7
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,2/7/20,Cases,7
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,2/8/20,Cases,7
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,2/9/20,Cases,8
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,2/10/20,Cases,11
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,2/11/20,Cases,11
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,2/12/20,Cases,11
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,2/13/20,Cases,12
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,2/14/20,Cases,13
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,2/15/20,Cases,19
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,2/16/20,Cases,19
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,2/17/20,Cases,21
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,2/18/20,Cases,22
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,2/19/20,Cases,24
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,2/20/20,Cases,30
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,2/21/20,Cases,32
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,2/22/20,Cases,35
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,2/23/20,Cases,40
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,2/24/20,Cases,46
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,2/25/20,Cases,50
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,2/26/20,Cases,57
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,2/27/20,Cases,67
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,2/28/20,Cases,77
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,2/29/20,Cases,87
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,3/1/20,Cases,138
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,3/2/20,Cases,165
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,3/3/20,Cases,199
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,3/4/20,Cases,244
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,3/5/20,Cases,278
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,3/6/20,Cases,338
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,3/7/20,Cases,392
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,3/8/20,Cases,501
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,3/9/20,Cases,682
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,3/10/20,Cases,847
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,3/11/20,Cases,1026
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,3/12/20,Cases,1206
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,3/13/20,Cases,1467
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,3/14/20,Cases,1687
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,3/15/20,Cases,1969
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,3/16/20,Cases,2294
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,3/17/20,Cases,2617
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,3/18/20,Cases,2955
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,3/19/20,Cases,3238
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,3/20/20,Cases,3573
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,3/21/20,Cases,3863
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,3/22/20,Cases,4126
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,3/23/20,Cases,4538
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,3/24/20,Cases,4874
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,3/25/20,Cases,5274
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,3/26/20,Cases,5569
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,3/27/20,Cases,5965
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,3/28/20,Cases,6290
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,3/29/20,Cases,6583
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,3/30/20,Cases,7010
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,3/31/20,Cases,7294
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,4/1/20,Cases,7753
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,4/2/20,Cases,8107
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,4/3/20,Cases,8538
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,4/4/20,Cases,8859
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,4/5/20,Cases,9173
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,4/6/20,Cases,9626
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,4/7/20,Cases,9987
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,4/8/20,Cases,10373
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,4/9/20,Cases,10769
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,4/10/20,Cases,11223
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,4/11/20,Cases,11593
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,4/12/20,Cases,11992
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,4/13/20,Cases,12450
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,4/14/20,Cases,12850
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,4/15/20,Cases,13328
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,4/16/20,Cases,13680
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,4/17/20,Cases,14171
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,4/18/20,Cases,14561
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,4/19/20,Cases,14853
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,4/20/20,Cases,15456
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,4/21/20,Cases,15766
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,4/22/20,Cases,16161
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,4/23/20,Cases,16534
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,4/24/20,Cases,16946
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,4/25/20,Cases,17320
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,4/26/20,Cases,17658
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,4/27/20,Cases,18056
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,4/28/20,Cases,18377
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,4/29/20,Cases,18705
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,4/30/20,Cases,19027
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,5/1/20,Cases,19389
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,5/2/20,Cases,19687
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,5/3/20,Cases,19977
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,5/4/20,Cases,20313
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,5/5/20,Cases,20608
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,5/6/20,Cases,20930
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,5/7/20,Cases,21232
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,5/8/20,Cases,21530
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,5/9/20,Cases,21770
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,5/10/20,Cases,22015
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,5/11/20,Cases,22220
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,5/12/20,Cases,22370
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,5/13/20,Cases,22524
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,5/14/20,Cases,22630
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,5/15/20,Cases,22683
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,5/16/20,Cases,22770
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,5/17/20,Cases,22793
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,5/18/20,Cases,22797
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,Note,Data is reported daily around 4pm; subsequent days' data may show differences as cases are reported after this time.,NA
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,Note,Onset date may be unavailable for some cases and inferred.,NA
+Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,Note,Illnesses might not yet be reported due to the time it takes between when a person becomes ill and when the illness is reported.,NA
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,3/5/20,Cases,7
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,3/6/20,Cases,7
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,3/7/20,Cases,7
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,3/8/20,Cases,7
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,3/9/20,Cases,12
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,3/10/20,Cases,18
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,3/11/20,Cases,37
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,3/12/20,Cases,47
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,3/13/20,Cases,75
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,3/14/20,Cases,104
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,3/15/20,Cases,138
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,3/16/20,Cases,172
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,3/17/20,Cases,201
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,3/18/20,Cases,268
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,3/19/20,Cases,351
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,3/20/20,Cases,470
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,3/21/20,Cases,585
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,3/22/20,Cases,710
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,3/23/20,Cases,903
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,3/24/20,Cases,1078
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,3/25/20,Cases,1392
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,3/26/20,Cases,1684
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,3/27/20,Cases,2011
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,3/28/20,Cases,2254
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,3/29/20,Cases,2586
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,3/30/20,Cases,2910
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,3/31/20,Cases,3292
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,4/1/20,Cases,3687
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,4/2/20,Cases,4135
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,4/3/20,Cases,4524
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,4/4/20,Cases,4910
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,4/5/20,Cases,5130
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,4/6/20,Cases,5397
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,4/7/20,Cases,5645
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,4/8/20,Cases,6194
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,4/9/20,Cases,6555
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,4/10/20,Cases,6987
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,4/11/20,Cases,7419
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,4/12/20,Cases,7798
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,4/13/20,Cases,8092
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,4/14/20,Cases,8394
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,4/15/20,Cases,8811
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,4/16/20,Cases,9161
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,4/17/20,Cases,9584
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,4/18/20,Cases,9852
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,4/19/20,Cases,10164
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,4/20/20,Cases,10449
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,4/21/20,Cases,10916
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,4/22/20,Cases,11309
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,4/23/20,Cases,12284
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,4/24/20,Cases,12993
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,4/25/20,Cases,13488
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,4/26/20,Cases,13923
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,4/27/20,Cases,14418
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,4/28/20,Cases,14850
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,4/29/20,Cases,15681
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,4/30/20,Cases,16135
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,5/1/20,Cases,16593
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,5/2/20,Cases,16997
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,5/3/20,Cases,17235
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,5/4/20,Cases,17591
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,5/5/20,Cases,17984
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,5/6/20,Cases,18426
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,5/7/20,Cases,18873
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,5/8/20,Cases,19423
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,5/9/20,Cases,19768
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,5/10/20,Cases,19976
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,5/11/20,Cases,20224
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,5/12/20,Cases,20521
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,5/13/20,Cases,20952
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,5/14/20,Cases,21336
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,5/15/20,Cases,21743
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,5/16/20,Cases,22058
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,5/17/20,Cases,22267
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,5/18/20,Cases,22523
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,5/19/20,Cases,22797
+Cumulative Number of Cases of COVID-19 in Colorado by Date Reported to the State,Note,Data is reported daily around 4pm; subsequent days' data may show differences as cases are reported after this time.,NA
+"Case Rates Per 100,000 People in Colorado by County",Adams,Rate Per 100000,535.12
+"Case Rates Per 100,000 People in Colorado by County",Alamosa,Rate Per 100000,265.69
+"Case Rates Per 100,000 People in Colorado by County",Arapahoe,Rate Per 100000,597.07
+"Case Rates Per 100,000 People in Colorado by County",Archuleta,Rate Per 100000,58.24
+"Case Rates Per 100,000 People in Colorado by County",Baca,Rate Per 100000,338.31
+"Case Rates Per 100,000 People in Colorado by County",Bent,Rate Per 100000,NA
+"Case Rates Per 100,000 People in Colorado by County",Boulder,Rate Per 100000,269.76
+"Case Rates Per 100,000 People in Colorado by County",Broomfield,Rate Per 100000,309.56
+"Case Rates Per 100,000 People in Colorado by County",Chaffee,Rate Per 100000,344.52
+"Case Rates Per 100,000 People in Colorado by County",Cheyenne,Rate Per 100000,268.53
+"Case Rates Per 100,000 People in Colorado by County",Clear Creek,Rate Per 100000,165.58
+"Case Rates Per 100,000 People in Colorado by County",Conejos,Rate Per 100000,NA
+"Case Rates Per 100,000 People in Colorado by County",Costilla,Rate Per 100000,NA
+"Case Rates Per 100,000 People in Colorado by County",Crowley,Rate Per 100000,717.09
+"Case Rates Per 100,000 People in Colorado by County",Custer,Rate Per 100000,NA
+"Case Rates Per 100,000 People in Colorado by County",Delta,Rate Per 100000,177.79
+"Case Rates Per 100,000 People in Colorado by County",Denver,Rate Per 100000,676.79
+"Case Rates Per 100,000 People in Colorado by County",Dolores,Rate Per 100000,NA
+"Case Rates Per 100,000 People in Colorado by County",Douglas,Rate Per 100000,192.22
+"Case Rates Per 100,000 People in Colorado by County",Eagle,Rate Per 100000,1042.6
+"Case Rates Per 100,000 People in Colorado by County",El Paso,Rate Per 100000,194.01
+"Case Rates Per 100,000 People in Colorado by County",Elbert,Rate Per 100000,183.08
+"Case Rates Per 100,000 People in Colorado by County",Fremont,Rate Per 100000,52.18
+"Case Rates Per 100,000 People in Colorado by County",Garfield,Rate Per 100000,190.61
+"Case Rates Per 100,000 People in Colorado by County",Gilpin,Rate Per 100000,NA
+"Case Rates Per 100,000 People in Colorado by County",Grand,Rate Per 100000,32.31
+"Case Rates Per 100,000 People in Colorado by County",Gunnison,Rate Per 100000,1024.86
+"Case Rates Per 100,000 People in Colorado by County",Hinsdale,Rate Per 100000,NA
+"Case Rates Per 100,000 People in Colorado by County",Huerfano,Rate Per 100000,NA
+"Case Rates Per 100,000 People in Colorado by County",Jackson,Rate Per 100000,NA
+"Case Rates Per 100,000 People in Colorado by County",Jefferson,Rate Per 100000,333.4
+"Case Rates Per 100,000 People in Colorado by County",Kiowa,Rate Per 100000,NA
+"Case Rates Per 100,000 People in Colorado by County",Kit Carson,Rate Per 100000,363.28
+"Case Rates Per 100,000 People in Colorado by County",La Plata,Rate Per 100000,127.65
+"Case Rates Per 100,000 People in Colorado by County",Lake,Rate Per 100000,347.85
+"Case Rates Per 100,000 People in Colorado by County",Larimer,Rate Per 100000,146.13
+"Case Rates Per 100,000 People in Colorado by County",Las Animas,Rate Per 100000,NA
+"Case Rates Per 100,000 People in Colorado by County",Lincoln,Rate Per 100000,NA
+"Case Rates Per 100,000 People in Colorado by County",Logan,Rate Per 100000,2237.58
+"Case Rates Per 100,000 People in Colorado by County",Mesa,Rate Per 100000,32.55
+"Case Rates Per 100,000 People in Colorado by County",Mineral,Rate Per 100000,NA
+"Case Rates Per 100,000 People in Colorado by County",Moffat,Rate Per 100000,45.52
+"Case Rates Per 100,000 People in Colorado by County",Montezuma,Rate Per 100000,114.68
+"Case Rates Per 100,000 People in Colorado by County",Montrose,Rate Per 100000,321.82
+"Case Rates Per 100,000 People in Colorado by County",Morgan,Rate Per 100000,2031.37
+"Case Rates Per 100,000 People in Colorado by County",Otero,Rate Per 100000,70.79
+"Case Rates Per 100,000 People in Colorado by County",Ouray,Rate Per 100000,145.89
+"Case Rates Per 100,000 People in Colorado by County",Park,Rate Per 100000,107.78
+"Case Rates Per 100,000 People in Colorado by County",Phillips,Rate Per 100000,234.41
+"Case Rates Per 100,000 People in Colorado by County",Pitkin,Rate Per 100000,318.81
+"Case Rates Per 100,000 People in Colorado by County",Prowers,Rate Per 100000,91.07
+"Case Rates Per 100,000 People in Colorado by County",Pueblo,Rate Per 100000,131.65
+"Case Rates Per 100,000 People in Colorado by County",Rio Blanco,Rate Per 100000,NA
+"Case Rates Per 100,000 People in Colorado by County",Rio Grande,Rate Per 100000,71.26
+"Case Rates Per 100,000 People in Colorado by County",Routt,Rate Per 100000,229.72
+"Case Rates Per 100,000 People in Colorado by County",Saguache,Rate Per 100000,263.27
+"Case Rates Per 100,000 People in Colorado by County",San Juan,Rate Per 100000,NA
+"Case Rates Per 100,000 People in Colorado by County",San Miguel,Rate Per 100000,269.05
+"Case Rates Per 100,000 People in Colorado by County",Sedgwick,Rate Per 100000,NA
+"Case Rates Per 100,000 People in Colorado by County",Summit,Rate Per 100000,626.35
+"Case Rates Per 100,000 People in Colorado by County",Teller,Rate Per 100000,127.69
+"Case Rates Per 100,000 People in Colorado by County",Unknown Or Pending,Rate Per 100000,NA
+"Case Rates Per 100,000 People in Colorado by County",Washington,Rate Per 100000,232.61
+"Case Rates Per 100,000 People in Colorado by County",Weld,Rate Per 100000,743.99
+"Case Rates Per 100,000 People in Colorado by County",Yuma,Rate Per 100000,109.68
+"Case Rates Per 100,000 People in Colorado by County",Note,Rates are not shown for counties with fewer than 5 cases.,NA
+"Case Rates Per 100,000 People in Colorado by County",Note,Caution should be used when interpreting rates in counties with small populations.,NA
+"Case Rates Per 100,000 People in Colorado by County",Note,Some cases may still be under investigation and county not assigned yet.,NA
+Total COVID-19 Tests Performed in Colorado by County,Adams,Total Tests Performed,15521
+Total COVID-19 Tests Performed in Colorado by County,Adams,Percent of tests by PCR,87.29
+Total COVID-19 Tests Performed in Colorado by County,Adams,Percent of tests by Serology,12.71
+Total COVID-19 Tests Performed in Colorado by County,Alamosa,Total Tests Performed,481
+Total COVID-19 Tests Performed in Colorado by County,Alamosa,Percent of tests by PCR,97.92
+Total COVID-19 Tests Performed in Colorado by County,Alamosa,Percent of tests by Serology,2.08
+Total COVID-19 Tests Performed in Colorado by County,Arapahoe,Total Tests Performed,22381
+Total COVID-19 Tests Performed in Colorado by County,Arapahoe,Percent of tests by PCR,76.86
+Total COVID-19 Tests Performed in Colorado by County,Arapahoe,Percent of tests by Serology,23.14
+Total COVID-19 Tests Performed in Colorado by County,Archuleta,Total Tests Performed,162
+Total COVID-19 Tests Performed in Colorado by County,Archuleta,Percent of tests by PCR,98.77
+Total COVID-19 Tests Performed in Colorado by County,Archuleta,Percent of tests by Serology,1.23
+Total COVID-19 Tests Performed in Colorado by County,Baca,Total Tests Performed,85
+Total COVID-19 Tests Performed in Colorado by County,Baca,Percent of tests by PCR,100
+Total COVID-19 Tests Performed in Colorado by County,Baca,Percent of tests by Serology,0
+Total COVID-19 Tests Performed in Colorado by County,Bent,Total Tests Performed,80
+Total COVID-19 Tests Performed in Colorado by County,Bent,Percent of tests by PCR,98.75
+Total COVID-19 Tests Performed in Colorado by County,Bent,Percent of tests by Serology,1.25
+Total COVID-19 Tests Performed in Colorado by County,Boulder,Total Tests Performed,9042
+Total COVID-19 Tests Performed in Colorado by County,Boulder,Percent of tests by PCR,78.82
+Total COVID-19 Tests Performed in Colorado by County,Boulder,Percent of tests by Serology,21.18
+Total COVID-19 Tests Performed in Colorado by County,Broomfield,Total Tests Performed,1849
+Total COVID-19 Tests Performed in Colorado by County,Broomfield,Percent of tests by PCR,74.63
+Total COVID-19 Tests Performed in Colorado by County,Broomfield,Percent of tests by Serology,25.37
+Total COVID-19 Tests Performed in Colorado by County,Chaffee,Total Tests Performed,534
+Total COVID-19 Tests Performed in Colorado by County,Chaffee,Percent of tests by PCR,89.14
+Total COVID-19 Tests Performed in Colorado by County,Chaffee,Percent of tests by Serology,10.86
+Total COVID-19 Tests Performed in Colorado by County,Cheyenne,Total Tests Performed,56
+Total COVID-19 Tests Performed in Colorado by County,Cheyenne,Percent of tests by PCR,100
+Total COVID-19 Tests Performed in Colorado by County,Cheyenne,Percent of tests by Serology,0
+Total COVID-19 Tests Performed in Colorado by County,Clear Creek,Total Tests Performed,223
+Total COVID-19 Tests Performed in Colorado by County,Clear Creek,Percent of tests by PCR,61.88
+Total COVID-19 Tests Performed in Colorado by County,Clear Creek,Percent of tests by Serology,38.12
+Total COVID-19 Tests Performed in Colorado by County,Conejos,Total Tests Performed,68
+Total COVID-19 Tests Performed in Colorado by County,Conejos,Percent of tests by PCR,95.59
+Total COVID-19 Tests Performed in Colorado by County,Conejos,Percent of tests by Serology,4.41
+Total COVID-19 Tests Performed in Colorado by County,Costilla,Total Tests Performed,28
+Total COVID-19 Tests Performed in Colorado by County,Costilla,Percent of tests by PCR,71.43
+Total COVID-19 Tests Performed in Colorado by County,Costilla,Percent of tests by Serology,28.57
+Total COVID-19 Tests Performed in Colorado by County,Crowley,Total Tests Performed,485
+Total COVID-19 Tests Performed in Colorado by County,Crowley,Percent of tests by PCR,99.59
+Total COVID-19 Tests Performed in Colorado by County,Crowley,Percent of tests by Serology,0.41
+Total COVID-19 Tests Performed in Colorado by County,Custer,Total Tests Performed,54
+Total COVID-19 Tests Performed in Colorado by County,Custer,Percent of tests by PCR,87.04
+Total COVID-19 Tests Performed in Colorado by County,Custer,Percent of tests by Serology,12.96
+Total COVID-19 Tests Performed in Colorado by County,Delta,Total Tests Performed,829
+Total COVID-19 Tests Performed in Colorado by County,Delta,Percent of tests by PCR,93.97
+Total COVID-19 Tests Performed in Colorado by County,Delta,Percent of tests by Serology,6.03
+Total COVID-19 Tests Performed in Colorado by County,Denver,Total Tests Performed,31222
+Total COVID-19 Tests Performed in Colorado by County,Denver,Percent of tests by PCR,77.7
+Total COVID-19 Tests Performed in Colorado by County,Denver,Percent of tests by Serology,22.3
+Total COVID-19 Tests Performed in Colorado by County,Dolores,Total Tests Performed,10
+Total COVID-19 Tests Performed in Colorado by County,Dolores,Percent of tests by PCR,100
+Total COVID-19 Tests Performed in Colorado by County,Dolores,Percent of tests by Serology,0
+Total COVID-19 Tests Performed in Colorado by County,Douglas,Total Tests Performed,10135
+Total COVID-19 Tests Performed in Colorado by County,Douglas,Percent of tests by PCR,58.26
+Total COVID-19 Tests Performed in Colorado by County,Douglas,Percent of tests by Serology,41.74
+Total COVID-19 Tests Performed in Colorado by County,Eagle,Total Tests Performed,7032
+Total COVID-19 Tests Performed in Colorado by County,Eagle,Percent of tests by PCR,39.56
+Total COVID-19 Tests Performed in Colorado by County,Eagle,Percent of tests by Serology,60.44
+Total COVID-19 Tests Performed in Colorado by County,El Paso,Total Tests Performed,18535
+Total COVID-19 Tests Performed in Colorado by County,El Paso,Percent of tests by PCR,87.32
+Total COVID-19 Tests Performed in Colorado by County,El Paso,Percent of tests by Serology,12.68
+Total COVID-19 Tests Performed in Colorado by County,Elbert,Total Tests Performed,580
+Total COVID-19 Tests Performed in Colorado by County,Elbert,Percent of tests by PCR,65.86
+Total COVID-19 Tests Performed in Colorado by County,Elbert,Percent of tests by Serology,34.14
+Total COVID-19 Tests Performed in Colorado by County,Fremont,Total Tests Performed,713
+Total COVID-19 Tests Performed in Colorado by County,Fremont,Percent of tests by PCR,91.3
+Total COVID-19 Tests Performed in Colorado by County,Fremont,Percent of tests by Serology,8.7
+Total COVID-19 Tests Performed in Colorado by County,Garfield,Total Tests Performed,1848
+Total COVID-19 Tests Performed in Colorado by County,Garfield,Percent of tests by PCR,93.07
+Total COVID-19 Tests Performed in Colorado by County,Garfield,Percent of tests by Serology,6.93
+Total COVID-19 Tests Performed in Colorado by County,Gilpin,Total Tests Performed,107
+Total COVID-19 Tests Performed in Colorado by County,Gilpin,Percent of tests by PCR,82.24
+Total COVID-19 Tests Performed in Colorado by County,Gilpin,Percent of tests by Serology,17.76
+Total COVID-19 Tests Performed in Colorado by County,Grand,Total Tests Performed,467
+Total COVID-19 Tests Performed in Colorado by County,Grand,Percent of tests by PCR,92.29
+Total COVID-19 Tests Performed in Colorado by County,Grand,Percent of tests by Serology,7.71
+Total COVID-19 Tests Performed in Colorado by County,Gunnison,Total Tests Performed,690
+Total COVID-19 Tests Performed in Colorado by County,Gunnison,Percent of tests by PCR,92.61
+Total COVID-19 Tests Performed in Colorado by County,Gunnison,Percent of tests by Serology,7.39
+Total COVID-19 Tests Performed in Colorado by County,Hinsdale,Total Tests Performed,20
+Total COVID-19 Tests Performed in Colorado by County,Hinsdale,Percent of tests by PCR,100
+Total COVID-19 Tests Performed in Colorado by County,Hinsdale,Percent of tests by Serology,0
+Total COVID-19 Tests Performed in Colorado by County,Huerfano,Total Tests Performed,93
+Total COVID-19 Tests Performed in Colorado by County,Huerfano,Percent of tests by PCR,94.62
+Total COVID-19 Tests Performed in Colorado by County,Huerfano,Percent of tests by Serology,5.38
+Total COVID-19 Tests Performed in Colorado by County,Jackson,Total Tests Performed,30
+Total COVID-19 Tests Performed in Colorado by County,Jackson,Percent of tests by PCR,96.67
+Total COVID-19 Tests Performed in Colorado by County,Jackson,Percent of tests by Serology,3.33
+Total COVID-19 Tests Performed in Colorado by County,Jefferson,Total Tests Performed,16709
+Total COVID-19 Tests Performed in Colorado by County,Jefferson,Percent of tests by PCR,72.2
+Total COVID-19 Tests Performed in Colorado by County,Jefferson,Percent of tests by Serology,27.8
+Total COVID-19 Tests Performed in Colorado by County,Kiowa,Total Tests Performed,61
+Total COVID-19 Tests Performed in Colorado by County,Kiowa,Percent of tests by PCR,93.44
+Total COVID-19 Tests Performed in Colorado by County,Kiowa,Percent of tests by Serology,6.56
+Total COVID-19 Tests Performed in Colorado by County,Kit Carson,Total Tests Performed,225
+Total COVID-19 Tests Performed in Colorado by County,Kit Carson,Percent of tests by PCR,99.11
+Total COVID-19 Tests Performed in Colorado by County,Kit Carson,Percent of tests by Serology,0.89
+Total COVID-19 Tests Performed in Colorado by County,La Plata,Total Tests Performed,546
+Total COVID-19 Tests Performed in Colorado by County,La Plata,Percent of tests by PCR,95.97
+Total COVID-19 Tests Performed in Colorado by County,La Plata,Percent of tests by Serology,4.03
+Total COVID-19 Tests Performed in Colorado by County,Lake,Total Tests Performed,700
+Total COVID-19 Tests Performed in Colorado by County,Lake,Percent of tests by PCR,26.57
+Total COVID-19 Tests Performed in Colorado by County,Lake,Percent of tests by Serology,73.43
+Total COVID-19 Tests Performed in Colorado by County,Larimer,Total Tests Performed,10468
+Total COVID-19 Tests Performed in Colorado by County,Larimer,Percent of tests by PCR,81.68
+Total COVID-19 Tests Performed in Colorado by County,Larimer,Percent of tests by Serology,18.32
+Total COVID-19 Tests Performed in Colorado by County,Las Animas,Total Tests Performed,155
+Total COVID-19 Tests Performed in Colorado by County,Las Animas,Percent of tests by PCR,94.84
+Total COVID-19 Tests Performed in Colorado by County,Las Animas,Percent of tests by Serology,5.16
+Total COVID-19 Tests Performed in Colorado by County,Lincoln,Total Tests Performed,108
+Total COVID-19 Tests Performed in Colorado by County,Lincoln,Percent of tests by PCR,93.52
+Total COVID-19 Tests Performed in Colorado by County,Lincoln,Percent of tests by Serology,6.48
+Total COVID-19 Tests Performed in Colorado by County,Logan,Total Tests Performed,2024
+Total COVID-19 Tests Performed in Colorado by County,Logan,Percent of tests by PCR,84.09
+Total COVID-19 Tests Performed in Colorado by County,Logan,Percent of tests by Serology,15.91
+Total COVID-19 Tests Performed in Colorado by County,Mesa,Total Tests Performed,2693
+Total COVID-19 Tests Performed in Colorado by County,Mesa,Percent of tests by PCR,93.61
+Total COVID-19 Tests Performed in Colorado by County,Mesa,Percent of tests by Serology,6.39
+Total COVID-19 Tests Performed in Colorado by County,Mineral,Total Tests Performed,16
+Total COVID-19 Tests Performed in Colorado by County,Mineral,Percent of tests by PCR,100
+Total COVID-19 Tests Performed in Colorado by County,Mineral,Percent of tests by Serology,0
+Total COVID-19 Tests Performed in Colorado by County,Moffat,Total Tests Performed,681
+Total COVID-19 Tests Performed in Colorado by County,Moffat,Percent of tests by PCR,99.41
+Total COVID-19 Tests Performed in Colorado by County,Moffat,Percent of tests by Serology,0.59
+Total COVID-19 Tests Performed in Colorado by County,Montezuma,Total Tests Performed,514
+Total COVID-19 Tests Performed in Colorado by County,Montezuma,Percent of tests by PCR,98.83
+Total COVID-19 Tests Performed in Colorado by County,Montezuma,Percent of tests by Serology,1.17
+Total COVID-19 Tests Performed in Colorado by County,Montrose,Total Tests Performed,1043
+Total COVID-19 Tests Performed in Colorado by County,Montrose,Percent of tests by PCR,95.3
+Total COVID-19 Tests Performed in Colorado by County,Montrose,Percent of tests by Serology,4.7
+Total COVID-19 Tests Performed in Colorado by County,Morgan,Total Tests Performed,2120
+Total COVID-19 Tests Performed in Colorado by County,Morgan,Percent of tests by PCR,96.37
+Total COVID-19 Tests Performed in Colorado by County,Morgan,Percent of tests by Serology,3.63
+Total COVID-19 Tests Performed in Colorado by County,Otero,Total Tests Performed,318
+Total COVID-19 Tests Performed in Colorado by County,Otero,Percent of tests by PCR,96.23
+Total COVID-19 Tests Performed in Colorado by County,Otero,Percent of tests by Serology,3.77
+Total COVID-19 Tests Performed in Colorado by County,Ouray,Total Tests Performed,121
+Total COVID-19 Tests Performed in Colorado by County,Ouray,Percent of tests by PCR,79.34
+Total COVID-19 Tests Performed in Colorado by County,Ouray,Percent of tests by Serology,20.66
+Total COVID-19 Tests Performed in Colorado by County,Out Of State,Total Tests Performed,15
+Total COVID-19 Tests Performed in Colorado by County,Out Of State,Percent of tests by PCR,100
+Total COVID-19 Tests Performed in Colorado by County,Out Of State,Percent of tests by Serology,0
+Total COVID-19 Tests Performed in Colorado by County,Park,Total Tests Performed,366
+Total COVID-19 Tests Performed in Colorado by County,Park,Percent of tests by PCR,81.15
+Total COVID-19 Tests Performed in Colorado by County,Park,Percent of tests by Serology,18.85
+Total COVID-19 Tests Performed in Colorado by County,Phillips,Total Tests Performed,119
+Total COVID-19 Tests Performed in Colorado by County,Phillips,Percent of tests by PCR,93.28
+Total COVID-19 Tests Performed in Colorado by County,Phillips,Percent of tests by Serology,6.72
+Total COVID-19 Tests Performed in Colorado by County,Pitkin,Total Tests Performed,658
+Total COVID-19 Tests Performed in Colorado by County,Pitkin,Percent of tests by PCR,69.6
+Total COVID-19 Tests Performed in Colorado by County,Pitkin,Percent of tests by Serology,30.4
+Total COVID-19 Tests Performed in Colorado by County,Prowers,Total Tests Performed,236
+Total COVID-19 Tests Performed in Colorado by County,Prowers,Percent of tests by PCR,96.19
+Total COVID-19 Tests Performed in Colorado by County,Prowers,Percent of tests by Serology,3.81
+Total COVID-19 Tests Performed in Colorado by County,Pueblo,Total Tests Performed,4511
+Total COVID-19 Tests Performed in Colorado by County,Pueblo,Percent of tests by PCR,90.38
+Total COVID-19 Tests Performed in Colorado by County,Pueblo,Percent of tests by Serology,9.62
+Total COVID-19 Tests Performed in Colorado by County,Rio Blanco,Total Tests Performed,157
+Total COVID-19 Tests Performed in Colorado by County,Rio Blanco,Percent of tests by PCR,87.26
+Total COVID-19 Tests Performed in Colorado by County,Rio Blanco,Percent of tests by Serology,12.74
+Total COVID-19 Tests Performed in Colorado by County,Rio Grande,Total Tests Performed,160
+Total COVID-19 Tests Performed in Colorado by County,Rio Grande,Percent of tests by PCR,96.25
+Total COVID-19 Tests Performed in Colorado by County,Rio Grande,Percent of tests by Serology,3.75
+Total COVID-19 Tests Performed in Colorado by County,Routt,Total Tests Performed,1432
+Total COVID-19 Tests Performed in Colorado by County,Routt,Percent of tests by PCR,96.72
+Total COVID-19 Tests Performed in Colorado by County,Routt,Percent of tests by Serology,3.28
+Total COVID-19 Tests Performed in Colorado by County,Saguache,Total Tests Performed,69
+Total COVID-19 Tests Performed in Colorado by County,Saguache,Percent of tests by PCR,94.2
+Total COVID-19 Tests Performed in Colorado by County,Saguache,Percent of tests by Serology,5.8
+Total COVID-19 Tests Performed in Colorado by County,San Juan,Total Tests Performed,53
+Total COVID-19 Tests Performed in Colorado by County,San Juan,Percent of tests by PCR,79.25
+Total COVID-19 Tests Performed in Colorado by County,San Juan,Percent of tests by Serology,20.75
+Total COVID-19 Tests Performed in Colorado by County,San Miguel,Total Tests Performed,266
+Total COVID-19 Tests Performed in Colorado by County,San Miguel,Percent of tests by PCR,95.49
+Total COVID-19 Tests Performed in Colorado by County,San Miguel,Percent of tests by Serology,4.51
+Total COVID-19 Tests Performed in Colorado by County,Sedgwick,Total Tests Performed,53
+Total COVID-19 Tests Performed in Colorado by County,Sedgwick,Percent of tests by PCR,94.34
+Total COVID-19 Tests Performed in Colorado by County,Sedgwick,Percent of tests by Serology,5.66
+Total COVID-19 Tests Performed in Colorado by County,Summit,Total Tests Performed,1298
+Total COVID-19 Tests Performed in Colorado by County,Summit,Percent of tests by PCR,78.35
+Total COVID-19 Tests Performed in Colorado by County,Summit,Percent of tests by Serology,21.65
+Total COVID-19 Tests Performed in Colorado by County,Teller,Total Tests Performed,768
+Total COVID-19 Tests Performed in Colorado by County,Teller,Percent of tests by PCR,89.06
+Total COVID-19 Tests Performed in Colorado by County,Teller,Percent of tests by Serology,10.94
+Total COVID-19 Tests Performed in Colorado by County,Unknown,Total Tests Performed,7894
+Total COVID-19 Tests Performed in Colorado by County,Unknown,Percent of tests by PCR,97.15
+Total COVID-19 Tests Performed in Colorado by County,Unknown,Percent of tests by Serology,2.85
+Total COVID-19 Tests Performed in Colorado by County,Washington,Total Tests Performed,159
+Total COVID-19 Tests Performed in Colorado by County,Washington,Percent of tests by PCR,87.42
+Total COVID-19 Tests Performed in Colorado by County,Washington,Percent of tests by Serology,12.58
+Total COVID-19 Tests Performed in Colorado by County,Weld,Total Tests Performed,14198
+Total COVID-19 Tests Performed in Colorado by County,Weld,Percent of tests by PCR,87.02
+Total COVID-19 Tests Performed in Colorado by County,Weld,Percent of tests by Serology,12.98
+Total COVID-19 Tests Performed in Colorado by County,Yuma,Total Tests Performed,241
+Total COVID-19 Tests Performed in Colorado by County,Yuma,Percent of tests by PCR,97.51
+Total COVID-19 Tests Performed in Colorado by County,Yuma,Percent of tests by Serology,2.49
+Total COVID-19 Tests Performed in Colorado by County,Note,Individuals with serology-positive tests are not included in daily case counts until they are confirmed to have had COVID-like symptoms.,NA
+Total COVID-19 Tests Performed in Colorado by County,Note,Includes only tests from labs that participate in electronic lab reporting.,NA
+"Total Testing Rate Per 100,000 People in Colorado by County",Adams,"Rate per 100,000",3034.57
+"Total Testing Rate Per 100,000 People in Colorado by County",Alamosa,"Rate per 100,000",2972.07
+"Total Testing Rate Per 100,000 People in Colorado by County",Arapahoe,"Rate per 100,000",3436.14
+"Total Testing Rate Per 100,000 People in Colorado by County",Archuleta,"Rate per 100,000",1179.3
+"Total Testing Rate Per 100,000 People in Colorado by County",Baca,"Rate per 100,000",2396.39
+"Total Testing Rate Per 100,000 People in Colorado by County",Bent,"Rate per 100,000",1374.81
+"Total Testing Rate Per 100,000 People in Colorado by County",Boulder,"Rate per 100,000",2778.09
+"Total Testing Rate Per 100,000 People in Colorado by County",Broomfield,"Rate per 100,000",2662.23
+"Total Testing Rate Per 100,000 People in Colorado by County",Chaffee,"Rate per 100,000",2666.27
+"Total Testing Rate Per 100,000 People in Colorado by County",Cheyenne,"Rate per 100,000",3007.52
+"Total Testing Rate Per 100,000 People in Colorado by County",Clear Creek,"Rate per 100,000",2307.77
+"Total Testing Rate Per 100,000 People in Colorado by County",Conejos,"Rate per 100,000",835.79
+"Total Testing Rate Per 100,000 People in Colorado by County",Costilla,"Rate per 100,000",735.1
+"Total Testing Rate Per 100,000 People in Colorado by County",Crowley,"Rate per 100,000",8280.69
+"Total Testing Rate Per 100,000 People in Colorado by County",Custer,"Rate per 100,000",1095.78
+"Total Testing Rate Per 100,000 People in Colorado by County",Delta,"Rate per 100,000",2679.73
+"Total Testing Rate Per 100,000 People in Colorado by County",Denver,"Rate per 100,000",4349.7
+"Total Testing Rate Per 100,000 People in Colorado by County",Dolores,"Rate per 100,000",487.09
+"Total Testing Rate Per 100,000 People in Colorado by County",Douglas,"Rate per 100,000",2956.17
+"Total Testing Rate Per 100,000 People in Colorado by County",Eagle,"Rate per 100,000",12817.38
+"Total Testing Rate Per 100,000 People in Colorado by County",El Paso,"Rate per 100,000",2594.5
+"Total Testing Rate Per 100,000 People in Colorado by County",Elbert,"Rate per 100,000",2212.22
+"Total Testing Rate Per 100,000 People in Colorado by County",Fremont,"Rate per 100,000",1488.14
+"Total Testing Rate Per 100,000 People in Colorado by County",Garfield,"Rate per 100,000",3089.94
+"Total Testing Rate Per 100,000 People in Colorado by County",Gilpin,"Rate per 100,000",1754.96
+"Total Testing Rate Per 100,000 People in Colorado by County",Grand,"Rate per 100,000",3017.97
+"Total Testing Rate Per 100,000 People in Colorado by County",Gunnison,"Rate per 100,000",4017.94
+"Total Testing Rate Per 100,000 People in Colorado by County",Hinsdale,"Rate per 100,000",2487.56
+"Total Testing Rate Per 100,000 People in Colorado by County",Huerfano,"Rate per 100,000",1356.87
+"Total Testing Rate Per 100,000 People in Colorado by County",Jackson,"Rate per 100,000",2149
+"Total Testing Rate Per 100,000 People in Colorado by County",Jefferson,"Rate per 100,000",2883.39
+"Total Testing Rate Per 100,000 People in Colorado by County",Kiowa,"Rate per 100,000",4442.83
+"Total Testing Rate Per 100,000 People in Colorado by County",Kit Carson,"Rate per 100,000",3143.78
+"Total Testing Rate Per 100,000 People in Colorado by County",La Plata,"Rate per 100,000",968.03
+"Total Testing Rate Per 100,000 People in Colorado by County",Lake,"Rate per 100,000",9018.29
+"Total Testing Rate Per 100,000 People in Colorado by County",Larimer,"Rate per 100,000",2987.77
+"Total Testing Rate Per 100,000 People in Colorado by County",Las Animas,"Rate per 100,000",1069.63
+"Total Testing Rate Per 100,000 People in Colorado by County",Lincoln,"Rate per 100,000",1934.1
+"Total Testing Rate Per 100,000 People in Colorado by County",Logan,"Rate per 100,000",9261.46
+"Total Testing Rate Per 100,000 People in Colorado by County",Mesa,"Rate per 100,000",1752.91
+"Total Testing Rate Per 100,000 People in Colorado by County",Mineral,"Rate per 100,000",2059.2
+"Total Testing Rate Per 100,000 People in Colorado by County",Moffat,"Rate per 100,000",5166.53
+"Total Testing Rate Per 100,000 People in Colorado by County",Montezuma,"Rate per 100,000",1964.91
+"Total Testing Rate Per 100,000 People in Colorado by County",Montrose,"Rate per 100,000",2468.05
+"Total Testing Rate Per 100,000 People in Colorado by County",Morgan,"Rate per 100,000",7437.81
+"Total Testing Rate Per 100,000 People in Colorado by County",Otero,"Rate per 100,000",1731.65
+"Total Testing Rate Per 100,000 People in Colorado by County",Ouray,"Rate per 100,000",2521.88
+"Total Testing Rate Per 100,000 People in Colorado by County",Out Of State,"Rate per 100,000",NA
+"Total Testing Rate Per 100,000 People in Colorado by County",Park,"Rate per 100,000",1972.3
+"Total Testing Rate Per 100,000 People in Colorado by County",Phillips,"Rate per 100,000",2789.5
+"Total Testing Rate Per 100,000 People in Colorado by County",Pitkin,"Rate per 100,000",3680.3
+"Total Testing Rate Per 100,000 People in Colorado by County",Prowers,"Rate per 100,000",1953.97
+"Total Testing Rate Per 100,000 People in Colorado by County",Pueblo,"Rate per 100,000",2699.32
+"Total Testing Rate Per 100,000 People in Colorado by County",Rio Blanco,"Rate per 100,000",2490.09
+"Total Testing Rate Per 100,000 People in Colorado by County",Rio Grande,"Rate per 100,000",1425.26
+"Total Testing Rate Per 100,000 People in Colorado by County",Routt,"Rate per 100,000",5575.67
+"Total Testing Rate Per 100,000 People in Colorado by County",Saguache,"Rate per 100,000",1009.21
+"Total Testing Rate Per 100,000 People in Colorado by County",San Juan,"Rate per 100,000",6955.38
+"Total Testing Rate Per 100,000 People in Colorado by County",San Miguel,"Rate per 100,000",3253.03
+"Total Testing Rate Per 100,000 People in Colorado by County",Sedgwick,"Rate per 100,000",2329.67
+"Total Testing Rate Per 100,000 People in Colorado by County",Summit,"Rate per 100,000",4190.75
+"Total Testing Rate Per 100,000 People in Colorado by County",Teller,"Rate per 100,000",3064.64
+"Total Testing Rate Per 100,000 People in Colorado by County",Unknown,"Rate per 100,000",NA
+"Total Testing Rate Per 100,000 People in Colorado by County",Washington,"Rate per 100,000",3362.23
+"Total Testing Rate Per 100,000 People in Colorado by County",Weld,"Rate per 100,000",4518.04
+"Total Testing Rate Per 100,000 People in Colorado by County",Yuma,"Rate per 100,000",2403.03
+"Total Testing Rate Per 100,000 People in Colorado by County",Note,Individuals with serology-positive tests are not included in daily case counts until they are confirmed to have had COVID-like symptoms.,NA
+"Total Testing Rate Per 100,000 People in Colorado by County",Note,Includes only tests from labs that participate in electronic lab reporting.,NA
+"Total Testing Rate Per 100,000 People in Colorado by County",Note,Caution should be used when interpreting rates in counties with small populations.,NA
+Number of Deaths by County,Denver County,Deaths,294
+Number of Deaths by County,Arapahoe County,Deaths,272
+Number of Deaths by County,Jefferson County,Deaths,136
+Number of Deaths by County,Weld County,Deaths,125
+Number of Deaths by County,Adams County,Deaths,108
+Number of Deaths by County,El Paso County,Deaths,88
+Number of Deaths by County,Boulder County,Deaths,60
+Number of Deaths by County,Douglas County,Deaths,43
+Number of Deaths by County,Morgan County,Deaths,37
+Number of Deaths by County,Broomfield County,Deaths,24
+Number of Deaths by County,Larimer County,Deaths,21
+Number of Deaths by County,Chaffee County,Deaths,18
+Number of Deaths by County,Pueblo County,Deaths,14
+Number of Deaths by County,Montrose County,Deaths,11
+Number of Deaths by County,Eagle County,Deaths,8
+Number of Deaths by County,Gunnison County,Deaths,6
+Number of Deaths by County,Routt County,Deaths,6
+Number of Deaths by County,Kit Carson County,Deaths,3
+Number of Deaths by County,Logan County,Deaths,3
+Number of Deaths by County,Montezuma County,Deaths,3
+Number of Deaths by County,Alamosa County,Deaths,2
+Number of Deaths by County,Elbert County,Deaths,2
+Number of Deaths by County,Garfield County,Deaths,2
+Number of Deaths by County,Pitkin County,Deaths,2
+Number of Deaths by County,Summit County,Deaths,2
+Number of Deaths by County,Teller County,Deaths,2
+Number of Deaths by County,Clear Creek County,Deaths,1
+Number of Deaths by County,Crowley County,Deaths,1
+Number of Deaths by County,Delta County,Deaths,1
+Number of Deaths by County,La Plata County,Deaths,1
+Number of Deaths by County,Otero County,Deaths,1
+Number of Deaths by County,Ouray County,Deaths,1
+Number of Deaths by County,Unknown County,Deaths,1
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,3/9/20,Deaths,1
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,3/10/20,Deaths,0
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,3/11/20,Deaths,0
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,3/12/20,Deaths,0
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,3/13/20,Deaths,2
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,3/14/20,Deaths,0
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,3/15/20,Deaths,1
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,3/16/20,Deaths,3
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,3/17/20,Deaths,3
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,3/18/20,Deaths,3
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,3/19/20,Deaths,5
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,3/20/20,Deaths,1
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,3/21/20,Deaths,6
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,3/22/20,Deaths,4
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,3/23/20,Deaths,6
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,3/24/20,Deaths,7
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,3/25/20,Deaths,15
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,3/26/20,Deaths,3
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,3/27/20,Deaths,10
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,3/28/20,Deaths,12
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,3/29/20,Deaths,10
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,3/30/20,Deaths,20
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,3/31/20,Deaths,15
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,4/1/20,Deaths,28
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,4/2/20,Deaths,22
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,4/3/20,Deaths,19
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,4/4/20,Deaths,29
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,4/5/20,Deaths,30
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,4/6/20,Deaths,28
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,4/7/20,Deaths,29
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,4/8/20,Deaths,36
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,4/9/20,Deaths,35
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,4/10/20,Deaths,34
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,4/11/20,Deaths,31
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,4/12/20,Deaths,34
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,4/13/20,Deaths,34
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,4/14/20,Deaths,34
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,4/15/20,Deaths,31
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,4/16/20,Deaths,35
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,4/17/20,Deaths,35
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,4/18/20,Deaths,25
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,4/19/20,Deaths,29
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,4/20/20,Deaths,32
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,4/21/20,Deaths,36
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,4/22/20,Deaths,35
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,4/23/20,Deaths,20
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,4/24/20,Deaths,32
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,4/25/20,Deaths,27
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,4/26/20,Deaths,27
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,4/27/20,Deaths,19
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,4/28/20,Deaths,25
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,4/29/20,Deaths,23
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,4/30/20,Deaths,25
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,5/1/20,Deaths,30
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,5/2/20,Deaths,20
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,5/3/20,Deaths,20
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,5/4/20,Deaths,22
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,5/5/20,Deaths,18
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,5/6/20,Deaths,18
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,5/7/20,Deaths,12
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,5/8/20,Deaths,14
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,5/9/20,Deaths,21
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,5/10/20,Deaths,8
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,5/11/20,Deaths,7
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,5/12/20,Deaths,10
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,5/13/20,Deaths,4
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,5/14/20,Deaths,7
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,5/15/20,Deaths,6
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,5/16/20,Deaths,4
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,5/17/20,Deaths,1
+Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,5/18/20,Deaths,3
+Number of Deaths From COVID-19 in Colorado by Date of Death,Note,Date of death may not be available for all deaths,NA
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,3/9/20,Deaths,1
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,3/10/20,Deaths,1
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,3/11/20,Deaths,1
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,3/12/20,Deaths,1
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,3/13/20,Deaths,3
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,3/14/20,Deaths,3
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,3/15/20,Deaths,4
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,3/16/20,Deaths,7
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,3/17/20,Deaths,10
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,3/18/20,Deaths,13
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,3/19/20,Deaths,18
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,3/20/20,Deaths,19
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,3/21/20,Deaths,25
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,3/22/20,Deaths,29
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,3/23/20,Deaths,35
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,3/24/20,Deaths,42
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,3/25/20,Deaths,57
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,3/26/20,Deaths,60
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,3/27/20,Deaths,70
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,3/28/20,Deaths,82
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,3/29/20,Deaths,92
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,3/30/20,Deaths,112
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,3/31/20,Deaths,127
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,4/1/20,Deaths,155
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,4/2/20,Deaths,177
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,4/3/20,Deaths,196
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,4/4/20,Deaths,225
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,4/5/20,Deaths,255
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,4/6/20,Deaths,283
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,4/7/20,Deaths,312
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,4/8/20,Deaths,348
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,4/9/20,Deaths,383
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,4/10/20,Deaths,417
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,4/11/20,Deaths,448
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,4/12/20,Deaths,482
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,4/13/20,Deaths,516
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,4/14/20,Deaths,550
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,4/15/20,Deaths,581
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,4/16/20,Deaths,616
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,4/17/20,Deaths,651
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,4/18/20,Deaths,676
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,4/19/20,Deaths,705
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,4/20/20,Deaths,737
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,4/21/20,Deaths,773
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,4/22/20,Deaths,808
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,4/23/20,Deaths,828
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,4/24/20,Deaths,860
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,4/25/20,Deaths,887
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,4/26/20,Deaths,914
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,4/27/20,Deaths,933
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,4/28/20,Deaths,958
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,4/29/20,Deaths,981
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,4/30/20,Deaths,1006
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,5/1/20,Deaths,1036
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,5/2/20,Deaths,1056
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,5/3/20,Deaths,1076
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,5/4/20,Deaths,1098
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,5/5/20,Deaths,1116
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,5/6/20,Deaths,1134
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,5/7/20,Deaths,1146
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,5/8/20,Deaths,1160
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,5/9/20,Deaths,1181
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,5/10/20,Deaths,1189
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,5/11/20,Deaths,1196
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,5/12/20,Deaths,1206
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,5/13/20,Deaths,1210
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,5/14/20,Deaths,1217
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,5/15/20,Deaths,1223
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,5/16/20,Deaths,1227
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,5/17/20,Deaths,1228
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,5/18/20,Deaths,1231
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Death,Note,Deaths,NA
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,2/1/20,Cases,1
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,2/2/20,Cases,1
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,2/3/20,Cases,1
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,2/4/20,Cases,1
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,2/5/20,Cases,1
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,2/6/20,Cases,1
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,2/7/20,Cases,1
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,2/8/20,Cases,1
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,2/9/20,Cases,1
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,2/10/20,Cases,1
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,2/11/20,Cases,1
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,2/12/20,Cases,1
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,2/13/20,Cases,1
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,2/14/20,Cases,1
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,2/15/20,Cases,1
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,2/16/20,Cases,1
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,2/17/20,Cases,1
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,2/18/20,Cases,1
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,2/19/20,Cases,1
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,2/20/20,Cases,1
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,2/21/20,Cases,1
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,2/22/20,Cases,1
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,2/23/20,Cases,1
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,2/24/20,Cases,1
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,2/25/20,Cases,1
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,2/26/20,Cases,2
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,2/27/20,Cases,3
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,2/28/20,Cases,4
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,2/29/20,Cases,4
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,3/1/20,Cases,11
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,3/2/20,Cases,12
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,3/3/20,Cases,14
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,3/4/20,Cases,17
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,3/5/20,Cases,19
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,3/6/20,Cases,20
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,3/7/20,Cases,23
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,3/8/20,Cases,35
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,3/9/20,Cases,43
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,3/10/20,Cases,45
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,3/11/20,Cases,52
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,3/12/20,Cases,53
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,3/13/20,Cases,61
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,3/14/20,Cases,71
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,3/15/20,Cases,86
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,3/16/20,Cases,112
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,3/17/20,Cases,125
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,3/18/20,Cases,136
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,3/19/20,Cases,151
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,3/20/20,Cases,177
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,3/21/20,Cases,196
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,3/22/20,Cases,214
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,3/23/20,Cases,247
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,3/24/20,Cases,270
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,3/25/20,Cases,303
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,3/26/20,Cases,328
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,3/27/20,Cases,355
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,3/28/20,Cases,370
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,3/29/20,Cases,390
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,3/30/20,Cases,421
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,3/31/20,Cases,443
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,4/1/20,Cases,491
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,4/2/20,Cases,516
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,4/3/20,Cases,551
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,4/4/20,Cases,583
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,4/5/20,Cases,625
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,4/6/20,Cases,656
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,4/7/20,Cases,697
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,4/8/20,Cases,741
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,4/9/20,Cases,772
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,4/10/20,Cases,794
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,4/11/20,Cases,822
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,4/12/20,Cases,853
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,4/13/20,Cases,880
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,4/14/20,Cases,912
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,4/15/20,Cases,946
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,4/16/20,Cases,972
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,4/17/20,Cases,1002
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,4/18/20,Cases,1015
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,4/19/20,Cases,1028
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,4/20/20,Cases,1057
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,4/21/20,Cases,1077
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,4/22/20,Cases,1093
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,4/23/20,Cases,1104
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,4/24/20,Cases,1115
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,4/25/20,Cases,1125
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,4/26/20,Cases,1133
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,4/27/20,Cases,1139
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,4/28/20,Cases,1149
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,4/29/20,Cases,1158
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,4/30/20,Cases,1173
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,5/1/20,Cases,1190
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,5/2/20,Cases,1196
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,5/3/20,Cases,1198
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,5/4/20,Cases,1204
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,5/5/20,Cases,1210
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,5/6/20,Cases,1221
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,5/7/20,Cases,1237
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,5/8/20,Cases,1250
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,5/9/20,Cases,1257
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,5/10/20,Cases,1268
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,5/11/20,Cases,1276
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,5/12/20,Cases,1281
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,5/13/20,Cases,1288
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,5/14/20,Cases,1292
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,5/15/20,Cases,1293
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,5/16/20,Cases,1297
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,5/17/20,Cases,1298
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,5/18/20,Cases,1299
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,Note,Data is reported daily around 4pm; subsequent days' data may show differences as cases are reported after this time.,NA
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,Note,Onset date may be unavailable for some cases and inferred.,NA
+Cumulative Number of Deaths From COVID-19 in Colorado by Date of Illness,Note,Illnesses might not yet be reported due to the time it takes between when a person becomes ill and when the illness is reported.,NA
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,3/13/20,Cases,2
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,3/14/20,Cases,3
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,3/15/20,Cases,4
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,3/16/20,Cases,4
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,3/17/20,Cases,4
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,3/18/20,Cases,8
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,3/19/20,Cases,10
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,3/20/20,Cases,12
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,3/21/20,Cases,24
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,3/22/20,Cases,30
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,3/23/20,Cases,41
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,3/24/20,Cases,51
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,3/25/20,Cases,69
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,3/26/20,Cases,92
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,3/27/20,Cases,120
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,3/28/20,Cases,142
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,3/29/20,Cases,160
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,3/30/20,Cases,187
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,3/31/20,Cases,215
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,4/1/20,Cases,246
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,4/2/20,Cases,283
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,4/3/20,Cases,313
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,4/4/20,Cases,342
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,4/5/20,Cases,367
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,4/6/20,Cases,382
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,4/7/20,Cases,405
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,4/8/20,Cases,457
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,4/9/20,Cases,483
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,4/10/20,Cases,516
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,4/11/20,Cases,555
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,4/12/20,Cases,583
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,4/13/20,Cases,608
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,4/14/20,Cases,635
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,4/15/20,Cases,675
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,4/16/20,Cases,701
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,4/17/20,Cases,726
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,4/18/20,Cases,737
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,4/19/20,Cases,760
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,4/20/20,Cases,778
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,4/21/20,Cases,808
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,4/22/20,Cases,835
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,4/23/20,Cases,951
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,4/24/20,Cases,972
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,4/25/20,Cases,989
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,4/26/20,Cases,1004
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,4/27/20,Cases,1019
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,4/28/20,Cases,1036
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,4/29/20,Cases,1055
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,4/30/20,Cases,1066
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,5/1/20,Cases,1086
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,5/2/20,Cases,1098
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,5/3/20,Cases,1102
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,5/4/20,Cases,1119
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,5/5/20,Cases,1129
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,5/6/20,Cases,1136
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,5/7/20,Cases,1152
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,5/8/20,Cases,1159
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,5/9/20,Cases,1160
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,5/10/20,Cases,1166
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,5/11/20,Cases,1172
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,5/12/20,Cases,1203
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,5/13/20,Cases,1209
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,5/14/20,Cases,1231
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,5/15/20,Cases,1254
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,5/16/20,Cases,1273
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,5/17/20,Cases,1273
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,5/18/20,Cases,1281
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,5/19/20,Cases,1299
+Cumulative Number of Deaths From COVID-19 in Colorado by Date Reported to the State,Note,Data is reported daily around 4pm; subsequent days' data may show differences as cases are reported after this time.,NA
+"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","0-9, Hospitalized",Cases,33
+"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","0-9, Not Hospitalized",Cases,437
+"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","10-19, Deaths",Cases,2
+"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","10-19, Hospitalized",Cases,31
+"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","10-19, Not Hospitalized",Cases,903
+"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","20-29, Deaths",Cases,7
+"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","20-29, Hospitalized",Cases,173
+"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","20-29, Not Hospitalized",Cases,3339
+"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","30-39, Deaths",Cases,7
+"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","30-39, Hospitalized",Cases,332
+"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","30-39, Not Hospitalized",Cases,3575
+"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","40-49, Deaths",Cases,31
+"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","40-49, Hospitalized",Cases,491
+"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","40-49, Not Hospitalized",Cases,3415
+"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","50-59, Deaths",Cases,70
+"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","50-59, Hospitalized",Cases,703
+"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","50-59, Not Hospitalized",Cases,2950
+"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","60-69, Deaths",Cases,170
+"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","60-69, Hospitalized",Cases,706
+"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","60-69, Not Hospitalized",Cases,1820
+"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","70-79, Deaths",Cases,302
+"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","70-79, Hospitalized",Cases,520
+"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","70-79, Not Hospitalized",Cases,886
+"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","80+, Deaths",Cases,710
+"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","80+, Hospitalized",Cases,345
+"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","80+, Not Hospitalized",Cases,786
+"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","Unknown, Not Hospitalized",Cases,53
+"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome",Note,Data on cases recovered is unavailable.,NA
+"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome",Note,Patients who were hospitalized and subsequently died are only counted once as a death.,NA
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,3/9/20,Cases,2
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,3/10/20,Cases,4
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,3/11/20,Cases,6
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,3/12/20,Cases,8
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,3/13/20,Cases,12
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,3/14/20,Cases,16
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,3/15/20,Cases,18
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,3/16/20,Cases,23
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,3/17/20,Cases,30
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,3/18/20,Cases,38
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,3/19/20,Cases,52
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,3/20/20,Cases,74
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,3/21/20,Cases,106
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,3/22/20,Cases,146
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,3/23/20,Cases,200
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,3/24/20,Cases,256
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,3/25/20,Cases,339
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,3/26/20,Cases,429
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,3/27/20,Cases,525
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,3/28/20,Cases,623
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,3/29/20,Cases,760
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,3/30/20,Cases,879
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,3/31/20,Cases,1015
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,4/1/20,Cases,1156
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,4/2/20,Cases,1330
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,4/3/20,Cases,1450
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,4/4/20,Cases,1562
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,4/5/20,Cases,1629
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,4/6/20,Cases,1691
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,4/7/20,Cases,1772
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,4/8/20,Cases,1931
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,4/9/20,Cases,2014
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,4/10/20,Cases,2096
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,4/11/20,Cases,2164
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,4/12/20,Cases,2253
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,4/13/20,Cases,2318
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,4/14/20,Cases,2400
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,4/15/20,Cases,2496
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,4/16/20,Cases,2573
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,4/17/20,Cases,2664
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,4/18/20,Cases,2718
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,4/19/20,Cases,2803
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,4/20/20,Cases,2873
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,4/21/20,Cases,2941
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,4/22/20,Cases,3024
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,4/23/20,Cases,3156
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,4/24/20,Cases,3220
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,4/25/20,Cases,3259
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,4/26/20,Cases,3304
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,4/27/20,Cases,3350
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,4/28/20,Cases,3395
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,4/29/20,Cases,3452
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,4/30/20,Cases,3498
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,5/1/20,Cases,3542
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,5/2/20,Cases,3583
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,5/3/20,Cases,3606
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,5/4/20,Cases,3642
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,5/5/20,Cases,3677
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,5/6/20,Cases,3716
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,5/7/20,Cases,3750
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,5/8/20,Cases,3787
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,5/9/20,Cases,3813
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,5/10/20,Cases,3837
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,5/11/20,Cases,3862
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,5/12/20,Cases,3887
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,5/13/20,Cases,3920
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,5/14/20,Cases,3935
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,5/15/20,Cases,3946
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,5/16/20,Cases,3951
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,5/17/20,Cases,3960
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,5/18/20,Cases,3977
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,5/19/20,Cases,3990
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date Reported to the State,Note,Data is reported daily around 4pm; subsequent days' data may show differences as cases are reported after this time.,NA
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,2/1/20,Cases,1
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,2/2/20,Cases,1
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,2/3/20,Cases,1
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,2/4/20,Cases,1
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,2/5/20,Cases,1
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,2/6/20,Cases,1
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,2/7/20,Cases,1
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,2/8/20,Cases,1
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,2/9/20,Cases,1
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,2/10/20,Cases,2
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,2/11/20,Cases,2
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,2/12/20,Cases,2
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,2/13/20,Cases,2
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,2/14/20,Cases,2
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,2/15/20,Cases,5
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,2/16/20,Cases,5
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,2/17/20,Cases,5
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,2/18/20,Cases,5
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,2/19/20,Cases,6
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,2/20/20,Cases,8
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,2/21/20,Cases,8
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,2/22/20,Cases,8
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,2/23/20,Cases,8
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,2/24/20,Cases,9
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,2/25/20,Cases,9
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,2/26/20,Cases,12
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,2/27/20,Cases,13
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,2/28/20,Cases,17
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,2/29/20,Cases,18
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,3/1/20,Cases,28
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,3/2/20,Cases,34
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,3/3/20,Cases,43
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,3/4/20,Cases,55
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,3/5/20,Cases,66
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,3/6/20,Cases,84
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,3/7/20,Cases,95
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,3/8/20,Cases,130
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,3/9/20,Cases,167
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,3/10/20,Cases,194
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,3/11/20,Cases,240
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,3/12/20,Cases,277
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,3/13/20,Cases,349
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,3/14/20,Cases,402
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,3/15/20,Cases,473
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,3/16/20,Cases,564
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,3/17/20,Cases,641
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,3/18/20,Cases,740
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,3/19/20,Cases,828
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,3/20/20,Cases,917
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,3/21/20,Cases,998
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,3/22/20,Cases,1086
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,3/23/20,Cases,1203
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,3/24/20,Cases,1299
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,3/25/20,Cases,1410
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,3/26/20,Cases,1479
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,3/27/20,Cases,1579
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,3/28/20,Cases,1662
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,3/29/20,Cases,1748
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,3/30/20,Cases,1839
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,3/31/20,Cases,1903
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,4/1/20,Cases,2013
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,4/2/20,Cases,2098
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,4/3/20,Cases,2190
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,4/4/20,Cases,2254
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,4/5/20,Cases,2327
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,4/6/20,Cases,2403
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,4/7/20,Cases,2490
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,4/8/20,Cases,2568
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,4/9/20,Cases,2640
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,4/10/20,Cases,2708
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,4/11/20,Cases,2766
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,4/12/20,Cases,2839
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,4/13/20,Cases,2919
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,4/14/20,Cases,2987
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,4/15/20,Cases,3069
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,4/16/20,Cases,3123
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,4/17/20,Cases,3204
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,4/18/20,Cases,3253
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,4/19/20,Cases,3296
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,4/20/20,Cases,3369
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,4/21/20,Cases,3415
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,4/22/20,Cases,3460
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,4/23/20,Cases,3498
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,4/24/20,Cases,3529
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,4/25/20,Cases,3565
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,4/26/20,Cases,3609
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,4/27/20,Cases,3635
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,4/28/20,Cases,3666
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,4/29/20,Cases,3701
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,4/30/20,Cases,3733
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,5/1/20,Cases,3758
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,5/2/20,Cases,3779
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,5/3/20,Cases,3809
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,5/4/20,Cases,3838
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,5/5/20,Cases,3853
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,5/6/20,Cases,3874
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,5/7/20,Cases,3898
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,5/8/20,Cases,3920
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,5/9/20,Cases,3937
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,5/10/20,Cases,3946
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,5/11/20,Cases,3957
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,5/12/20,Cases,3962
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,5/13/20,Cases,3970
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,5/14/20,Cases,3974
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,5/15/20,Cases,3979
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,5/16/20,Cases,3989
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,5/17/20,Cases,3990
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,Note,Data is reported daily around 4pm; subsequent days' data may show differences as cases are reported after this time.,NA
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,Note,Onset date may be unavailable for some cases and inferred.,NA
+Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,Note,Illnesses might not yet be reported due to the time it takes between when a person becomes ill and when the illness is reported.,NA
+Positivity Data from Clinical Laboratories,3/10/20,Count of people tested by CDPHE lab,68
+Positivity Data from Clinical Laboratories,3/10/20,Count of people tested by non-CDPHE (commercial) lab,2
+Positivity Data from Clinical Laboratories,3/10/20,Percent Positivity,8.57
+Positivity Data from Clinical Laboratories,3/10/20,Total Tests per 100k People,1.23
+Positivity Data from Clinical Laboratories,3/11/20,Count of people tested by CDPHE lab,125
+Positivity Data from Clinical Laboratories,3/11/20,Count of people tested by non-CDPHE (commercial) lab,3
+Positivity Data from Clinical Laboratories,3/11/20,Percent Positivity,14.84
+Positivity Data from Clinical Laboratories,3/11/20,Total Tests per 100k People,2.25
+Positivity Data from Clinical Laboratories,3/12/20,Count of people tested by CDPHE lab,134
+Positivity Data from Clinical Laboratories,3/12/20,Count of people tested by non-CDPHE (commercial) lab,1
+Positivity Data from Clinical Laboratories,3/12/20,Percent Positivity,6.67
+Positivity Data from Clinical Laboratories,3/12/20,Three-day Moving Average of Percent Positivity,10.03
+Positivity Data from Clinical Laboratories,3/12/20,Total Tests per 100k People,2.37
+Positivity Data from Clinical Laboratories,3/13/20,Count of people tested by CDPHE lab,150
+Positivity Data from Clinical Laboratories,3/13/20,Count of people tested by non-CDPHE (commercial) lab,42
+Positivity Data from Clinical Laboratories,3/13/20,Percent Positivity,14.06
+Positivity Data from Clinical Laboratories,3/13/20,Three-day Moving Average of Percent Positivity,11.86
+Positivity Data from Clinical Laboratories,3/13/20,Total Tests per 100k People,3.37
+Positivity Data from Clinical Laboratories,3/14/20,Count of people tested by CDPHE lab,147
+Positivity Data from Clinical Laboratories,3/14/20,Count of people tested by non-CDPHE (commercial) lab,32
+Positivity Data from Clinical Laboratories,3/14/20,Percent Positivity,15.64
+Positivity Data from Clinical Laboratories,3/14/20,Three-day Moving Average of Percent Positivity,12.12
+Positivity Data from Clinical Laboratories,3/14/20,Total Tests per 100k People,3.14
+Positivity Data from Clinical Laboratories,3/15/20,Count of people tested by CDPHE lab,258
+Positivity Data from Clinical Laboratories,3/15/20,Count of people tested by non-CDPHE (commercial) lab,45
+Positivity Data from Clinical Laboratories,3/15/20,Percent Positivity,11.22
+Positivity Data from Clinical Laboratories,3/15/20,Three-day Moving Average of Percent Positivity,13.64
+Positivity Data from Clinical Laboratories,3/15/20,Total Tests per 100k People,5.32
+Positivity Data from Clinical Laboratories,3/16/20,Count of people tested by CDPHE lab,355
+Positivity Data from Clinical Laboratories,3/16/20,Count of people tested by non-CDPHE (commercial) lab,106
+Positivity Data from Clinical Laboratories,3/16/20,Percent Positivity,6.94
+Positivity Data from Clinical Laboratories,3/16/20,Three-day Moving Average of Percent Positivity,11.27
+Positivity Data from Clinical Laboratories,3/16/20,Total Tests per 100k People,8.1
+Positivity Data from Clinical Laboratories,3/17/20,Count of people tested by CDPHE lab,650
+Positivity Data from Clinical Laboratories,3/17/20,Count of people tested by non-CDPHE (commercial) lab,86
+Positivity Data from Clinical Laboratories,3/17/20,Percent Positivity,3.4
+Positivity Data from Clinical Laboratories,3/17/20,Three-day Moving Average of Percent Positivity,7.19
+Positivity Data from Clinical Laboratories,3/17/20,Total Tests per 100k People,12.93
+Positivity Data from Clinical Laboratories,3/18/20,Count of people tested by CDPHE lab,332
+Positivity Data from Clinical Laboratories,3/18/20,Count of people tested by non-CDPHE (commercial) lab,192
+Positivity Data from Clinical Laboratories,3/18/20,Percent Positivity,10.88
+Positivity Data from Clinical Laboratories,3/18/20,Three-day Moving Average of Percent Positivity,7.07
+Positivity Data from Clinical Laboratories,3/18/20,Total Tests per 100k People,9.2
+Positivity Data from Clinical Laboratories,3/19/20,Count of people tested by CDPHE lab,506
+Positivity Data from Clinical Laboratories,3/19/20,Count of people tested by non-CDPHE (commercial) lab,301
+Positivity Data from Clinical Laboratories,3/19/20,Percent Positivity,8.92
+Positivity Data from Clinical Laboratories,3/19/20,Three-day Moving Average of Percent Positivity,7.73
+Positivity Data from Clinical Laboratories,3/19/20,Total Tests per 100k People,14.17
+Positivity Data from Clinical Laboratories,3/20/20,Count of people tested by CDPHE lab,446
+Positivity Data from Clinical Laboratories,3/20/20,Count of people tested by non-CDPHE (commercial) lab,386
+Positivity Data from Clinical Laboratories,3/20/20,Percent Positivity,12.74
+Positivity Data from Clinical Laboratories,3/20/20,Three-day Moving Average of Percent Positivity,10.85
+Positivity Data from Clinical Laboratories,3/20/20,Total Tests per 100k People,14.61
+Positivity Data from Clinical Laboratories,3/21/20,Count of people tested by CDPHE lab,881
+Positivity Data from Clinical Laboratories,3/21/20,Count of people tested by non-CDPHE (commercial) lab,541
+Positivity Data from Clinical Laboratories,3/21/20,Percent Positivity,7.52
+Positivity Data from Clinical Laboratories,3/21/20,Three-day Moving Average of Percent Positivity,9.73
+Positivity Data from Clinical Laboratories,3/21/20,Total Tests per 100k People,24.97
+Positivity Data from Clinical Laboratories,3/22/20,Count of people tested by CDPHE lab,361
+Positivity Data from Clinical Laboratories,3/22/20,Count of people tested by non-CDPHE (commercial) lab,563
+Positivity Data from Clinical Laboratories,3/22/20,Percent Positivity,12.23
+Positivity Data from Clinical Laboratories,3/22/20,Three-day Moving Average of Percent Positivity,10.83
+Positivity Data from Clinical Laboratories,3/22/20,Total Tests per 100k People,16.23
+Positivity Data from Clinical Laboratories,3/23/20,Count of people tested by CDPHE lab,795
+Positivity Data from Clinical Laboratories,3/23/20,Count of people tested by non-CDPHE (commercial) lab,436
+Positivity Data from Clinical Laboratories,3/23/20,Percent Positivity,13.65
+Positivity Data from Clinical Laboratories,3/23/20,Three-day Moving Average of Percent Positivity,11.13
+Positivity Data from Clinical Laboratories,3/23/20,Total Tests per 100k People,21.62
+Positivity Data from Clinical Laboratories,3/24/20,Count of people tested by CDPHE lab,646
+Positivity Data from Clinical Laboratories,3/24/20,Count of people tested by non-CDPHE (commercial) lab,488
+Positivity Data from Clinical Laboratories,3/24/20,Percent Positivity,14.02
+Positivity Data from Clinical Laboratories,3/24/20,Three-day Moving Average of Percent Positivity,13.3
+Positivity Data from Clinical Laboratories,3/24/20,Total Tests per 100k People,19.91
+Positivity Data from Clinical Laboratories,3/25/20,Count of people tested by CDPHE lab,326
+Positivity Data from Clinical Laboratories,3/25/20,Count of people tested by non-CDPHE (commercial) lab,1507
+Positivity Data from Clinical Laboratories,3/25/20,Percent Positivity,15.82
+Positivity Data from Clinical Laboratories,3/25/20,Three-day Moving Average of Percent Positivity,14.5
+Positivity Data from Clinical Laboratories,3/25/20,Total Tests per 100k People,32.19
+Positivity Data from Clinical Laboratories,3/26/20,Count of people tested by CDPHE lab,427
+Positivity Data from Clinical Laboratories,3/26/20,Count of people tested by non-CDPHE (commercial) lab,1166
+Positivity Data from Clinical Laboratories,3/26/20,Percent Positivity,16.95
+Positivity Data from Clinical Laboratories,3/26/20,Three-day Moving Average of Percent Positivity,15.6
+Positivity Data from Clinical Laboratories,3/26/20,Total Tests per 100k People,27.98
+Positivity Data from Clinical Laboratories,3/27/20,Count of people tested by CDPHE lab,501
+Positivity Data from Clinical Laboratories,3/27/20,Count of people tested by non-CDPHE (commercial) lab,1186
+Positivity Data from Clinical Laboratories,3/27/20,Percent Positivity,17.19
+Positivity Data from Clinical Laboratories,3/27/20,Three-day Moving Average of Percent Positivity,16.65
+Positivity Data from Clinical Laboratories,3/27/20,Total Tests per 100k People,29.63
+Positivity Data from Clinical Laboratories,3/28/20,Count of people tested by CDPHE lab,202
+Positivity Data from Clinical Laboratories,3/28/20,Count of people tested by non-CDPHE (commercial) lab,1081
+Positivity Data from Clinical Laboratories,3/28/20,Percent Positivity,17.85
+Positivity Data from Clinical Laboratories,3/28/20,Three-day Moving Average of Percent Positivity,17.33
+Positivity Data from Clinical Laboratories,3/28/20,Total Tests per 100k People,22.53
+Positivity Data from Clinical Laboratories,3/29/20,Count of people tested by CDPHE lab,344
+Positivity Data from Clinical Laboratories,3/29/20,Count of people tested by non-CDPHE (commercial) lab,1289
+Positivity Data from Clinical Laboratories,3/29/20,Percent Positivity,19.11
+Positivity Data from Clinical Laboratories,3/29/20,Three-day Moving Average of Percent Positivity,18.05
+Positivity Data from Clinical Laboratories,3/29/20,Total Tests per 100k People,28.68
+Positivity Data from Clinical Laboratories,3/30/20,Count of people tested by CDPHE lab,340
+Positivity Data from Clinical Laboratories,3/30/20,Count of people tested by non-CDPHE (commercial) lab,1067
+Positivity Data from Clinical Laboratories,3/30/20,Percent Positivity,20.9
+Positivity Data from Clinical Laboratories,3/30/20,Three-day Moving Average of Percent Positivity,19.29
+Positivity Data from Clinical Laboratories,3/30/20,Total Tests per 100k People,24.71
+Positivity Data from Clinical Laboratories,3/31/20,Count of people tested by CDPHE lab,300
+Positivity Data from Clinical Laboratories,3/31/20,Count of people tested by non-CDPHE (commercial) lab,1393
+Positivity Data from Clinical Laboratories,3/31/20,Percent Positivity,21.09
+Positivity Data from Clinical Laboratories,3/31/20,Three-day Moving Average of Percent Positivity,20.37
+Positivity Data from Clinical Laboratories,3/31/20,Total Tests per 100k People,29.73
+Positivity Data from Clinical Laboratories,4/1/20,Count of people tested by CDPHE lab,339
+Positivity Data from Clinical Laboratories,4/1/20,Count of people tested by non-CDPHE (commercial) lab,1251
+Positivity Data from Clinical Laboratories,4/1/20,Percent Positivity,22.77
+Positivity Data from Clinical Laboratories,4/1/20,Three-day Moving Average of Percent Positivity,21.59
+Positivity Data from Clinical Laboratories,4/1/20,Total Tests per 100k People,27.92
+Positivity Data from Clinical Laboratories,4/2/20,Count of people tested by CDPHE lab,366
+Positivity Data from Clinical Laboratories,4/2/20,Count of people tested by non-CDPHE (commercial) lab,1452
+Positivity Data from Clinical Laboratories,4/2/20,Percent Positivity,22.44
+Positivity Data from Clinical Laboratories,4/2/20,Three-day Moving Average of Percent Positivity,22.1
+Positivity Data from Clinical Laboratories,4/2/20,Total Tests per 100k People,31.93
+Positivity Data from Clinical Laboratories,4/3/20,Count of people tested by CDPHE lab,204
+Positivity Data from Clinical Laboratories,4/3/20,Count of people tested by non-CDPHE (commercial) lab,1764
+Positivity Data from Clinical Laboratories,4/3/20,Percent Positivity,18.14
+Positivity Data from Clinical Laboratories,4/3/20,Three-day Moving Average of Percent Positivity,21.12
+Positivity Data from Clinical Laboratories,4/3/20,Total Tests per 100k People,34.56
+Positivity Data from Clinical Laboratories,4/4/20,Count of people tested by CDPHE lab,271
+Positivity Data from Clinical Laboratories,4/4/20,Count of people tested by non-CDPHE (commercial) lab,1849
+Positivity Data from Clinical Laboratories,4/4/20,Percent Positivity,16.56
+Positivity Data from Clinical Laboratories,4/4/20,Three-day Moving Average of Percent Positivity,19.05
+Positivity Data from Clinical Laboratories,4/4/20,Total Tests per 100k People,37.23
+Positivity Data from Clinical Laboratories,4/5/20,Count of people tested by CDPHE lab,182
+Positivity Data from Clinical Laboratories,4/5/20,Count of people tested by non-CDPHE (commercial) lab,1020
+Positivity Data from Clinical Laboratories,4/5/20,Percent Positivity,16.64
+Positivity Data from Clinical Laboratories,4/5/20,Three-day Moving Average of Percent Positivity,17.11
+Positivity Data from Clinical Laboratories,4/5/20,Total Tests per 100k People,21.11
+Positivity Data from Clinical Laboratories,4/6/20,Count of people tested by CDPHE lab,104
+Positivity Data from Clinical Laboratories,4/6/20,Count of people tested by non-CDPHE (commercial) lab,1533
+Positivity Data from Clinical Laboratories,4/6/20,Percent Positivity,13.93
+Positivity Data from Clinical Laboratories,4/6/20,Three-day Moving Average of Percent Positivity,15.71
+Positivity Data from Clinical Laboratories,4/6/20,Total Tests per 100k People,28.75
+Positivity Data from Clinical Laboratories,4/7/20,Count of people tested by CDPHE lab,105
+Positivity Data from Clinical Laboratories,4/7/20,Count of people tested by non-CDPHE (commercial) lab,1129
+Positivity Data from Clinical Laboratories,4/7/20,Percent Positivity,18.31
+Positivity Data from Clinical Laboratories,4/7/20,Three-day Moving Average of Percent Positivity,16.29
+Positivity Data from Clinical Laboratories,4/7/20,Total Tests per 100k People,21.67
+Positivity Data from Clinical Laboratories,4/8/20,Count of people tested by CDPHE lab,158
+Positivity Data from Clinical Laboratories,4/8/20,Count of people tested by non-CDPHE (commercial) lab,2042
+Positivity Data from Clinical Laboratories,4/8/20,Percent Positivity,22.86
+Positivity Data from Clinical Laboratories,4/8/20,Three-day Moving Average of Percent Positivity,18.37
+Positivity Data from Clinical Laboratories,4/8/20,Total Tests per 100k People,38.64
+Positivity Data from Clinical Laboratories,4/9/20,Count of people tested by CDPHE lab,158
+Positivity Data from Clinical Laboratories,4/9/20,Count of people tested by non-CDPHE (commercial) lab,1521
+Positivity Data from Clinical Laboratories,4/9/20,Percent Positivity,19.89
+Positivity Data from Clinical Laboratories,4/9/20,Three-day Moving Average of Percent Positivity,20.35
+Positivity Data from Clinical Laboratories,4/9/20,Total Tests per 100k People,29.49
+Positivity Data from Clinical Laboratories,4/10/20,Count of people tested by CDPHE lab,70
+Positivity Data from Clinical Laboratories,4/10/20,Count of people tested by non-CDPHE (commercial) lab,2395
+Positivity Data from Clinical Laboratories,4/10/20,Percent Positivity,16.8
+Positivity Data from Clinical Laboratories,4/10/20,Three-day Moving Average of Percent Positivity,19.85
+Positivity Data from Clinical Laboratories,4/10/20,Total Tests per 100k People,43.29
+Positivity Data from Clinical Laboratories,4/11/20,Count of people tested by CDPHE lab,326
+Positivity Data from Clinical Laboratories,4/11/20,Count of people tested by non-CDPHE (commercial) lab,2267
+Positivity Data from Clinical Laboratories,4/11/20,Percent Positivity,15.5
+Positivity Data from Clinical Laboratories,4/11/20,Three-day Moving Average of Percent Positivity,17.4
+Positivity Data from Clinical Laboratories,4/11/20,Total Tests per 100k People,45.54
+Positivity Data from Clinical Laboratories,4/12/20,Count of people tested by CDPHE lab,130
+Positivity Data from Clinical Laboratories,4/12/20,Count of people tested by non-CDPHE (commercial) lab,1669
+Positivity Data from Clinical Laboratories,4/12/20,Percent Positivity,19.46
+Positivity Data from Clinical Laboratories,4/12/20,Three-day Moving Average of Percent Positivity,17.25
+Positivity Data from Clinical Laboratories,4/12/20,Total Tests per 100k People,31.59
+Positivity Data from Clinical Laboratories,4/13/20,Count of people tested by CDPHE lab,124
+Positivity Data from Clinical Laboratories,4/13/20,Count of people tested by non-CDPHE (commercial) lab,895
+Positivity Data from Clinical Laboratories,4/13/20,Percent Positivity,26.2
+Positivity Data from Clinical Laboratories,4/13/20,Three-day Moving Average of Percent Positivity,20.39
+Positivity Data from Clinical Laboratories,4/13/20,Total Tests per 100k People,17.9
+Positivity Data from Clinical Laboratories,4/14/20,Count of people tested by CDPHE lab,147
+Positivity Data from Clinical Laboratories,4/14/20,Count of people tested by non-CDPHE (commercial) lab,1036
+Positivity Data from Clinical Laboratories,4/14/20,Percent Positivity,23.92
+Positivity Data from Clinical Laboratories,4/14/20,Three-day Moving Average of Percent Positivity,23.19
+Positivity Data from Clinical Laboratories,4/14/20,Total Tests per 100k People,20.78
+Positivity Data from Clinical Laboratories,4/15/20,Count of people tested by CDPHE lab,297
+Positivity Data from Clinical Laboratories,4/15/20,Count of people tested by non-CDPHE (commercial) lab,1202
+Positivity Data from Clinical Laboratories,4/15/20,Percent Positivity,26.42
+Positivity Data from Clinical Laboratories,4/15/20,Three-day Moving Average of Percent Positivity,25.51
+Positivity Data from Clinical Laboratories,4/15/20,Total Tests per 100k People,26.32
+Positivity Data from Clinical Laboratories,4/16/20,Count of people tested by CDPHE lab,198
+Positivity Data from Clinical Laboratories,4/16/20,Count of people tested by non-CDPHE (commercial) lab,1511
+Positivity Data from Clinical Laboratories,4/16/20,Percent Positivity,19.13
+Positivity Data from Clinical Laboratories,4/16/20,Three-day Moving Average of Percent Positivity,23.16
+Positivity Data from Clinical Laboratories,4/16/20,Total Tests per 100k People,30.01
+Positivity Data from Clinical Laboratories,4/17/20,Count of people tested by CDPHE lab,198
+Positivity Data from Clinical Laboratories,4/17/20,Count of people tested by non-CDPHE (commercial) lab,1385
+Positivity Data from Clinical Laboratories,4/17/20,Percent Positivity,24.51
+Positivity Data from Clinical Laboratories,4/17/20,Three-day Moving Average of Percent Positivity,23.35
+Positivity Data from Clinical Laboratories,4/17/20,Total Tests per 100k People,27.8
+Positivity Data from Clinical Laboratories,4/18/20,Count of people tested by CDPHE lab,494
+Positivity Data from Clinical Laboratories,4/18/20,Count of people tested by non-CDPHE (commercial) lab,1343
+Positivity Data from Clinical Laboratories,4/18/20,Percent Positivity,13.5
+Positivity Data from Clinical Laboratories,4/18/20,Three-day Moving Average of Percent Positivity,19.05
+Positivity Data from Clinical Laboratories,4/18/20,Total Tests per 100k People,32.26
+Positivity Data from Clinical Laboratories,4/19/20,Count of people tested by CDPHE lab,401
+Positivity Data from Clinical Laboratories,4/19/20,Count of people tested by non-CDPHE (commercial) lab,1079
+Positivity Data from Clinical Laboratories,4/19/20,Percent Positivity,18.78
+Positivity Data from Clinical Laboratories,4/19/20,Three-day Moving Average of Percent Positivity,18.93
+Positivity Data from Clinical Laboratories,4/19/20,Total Tests per 100k People,25.99
+Positivity Data from Clinical Laboratories,4/20/20,Count of people tested by CDPHE lab,430
+Positivity Data from Clinical Laboratories,4/20/20,Count of people tested by non-CDPHE (commercial) lab,1065
+Positivity Data from Clinical Laboratories,4/20/20,Percent Positivity,16.66
+Positivity Data from Clinical Laboratories,4/20/20,Three-day Moving Average of Percent Positivity,16.31
+Positivity Data from Clinical Laboratories,4/20/20,Total Tests per 100k People,26.25
+Positivity Data from Clinical Laboratories,4/21/20,Count of people tested by CDPHE lab,456
+Positivity Data from Clinical Laboratories,4/21/20,Count of people tested by non-CDPHE (commercial) lab,1713
+Positivity Data from Clinical Laboratories,4/21/20,Percent Positivity,15.95
+Positivity Data from Clinical Laboratories,4/21/20,Three-day Moving Average of Percent Positivity,17.13
+Positivity Data from Clinical Laboratories,4/21/20,Total Tests per 100k People,38.09
+Positivity Data from Clinical Laboratories,4/22/20,Count of people tested by CDPHE lab,427
+Positivity Data from Clinical Laboratories,4/22/20,Count of people tested by non-CDPHE (commercial) lab,1507
+Positivity Data from Clinical Laboratories,4/22/20,Percent Positivity,17.58
+Positivity Data from Clinical Laboratories,4/22/20,Three-day Moving Average of Percent Positivity,16.73
+Positivity Data from Clinical Laboratories,4/22/20,Total Tests per 100k People,33.96
+Positivity Data from Clinical Laboratories,4/23/20,Count of people tested by CDPHE lab,687
+Positivity Data from Clinical Laboratories,4/23/20,Count of people tested by non-CDPHE (commercial) lab,4640
+Positivity Data from Clinical Laboratories,4/23/20,Percent Positivity,15.04
+Positivity Data from Clinical Laboratories,4/23/20,Three-day Moving Average of Percent Positivity,16.19
+Positivity Data from Clinical Laboratories,4/23/20,Total Tests per 100k People,93.55
+Positivity Data from Clinical Laboratories,4/24/20,Count of people tested by CDPHE lab,618
+Positivity Data from Clinical Laboratories,4/24/20,Count of people tested by non-CDPHE (commercial) lab,2430
+Positivity Data from Clinical Laboratories,4/24/20,Percent Positivity,18.64
+Positivity Data from Clinical Laboratories,4/24/20,Three-day Moving Average of Percent Positivity,17.09
+Positivity Data from Clinical Laboratories,4/24/20,Total Tests per 100k People,53.53
+Positivity Data from Clinical Laboratories,4/25/20,Count of people tested by CDPHE lab,712
+Positivity Data from Clinical Laboratories,4/25/20,Count of people tested by non-CDPHE (commercial) lab,2533
+Positivity Data from Clinical Laboratories,4/25/20,Percent Positivity,13.5
+Positivity Data from Clinical Laboratories,4/25/20,Three-day Moving Average of Percent Positivity,15.73
+Positivity Data from Clinical Laboratories,4/25/20,Total Tests per 100k People,56.99
+Positivity Data from Clinical Laboratories,4/26/20,Count of people tested by CDPHE lab,568
+Positivity Data from Clinical Laboratories,4/26/20,Count of people tested by non-CDPHE (commercial) lab,2116
+Positivity Data from Clinical Laboratories,4/26/20,Percent Positivity,14.42
+Positivity Data from Clinical Laboratories,4/26/20,Three-day Moving Average of Percent Positivity,15.52
+Positivity Data from Clinical Laboratories,4/26/20,Total Tests per 100k People,47.13
+Positivity Data from Clinical Laboratories,4/27/20,Count of people tested by CDPHE lab,771
+Positivity Data from Clinical Laboratories,4/27/20,Count of people tested by non-CDPHE (commercial) lab,2105
+Positivity Data from Clinical Laboratories,4/27/20,Percent Positivity,14.92
+Positivity Data from Clinical Laboratories,4/27/20,Three-day Moving Average of Percent Positivity,14.28
+Positivity Data from Clinical Laboratories,4/27/20,Total Tests per 100k People,50.51
+Positivity Data from Clinical Laboratories,4/28/20,Count of people tested by CDPHE lab,455
+Positivity Data from Clinical Laboratories,4/28/20,Count of people tested by non-CDPHE (commercial) lab,2362
+Positivity Data from Clinical Laboratories,4/28/20,Percent Positivity,13.84
+Positivity Data from Clinical Laboratories,4/28/20,Three-day Moving Average of Percent Positivity,14.39
+Positivity Data from Clinical Laboratories,4/28/20,Total Tests per 100k People,49.47
+Positivity Data from Clinical Laboratories,4/29/20,Count of people tested by CDPHE lab,440
+Positivity Data from Clinical Laboratories,4/29/20,Count of people tested by non-CDPHE (commercial) lab,2959
+Positivity Data from Clinical Laboratories,4/29/20,Percent Positivity,23.77
+Positivity Data from Clinical Laboratories,4/29/20,Three-day Moving Average of Percent Positivity,17.51
+Positivity Data from Clinical Laboratories,4/29/20,Total Tests per 100k People,59.69
+Positivity Data from Clinical Laboratories,4/30/20,Count of people tested by CDPHE lab,732
+Positivity Data from Clinical Laboratories,4/30/20,Count of people tested by non-CDPHE (commercial) lab,2609
+Positivity Data from Clinical Laboratories,4/30/20,Percent Positivity,12.03
+Positivity Data from Clinical Laboratories,4/30/20,Three-day Moving Average of Percent Positivity,16.55
+Positivity Data from Clinical Laboratories,4/30/20,Total Tests per 100k People,58.67
+Positivity Data from Clinical Laboratories,5/1/20,Count of people tested by CDPHE lab,442
+Positivity Data from Clinical Laboratories,5/1/20,Count of people tested by non-CDPHE (commercial) lab,2920
+Positivity Data from Clinical Laboratories,5/1/20,Percent Positivity,12.7
+Positivity Data from Clinical Laboratories,5/1/20,Three-day Moving Average of Percent Positivity,16.17
+Positivity Data from Clinical Laboratories,5/1/20,Total Tests per 100k People,59.04
+Positivity Data from Clinical Laboratories,5/2/20,Count of people tested by CDPHE lab,612
+Positivity Data from Clinical Laboratories,5/2/20,Count of people tested by non-CDPHE (commercial) lab,2950
+Positivity Data from Clinical Laboratories,5/2/20,Percent Positivity,10.89
+Positivity Data from Clinical Laboratories,5/2/20,Three-day Moving Average of Percent Positivity,11.87
+Positivity Data from Clinical Laboratories,5/2/20,Total Tests per 100k People,62.55
+Positivity Data from Clinical Laboratories,5/3/20,Count of people tested by CDPHE lab,317
+Positivity Data from Clinical Laboratories,5/3/20,Count of people tested by non-CDPHE (commercial) lab,1877
+Positivity Data from Clinical Laboratories,5/3/20,Percent Positivity,9.57
+Positivity Data from Clinical Laboratories,5/3/20,Three-day Moving Average of Percent Positivity,11.05
+Positivity Data from Clinical Laboratories,5/3/20,Total Tests per 100k People,38.53
+Positivity Data from Clinical Laboratories,5/4/20,Count of people tested by CDPHE lab,129
+Positivity Data from Clinical Laboratories,5/4/20,Count of people tested by non-CDPHE (commercial) lab,2956
+Positivity Data from Clinical Laboratories,5/4/20,Percent Positivity,10.63
+Positivity Data from Clinical Laboratories,5/4/20,Three-day Moving Average of Percent Positivity,10.36
+Positivity Data from Clinical Laboratories,5/4/20,Total Tests per 100k People,54.18
+Positivity Data from Clinical Laboratories,5/5/20,Count of people tested by CDPHE lab,325
+Positivity Data from Clinical Laboratories,5/5/20,Count of people tested by non-CDPHE (commercial) lab,2909
+Positivity Data from Clinical Laboratories,5/5/20,Percent Positivity,10.36
+Positivity Data from Clinical Laboratories,5/5/20,Three-day Moving Average of Percent Positivity,10.19
+Positivity Data from Clinical Laboratories,5/5/20,Total Tests per 100k People,56.79
+Positivity Data from Clinical Laboratories,5/6/20,Count of people tested by CDPHE lab,683
+Positivity Data from Clinical Laboratories,5/6/20,Count of people tested by non-CDPHE (commercial) lab,2649
+Positivity Data from Clinical Laboratories,5/6/20,Percent Positivity,12.48
+Positivity Data from Clinical Laboratories,5/6/20,Three-day Moving Average of Percent Positivity,11.16
+Positivity Data from Clinical Laboratories,5/6/20,Total Tests per 100k People,58.51
+Positivity Data from Clinical Laboratories,5/7/20,Count of people tested by CDPHE lab,692
+Positivity Data from Clinical Laboratories,5/7/20,Count of people tested by non-CDPHE (commercial) lab,4678
+Positivity Data from Clinical Laboratories,5/7/20,Percent Positivity,7.82
+Positivity Data from Clinical Laboratories,5/7/20,Three-day Moving Average of Percent Positivity,10.22
+Positivity Data from Clinical Laboratories,5/7/20,Total Tests per 100k People,94.31
+Positivity Data from Clinical Laboratories,5/8/20,Count of people tested by CDPHE lab,838
+Positivity Data from Clinical Laboratories,5/8/20,Count of people tested by non-CDPHE (commercial) lab,3839
+Positivity Data from Clinical Laboratories,5/8/20,Percent Positivity,11.42
+Positivity Data from Clinical Laboratories,5/8/20,Three-day Moving Average of Percent Positivity,10.57
+Positivity Data from Clinical Laboratories,5/8/20,Total Tests per 100k People,82.13
+Positivity Data from Clinical Laboratories,5/9/20,Count of people tested by CDPHE lab,847
+Positivity Data from Clinical Laboratories,5/9/20,Count of people tested by non-CDPHE (commercial) lab,3160
+Positivity Data from Clinical Laboratories,5/9/20,Percent Positivity,8.34
+Positivity Data from Clinical Laboratories,5/9/20,Three-day Moving Average of Percent Positivity,9.19
+Positivity Data from Clinical Laboratories,5/9/20,Total Tests per 100k People,70.37
+Positivity Data from Clinical Laboratories,5/10/20,Count of people tested by CDPHE lab,875
+Positivity Data from Clinical Laboratories,5/10/20,Count of people tested by non-CDPHE (commercial) lab,2176
+Positivity Data from Clinical Laboratories,5/10/20,Percent Positivity,6.46
+Positivity Data from Clinical Laboratories,5/10/20,Three-day Moving Average of Percent Positivity,8.74
+Positivity Data from Clinical Laboratories,5/10/20,Total Tests per 100k People,53.58
+Positivity Data from Clinical Laboratories,5/11/20,Count of people tested by CDPHE lab,657
+Positivity Data from Clinical Laboratories,5/11/20,Count of people tested by non-CDPHE (commercial) lab,2251
+Positivity Data from Clinical Laboratories,5/11/20,Percent Positivity,7.26
+Positivity Data from Clinical Laboratories,5/11/20,Three-day Moving Average of Percent Positivity,7.35
+Positivity Data from Clinical Laboratories,5/11/20,Total Tests per 100k People,51.07
+Positivity Data from Clinical Laboratories,5/12/20,Count of people tested by CDPHE lab,471
+Positivity Data from Clinical Laboratories,5/12/20,Count of people tested by non-CDPHE (commercial) lab,3360
+Positivity Data from Clinical Laboratories,5/12/20,Percent Positivity,6.24
+Positivity Data from Clinical Laboratories,5/12/20,Three-day Moving Average of Percent Positivity,6.65
+Positivity Data from Clinical Laboratories,5/12/20,Total Tests per 100k People,67.28
+Positivity Data from Clinical Laboratories,5/13/20,Count of people tested by CDPHE lab,518
+Positivity Data from Clinical Laboratories,5/13/20,Count of people tested by non-CDPHE (commercial) lab,3739
+Positivity Data from Clinical Laboratories,5/13/20,Percent Positivity,9.65
+Positivity Data from Clinical Laboratories,5/13/20,Three-day Moving Average of Percent Positivity,7.72
+Positivity Data from Clinical Laboratories,5/13/20,Total Tests per 100k People,74.76
+Positivity Data from Clinical Laboratories,5/14/20,Count of people tested by CDPHE lab,678
+Positivity Data from Clinical Laboratories,5/14/20,Count of people tested by non-CDPHE (commercial) lab,3919
+Positivity Data from Clinical Laboratories,5/14/20,Percent Positivity,7.37
+Positivity Data from Clinical Laboratories,5/14/20,Three-day Moving Average of Percent Positivity,7.75
+Positivity Data from Clinical Laboratories,5/14/20,Total Tests per 100k People,80.73
+Positivity Data from Clinical Laboratories,5/15/20,Count of people tested by CDPHE lab,626
+Positivity Data from Clinical Laboratories,5/15/20,Count of people tested by non-CDPHE (commercial) lab,3845
+Positivity Data from Clinical Laboratories,5/15/20,Percent Positivity,8.05
+Positivity Data from Clinical Laboratories,5/15/20,Three-day Moving Average of Percent Positivity,8.36
+Positivity Data from Clinical Laboratories,5/15/20,Total Tests per 100k People,78.52
+Positivity Data from Clinical Laboratories,5/16/20,Count of people tested by CDPHE lab,548
+Positivity Data from Clinical Laboratories,5/16/20,Count of people tested by non-CDPHE (commercial) lab,2877
+Positivity Data from Clinical Laboratories,5/16/20,Percent Positivity,7.88
+Positivity Data from Clinical Laboratories,5/16/20,Three-day Moving Average of Percent Positivity,7.77
+Positivity Data from Clinical Laboratories,5/16/20,Total Tests per 100k People,60.15
+Positivity Data from Clinical Laboratories,5/17/20,Count of people tested by CDPHE lab,406
+Positivity Data from Clinical Laboratories,5/17/20,Count of people tested by non-CDPHE (commercial) lab,2848
+Positivity Data from Clinical Laboratories,5/17/20,Percent Positivity,6.08
+Positivity Data from Clinical Laboratories,5/17/20,Three-day Moving Average of Percent Positivity,7.34
+Positivity Data from Clinical Laboratories,5/17/20,Total Tests per 100k People,57.14
+Positivity Data from Clinical Laboratories,5/18/20,Count of people tested by CDPHE lab,583
+Positivity Data from Clinical Laboratories,5/18/20,Count of people tested by non-CDPHE (commercial) lab,2581
+Positivity Data from Clinical Laboratories,5/18/20,Percent Positivity,7.4
+Positivity Data from Clinical Laboratories,5/18/20,Three-day Moving Average of Percent Positivity,7.12
+Positivity Data from Clinical Laboratories,5/18/20,Total Tests per 100k People,55.56
+Positivity Data from Clinical Laboratories,5/19/20,Count of people tested by CDPHE lab,688
+Positivity Data from Clinical Laboratories,5/19/20,Count of people tested by non-CDPHE (commercial) lab,3765
+Positivity Data from Clinical Laboratories,5/19/20,Percent Positivity,5.59
+Positivity Data from Clinical Laboratories,5/19/20,Three-day Moving Average of Percent Positivity,6.36
+Positivity Data from Clinical Laboratories,5/19/20,Total Tests per 100k People,78.2
+Positivity Data from Clinical Laboratories,Note,May not include all negative results.,NA
+Positivity Data from Clinical Laboratories,Note,Individuals with serology-positive tests are not included in daily case counts until they are confirmed to have had COVID-like symptoms.,NA
+Positivity Data from Clinical Laboratories,Note,Includes only tests from labs that participate in electronic lab reporting.,NA
+Daily Serology Data From Clinical Laboratories,4/20/20,Number of negative tests,1
+Daily Serology Data From Clinical Laboratories,4/20/20,Number of positive tests,0
+Daily Serology Data From Clinical Laboratories,4/21/20,Number of negative tests,36
+Daily Serology Data From Clinical Laboratories,4/21/20,Number of positive tests,0
+Daily Serology Data From Clinical Laboratories,4/22/20,Number of negative tests,21
+Daily Serology Data From Clinical Laboratories,4/22/20,Number of positive tests,9
+Daily Serology Data From Clinical Laboratories,4/23/20,Number of negative tests,111
+Daily Serology Data From Clinical Laboratories,4/23/20,Number of positive tests,27
+Daily Serology Data From Clinical Laboratories,4/24/20,Number of negative tests,392
+Daily Serology Data From Clinical Laboratories,4/24/20,Number of positive tests,45
+Daily Serology Data From Clinical Laboratories,4/25/20,Number of negative tests,604
+Daily Serology Data From Clinical Laboratories,4/25/20,Number of positive tests,57
+Daily Serology Data From Clinical Laboratories,4/26/20,Number of negative tests,719
+Daily Serology Data From Clinical Laboratories,4/26/20,Number of positive tests,56
+Daily Serology Data From Clinical Laboratories,4/27/20,Number of negative tests,182
+Daily Serology Data From Clinical Laboratories,4/27/20,Number of positive tests,32
+Daily Serology Data From Clinical Laboratories,4/28/20,Number of negative tests,593
+Daily Serology Data From Clinical Laboratories,4/28/20,Number of positive tests,74
+Daily Serology Data From Clinical Laboratories,4/29/20,Number of negative tests,1119
+Daily Serology Data From Clinical Laboratories,4/29/20,Number of positive tests,126
+Daily Serology Data From Clinical Laboratories,4/30/20,Number of negative tests,1437
+Daily Serology Data From Clinical Laboratories,4/30/20,Number of positive tests,145
+Daily Serology Data From Clinical Laboratories,5/1/20,Number of negative tests,1505
+Daily Serology Data From Clinical Laboratories,5/1/20,Number of positive tests,177
+Daily Serology Data From Clinical Laboratories,5/2/20,Number of negative tests,1626
+Daily Serology Data From Clinical Laboratories,5/2/20,Number of positive tests,143
+Daily Serology Data From Clinical Laboratories,5/3/20,Number of negative tests,476
+Daily Serology Data From Clinical Laboratories,5/3/20,Number of positive tests,55
+Daily Serology Data From Clinical Laboratories,5/4/20,Number of negative tests,1583
+Daily Serology Data From Clinical Laboratories,5/4/20,Number of positive tests,173
+Daily Serology Data From Clinical Laboratories,5/5/20,Number of negative tests,585
+Daily Serology Data From Clinical Laboratories,5/5/20,Number of positive tests,67
+Daily Serology Data From Clinical Laboratories,5/6/20,Number of negative tests,1204
+Daily Serology Data From Clinical Laboratories,5/6/20,Number of positive tests,162
+Daily Serology Data From Clinical Laboratories,5/7/20,Number of negative tests,1794
+Daily Serology Data From Clinical Laboratories,5/7/20,Number of positive tests,188
+Daily Serology Data From Clinical Laboratories,5/8/20,Number of negative tests,1745
+Daily Serology Data From Clinical Laboratories,5/8/20,Number of positive tests,132
+Daily Serology Data From Clinical Laboratories,5/9/20,Number of negative tests,1523
+Daily Serology Data From Clinical Laboratories,5/9/20,Number of positive tests,137
+Daily Serology Data From Clinical Laboratories,5/10/20,Number of negative tests,1613
+Daily Serology Data From Clinical Laboratories,5/10/20,Number of positive tests,137
+Daily Serology Data From Clinical Laboratories,5/11/20,Number of negative tests,493
+Daily Serology Data From Clinical Laboratories,5/11/20,Number of positive tests,23
+Daily Serology Data From Clinical Laboratories,5/12/20,Number of negative tests,802
+Daily Serology Data From Clinical Laboratories,5/12/20,Number of positive tests,48
+Daily Serology Data From Clinical Laboratories,5/13/20,Number of negative tests,4595
+Daily Serology Data From Clinical Laboratories,5/13/20,Number of positive tests,313
+Daily Serology Data From Clinical Laboratories,5/14/20,Number of negative tests,2521
+Daily Serology Data From Clinical Laboratories,5/14/20,Number of positive tests,200
+Daily Serology Data From Clinical Laboratories,5/15/20,Number of negative tests,2527
+Daily Serology Data From Clinical Laboratories,5/15/20,Number of positive tests,216
+Daily Serology Data From Clinical Laboratories,5/16/20,Number of negative tests,1839
+Daily Serology Data From Clinical Laboratories,5/16/20,Number of positive tests,141
+Daily Serology Data From Clinical Laboratories,5/17/20,Number of negative tests,1650
+Daily Serology Data From Clinical Laboratories,5/17/20,Number of positive tests,132
+Daily Serology Data From Clinical Laboratories,5/18/20,Number of negative tests,478
+Daily Serology Data From Clinical Laboratories,5/18/20,Number of positive tests,31
+Daily Serology Data From Clinical Laboratories,5/19/20,Number of negative tests,2167
+Daily Serology Data From Clinical Laboratories,5/19/20,Number of positive tests,137
+Daily Serology Data From Clinical Laboratories,Note,May not include all negative results.,NA
