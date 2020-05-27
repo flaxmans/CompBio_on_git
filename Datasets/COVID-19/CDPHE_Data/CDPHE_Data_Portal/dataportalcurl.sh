@@ -16,8 +16,10 @@ countyodrURL="https://opendata.arcgis.com/datasets/199c1c4a0ece40078949cd24f743e
 
 testingSitesURL="https://opendata.arcgis.com/datasets/836372161f4f4f989fb826a6b78c1c67_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
 
+cdcURL="https://data.cdc.gov/api/views/r8kw-7aab/rows.csv?accessType=DOWNLOAD"
+
 # as an array:
-URLs=($dailyStateStatURL $byCountyOfIDURL $stateodrURL $clinicalLabsURL $countyodrURL $testingSitesURL)
+URLs=($dailyStateStatURL $byCountyOfIDURL $stateodrURL $clinicalLabsURL $countyodrURL $testingSitesURL $cdcURL)
 
 # note following names need to be in exact same order as URLs!
 names=(CDPHE_COVID19_Daily_State_Statistics_
@@ -25,7 +27,8 @@ Colorado_COVID19_Positive_Cases_and_Rates_of_Infection_by_County_of_Identificati
 CDPHE_COVID19_State-Level_Open_Data_Repository_
 COVID19_Positivity_Data_from_Clinical_Laboratories_
 CDPHE_COVID19_County-Level_Open_Data_Repository_
-Community_Testing_Sites_)
+Community_Testing_Sites_
+Provisional_COVID-19_Death_Counts_by_Week_Ending_Date_and_State_)
 
 # subdirs in same order too!
 subdirs=(DailyStateStats
@@ -33,7 +36,8 @@ ByCountyOfID
 StateLevelOpenDataRepo
 ClinicalLabs
 CountyLevelOpenDataRepo
-CommunityTestingSites)
+CommunityTestingSites
+../../CDC_Data)
 
 arrayLength="${#names[@]}"
 
