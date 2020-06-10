@@ -1,0 +1,1027 @@
+Data as of,Start week,End Week,Group,State,Indicator,COVID-19 Deaths,Total Deaths,Percent of Expected Deaths,Pneumonia Deaths,Pneumonia and COVID-19 Deaths,Influenza Deaths,"Pneumonia, Influenza, or COVID-19 Deaths",Footnote
+06/10/2020,02/01/2020,02/01/2020,By week,United States,Week-ending,1,57744,0.97,3733,0,476,4210,
+06/10/2020,02/08/2020,02/08/2020,By week,United States,Week-ending,1,58340,0.98,3723,0,514,4238,
+06/10/2020,02/15/2020,02/15/2020,By week,United States,Week-ending,0,57685,0.98,3754,0,543,4297,
+06/10/2020,02/22/2020,02/22/2020,By week,United States,Week-ending,3,57773,0.99,3628,1,557,4187,
+06/10/2020,02/29/2020,02/29/2020,By week,United States,Week-ending,5,58158,1.01,3751,3,635,4388,
+06/10/2020,03/07/2020,03/07/2020,By week,United States,Week-ending,32,58364,1.01,3881,16,619,4515,
+06/10/2020,03/14/2020,03/14/2020,By week,United States,Week-ending,52,57238,1,3872,27,608,4504,
+06/10/2020,03/21/2020,03/21/2020,By week,United States,Week-ending,546,57812,1.02,4434,245,537,5266,
+06/10/2020,03/28/2020,03/28/2020,By week,United States,Week-ending,3030,61698,1.1,6008,1369,437,8056,
+06/10/2020,04/04/2020,04/04/2020,By week,United States,Week-ending,9437,70103,1.25,9551,4522,460,14703,
+06/10/2020,04/11/2020,04/11/2020,By week,United States,Week-ending,15569,76372,1.38,11600,6984,464,20312,
+06/10/2020,04/18/2020,04/18/2020,By week,United States,Week-ending,16153,73389,1.36,10820,6912,258,20135,
+06/10/2020,04/25/2020,04/25/2020,By week,United States,Week-ending,13846,68879,1.28,9477,5938,141,17430,
+06/10/2020,05/02/2020,05/02/2020,By week,United States,Week-ending,11202,63213,1.18,7947,4786,57,14401,
+06/10/2020,05/09/2020,05/09/2020,By week,United States,Week-ending,10003,60278,1.14,7067,4271,44,12834,
+06/10/2020,05/16/2020,05/16/2020,By week,United States,Week-ending,7754,55941,1.06,5811,3236,17,10344,
+06/10/2020,05/23/2020,05/23/2020,By week,United States,Week-ending,5127,48488,0.93,4437,2187,14,7391,
+06/10/2020,05/30/2020,05/30/2020,By week,United States,Week-ending,2445,35744,0.69,2565,972,4,4042,
+06/10/2020,06/06/2020,06/06/2020,By week,United States,Week-ending,402,14037,0.07,774,169,5,1012,
+06/10/2020,02/01/2020,02/01/2020,By week,Alabama,Week-ending,0,1020,0.93,56,0,14,70,
+06/10/2020,02/08/2020,02/08/2020,By week,Alabama,Week-ending,0,1111,1,61,0,10,71,
+06/10/2020,02/15/2020,02/15/2020,By week,Alabama,Week-ending,0,1084,1,76,0,,82,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/22/2020,02/22/2020,By week,Alabama,Week-ending,0,1082,1,68,0,,72,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/29/2020,02/29/2020,By week,Alabama,Week-ending,0,1148,1.11,63,0,14,77,
+06/10/2020,03/07/2020,03/07/2020,By week,Alabama,Week-ending,0,1044,1,58,0,13,71,
+06/10/2020,03/14/2020,03/14/2020,By week,Alabama,Week-ending,0,1069,0.99,60,0,,67,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/21/2020,03/21/2020,By week,Alabama,Week-ending,,1044,1.02,72,,,79,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/28/2020,03/28/2020,By week,Alabama,Week-ending,22,1045,1.02,68,,,91,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/04/2020,04/04/2020,By week,Alabama,Week-ending,49,1127,1.09,65,11,,105,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/11/2020,04/11/2020,By week,Alabama,Week-ending,80,1106,1.08,85,27,,141,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/18/2020,04/18/2020,By week,Alabama,Week-ending,87,1103,1.12,92,25,0,154,
+06/10/2020,04/25/2020,04/25/2020,By week,Alabama,Week-ending,79,1093,1.09,75,18,,137,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/02/2020,05/02/2020,By week,Alabama,Week-ending,74,1074,1.08,81,22,,134,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/09/2020,05/09/2020,By week,Alabama,Week-ending,100,1072,1.06,86,29,0,157,
+06/10/2020,05/16/2020,05/16/2020,By week,Alabama,Week-ending,75,966,0.97,74,24,,126,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/23/2020,05/23/2020,By week,Alabama,Week-ending,49,890,0.91,63,17,0,95,
+06/10/2020,05/30/2020,05/30/2020,By week,Alabama,Week-ending,30,593,0.61,44,,0,65,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,06/06/2020,06/06/2020,By week,Alabama,Week-ending,,202,0.06,,,0,13,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/01/2020,02/01/2020,By week,Alaska,Week-ending,0,84,0.94,0,0,,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/08/2020,02/08/2020,By week,Alaska,Week-ending,0,94,1.26,,0,,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/15/2020,02/15/2020,By week,Alaska,Week-ending,0,88,1.01,0,0,0,0,
+06/10/2020,02/22/2020,02/22/2020,By week,Alaska,Week-ending,0,83,1.02,,0,,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/29/2020,02/29/2020,By week,Alaska,Week-ending,0,81,0.97,,0,,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/07/2020,03/07/2020,By week,Alaska,Week-ending,0,78,0.91,,0,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/14/2020,03/14/2020,By week,Alaska,Week-ending,0,91,1.08,,0,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/21/2020,03/21/2020,By week,Alaska,Week-ending,0,66,0.83,,0,,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/28/2020,03/28/2020,By week,Alaska,Week-ending,,83,0.97,10,,,11,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/04/2020,04/04/2020,By week,Alaska,Week-ending,,96,1.11,,,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/11/2020,04/11/2020,By week,Alaska,Week-ending,,79,0.92,,,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/18/2020,04/18/2020,By week,Alaska,Week-ending,,76,0.97,,0,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/25/2020,04/25/2020,By week,Alaska,Week-ending,0,57,0.72,,0,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/02/2020,05/02/2020,By week,Alaska,Week-ending,0,83,0.94,,0,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/09/2020,05/09/2020,By week,Alaska,Week-ending,,71,0.91,,0,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/16/2020,05/16/2020,By week,Alaska,Week-ending,0,60,0.78,,0,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/23/2020,05/23/2020,By week,Alaska,Week-ending,0,51,0.66,,0,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/30/2020,05/30/2020,By week,Alaska,Week-ending,0,30,0.41,,0,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,06/06/2020,06/06/2020,By week,Alaska,Week-ending,0,,0.01,,0,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/01/2020,02/01/2020,By week,Arizona,Week-ending,0,1263,0.99,74,0,13,87,
+06/10/2020,02/08/2020,02/08/2020,By week,Arizona,Week-ending,0,1260,1.01,79,0,11,90,
+06/10/2020,02/15/2020,02/15/2020,By week,Arizona,Week-ending,0,1309,1.1,92,0,13,105,
+06/10/2020,02/22/2020,02/22/2020,By week,Arizona,Week-ending,0,1336,1.11,80,0,11,91,
+06/10/2020,02/29/2020,02/29/2020,By week,Arizona,Week-ending,0,1349,1.1,80,0,15,95,
+06/10/2020,03/07/2020,03/07/2020,By week,Arizona,Week-ending,0,1376,1.11,75,0,14,89,
+06/10/2020,03/14/2020,03/14/2020,By week,Arizona,Week-ending,0,1345,1.1,82,0,11,93,
+06/10/2020,03/21/2020,03/21/2020,By week,Arizona,Week-ending,,1284,1.07,100,,,109,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/28/2020,03/28/2020,By week,Arizona,Week-ending,29,1317,1.11,115,17,,132,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/04/2020,04/04/2020,By week,Arizona,Week-ending,56,1349,1.1,121,29,,152,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/11/2020,04/11/2020,By week,Arizona,Week-ending,88,1394,1.15,145,50,,187,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/18/2020,04/18/2020,By week,Arizona,Week-ending,92,1305,1.13,113,41,,165,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/25/2020,04/25/2020,By week,Arizona,Week-ending,100,1363,1.17,117,42,,176,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/02/2020,05/02/2020,By week,Arizona,Week-ending,98,1372,1.18,121,45,0,174,
+06/10/2020,05/09/2020,05/09/2020,By week,Arizona,Week-ending,119,1399,1.22,130,65,0,184,
+06/10/2020,05/16/2020,05/16/2020,By week,Arizona,Week-ending,110,1249,1.15,121,64,0,167,
+06/10/2020,05/23/2020,05/23/2020,By week,Arizona,Week-ending,73,1125,1.04,97,38,0,132,
+06/10/2020,05/30/2020,05/30/2020,By week,Arizona,Week-ending,35,789,0.71,60,19,0,76,
+06/10/2020,06/06/2020,06/06/2020,By week,Arizona,Week-ending,,179,0.07,,,0,15,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/01/2020,02/01/2020,By week,Arkansas,Week-ending,0,678,1.04,55,0,,63,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/08/2020,02/08/2020,By week,Arkansas,Week-ending,0,671,1.02,50,0,,59,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/15/2020,02/15/2020,By week,Arkansas,Week-ending,0,687,1.02,38,0,,43,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/22/2020,02/22/2020,By week,Arkansas,Week-ending,0,694,1.02,49,0,12,61,
+06/10/2020,02/29/2020,02/29/2020,By week,Arkansas,Week-ending,0,654,1.02,32,0,,39,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/07/2020,03/07/2020,By week,Arkansas,Week-ending,0,694,1.06,42,0,,51,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/14/2020,03/14/2020,By week,Arkansas,Week-ending,0,626,0.97,37,0,,41,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/21/2020,03/21/2020,By week,Arkansas,Week-ending,0,633,1.01,53,0,11,64,
+06/10/2020,03/28/2020,03/28/2020,By week,Arkansas,Week-ending,,632,1,40,0,,49,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/04/2020,04/04/2020,By week,Arkansas,Week-ending,,604,0.99,50,,0,57,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/11/2020,04/11/2020,By week,Arkansas,Week-ending,12,630,1,58,,,67,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/18/2020,04/18/2020,By week,Arkansas,Week-ending,12,629,1.07,49,,0,56,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/25/2020,04/25/2020,By week,Arkansas,Week-ending,13,603,1.02,44,,0,54,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/02/2020,05/02/2020,By week,Arkansas,Week-ending,19,615,1.02,40,,0,56,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/09/2020,05/09/2020,By week,Arkansas,Week-ending,22,644,1.08,43,,,59,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/16/2020,05/16/2020,By week,Arkansas,Week-ending,,543,0.91,29,,,34,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/23/2020,05/23/2020,By week,Arkansas,Week-ending,14,565,0.95,34,,0,44,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/30/2020,05/30/2020,By week,Arkansas,Week-ending,10,432,0.74,19,,0,22,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,06/06/2020,06/06/2020,By week,Arkansas,Week-ending,,155,0.08,,,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/01/2020,02/01/2020,By week,California,Week-ending,0,5675,0.98,424,0,60,484,
+06/10/2020,02/08/2020,02/08/2020,By week,California,Week-ending,,5898,1.05,445,0,68,514,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/15/2020,02/15/2020,By week,California,Week-ending,0,5574,0.99,424,0,76,500,
+06/10/2020,02/22/2020,02/22/2020,By week,California,Week-ending,,5790,1.03,458,0,72,531,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/29/2020,02/29/2020,By week,California,Week-ending,0,5667,0.99,430,0,71,501,
+06/10/2020,03/07/2020,03/07/2020,By week,California,Week-ending,,5715,1.01,478,0,55,535,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/14/2020,03/14/2020,By week,California,Week-ending,,5444,0.98,421,,54,479,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/21/2020,03/21/2020,By week,California,Week-ending,42,5652,1.05,477,19,43,543,
+06/10/2020,03/28/2020,03/28/2020,By week,California,Week-ending,123,5662,1.06,570,67,27,653,
+06/10/2020,04/04/2020,04/04/2020,By week,California,Week-ending,283,5942,1.12,619,154,24,772,
+06/10/2020,04/11/2020,04/11/2020,By week,California,Week-ending,372,5994,1.17,633,216,,794,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/18/2020,04/18/2020,By week,California,Week-ending,517,6060,1.19,721,316,,929,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/25/2020,04/25/2020,By week,California,Week-ending,464,5811,1.13,632,258,,841,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/02/2020,05/02/2020,By week,California,Week-ending,502,5618,1.11,582,262,0,822,
+06/10/2020,05/09/2020,05/09/2020,By week,California,Week-ending,517,5512,1.11,594,283,,828,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/16/2020,05/16/2020,By week,California,Week-ending,454,5418,1.1,533,247,,741,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/23/2020,05/23/2020,By week,California,Week-ending,350,4769,0.97,454,204,,602,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/30/2020,05/30/2020,By week,California,Week-ending,145,3492,0.71,278,86,0,337,
+06/10/2020,06/06/2020,06/06/2020,By week,California,Week-ending,23,1072,0.07,69,15,0,77,
+06/10/2020,02/01/2020,02/01/2020,By week,Colorado,Week-ending,0,791,0.98,46,0,,52,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/08/2020,02/08/2020,By week,Colorado,Week-ending,0,844,1.04,51,0,11,62,
+06/10/2020,02/15/2020,02/15/2020,By week,Colorado,Week-ending,0,805,0.98,50,0,,57,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/22/2020,02/22/2020,By week,Colorado,Week-ending,0,879,1.09,45,0,,48,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/29/2020,02/29/2020,By week,Colorado,Week-ending,0,842,1.08,57,0,16,73,
+06/10/2020,03/07/2020,03/07/2020,By week,Colorado,Week-ending,0,820,1.01,51,0,10,61,
+06/10/2020,03/14/2020,03/14/2020,By week,Colorado,Week-ending,,817,1.02,37,0,11,50,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/21/2020,03/21/2020,By week,Colorado,Week-ending,16,889,1.11,70,,11,88,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/28/2020,03/28/2020,By week,Colorado,Week-ending,45,854,1.12,88,27,,113,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/04/2020,04/04/2020,By week,Colorado,Week-ending,129,963,1.26,156,85,,205,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/11/2020,04/11/2020,By week,Colorado,Week-ending,212,1093,1.38,189,123,,280,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/18/2020,04/18/2020,By week,Colorado,Week-ending,211,1093,1.42,156,114,0,253,
+06/10/2020,04/25/2020,04/25/2020,By week,Colorado,Week-ending,209,1044,1.42,150,102,,257,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/02/2020,05/02/2020,By week,Colorado,Week-ending,172,973,1.32,128,81,0,219,
+06/10/2020,05/09/2020,05/09/2020,By week,Colorado,Week-ending,132,885,1.19,104,63,0,173,
+06/10/2020,05/16/2020,05/16/2020,By week,Colorado,Week-ending,91,864,1.2,85,43,0,133,
+06/10/2020,05/23/2020,05/23/2020,By week,Colorado,Week-ending,75,780,1.04,51,23,0,103,
+06/10/2020,05/30/2020,05/30/2020,By week,Colorado,Week-ending,33,589,0.82,32,14,0,51,
+06/10/2020,06/06/2020,06/06/2020,By week,Colorado,Week-ending,,244,0.07,,0,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/01/2020,02/01/2020,By week,Connecticut,Week-ending,0,679,1.03,40,0,12,52,
+06/10/2020,02/08/2020,02/08/2020,By week,Connecticut,Week-ending,0,638,0.92,37,0,,43,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/15/2020,02/15/2020,By week,Connecticut,Week-ending,0,624,0.94,34,0,13,47,
+06/10/2020,02/22/2020,02/22/2020,By week,Connecticut,Week-ending,,639,0.96,35,,11,46,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/29/2020,02/29/2020,By week,Connecticut,Week-ending,0,625,0.99,59,0,,67,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/07/2020,03/07/2020,By week,Connecticut,Week-ending,0,578,0.91,37,0,,39,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/14/2020,03/14/2020,By week,Connecticut,Week-ending,0,579,0.92,33,0,,37,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/21/2020,03/21/2020,By week,Connecticut,Week-ending,,596,0.93,42,,,50,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/28/2020,03/28/2020,By week,Connecticut,Week-ending,46,647,1.02,39,14,,73,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/04/2020,04/04/2020,By week,Connecticut,Week-ending,153,382,0.59,48,27,0,174,
+06/10/2020,04/11/2020,04/11/2020,By week,Connecticut,Week-ending,390,405,0.62,106,101,,395,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/18/2020,04/18/2020,By week,Connecticut,Week-ending,575,585,0.99,117,114,0,578,
+06/10/2020,04/25/2020,04/25/2020,By week,Connecticut,Week-ending,559,568,0.91,135,132,0,562,
+06/10/2020,05/02/2020,05/02/2020,By week,Connecticut,Week-ending,317,324,0.56,76,76,0,317,
+06/10/2020,05/09/2020,05/09/2020,By week,Connecticut,Week-ending,91,92,0.16,25,25,0,91,
+06/10/2020,05/16/2020,05/16/2020,By week,Connecticut,Week-ending,37,37,0.07,,,0,37,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/23/2020,05/23/2020,By week,Connecticut,Week-ending,,,0.01,,,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/30/2020,05/30/2020,By week,Connecticut,Week-ending,0,0,0,0,0,0,0,
+06/10/2020,06/06/2020,06/06/2020,By week,Connecticut,Week-ending,0,0,0,0,0,0,0,
+06/10/2020,02/01/2020,02/01/2020,By week,Delaware,Week-ending,0,179,0.97,14,0,0,14,
+06/10/2020,02/08/2020,02/08/2020,By week,Delaware,Week-ending,0,186,1,,0,,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/15/2020,02/15/2020,By week,Delaware,Week-ending,0,201,1.02,,0,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/22/2020,02/22/2020,By week,Delaware,Week-ending,0,190,0.98,13,0,,14,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/29/2020,02/29/2020,By week,Delaware,Week-ending,0,162,0.9,,0,,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/07/2020,03/07/2020,By week,Delaware,Week-ending,0,194,1.05,13,0,,15,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/14/2020,03/14/2020,By week,Delaware,Week-ending,0,184,0.99,,0,,12,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/21/2020,03/21/2020,By week,Delaware,Week-ending,0,215,1.14,16,0,,18,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/28/2020,03/28/2020,By week,Delaware,Week-ending,,182,0.91,13,,,19,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/04/2020,04/04/2020,By week,Delaware,Week-ending,,202,1.18,18,,,23,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/11/2020,04/11/2020,By week,Delaware,Week-ending,22,208,1.16,20,10,0,32,
+06/10/2020,04/18/2020,04/18/2020,By week,Delaware,Week-ending,34,198,1.03,22,14,0,42,
+06/10/2020,04/25/2020,04/25/2020,By week,Delaware,Week-ending,57,238,1.43,35,25,0,67,
+06/10/2020,05/02/2020,05/02/2020,By week,Delaware,Week-ending,68,202,1.28,31,23,0,76,
+06/10/2020,05/09/2020,05/09/2020,By week,Delaware,Week-ending,57,206,1.26,27,23,0,61,
+06/10/2020,05/16/2020,05/16/2020,By week,Delaware,Week-ending,64,193,1.17,22,18,0,68,
+06/10/2020,05/23/2020,05/23/2020,By week,Delaware,Week-ending,26,138,0.81,10,,0,28,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/30/2020,05/30/2020,By week,Delaware,Week-ending,14,90,0.55,,,0,18,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,06/06/2020,06/06/2020,By week,Delaware,Week-ending,,12,0.03,0,0,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/01/2020,02/01/2020,By week,District of Columbia,Week-ending,0,143,1.1,11,0,0,11,
+06/10/2020,02/08/2020,02/08/2020,By week,District of Columbia,Week-ending,0,131,1.02,10,0,0,10,
+06/10/2020,02/15/2020,02/15/2020,By week,District of Columbia,Week-ending,0,121,0.93,12,0,,13,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/22/2020,02/22/2020,By week,District of Columbia,Week-ending,0,103,0.93,,0,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/29/2020,02/29/2020,By week,District of Columbia,Week-ending,0,133,1.09,,0,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/07/2020,03/07/2020,By week,District of Columbia,Week-ending,0,118,0.96,13,0,,14,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/14/2020,03/14/2020,By week,District of Columbia,Week-ending,0,113,0.96,,0,,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/21/2020,03/21/2020,By week,District of Columbia,Week-ending,,127,1.08,,,,10,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/28/2020,03/28/2020,By week,District of Columbia,Week-ending,,126,1.04,19,,,21,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/04/2020,04/04/2020,By week,District of Columbia,Week-ending,25,155,1.33,37,25,0,37,
+06/10/2020,04/11/2020,04/11/2020,By week,District of Columbia,Week-ending,35,183,1.61,47,35,,48,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/18/2020,04/18/2020,By week,District of Columbia,Week-ending,52,190,1.6,62,52,0,62,
+06/10/2020,04/25/2020,04/25/2020,By week,District of Columbia,Week-ending,73,211,1.65,82,73,0,82,
+06/10/2020,05/02/2020,05/02/2020,By week,District of Columbia,Week-ending,59,188,1.56,65,59,0,65,
+06/10/2020,05/09/2020,05/09/2020,By week,District of Columbia,Week-ending,58,155,1.4,65,58,0,65,
+06/10/2020,05/16/2020,05/16/2020,By week,District of Columbia,Week-ending,44,135,1.27,48,44,0,48,
+06/10/2020,05/23/2020,05/23/2020,By week,District of Columbia,Week-ending,21,121,1.11,26,21,,27,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/30/2020,05/30/2020,By week,District of Columbia,Week-ending,,64,0.56,10,,0,10,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,06/06/2020,06/06/2020,By week,District of Columbia,Week-ending,0,15,0.06,0,0,0,0,
+06/10/2020,02/01/2020,02/01/2020,By week,Florida,Week-ending,0,4420,0.99,245,0,35,280,
+06/10/2020,02/08/2020,02/08/2020,By week,Florida,Week-ending,0,4384,1,286,0,34,320,
+06/10/2020,02/15/2020,02/15/2020,By week,Florida,Week-ending,0,4358,1,273,0,26,299,
+06/10/2020,02/22/2020,02/22/2020,By week,Florida,Week-ending,0,4413,1.04,272,0,33,305,
+06/10/2020,02/29/2020,02/29/2020,By week,Florida,Week-ending,0,4397,1.04,266,0,33,299,
+06/10/2020,03/07/2020,03/07/2020,By week,Florida,Week-ending,,4519,1.07,263,,29,293,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/14/2020,03/14/2020,By week,Florida,Week-ending,,4435,1.06,305,,24,330,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/21/2020,03/21/2020,By week,Florida,Week-ending,17,4362,1.03,358,,23,389,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/28/2020,03/28/2020,By week,Florida,Week-ending,92,4461,1.06,365,45,19,430,
+06/10/2020,04/04/2020,04/04/2020,By week,Florida,Week-ending,217,4493,1.08,482,142,16,571,
+06/10/2020,04/11/2020,04/11/2020,By week,Florida,Week-ending,300,4542,1.1,431,156,10,585,
+06/10/2020,04/18/2020,04/18/2020,By week,Florida,Week-ending,306,4409,1.1,439,155,,594,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/25/2020,04/25/2020,By week,Florida,Week-ending,318,4545,1.14,431,162,,591,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/02/2020,05/02/2020,By week,Florida,Week-ending,299,4331,1.09,409,165,,545,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/09/2020,05/09/2020,By week,Florida,Week-ending,284,4378,1.11,379,137,,531,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/16/2020,05/16/2020,By week,Florida,Week-ending,229,4204,1.08,344,110,0,463,
+06/10/2020,05/23/2020,05/23/2020,By week,Florida,Week-ending,176,4036,1.06,295,91,,382,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/30/2020,05/30/2020,By week,Florida,Week-ending,73,3117,0.8,170,37,,207,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,06/06/2020,06/06/2020,By week,Florida,Week-ending,,1384,0.09,73,,0,76,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/01/2020,02/01/2020,By week,Georgia,Week-ending,0,1778,1,87,0,,94,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/08/2020,02/08/2020,By week,Georgia,Week-ending,0,1745,0.99,93,0,11,104,
+06/10/2020,02/15/2020,02/15/2020,By week,Georgia,Week-ending,0,1741,1.02,88,0,16,104,
+06/10/2020,02/22/2020,02/22/2020,By week,Georgia,Week-ending,0,1717,1.05,80,0,21,101,
+06/10/2020,02/29/2020,02/29/2020,By week,Georgia,Week-ending,0,1821,1.12,88,0,,97,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/07/2020,03/07/2020,By week,Georgia,Week-ending,,1723,1.03,84,,,95,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/14/2020,03/14/2020,By week,Georgia,Week-ending,,1740,1.02,103,,,108,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/21/2020,03/21/2020,By week,Georgia,Week-ending,36,1721,1.03,131,17,,157,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/28/2020,03/28/2020,By week,Georgia,Week-ending,90,1806,1.06,151,39,,208,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/04/2020,04/04/2020,By week,Georgia,Week-ending,192,1927,1.19,222,100,,318,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/11/2020,04/11/2020,By week,Georgia,Week-ending,203,1908,1.18,212,89,,330,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/18/2020,04/18/2020,By week,Georgia,Week-ending,232,1887,1.15,191,96,,330,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/25/2020,04/25/2020,By week,Georgia,Week-ending,220,1864,1.13,197,100,,318,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/02/2020,05/02/2020,By week,Georgia,Week-ending,239,1762,1.07,190,118,0,311,
+06/10/2020,05/09/2020,05/09/2020,By week,Georgia,Week-ending,174,1705,1.07,160,78,,258,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/16/2020,05/16/2020,By week,Georgia,Week-ending,141,1546,0.99,125,74,,193,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/23/2020,05/23/2020,By week,Georgia,Week-ending,62,1216,0.79,69,29,0,102,
+06/10/2020,05/30/2020,05/30/2020,By week,Georgia,Week-ending,24,779,0.49,38,11,0,51,
+06/10/2020,06/06/2020,06/06/2020,By week,Georgia,Week-ending,0,223,0.04,11,0,0,11,
+06/10/2020,02/01/2020,02/01/2020,By week,Hawaii,Week-ending,0,242,1.03,19,0,0,19,
+06/10/2020,02/08/2020,02/08/2020,By week,Hawaii,Week-ending,0,234,1.09,19,0,0,19,
+06/10/2020,02/15/2020,02/15/2020,By week,Hawaii,Week-ending,0,278,1.15,22,0,,25,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/22/2020,02/22/2020,By week,Hawaii,Week-ending,0,246,1.06,17,0,,18,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/29/2020,02/29/2020,By week,Hawaii,Week-ending,0,237,1.03,14,0,,17,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/07/2020,03/07/2020,By week,Hawaii,Week-ending,0,239,0.95,19,0,,23,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/14/2020,03/14/2020,By week,Hawaii,Week-ending,0,243,0.98,18,0,,20,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/21/2020,03/21/2020,By week,Hawaii,Week-ending,0,211,0.94,16,0,,18,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/28/2020,03/28/2020,By week,Hawaii,Week-ending,0,232,0.96,15,0,,17,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/04/2020,04/04/2020,By week,Hawaii,Week-ending,,233,1,14,,,20,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/11/2020,04/11/2020,By week,Hawaii,Week-ending,,221,0.99,17,,,19,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/18/2020,04/18/2020,By week,Hawaii,Week-ending,,209,1,,0,0,10,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/25/2020,04/25/2020,By week,Hawaii,Week-ending,,198,0.91,,,0,11,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/02/2020,05/02/2020,By week,Hawaii,Week-ending,,219,1.01,18,,0,19,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/09/2020,05/09/2020,By week,Hawaii,Week-ending,0,206,0.92,11,0,0,11,
+06/10/2020,05/16/2020,05/16/2020,By week,Hawaii,Week-ending,0,224,0.99,12,0,0,12,
+06/10/2020,05/23/2020,05/23/2020,By week,Hawaii,Week-ending,0,199,0.9,10,0,,11,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/30/2020,05/30/2020,By week,Hawaii,Week-ending,0,153,0.74,,0,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,06/06/2020,06/06/2020,By week,Hawaii,Week-ending,0,43,0.1,,0,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/01/2020,02/01/2020,By week,Idaho,Week-ending,0,249,0.88,11,0,,12,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/08/2020,02/08/2020,By week,Idaho,Week-ending,0,293,1.04,18,0,,20,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/15/2020,02/15/2020,By week,Idaho,Week-ending,0,279,0.89,11,0,,12,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/22/2020,02/22/2020,By week,Idaho,Week-ending,0,318,1.1,17,0,,21,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/29/2020,02/29/2020,By week,Idaho,Week-ending,0,289,0.99,17,0,,20,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/07/2020,03/07/2020,By week,Idaho,Week-ending,0,278,0.96,17,0,,20,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/14/2020,03/14/2020,By week,Idaho,Week-ending,0,284,1.04,18,0,,21,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/21/2020,03/21/2020,By week,Idaho,Week-ending,0,308,1.03,22,0,,26,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/28/2020,03/28/2020,By week,Idaho,Week-ending,,332,1.27,14,,,20,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/04/2020,04/04/2020,By week,Idaho,Week-ending,,271,0.94,15,,,22,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/11/2020,04/11/2020,By week,Idaho,Week-ending,22,305,1.07,17,,0,34,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/18/2020,04/18/2020,By week,Idaho,Week-ending,12,282,1.01,13,,0,20,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/25/2020,04/25/2020,By week,Idaho,Week-ending,12,261,1,15,,0,24,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/02/2020,05/02/2020,By week,Idaho,Week-ending,,251,0.96,13,,0,15,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/09/2020,05/09/2020,By week,Idaho,Week-ending,,302,1.16,,,,13,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/16/2020,05/16/2020,By week,Idaho,Week-ending,,268,0.99,11,,0,15,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/23/2020,05/23/2020,By week,Idaho,Week-ending,,251,0.94,10,,0,15,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/30/2020,05/30/2020,By week,Idaho,Week-ending,,211,0.78,,0,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,06/06/2020,06/06/2020,By week,Idaho,Week-ending,0,76,0.07,,0,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/01/2020,02/01/2020,By week,Illinois,Week-ending,0,2137,0.97,155,0,16,171,
+06/10/2020,02/08/2020,02/08/2020,By week,Illinois,Week-ending,0,2230,0.99,157,0,10,167,
+06/10/2020,02/15/2020,02/15/2020,By week,Illinois,Week-ending,0,2218,1.01,143,0,11,154,
+06/10/2020,02/22/2020,02/22/2020,By week,Illinois,Week-ending,0,2204,1,143,0,14,157,
+06/10/2020,02/29/2020,02/29/2020,By week,Illinois,Week-ending,0,2208,1.04,139,0,19,158,
+06/10/2020,03/07/2020,03/07/2020,By week,Illinois,Week-ending,0,2247,1.06,170,0,27,197,
+06/10/2020,03/14/2020,03/14/2020,By week,Illinois,Week-ending,,2189,1.03,166,,20,186,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/21/2020,03/21/2020,By week,Illinois,Week-ending,14,2278,1.06,166,,22,197,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/28/2020,03/28/2020,By week,Illinois,Week-ending,69,2289,1.1,232,42,16,274,
+06/10/2020,04/04/2020,04/04/2020,By week,Illinois,Week-ending,291,2611,1.24,364,174,,487,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/11/2020,04/11/2020,By week,Illinois,Week-ending,466,2854,1.38,422,252,,641,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/18/2020,04/18/2020,By week,Illinois,Week-ending,574,2888,1.44,495,317,,757,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/25/2020,04/25/2020,By week,Illinois,Week-ending,637,2954,1.47,433,305,,766,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/02/2020,05/02/2020,By week,Illinois,Week-ending,687,2861,1.41,497,347,0,837,
+06/10/2020,05/09/2020,05/09/2020,By week,Illinois,Week-ending,734,2869,1.48,497,370,0,861,
+06/10/2020,05/16/2020,05/16/2020,By week,Illinois,Week-ending,618,2704,1.37,393,280,,733,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/23/2020,05/23/2020,By week,Illinois,Week-ending,443,2303,1.17,351,240,0,554,
+06/10/2020,05/30/2020,05/30/2020,By week,Illinois,Week-ending,141,1744,0.89,124,62,0,203,
+06/10/2020,06/06/2020,06/06/2020,By week,Illinois,Week-ending,16,613,0.09,33,,0,41,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/01/2020,02/01/2020,By week,Indiana,Week-ending,0,1367,0.99,95,0,,102,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/08/2020,02/08/2020,By week,Indiana,Week-ending,0,1357,0.95,106,0,10,116,
+06/10/2020,02/15/2020,02/15/2020,By week,Indiana,Week-ending,0,1415,1.05,92,0,,101,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/22/2020,02/22/2020,By week,Indiana,Week-ending,0,1397,1.02,105,0,13,118,
+06/10/2020,02/29/2020,02/29/2020,By week,Indiana,Week-ending,0,1437,1.09,105,0,17,122,
+06/10/2020,03/07/2020,03/07/2020,By week,Indiana,Week-ending,0,1353,1.01,94,0,14,108,
+06/10/2020,03/14/2020,03/14/2020,By week,Indiana,Week-ending,,1386,1.03,113,0,15,129,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/21/2020,03/21/2020,By week,Indiana,Week-ending,15,1306,0.98,94,,13,114,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/28/2020,03/28/2020,By week,Indiana,Week-ending,50,1461,1.1,131,24,14,170,
+06/10/2020,04/04/2020,04/04/2020,By week,Indiana,Week-ending,152,1556,1.18,217,90,,284,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/11/2020,04/11/2020,By week,Indiana,Week-ending,226,1595,1.23,237,117,,349,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/18/2020,04/18/2020,By week,Indiana,Week-ending,265,1473,1.17,214,122,0,357,
+06/10/2020,04/25/2020,04/25/2020,By week,Indiana,Week-ending,289,1542,1.24,221,121,,390,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/02/2020,05/02/2020,By week,Indiana,Week-ending,268,1438,1.16,213,109,,376,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/09/2020,05/09/2020,By week,Indiana,Week-ending,243,1446,1.15,166,91,,318,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/16/2020,05/16/2020,By week,Indiana,Week-ending,226,1372,1.14,134,71,,290,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/23/2020,05/23/2020,By week,Indiana,Week-ending,119,1125,0.92,98,38,0,179,
+06/10/2020,05/30/2020,05/30/2020,By week,Indiana,Week-ending,19,699,0.6,39,,0,50,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,06/06/2020,06/06/2020,By week,Indiana,Week-ending,,222,0.06,11,,0,13,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/01/2020,02/01/2020,By week,Iowa,Week-ending,0,613,0.97,54,0,,56,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/08/2020,02/08/2020,By week,Iowa,Week-ending,0,636,1.02,42,0,,45,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/15/2020,02/15/2020,By week,Iowa,Week-ending,0,597,0.92,37,0,,43,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/22/2020,02/22/2020,By week,Iowa,Week-ending,0,641,1,42,0,,48,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/29/2020,02/29/2020,By week,Iowa,Week-ending,0,642,1.05,36,0,,44,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/07/2020,03/07/2020,By week,Iowa,Week-ending,0,622,1.04,42,0,13,55,
+06/10/2020,03/14/2020,03/14/2020,By week,Iowa,Week-ending,0,631,1.03,51,0,17,68,
+06/10/2020,03/21/2020,03/21/2020,By week,Iowa,Week-ending,0,590,0.95,35,0,16,51,
+06/10/2020,03/28/2020,03/28/2020,By week,Iowa,Week-ending,,590,1.01,51,0,,61,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/04/2020,04/04/2020,By week,Iowa,Week-ending,16,602,1.03,56,,,70,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/11/2020,04/11/2020,By week,Iowa,Week-ending,21,588,0.99,40,,,56,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/18/2020,04/18/2020,By week,Iowa,Week-ending,36,623,1.07,44,,,74,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/25/2020,04/25/2020,By week,Iowa,Week-ending,49,569,0.98,40,11,0,78,
+06/10/2020,05/02/2020,05/02/2020,By week,Iowa,Week-ending,60,640,1.08,41,13,,89,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/09/2020,05/09/2020,By week,Iowa,Week-ending,81,660,1.19,56,23,0,114,
+06/10/2020,05/16/2020,05/16/2020,By week,Iowa,Week-ending,92,623,1.15,57,30,0,119,
+06/10/2020,05/23/2020,05/23/2020,By week,Iowa,Week-ending,79,510,0.91,46,26,0,99,
+06/10/2020,05/30/2020,05/30/2020,By week,Iowa,Week-ending,37,361,0.68,27,12,0,52,
+06/10/2020,06/06/2020,06/06/2020,By week,Iowa,Week-ending,,131,0.06,,,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/01/2020,02/01/2020,By week,Kansas,Week-ending,0,546,0.98,36,0,,43,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/08/2020,02/08/2020,By week,Kansas,Week-ending,0,503,0.91,26,0,,35,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/15/2020,02/15/2020,By week,Kansas,Week-ending,0,573,1,38,0,,44,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/22/2020,02/22/2020,By week,Kansas,Week-ending,0,558,0.98,36,0,10,46,
+06/10/2020,02/29/2020,02/29/2020,By week,Kansas,Week-ending,0,541,0.99,32,0,14,46,
+06/10/2020,03/07/2020,03/07/2020,By week,Kansas,Week-ending,0,574,1.02,42,0,14,56,
+06/10/2020,03/14/2020,03/14/2020,By week,Kansas,Week-ending,,521,0.94,47,0,,55,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/21/2020,03/21/2020,By week,Kansas,Week-ending,,513,0.96,27,0,15,43,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/28/2020,03/28/2020,By week,Kansas,Week-ending,,517,0.99,42,,,47,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/04/2020,04/04/2020,By week,Kansas,Week-ending,21,545,1.08,43,,0,55,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/11/2020,04/11/2020,By week,Kansas,Week-ending,33,519,1.02,56,13,,77,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/18/2020,04/18/2020,By week,Kansas,Week-ending,37,538,1.1,43,19,,62,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/25/2020,04/25/2020,By week,Kansas,Week-ending,13,527,1.09,37,,,43,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/02/2020,05/02/2020,By week,Kansas,Week-ending,22,513,1.05,32,11,0,43,
+06/10/2020,05/09/2020,05/09/2020,By week,Kansas,Week-ending,30,486,0.99,38,13,0,55,
+06/10/2020,05/16/2020,05/16/2020,By week,Kansas,Week-ending,23,510,1.09,32,,0,50,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/23/2020,05/23/2020,By week,Kansas,Week-ending,,463,0.97,21,,0,25,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/30/2020,05/30/2020,By week,Kansas,Week-ending,,379,0.8,11,,,17,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,06/06/2020,06/06/2020,By week,Kansas,Week-ending,,179,0.1,12,,0,13,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/01/2020,02/01/2020,By week,Kentucky,Week-ending,0,972,0.98,92,0,,100,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/08/2020,02/08/2020,By week,Kentucky,Week-ending,0,950,0.94,92,0,10,102,
+06/10/2020,02/15/2020,02/15/2020,By week,Kentucky,Week-ending,0,950,0.98,77,0,,86,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/22/2020,02/22/2020,By week,Kentucky,Week-ending,0,982,0.98,81,0,,86,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/29/2020,02/29/2020,By week,Kentucky,Week-ending,0,1006,1.01,86,0,10,96,
+06/10/2020,03/07/2020,03/07/2020,By week,Kentucky,Week-ending,0,984,0.98,78,0,,83,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/14/2020,03/14/2020,By week,Kentucky,Week-ending,0,997,1.04,85,0,14,99,
+06/10/2020,03/21/2020,03/21/2020,By week,Kentucky,Week-ending,,924,0.96,78,,13,94,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/28/2020,03/28/2020,By week,Kentucky,Week-ending,,912,0.95,73,,,83,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/04/2020,04/04/2020,By week,Kentucky,Week-ending,47,1012,1.08,112,32,,132,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/11/2020,04/11/2020,By week,Kentucky,Week-ending,53,981,1.03,110,34,,134,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/18/2020,04/18/2020,By week,Kentucky,Week-ending,53,912,0.97,90,25,0,118,
+06/10/2020,04/25/2020,04/25/2020,By week,Kentucky,Week-ending,62,898,0.96,105,32,,136,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/02/2020,05/02/2020,By week,Kentucky,Week-ending,41,886,0.99,79,14,,107,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/09/2020,05/09/2020,By week,Kentucky,Week-ending,51,838,0.93,80,21,0,110,
+06/10/2020,05/16/2020,05/16/2020,By week,Kentucky,Week-ending,36,729,0.81,65,15,0,86,
+06/10/2020,05/23/2020,05/23/2020,By week,Kentucky,Week-ending,26,591,0.67,54,16,0,64,
+06/10/2020,05/30/2020,05/30/2020,By week,Kentucky,Week-ending,,364,0.43,29,,0,32,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,06/06/2020,06/06/2020,By week,Kentucky,Week-ending,0,69,0.03,,0,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/01/2020,02/01/2020,By week,Louisiana,Week-ending,0,967,1,42,0,,46,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/08/2020,02/08/2020,By week,Louisiana,Week-ending,0,943,0.97,35,0,,41,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/15/2020,02/15/2020,By week,Louisiana,Week-ending,0,934,1.01,43,0,,50,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/22/2020,02/22/2020,By week,Louisiana,Week-ending,0,934,1,39,0,,48,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/29/2020,02/29/2020,By week,Louisiana,Week-ending,0,980,1.11,46,0,11,57,
+06/10/2020,03/07/2020,03/07/2020,By week,Louisiana,Week-ending,,942,1.07,49,,,57,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/14/2020,03/14/2020,By week,Louisiana,Week-ending,0,961,1.05,43,0,,49,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/21/2020,03/21/2020,By week,Louisiana,Week-ending,37,914,1,69,20,,90,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/28/2020,03/28/2020,By week,Louisiana,Week-ending,174,1188,1.32,112,57,,233,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/04/2020,04/04/2020,By week,Louisiana,Week-ending,361,1317,1.45,214,150,,426,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/11/2020,04/11/2020,By week,Louisiana,Week-ending,423,1446,1.71,229,177,,476,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/18/2020,04/18/2020,By week,Louisiana,Week-ending,338,1244,1.47,207,155,,393,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/25/2020,04/25/2020,By week,Louisiana,Week-ending,261,1070,1.18,165,126,,300,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/02/2020,05/02/2020,By week,Louisiana,Week-ending,223,1007,1.19,153,106,,271,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/09/2020,05/09/2020,By week,Louisiana,Week-ending,201,945,1.07,144,113,,234,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/16/2020,05/16/2020,By week,Louisiana,Week-ending,115,835,0.98,95,61,0,149,
+06/10/2020,05/23/2020,05/23/2020,By week,Louisiana,Week-ending,55,602,0.72,39,28,0,66,
+06/10/2020,05/30/2020,05/30/2020,By week,Louisiana,Week-ending,16,395,0.46,21,10,0,27,
+06/10/2020,06/06/2020,06/06/2020,By week,Louisiana,Week-ending,,103,0.04,,,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/01/2020,02/01/2020,By week,Maine,Week-ending,0,288,1.04,19,0,,22,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/08/2020,02/08/2020,By week,Maine,Week-ending,0,316,1.07,29,0,,35,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/15/2020,02/15/2020,By week,Maine,Week-ending,0,329,1.14,23,0,,25,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/22/2020,02/22/2020,By week,Maine,Week-ending,0,299,0.99,18,0,,19,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/29/2020,02/29/2020,By week,Maine,Week-ending,0,292,1.04,25,0,,28,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/07/2020,03/07/2020,By week,Maine,Week-ending,0,313,1.03,30,0,,32,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/14/2020,03/14/2020,By week,Maine,Week-ending,0,301,0.98,29,0,,35,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/21/2020,03/21/2020,By week,Maine,Week-ending,0,277,0.95,16,0,,18,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/28/2020,03/28/2020,By week,Maine,Week-ending,,279,0.9,31,,,33,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/04/2020,04/04/2020,By week,Maine,Week-ending,,300,1,35,,,41,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/11/2020,04/11/2020,By week,Maine,Week-ending,12,304,1,31,,0,39,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/18/2020,04/18/2020,By week,Maine,Week-ending,11,310,1.12,23,0,,35,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/25/2020,04/25/2020,By week,Maine,Week-ending,18,284,0.96,16,,,32,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/02/2020,05/02/2020,By week,Maine,Week-ending,,274,1.02,13,,0,19,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/09/2020,05/09/2020,By week,Maine,Week-ending,,291,1.09,22,,0,28,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/16/2020,05/16/2020,By week,Maine,Week-ending,10,256,0.98,,,0,17,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/23/2020,05/23/2020,By week,Maine,Week-ending,,262,0.98,15,,0,20,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/30/2020,05/30/2020,By week,Maine,Week-ending,10,288,1.11,18,,0,26,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,06/06/2020,06/06/2020,By week,Maine,Week-ending,,150,0.12,,0,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/01/2020,02/01/2020,By week,Maryland,Week-ending,0,1034,0.99,68,0,,76,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/08/2020,02/08/2020,By week,Maryland,Week-ending,0,1003,0.95,62,0,,71,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/15/2020,02/15/2020,By week,Maryland,Week-ending,0,1018,0.99,71,0,12,83,
+06/10/2020,02/22/2020,02/22/2020,By week,Maryland,Week-ending,0,970,0.94,62,0,,69,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/29/2020,02/29/2020,By week,Maryland,Week-ending,0,1073,1.05,75,0,11,86,
+06/10/2020,03/07/2020,03/07/2020,By week,Maryland,Week-ending,0,1043,1.04,80,0,11,91,
+06/10/2020,03/14/2020,03/14/2020,By week,Maryland,Week-ending,0,1005,1.01,65,0,13,78,
+06/10/2020,03/21/2020,03/21/2020,By week,Maryland,Week-ending,,1056,1.06,81,,,91,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/28/2020,03/28/2020,By week,Maryland,Week-ending,18,1091,1.08,101,10,10,119,
+06/10/2020,04/04/2020,04/04/2020,By week,Maryland,Week-ending,90,1186,1.2,154,43,,207,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/11/2020,04/11/2020,By week,Maryland,Week-ending,213,1344,1.34,180,90,10,309,
+06/10/2020,04/18/2020,04/18/2020,By week,Maryland,Week-ending,291,1342,1.41,205,117,,380,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/25/2020,04/25/2020,By week,Maryland,Week-ending,367,1492,1.59,190,112,,447,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/02/2020,05/02/2020,By week,Maryland,Week-ending,393,1477,1.55,211,137,,468,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/09/2020,05/09/2020,By week,Maryland,Week-ending,407,1398,1.54,208,156,,461,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/16/2020,05/16/2020,By week,Maryland,Week-ending,376,1359,1.5,180,130,0,426,
+06/10/2020,05/23/2020,05/23/2020,By week,Maryland,Week-ending,247,1174,1.29,156,94,,310,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/30/2020,05/30/2020,By week,Maryland,Week-ending,155,908,1.04,87,42,0,200,
+06/10/2020,06/06/2020,06/06/2020,By week,Maryland,Week-ending,15,444,0.11,27,,0,36,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/01/2020,02/01/2020,By week,Massachusetts,Week-ending,0,1200,0.94,104,0,14,118,
+06/10/2020,02/08/2020,02/08/2020,By week,Massachusetts,Week-ending,0,1231,0.97,92,0,13,105,
+06/10/2020,02/15/2020,02/15/2020,By week,Massachusetts,Week-ending,0,1248,0.95,93,0,15,108,
+06/10/2020,02/22/2020,02/22/2020,By week,Massachusetts,Week-ending,,1165,0.94,88,0,17,106,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/29/2020,02/29/2020,By week,Massachusetts,Week-ending,0,1277,1.02,100,0,21,121,
+06/10/2020,03/07/2020,03/07/2020,By week,Massachusetts,Week-ending,,1213,0.99,86,0,17,104,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/14/2020,03/14/2020,By week,Massachusetts,Week-ending,0,1308,1.13,94,0,15,109,
+06/10/2020,03/21/2020,03/21/2020,By week,Massachusetts,Week-ending,,1167,1.02,107,,11,121,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/28/2020,03/28/2020,By week,Massachusetts,Week-ending,47,1283,1.06,133,19,11,170,
+06/10/2020,04/04/2020,04/04/2020,By week,Massachusetts,Week-ending,226,1536,1.28,252,120,11,368,
+06/10/2020,04/11/2020,04/11/2020,By week,Massachusetts,Week-ending,630,2023,1.71,371,237,,766,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/18/2020,04/18/2020,By week,Massachusetts,Week-ending,1081,2458,2.14,486,353,,1218,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/25/2020,04/25/2020,By week,Massachusetts,Week-ending,1138,2423,2.18,532,415,,1256,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/02/2020,05/02/2020,By week,Massachusetts,Week-ending,981,2163,1.9,452,359,,1075,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/09/2020,05/09/2020,By week,Massachusetts,Week-ending,909,2023,1.87,424,348,,988,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/16/2020,05/16/2020,By week,Massachusetts,Week-ending,758,1823,1.67,305,233,0,830,
+06/10/2020,05/23/2020,05/23/2020,By week,Massachusetts,Week-ending,472,1452,1.36,220,158,0,534,
+06/10/2020,05/30/2020,05/30/2020,By week,Massachusetts,Week-ending,238,1031,0.93,127,89,0,276,
+06/10/2020,06/06/2020,06/06/2020,By week,Massachusetts,Week-ending,19,314,0.08,22,,,36,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/01/2020,02/01/2020,By week,Michigan,Week-ending,0,1999,1.02,116,0,12,128,
+06/10/2020,02/08/2020,02/08/2020,By week,Michigan,Week-ending,0,1933,0.95,132,0,,140,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/15/2020,02/15/2020,By week,Michigan,Week-ending,0,2008,1.02,110,0,19,129,
+06/10/2020,02/22/2020,02/22/2020,By week,Michigan,Week-ending,0,2053,1.05,131,0,28,159,
+06/10/2020,02/29/2020,02/29/2020,By week,Michigan,Week-ending,0,1962,0.99,101,0,26,127,
+06/10/2020,03/07/2020,03/07/2020,By week,Michigan,Week-ending,0,1971,0.99,112,0,26,138,
+06/10/2020,03/14/2020,03/14/2020,By week,Michigan,Week-ending,,1934,0.98,133,,25,158,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/21/2020,03/21/2020,By week,Michigan,Week-ending,20,2001,1.03,130,,30,173,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/28/2020,03/28/2020,By week,Michigan,Week-ending,220,2379,1.23,277,114,23,406,
+06/10/2020,04/04/2020,04/04/2020,By week,Michigan,Week-ending,643,3031,1.55,568,349,18,878,
+06/10/2020,04/11/2020,04/11/2020,By week,Michigan,Week-ending,932,3279,1.7,663,472,,1131,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/18/2020,04/18/2020,By week,Michigan,Week-ending,893,3011,1.63,608,469,,1036,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/25/2020,04/25/2020,By week,Michigan,Week-ending,664,2626,1.4,463,335,,794,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/02/2020,05/02/2020,By week,Michigan,Week-ending,487,2407,1.32,333,231,,591,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/09/2020,05/09/2020,By week,Michigan,Week-ending,367,1965,1.08,260,160,,470,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/16/2020,05/16/2020,By week,Michigan,Week-ending,225,1793,1,184,111,0,298,
+06/10/2020,05/23/2020,05/23/2020,By week,Michigan,Week-ending,137,1633,0.92,137,65,0,209,
+06/10/2020,05/30/2020,05/30/2020,By week,Michigan,Week-ending,30,1151,0.64,47,12,0,65,
+06/10/2020,06/06/2020,06/06/2020,By week,Michigan,Week-ending,,321,0.07,,,0,12,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/01/2020,02/01/2020,By week,Minnesota,Week-ending,0,941,1.02,76,0,,82,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/08/2020,02/08/2020,By week,Minnesota,Week-ending,0,918,0.99,60,0,,69,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/15/2020,02/15/2020,By week,Minnesota,Week-ending,0,938,1.02,51,0,,58,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/22/2020,02/22/2020,By week,Minnesota,Week-ending,0,911,1.01,63,0,13,76,
+06/10/2020,02/29/2020,02/29/2020,By week,Minnesota,Week-ending,0,930,1.07,67,0,17,84,
+06/10/2020,03/07/2020,03/07/2020,By week,Minnesota,Week-ending,0,942,1.07,69,0,17,86,
+06/10/2020,03/14/2020,03/14/2020,By week,Minnesota,Week-ending,0,878,1.04,50,0,16,66,
+06/10/2020,03/21/2020,03/21/2020,By week,Minnesota,Week-ending,,891,1.02,67,,15,82,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/28/2020,03/28/2020,By week,Minnesota,Week-ending,11,900,1.06,61,,,73,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/04/2020,04/04/2020,By week,Minnesota,Week-ending,22,916,1.06,60,,,81,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/11/2020,04/11/2020,By week,Minnesota,Week-ending,43,932,1.04,91,18,,118,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/18/2020,04/18/2020,By week,Minnesota,Week-ending,75,935,1.1,88,22,,141,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/25/2020,04/25/2020,By week,Minnesota,Week-ending,135,991,1.2,94,41,0,188,
+06/10/2020,05/02/2020,05/02/2020,By week,Minnesota,Week-ending,143,1012,1.2,94,40,,198,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/09/2020,05/09/2020,By week,Minnesota,Week-ending,157,1001,1.18,81,42,,198,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/16/2020,05/16/2020,By week,Minnesota,Week-ending,136,944,1.12,93,51,0,178,
+06/10/2020,05/23/2020,05/23/2020,By week,Minnesota,Week-ending,153,894,1.09,74,40,,188,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/30/2020,05/30/2020,By week,Minnesota,Week-ending,112,781,0.96,70,25,0,157,
+06/10/2020,06/06/2020,06/06/2020,By week,Minnesota,Week-ending,10,419,0.11,18,,,29,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/01/2020,02/01/2020,By week,Mississippi,Week-ending,0,601,0.92,51,0,,53,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/08/2020,02/08/2020,By week,Mississippi,Week-ending,0,702,1.02,56,0,,62,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/15/2020,02/15/2020,By week,Mississippi,Week-ending,0,643,0.98,50,0,,54,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/22/2020,02/22/2020,By week,Mississippi,Week-ending,0,623,0.96,43,0,,48,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/29/2020,02/29/2020,By week,Mississippi,Week-ending,0,662,1.08,56,0,10,66,
+06/10/2020,03/07/2020,03/07/2020,By week,Mississippi,Week-ending,0,654,1.05,58,0,,64,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/14/2020,03/14/2020,By week,Mississippi,Week-ending,0,615,0.97,49,0,,56,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/21/2020,03/21/2020,By week,Mississippi,Week-ending,,615,0.98,51,0,,57,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/28/2020,03/28/2020,By week,Mississippi,Week-ending,15,686,1.17,62,,,74,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/04/2020,04/04/2020,By week,Mississippi,Week-ending,53,699,1.12,84,24,,114,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/11/2020,04/11/2020,By week,Mississippi,Week-ending,63,684,1.14,85,34,,115,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/18/2020,04/18/2020,By week,Mississippi,Week-ending,62,721,1.22,89,30,0,121,
+06/10/2020,04/25/2020,04/25/2020,By week,Mississippi,Week-ending,59,726,1.23,77,26,0,110,
+06/10/2020,05/02/2020,05/02/2020,By week,Mississippi,Week-ending,91,723,1.23,82,41,0,132,
+06/10/2020,05/09/2020,05/09/2020,By week,Mississippi,Week-ending,78,710,1.19,70,26,0,122,
+06/10/2020,05/16/2020,05/16/2020,By week,Mississippi,Week-ending,97,717,1.23,99,47,0,149,
+06/10/2020,05/23/2020,05/23/2020,By week,Mississippi,Week-ending,64,585,1.01,70,30,0,104,
+06/10/2020,05/30/2020,05/30/2020,By week,Mississippi,Week-ending,36,471,0.78,44,19,0,61,
+06/10/2020,06/06/2020,06/06/2020,By week,Mississippi,Week-ending,,203,0.09,,,0,11,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/01/2020,02/01/2020,By week,Missouri,Week-ending,0,1354,1,86,0,12,98,
+06/10/2020,02/08/2020,02/08/2020,By week,Missouri,Week-ending,0,1319,0.97,71,0,,75,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/15/2020,02/15/2020,By week,Missouri,Week-ending,0,1338,0.95,66,0,13,79,
+06/10/2020,02/22/2020,02/22/2020,By week,Missouri,Week-ending,0,1343,1,61,0,30,91,
+06/10/2020,02/29/2020,02/29/2020,By week,Missouri,Week-ending,0,1351,1.04,89,0,24,113,
+06/10/2020,03/07/2020,03/07/2020,By week,Missouri,Week-ending,0,1363,1.04,86,0,23,109,
+06/10/2020,03/14/2020,03/14/2020,By week,Missouri,Week-ending,0,1281,0.98,77,0,22,99,
+06/10/2020,03/21/2020,03/21/2020,By week,Missouri,Week-ending,,1241,0.93,64,,22,86,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/28/2020,03/28/2020,By week,Missouri,Week-ending,16,1303,1.02,104,,14,125,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/04/2020,04/04/2020,By week,Missouri,Week-ending,52,1263,1.04,107,23,,142,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/11/2020,04/11/2020,By week,Missouri,Week-ending,86,1414,1.17,103,24,,166,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/18/2020,04/18/2020,By week,Missouri,Week-ending,78,1293,1.06,92,21,,152,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/25/2020,04/25/2020,By week,Missouri,Week-ending,103,1344,1.1,112,42,0,173,
+06/10/2020,05/02/2020,05/02/2020,By week,Missouri,Week-ending,100,1265,1.02,91,35,0,156,
+06/10/2020,05/09/2020,05/09/2020,By week,Missouri,Week-ending,105,1224,1.04,88,35,0,158,
+06/10/2020,05/16/2020,05/16/2020,By week,Missouri,Week-ending,69,1134,0.96,69,21,,118,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/23/2020,05/23/2020,By week,Missouri,Week-ending,44,939,0.79,60,16,0,88,
+06/10/2020,05/30/2020,05/30/2020,By week,Missouri,Week-ending,20,678,0.58,40,,0,54,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,06/06/2020,06/06/2020,By week,Missouri,Week-ending,0,283,0.07,11,0,0,11,
+06/10/2020,02/01/2020,02/01/2020,By week,Montana,Week-ending,0,218,1.05,10,0,,11,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/08/2020,02/08/2020,By week,Montana,Week-ending,0,202,0.94,,0,,12,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/15/2020,02/15/2020,By week,Montana,Week-ending,0,198,0.9,,0,,11,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/22/2020,02/22/2020,By week,Montana,Week-ending,0,218,0.97,15,0,,17,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/29/2020,02/29/2020,By week,Montana,Week-ending,0,235,1.14,,0,,11,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/07/2020,03/07/2020,By week,Montana,Week-ending,0,221,0.97,12,0,,18,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/14/2020,03/14/2020,By week,Montana,Week-ending,0,218,1.06,11,0,,17,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/21/2020,03/21/2020,By week,Montana,Week-ending,0,227,1.1,21,0,,26,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/28/2020,03/28/2020,By week,Montana,Week-ending,,206,1.13,21,,,26,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/04/2020,04/04/2020,By week,Montana,Week-ending,,176,0.86,13,0,,17,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/11/2020,04/11/2020,By week,Montana,Week-ending,0,214,1.09,10,0,0,10,
+06/10/2020,04/18/2020,04/18/2020,By week,Montana,Week-ending,,190,0.93,11,,,15,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/25/2020,04/25/2020,By week,Montana,Week-ending,,185,0.96,,0,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/02/2020,05/02/2020,By week,Montana,Week-ending,,202,1.09,10,,,12,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/09/2020,05/09/2020,By week,Montana,Week-ending,0,173,0.91,,0,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/16/2020,05/16/2020,By week,Montana,Week-ending,0,196,1.05,10,0,0,10,
+06/10/2020,05/23/2020,05/23/2020,By week,Montana,Week-ending,0,150,0.82,,0,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/30/2020,05/30/2020,By week,Montana,Week-ending,0,107,0.61,,0,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,06/06/2020,06/06/2020,By week,Montana,Week-ending,0,28,0.08,,0,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/01/2020,02/01/2020,By week,Nebraska,Week-ending,0,373,1.07,29,0,,35,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/08/2020,02/08/2020,By week,Nebraska,Week-ending,0,345,0.94,21,0,,27,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/15/2020,02/15/2020,By week,Nebraska,Week-ending,0,326,0.95,28,0,,31,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/22/2020,02/22/2020,By week,Nebraska,Week-ending,0,318,0.88,29,0,,31,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/29/2020,02/29/2020,By week,Nebraska,Week-ending,0,340,0.99,22,0,,24,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/07/2020,03/07/2020,By week,Nebraska,Week-ending,0,355,1.02,29,0,,31,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/14/2020,03/14/2020,By week,Nebraska,Week-ending,0,342,0.97,24,0,,25,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/21/2020,03/21/2020,By week,Nebraska,Week-ending,0,350,1.11,31,0,,33,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/28/2020,03/28/2020,By week,Nebraska,Week-ending,,330,0.94,22,0,,26,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/04/2020,04/04/2020,By week,Nebraska,Week-ending,,308,0.9,29,,,34,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/11/2020,04/11/2020,By week,Nebraska,Week-ending,10,339,1.04,22,,0,30,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/18/2020,04/18/2020,By week,Nebraska,Week-ending,16,347,1.09,33,,,46,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/25/2020,04/25/2020,By week,Nebraska,Week-ending,25,344,1.1,31,,,49,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/02/2020,05/02/2020,By week,Nebraska,Week-ending,19,337,1.05,28,,0,40,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/09/2020,05/09/2020,By week,Nebraska,Week-ending,20,321,1.02,26,,0,38,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/16/2020,05/16/2020,By week,Nebraska,Week-ending,26,317,1,22,10,0,38,
+06/10/2020,05/23/2020,05/23/2020,By week,Nebraska,Week-ending,24,278,0.92,24,,0,39,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/30/2020,05/30/2020,By week,Nebraska,Week-ending,,200,0.64,15,,0,17,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,06/06/2020,06/06/2020,By week,Nebraska,Week-ending,0,22,0.04,0,0,0,0,
+06/10/2020,02/01/2020,02/01/2020,By week,Nevada,Week-ending,0,530,1,32,0,,38,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/08/2020,02/08/2020,By week,Nevada,Week-ending,0,578,1.07,45,0,,51,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/15/2020,02/15/2020,By week,Nevada,Week-ending,0,527,1.05,29,0,,34,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/22/2020,02/22/2020,By week,Nevada,Week-ending,0,543,1.06,26,0,,27,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/29/2020,02/29/2020,By week,Nevada,Week-ending,0,542,0.99,39,0,,43,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/07/2020,03/07/2020,By week,Nevada,Week-ending,0,533,1.03,32,0,,36,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/14/2020,03/14/2020,By week,Nevada,Week-ending,0,513,0.96,46,0,,52,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/21/2020,03/21/2020,By week,Nevada,Week-ending,,504,0.99,47,,,51,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/28/2020,03/28/2020,By week,Nevada,Week-ending,18,533,1.08,56,15,,61,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/04/2020,04/04/2020,By week,Nevada,Week-ending,41,583,1.14,74,31,,85,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/11/2020,04/11/2020,By week,Nevada,Week-ending,54,578,1.14,89,42,0,101,
+06/10/2020,04/18/2020,04/18/2020,By week,Nevada,Week-ending,42,539,1.07,51,32,,62,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/25/2020,04/25/2020,By week,Nevada,Week-ending,58,545,1.06,79,47,0,90,
+06/10/2020,05/02/2020,05/02/2020,By week,Nevada,Week-ending,45,521,1.06,62,31,0,76,
+06/10/2020,05/09/2020,05/09/2020,By week,Nevada,Week-ending,48,503,1.05,53,30,0,71,
+06/10/2020,05/16/2020,05/16/2020,By week,Nevada,Week-ending,29,470,1,37,20,0,46,
+06/10/2020,05/23/2020,05/23/2020,By week,Nevada,Week-ending,26,436,0.91,33,16,0,43,
+06/10/2020,05/30/2020,05/30/2020,By week,Nevada,Week-ending,10,322,0.67,27,,0,29,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,06/06/2020,06/06/2020,By week,Nevada,Week-ending,,86,0.05,,,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/01/2020,02/01/2020,By week,New Hampshire,Week-ending,0,240,0.89,12,0,,15,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/08/2020,02/08/2020,By week,New Hampshire,Week-ending,0,257,1.01,12,0,,17,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/15/2020,02/15/2020,By week,New Hampshire,Week-ending,0,236,0.87,10,0,,12,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/22/2020,02/22/2020,By week,New Hampshire,Week-ending,0,277,1.05,25,0,,27,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/29/2020,02/29/2020,By week,New Hampshire,Week-ending,0,227,0.94,14,0,,21,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/07/2020,03/07/2020,By week,New Hampshire,Week-ending,0,267,1.05,16,0,,20,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/14/2020,03/14/2020,By week,New Hampshire,Week-ending,0,239,1.01,19,0,,21,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/21/2020,03/21/2020,By week,New Hampshire,Week-ending,0,252,1.09,20,0,,23,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/28/2020,03/28/2020,By week,New Hampshire,Week-ending,,258,1.09,24,,0,26,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/04/2020,04/04/2020,By week,New Hampshire,Week-ending,10,246,0.97,13,,,21,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/11/2020,04/11/2020,By week,New Hampshire,Week-ending,17,270,1.25,25,,0,37,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/18/2020,04/18/2020,By week,New Hampshire,Week-ending,16,242,1.01,16,,0,27,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/25/2020,04/25/2020,By week,New Hampshire,Week-ending,18,270,1.09,30,,0,42,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/02/2020,05/02/2020,By week,New Hampshire,Week-ending,32,260,1.1,19,,,43,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/09/2020,05/09/2020,By week,New Hampshire,Week-ending,40,289,1.21,23,,0,55,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/16/2020,05/16/2020,By week,New Hampshire,Week-ending,39,285,1.27,37,19,0,57,
+06/10/2020,05/23/2020,05/23/2020,By week,New Hampshire,Week-ending,34,266,1.25,18,12,0,40,
+06/10/2020,05/30/2020,05/30/2020,By week,New Hampshire,Week-ending,32,229,1.01,13,,0,38,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,06/06/2020,06/06/2020,By week,New Hampshire,Week-ending,,146,0.12,,,0,12,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/01/2020,02/01/2020,By week,New Jersey,Week-ending,,1515,0.95,85,0,10,96,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/08/2020,02/08/2020,By week,New Jersey,Week-ending,0,1490,0.92,82,0,11,93,
+06/10/2020,02/15/2020,02/15/2020,By week,New Jersey,Week-ending,0,1482,0.93,77,0,,84,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/22/2020,02/22/2020,By week,New Jersey,Week-ending,0,1489,0.97,80,0,,88,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/29/2020,02/29/2020,By week,New Jersey,Week-ending,0,1570,1.04,90,0,12,102,
+06/10/2020,03/07/2020,03/07/2020,By week,New Jersey,Week-ending,0,1503,0.99,87,0,11,98,
+06/10/2020,03/14/2020,03/14/2020,By week,New Jersey,Week-ending,,1471,1.01,87,0,,97,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/21/2020,03/21/2020,By week,New Jersey,Week-ending,36,1589,1.07,120,22,,142,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/28/2020,03/28/2020,By week,New Jersey,Week-ending,284,2110,1.44,331,151,12,476,
+06/10/2020,04/04/2020,04/04/2020,By week,New Jersey,Week-ending,1214,3452,2.36,868,621,10,1468,
+06/10/2020,04/11/2020,04/11/2020,By week,New Jersey,Week-ending,2287,4680,3.29,1385,1148,10,2527,
+06/10/2020,04/18/2020,04/18/2020,By week,New Jersey,Week-ending,2385,4614,3.25,1298,1107,,2579,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/25/2020,04/25/2020,By week,New Jersey,Week-ending,1831,3755,2.75,1098,914,,2017,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/02/2020,05/02/2020,By week,New Jersey,Week-ending,1295,2908,2.08,787,659,0,1423,
+06/10/2020,05/09/2020,05/09/2020,By week,New Jersey,Week-ending,1078,2531,1.87,606,515,0,1169,
+06/10/2020,05/16/2020,05/16/2020,By week,New Jersey,Week-ending,778,2192,1.63,452,374,0,856,
+06/10/2020,05/23/2020,05/23/2020,By week,New Jersey,Week-ending,490,1808,1.33,300,234,0,556,
+06/10/2020,05/30/2020,05/30/2020,By week,New Jersey,Week-ending,264,1400,1.04,212,127,0,349,
+06/10/2020,06/06/2020,06/06/2020,By week,New Jersey,Week-ending,48,652,0.09,48,23,0,73,
+06/10/2020,02/01/2020,02/01/2020,By week,New Mexico,Week-ending,0,363,0.97,27,0,,32,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/08/2020,02/08/2020,By week,New Mexico,Week-ending,0,364,0.91,19,0,,23,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/15/2020,02/15/2020,By week,New Mexico,Week-ending,0,377,1.01,33,0,,38,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/22/2020,02/22/2020,By week,New Mexico,Week-ending,0,379,0.98,23,0,,25,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/29/2020,02/29/2020,By week,New Mexico,Week-ending,0,390,1.01,24,0,,25,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/07/2020,03/07/2020,By week,New Mexico,Week-ending,0,384,1.05,24,0,,28,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/14/2020,03/14/2020,By week,New Mexico,Week-ending,0,331,0.87,21,0,,22,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/21/2020,03/21/2020,By week,New Mexico,Week-ending,0,376,1.01,27,0,,31,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/28/2020,03/28/2020,By week,New Mexico,Week-ending,,352,1,22,,,24,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/04/2020,04/04/2020,By week,New Mexico,Week-ending,,380,1.06,32,,0,36,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/11/2020,04/11/2020,By week,New Mexico,Week-ending,21,386,1.02,36,10,0,47,
+06/10/2020,04/18/2020,04/18/2020,By week,New Mexico,Week-ending,32,400,1.15,43,18,0,57,
+06/10/2020,04/25/2020,04/25/2020,By week,New Mexico,Week-ending,36,360,1.01,34,14,0,56,
+06/10/2020,05/02/2020,05/02/2020,By week,New Mexico,Week-ending,60,366,1.03,36,28,0,68,
+06/10/2020,05/09/2020,05/09/2020,By week,New Mexico,Week-ending,51,377,1.04,34,16,0,69,
+06/10/2020,05/16/2020,05/16/2020,By week,New Mexico,Week-ending,46,385,1.13,29,10,0,65,
+06/10/2020,05/23/2020,05/23/2020,By week,New Mexico,Week-ending,22,286,0.89,21,,0,34,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/30/2020,05/30/2020,By week,New Mexico,Week-ending,12,197,0.59,12,,0,20,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,06/06/2020,06/06/2020,By week,New Mexico,Week-ending,0,62,0.07,,0,,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/01/2020,02/01/2020,By week,New York,Week-ending,0,2021,0.98,145,0,16,161,
+06/10/2020,02/08/2020,02/08/2020,By week,New York,Week-ending,0,2050,0.97,150,0,22,172,
+06/10/2020,02/15/2020,02/15/2020,By week,New York,Week-ending,0,1980,0.96,160,0,14,174,
+06/10/2020,02/22/2020,02/22/2020,By week,New York,Week-ending,0,2018,0.97,156,0,27,183,
+06/10/2020,02/29/2020,02/29/2020,By week,New York,Week-ending,0,2146,1.06,160,0,17,177,
+06/10/2020,03/07/2020,03/07/2020,By week,New York,Week-ending,0,2040,0.98,164,0,23,187,
+06/10/2020,03/14/2020,03/14/2020,By week,New York,Week-ending,,1946,0.98,170,,19,189,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/21/2020,03/21/2020,By week,New York,Week-ending,41,2072,1.03,208,20,15,244,
+06/10/2020,03/28/2020,03/28/2020,By week,New York,Week-ending,265,2472,1.25,407,161,15,524,
+06/10/2020,04/04/2020,04/04/2020,By week,New York,Week-ending,995,3610,1.87,875,556,13,1323,
+06/10/2020,04/11/2020,04/11/2020,By week,New York,Week-ending,1941,4573,2.32,1300,1021,11,2227,
+06/10/2020,04/18/2020,04/18/2020,By week,New York,Week-ending,1920,4345,2.25,1203,965,,2161,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/25/2020,04/25/2020,By week,New York,Week-ending,1405,3521,1.85,873,668,,1611,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/02/2020,05/02/2020,By week,New York,Week-ending,943,2905,1.52,589,428,,1105,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/09/2020,05/09/2020,By week,New York,Week-ending,851,2720,1.51,506,388,,970,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/16/2020,05/16/2020,By week,New York,Week-ending,640,2432,1.33,412,282,0,770,
+06/10/2020,05/23/2020,05/23/2020,By week,New York,Week-ending,411,2132,1.15,305,181,0,535,
+06/10/2020,05/30/2020,05/30/2020,By week,New York,Week-ending,212,1686,0.96,175,83,0,304,
+06/10/2020,06/06/2020,06/06/2020,By week,New York,Week-ending,59,1068,0.09,96,33,0,122,
+06/10/2020,02/01/2020,02/01/2020,By week,New York City,Week-ending,0,1168,1.02,95,0,19,114,
+06/10/2020,02/08/2020,02/08/2020,By week,New York City,Week-ending,0,1170,0.98,95,0,18,113,
+06/10/2020,02/15/2020,02/15/2020,By week,New York City,Week-ending,0,1130,0.99,86,0,14,100,
+06/10/2020,02/22/2020,02/22/2020,By week,New York City,Week-ending,0,1092,1.01,75,0,,84,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/29/2020,02/29/2020,By week,New York City,Week-ending,0,1109,1.02,83,0,,89,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/07/2020,03/07/2020,By week,New York City,Week-ending,0,1112,1.01,92,0,,100,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/14/2020,03/14/2020,By week,New York City,Week-ending,,1134,1.04,104,,,113,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/21/2020,03/21/2020,By week,New York City,Week-ending,122,1400,1.34,155,39,14,248,
+06/10/2020,03/28/2020,03/28/2020,By week,New York City,Week-ending,958,2774,2.7,599,360,47,1205,
+06/10/2020,04/04/2020,04/04/2020,By week,New York City,Week-ending,3078,6059,5.88,1709,1293,211,3503,
+06/10/2020,04/11/2020,04/11/2020,By week,New York City,Week-ending,4699,7705,7.23,2084,1792,326,5001,
+06/10/2020,04/18/2020,04/18/2020,By week,New York City,Week-ending,3706,5692,5.6,1478,1341,172,3846,
+06/10/2020,04/25/2020,04/25/2020,By week,New York City,Week-ending,2384,3807,3.86,1058,959,78,2484,
+06/10/2020,05/02/2020,05/02/2020,By week,New York City,Week-ending,1358,2468,2.45,638,554,,1444,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/09/2020,05/09/2020,By week,New York City,Week-ending,1008,2022,2.06,467,397,,1079,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/16/2020,05/16/2020,By week,New York City,Week-ending,602,1570,1.53,301,236,0,667,
+06/10/2020,05/23/2020,05/23/2020,By week,New York City,Week-ending,394,1267,1.25,191,137,,449,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/30/2020,05/30/2020,By week,New York City,Week-ending,240,1054,1.11,136,86,0,290,
+06/10/2020,06/06/2020,06/06/2020,By week,New York City,Week-ending,82,720,0.12,63,32,0,113,
+06/10/2020,02/01/2020,02/01/2020,By week,North Carolina,Week-ending,0,1981,1.02,122,0,16,138,
+06/10/2020,02/08/2020,02/08/2020,By week,North Carolina,Week-ending,0,2055,1.01,119,0,20,139,
+06/10/2020,02/15/2020,02/15/2020,By week,North Carolina,Week-ending,0,2060,1.03,140,0,27,167,
+06/10/2020,02/22/2020,02/22/2020,By week,North Carolina,Week-ending,0,1922,0.97,119,0,28,147,
+06/10/2020,02/29/2020,02/29/2020,By week,North Carolina,Week-ending,0,1960,1.02,113,0,32,145,
+06/10/2020,03/07/2020,03/07/2020,By week,North Carolina,Week-ending,,2021,1.03,108,0,24,133,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/14/2020,03/14/2020,By week,North Carolina,Week-ending,0,1997,1.04,108,0,14,122,
+06/10/2020,03/21/2020,03/21/2020,By week,North Carolina,Week-ending,,2001,1.06,117,,24,141,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/28/2020,03/28/2020,By week,North Carolina,Week-ending,11,1758,0.93,133,,14,149,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/04/2020,04/04/2020,By week,North Carolina,Week-ending,42,1820,0.98,149,15,,185,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/11/2020,04/11/2020,By week,North Carolina,Week-ending,50,1669,0.9,133,20,,166,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/18/2020,04/18/2020,By week,North Carolina,Week-ending,132,1386,0.78,128,48,,215,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/25/2020,04/25/2020,By week,North Carolina,Week-ending,107,883,0.5,91,38,0,160,
+06/10/2020,05/02/2020,05/02/2020,By week,North Carolina,Week-ending,91,261,0.14,38,29,0,100,
+06/10/2020,05/09/2020,05/09/2020,By week,North Carolina,Week-ending,61,61,0.03,24,24,0,61,
+06/10/2020,05/16/2020,05/16/2020,By week,North Carolina,Week-ending,11,11,0.01,,,0,11,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/23/2020,05/23/2020,By week,North Carolina,Week-ending,0,0,0,0,0,0,0,
+06/10/2020,05/30/2020,05/30/2020,By week,North Carolina,Week-ending,0,0,0,0,0,0,0,
+06/10/2020,06/06/2020,06/06/2020,By week,North Carolina,Week-ending,0,0,0,0,0,0,0,
+06/10/2020,02/01/2020,02/01/2020,By week,North Dakota,Week-ending,0,130,0.97,10,0,,11,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/08/2020,02/08/2020,By week,North Dakota,Week-ending,0,137,1.01,,0,,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/15/2020,02/15/2020,By week,North Dakota,Week-ending,0,145,0.99,,0,,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/22/2020,02/22/2020,By week,North Dakota,Week-ending,0,174,1.17,11,0,0,11,
+06/10/2020,02/29/2020,02/29/2020,By week,North Dakota,Week-ending,0,149,1.06,13,0,,15,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/07/2020,03/07/2020,By week,North Dakota,Week-ending,0,163,1.19,17,0,,21,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/14/2020,03/14/2020,By week,North Dakota,Week-ending,0,140,1.08,15,0,,18,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/21/2020,03/21/2020,By week,North Dakota,Week-ending,0,119,0.86,20,0,,21,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/28/2020,03/28/2020,By week,North Dakota,Week-ending,,88,0.63,,0,,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/04/2020,04/04/2020,By week,North Dakota,Week-ending,,81,0.5,,0,,13,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/11/2020,04/11/2020,By week,North Dakota,Week-ending,,94,0.68,,,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/18/2020,04/18/2020,By week,North Dakota,Week-ending,,103,0.72,15,,0,19,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/25/2020,04/25/2020,By week,North Dakota,Week-ending,,103,0.79,14,,,16,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/02/2020,05/02/2020,By week,North Dakota,Week-ending,,95,0.68,,,0,11,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/09/2020,05/09/2020,By week,North Dakota,Week-ending,,80,0.58,,,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/16/2020,05/16/2020,By week,North Dakota,Week-ending,,97,0.73,,,0,12,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/23/2020,05/23/2020,By week,North Dakota,Week-ending,0,65,0.49,,0,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/30/2020,05/30/2020,By week,North Dakota,Week-ending,,46,0.33,,0,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,06/06/2020,06/06/2020,By week,North Dakota,Week-ending,,36,0.05,,,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/01/2020,02/01/2020,By week,Ohio,Week-ending,0,2485,0.97,124,0,26,150,
+06/10/2020,02/08/2020,02/08/2020,By week,Ohio,Week-ending,0,2526,0.99,128,0,18,146,
+06/10/2020,02/15/2020,02/15/2020,By week,Ohio,Week-ending,0,2469,0.99,137,0,24,161,
+06/10/2020,02/22/2020,02/22/2020,By week,Ohio,Week-ending,0,2507,0.99,118,0,19,137,
+06/10/2020,02/29/2020,02/29/2020,By week,Ohio,Week-ending,0,2428,0.97,120,0,29,149,
+06/10/2020,03/07/2020,03/07/2020,By week,Ohio,Week-ending,0,2412,0.95,136,0,21,157,
+06/10/2020,03/14/2020,03/14/2020,By week,Ohio,Week-ending,,2347,0.95,129,,38,167,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/21/2020,03/21/2020,By week,Ohio,Week-ending,,2152,0.86,138,,23,166,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/28/2020,03/28/2020,By week,Ohio,Week-ending,36,2250,0.92,164,13,21,208,
+06/10/2020,04/04/2020,04/04/2020,By week,Ohio,Week-ending,114,2436,0.96,188,52,,259,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/11/2020,04/11/2020,By week,Ohio,Week-ending,167,2571,1.06,245,76,,343,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/18/2020,04/18/2020,By week,Ohio,Week-ending,236,2541,1.07,250,116,,374,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/25/2020,04/25/2020,By week,Ohio,Week-ending,241,2678,1.17,226,105,,367,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/02/2020,05/02/2020,By week,Ohio,Week-ending,284,2610,1.12,215,109,,392,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/09/2020,05/09/2020,By week,Ohio,Week-ending,242,2436,1.05,162,75,,332,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/16/2020,05/16/2020,By week,Ohio,Week-ending,147,2236,1,159,68,,239,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/23/2020,05/23/2020,By week,Ohio,Week-ending,98,1699,0.76,95,47,0,146,
+06/10/2020,05/30/2020,05/30/2020,By week,Ohio,Week-ending,28,923,0.41,39,15,0,52,
+06/10/2020,06/06/2020,06/06/2020,By week,Ohio,Week-ending,,325,0.04,15,,0,16,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/01/2020,02/01/2020,By week,Oklahoma,Week-ending,0,722,0.83,66,0,,73,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/08/2020,02/08/2020,By week,Oklahoma,Week-ending,0,800,0.93,56,0,,63,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/15/2020,02/15/2020,By week,Oklahoma,Week-ending,0,779,0.88,75,0,,82,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/22/2020,02/22/2020,By week,Oklahoma,Week-ending,0,745,0.9,67,0,,71,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/29/2020,02/29/2020,By week,Oklahoma,Week-ending,0,784,0.96,69,0,14,83,
+06/10/2020,03/07/2020,03/07/2020,By week,Oklahoma,Week-ending,,788,0.94,66,0,18,85,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/14/2020,03/14/2020,By week,Oklahoma,Week-ending,0,780,0.95,72,0,18,90,
+06/10/2020,03/21/2020,03/21/2020,By week,Oklahoma,Week-ending,,814,1.01,79,,,87,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/28/2020,03/28/2020,By week,Oklahoma,Week-ending,18,841,1.13,80,,11,104,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/04/2020,04/04/2020,By week,Oklahoma,Week-ending,41,758,1.01,92,20,,117,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/11/2020,04/11/2020,By week,Oklahoma,Week-ending,50,823,1.1,97,25,,123,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/18/2020,04/18/2020,By week,Oklahoma,Week-ending,43,770,1.04,77,15,,107,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/25/2020,04/25/2020,By week,Oklahoma,Week-ending,41,711,0.96,60,,,95,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/02/2020,05/02/2020,By week,Oklahoma,Week-ending,37,666,0.88,62,19,,81,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/09/2020,05/09/2020,By week,Oklahoma,Week-ending,28,730,1.02,59,13,0,74,
+06/10/2020,05/16/2020,05/16/2020,By week,Oklahoma,Week-ending,12,609,0.79,51,,,61,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/23/2020,05/23/2020,By week,Oklahoma,Week-ending,13,572,0.8,40,,0,47,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/30/2020,05/30/2020,By week,Oklahoma,Week-ending,,371,0.53,17,,0,19,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,06/06/2020,06/06/2020,By week,Oklahoma,Week-ending,0,153,0.07,,0,,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/01/2020,02/01/2020,By week,Oregon,Week-ending,0,726,0.99,34,0,,40,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/08/2020,02/08/2020,By week,Oregon,Week-ending,0,727,0.98,34,0,,39,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/15/2020,02/15/2020,By week,Oregon,Week-ending,0,780,1.09,41,0,,43,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/22/2020,02/22/2020,By week,Oregon,Week-ending,0,730,1,34,0,,39,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/29/2020,02/29/2020,By week,Oregon,Week-ending,0,732,0.99,32,0,,37,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/07/2020,03/07/2020,By week,Oregon,Week-ending,0,784,1.05,35,0,10,45,
+06/10/2020,03/14/2020,03/14/2020,By week,Oregon,Week-ending,,742,0.97,40,0,12,54,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/21/2020,03/21/2020,By week,Oregon,Week-ending,,766,1.06,52,,,56,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/28/2020,03/28/2020,By week,Oregon,Week-ending,14,767,1.05,45,,,60,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/04/2020,04/04/2020,By week,Oregon,Week-ending,24,777,1.07,55,,,72,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/11/2020,04/11/2020,By week,Oregon,Week-ending,25,763,1.08,54,11,,70,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/18/2020,04/18/2020,By week,Oregon,Week-ending,24,750,1.04,42,10,0,56,
+06/10/2020,04/25/2020,04/25/2020,By week,Oregon,Week-ending,27,752,1.08,41,,,60,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/02/2020,05/02/2020,By week,Oregon,Week-ending,14,683,1,31,,0,41,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/09/2020,05/09/2020,By week,Oregon,Week-ending,17,628,0.91,26,,0,37,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/16/2020,05/16/2020,By week,Oregon,Week-ending,11,580,0.83,24,,0,31,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/23/2020,05/23/2020,By week,Oregon,Week-ending,,484,0.71,15,,0,19,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/30/2020,05/30/2020,By week,Oregon,Week-ending,,301,0.44,,0,0,12,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,06/06/2020,06/06/2020,By week,Oregon,Week-ending,,99,0.03,,0,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/01/2020,02/01/2020,By week,Pennsylvania,Week-ending,0,2070,0.72,119,0,12,131,
+06/10/2020,02/08/2020,02/08/2020,By week,Pennsylvania,Week-ending,0,1965,0.68,92,0,13,105,
+06/10/2020,02/15/2020,02/15/2020,By week,Pennsylvania,Week-ending,0,1940,0.67,118,0,14,132,
+06/10/2020,02/22/2020,02/22/2020,By week,Pennsylvania,Week-ending,0,1923,0.68,101,0,16,117,
+06/10/2020,02/29/2020,02/29/2020,By week,Pennsylvania,Week-ending,0,1983,0.71,99,0,14,113,
+06/10/2020,03/07/2020,03/07/2020,By week,Pennsylvania,Week-ending,0,1953,0.7,108,0,29,137,
+06/10/2020,03/14/2020,03/14/2020,By week,Pennsylvania,Week-ending,0,2088,0.75,122,0,24,146,
+06/10/2020,03/21/2020,03/21/2020,By week,Pennsylvania,Week-ending,,2222,0.81,165,,23,191,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/28/2020,03/28/2020,By week,Pennsylvania,Week-ending,50,2586,0.95,192,26,20,236,
+06/10/2020,04/04/2020,04/04/2020,By week,Pennsylvania,Week-ending,202,2877,1.07,266,83,10,395,
+06/10/2020,04/11/2020,04/11/2020,By week,Pennsylvania,Week-ending,615,3336,1.24,450,258,,809,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/18/2020,04/18/2020,By week,Pennsylvania,Week-ending,873,3597,1.36,487,326,,1036,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/25/2020,04/25/2020,By week,Pennsylvania,Week-ending,1012,3645,1.42,532,394,,1152,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/02/2020,05/02/2020,By week,Pennsylvania,Week-ending,831,3356,1.33,412,276,0,967,
+06/10/2020,05/09/2020,05/09/2020,By week,Pennsylvania,Week-ending,817,3283,1.34,434,310,,942,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/16/2020,05/16/2020,By week,Pennsylvania,Week-ending,669,3101,1.23,332,235,,767,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/23/2020,05/23/2020,By week,Pennsylvania,Week-ending,454,2699,1.08,277,164,,568,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/30/2020,05/30/2020,By week,Pennsylvania,Week-ending,178,2096,0.85,136,69,0,245,
+06/10/2020,06/06/2020,06/06/2020,By week,Pennsylvania,Week-ending,32,936,0.09,45,,0,68,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/01/2020,02/01/2020,By week,Rhode Island,Week-ending,0,220,1.01,,0,,10,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/08/2020,02/08/2020,By week,Rhode Island,Week-ending,0,242,1.03,,0,,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/15/2020,02/15/2020,By week,Rhode Island,Week-ending,0,181,0.81,11,0,,15,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/22/2020,02/22/2020,By week,Rhode Island,Week-ending,0,205,1.02,,0,,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/29/2020,02/29/2020,By week,Rhode Island,Week-ending,0,236,1.11,13,0,,14,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/07/2020,03/07/2020,By week,Rhode Island,Week-ending,0,253,1.16,19,0,,21,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/14/2020,03/14/2020,By week,Rhode Island,Week-ending,0,195,0.96,10,0,,13,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/21/2020,03/21/2020,By week,Rhode Island,Week-ending,0,219,1.05,18,0,,21,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/28/2020,03/28/2020,By week,Rhode Island,Week-ending,,194,1,12,,0,14,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/04/2020,04/04/2020,By week,Rhode Island,Week-ending,21,232,1.07,17,,,35,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/11/2020,04/11/2020,By week,Rhode Island,Week-ending,46,234,1.2,27,14,,60,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/18/2020,04/18/2020,By week,Rhode Island,Week-ending,87,264,1.28,44,36,0,95,
+06/10/2020,04/25/2020,04/25/2020,By week,Rhode Island,Week-ending,96,277,1.38,47,37,0,106,
+06/10/2020,05/02/2020,05/02/2020,By week,Rhode Island,Week-ending,107,300,1.35,57,42,,123,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/09/2020,05/09/2020,By week,Rhode Island,Week-ending,97,304,1.58,42,34,0,105,
+06/10/2020,05/16/2020,05/16/2020,By week,Rhode Island,Week-ending,61,190,0.92,39,31,0,69,
+06/10/2020,05/23/2020,05/23/2020,By week,Rhode Island,Week-ending,29,91,0.48,18,13,0,34,
+06/10/2020,05/30/2020,05/30/2020,By week,Rhode Island,Week-ending,,19,0.11,,,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,06/06/2020,06/06/2020,By week,Rhode Island,Week-ending,0,,0.01,0,0,0,0,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/01/2020,02/01/2020,By week,South Carolina,Week-ending,0,1030,0.98,59,0,11,70,
+06/10/2020,02/08/2020,02/08/2020,By week,South Carolina,Week-ending,0,1095,1.07,60,0,17,77,
+06/10/2020,02/15/2020,02/15/2020,By week,South Carolina,Week-ending,0,1003,0.99,69,0,16,85,
+06/10/2020,02/22/2020,02/22/2020,By week,South Carolina,Week-ending,0,1034,1.05,48,0,,56,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/29/2020,02/29/2020,By week,South Carolina,Week-ending,0,1041,1.1,58,0,,66,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/07/2020,03/07/2020,By week,South Carolina,Week-ending,0,1132,1.15,65,0,,73,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/14/2020,03/14/2020,By week,South Carolina,Week-ending,0,1103,1.13,53,0,,62,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/21/2020,03/21/2020,By week,South Carolina,Week-ending,,1066,1.07,57,,10,67,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/28/2020,03/28/2020,By week,South Carolina,Week-ending,19,1036,1.08,78,,,96,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/04/2020,04/04/2020,By week,South Carolina,Week-ending,36,1047,1.08,82,18,,101,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/11/2020,04/11/2020,By week,South Carolina,Week-ending,56,1130,1.19,79,19,,118,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/18/2020,04/18/2020,By week,South Carolina,Week-ending,48,1043,1.14,72,15,,106,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/25/2020,04/25/2020,By week,South Carolina,Week-ending,54,1001,1.09,71,19,0,106,
+06/10/2020,05/02/2020,05/02/2020,By week,South Carolina,Week-ending,61,1016,1.11,82,20,,123,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/09/2020,05/09/2020,By week,South Carolina,Week-ending,68,1044,1.16,95,36,0,127,
+06/10/2020,05/16/2020,05/16/2020,By week,South Carolina,Week-ending,65,1077,1.14,68,28,0,105,
+06/10/2020,05/23/2020,05/23/2020,By week,South Carolina,Week-ending,49,979,1.07,53,19,,84,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/30/2020,05/30/2020,By week,South Carolina,Week-ending,36,759,0.83,40,14,0,62,
+06/10/2020,06/06/2020,06/06/2020,By week,South Carolina,Week-ending,,256,0.07,16,0,0,17,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/01/2020,02/01/2020,By week,South Dakota,Week-ending,0,162,0.94,10,0,0,10,
+06/10/2020,02/08/2020,02/08/2020,By week,South Dakota,Week-ending,0,149,0.89,15,0,,18,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/15/2020,02/15/2020,By week,South Dakota,Week-ending,0,177,1.07,11,0,,14,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/22/2020,02/22/2020,By week,South Dakota,Week-ending,0,176,1.06,11,0,,13,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/29/2020,02/29/2020,By week,South Dakota,Week-ending,0,161,0.94,,0,,13,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/07/2020,03/07/2020,By week,South Dakota,Week-ending,0,194,1.12,20,0,,23,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/14/2020,03/14/2020,By week,South Dakota,Week-ending,,166,0.99,11,0,,15,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/21/2020,03/21/2020,By week,South Dakota,Week-ending,0,161,1.03,12,0,0,12,
+06/10/2020,03/28/2020,03/28/2020,By week,South Dakota,Week-ending,,146,0.93,15,0,0,16,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/04/2020,04/04/2020,By week,South Dakota,Week-ending,,169,1.06,18,,,21,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/11/2020,04/11/2020,By week,South Dakota,Week-ending,,148,0.92,12,0,,14,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/18/2020,04/18/2020,By week,South Dakota,Week-ending,,151,0.95,,0,,11,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/25/2020,04/25/2020,By week,South Dakota,Week-ending,,171,1.18,12,,,16,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/02/2020,05/02/2020,By week,South Dakota,Week-ending,16,154,0.94,14,,,25,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/09/2020,05/09/2020,By week,South Dakota,Week-ending,15,158,1.02,17,,0,26,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/16/2020,05/16/2020,By week,South Dakota,Week-ending,,127,0.91,,,,14,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/23/2020,05/23/2020,By week,South Dakota,Week-ending,,128,0.83,14,,0,19,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/30/2020,05/30/2020,By week,South Dakota,Week-ending,,88,0.59,,,0,12,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,06/06/2020,06/06/2020,By week,South Dakota,Week-ending,0,19,0.08,,0,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/01/2020,02/01/2020,By week,Tennessee,Week-ending,0,1587,1.04,126,0,13,139,
+06/10/2020,02/08/2020,02/08/2020,By week,Tennessee,Week-ending,0,1608,1.01,124,0,14,138,
+06/10/2020,02/15/2020,02/15/2020,By week,Tennessee,Week-ending,0,1447,0.94,116,0,15,131,
+06/10/2020,02/22/2020,02/22/2020,By week,Tennessee,Week-ending,0,1507,1.01,97,0,10,107,
+06/10/2020,02/29/2020,02/29/2020,By week,Tennessee,Week-ending,0,1495,1.01,113,0,16,129,
+06/10/2020,03/07/2020,03/07/2020,By week,Tennessee,Week-ending,0,1600,1.1,120,0,13,133,
+06/10/2020,03/14/2020,03/14/2020,By week,Tennessee,Week-ending,0,1585,1.07,108,0,12,120,
+06/10/2020,03/21/2020,03/21/2020,By week,Tennessee,Week-ending,,1517,1.04,112,,,121,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/28/2020,03/28/2020,By week,Tennessee,Week-ending,,1504,1.03,121,,,133,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/04/2020,04/04/2020,By week,Tennessee,Week-ending,52,1563,1.06,135,21,,175,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/11/2020,04/11/2020,By week,Tennessee,Week-ending,53,1490,1.03,140,31,,165,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/18/2020,04/18/2020,By week,Tennessee,Week-ending,39,1520,1.08,113,16,0,136,
+06/10/2020,04/25/2020,04/25/2020,By week,Tennessee,Week-ending,28,1445,0.99,103,,0,123,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/02/2020,05/02/2020,By week,Tennessee,Week-ending,31,1450,1.04,100,13,,119,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/09/2020,05/09/2020,By week,Tennessee,Week-ending,41,1413,1.02,91,11,0,121,
+06/10/2020,05/16/2020,05/16/2020,By week,Tennessee,Week-ending,38,1416,1.03,94,17,,116,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/23/2020,05/23/2020,By week,Tennessee,Week-ending,17,1300,0.94,80,,0,91,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/30/2020,05/30/2020,By week,Tennessee,Week-ending,10,908,0.66,51,,0,59,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,06/06/2020,06/06/2020,By week,Tennessee,Week-ending,0,389,0.07,25,0,0,25,
+06/10/2020,02/01/2020,02/01/2020,By week,Texas,Week-ending,0,4161,0.97,276,0,30,306,
+06/10/2020,02/08/2020,02/08/2020,By week,Texas,Week-ending,0,4315,1.01,283,0,37,320,
+06/10/2020,02/15/2020,02/15/2020,By week,Texas,Week-ending,0,4331,1.02,300,0,45,345,
+06/10/2020,02/22/2020,02/22/2020,By week,Texas,Week-ending,0,4204,1.01,281,0,35,316,
+06/10/2020,02/29/2020,02/29/2020,By week,Texas,Week-ending,0,4133,1.01,302,0,39,341,
+06/10/2020,03/07/2020,03/07/2020,By week,Texas,Week-ending,0,4160,0.99,276,0,39,315,
+06/10/2020,03/14/2020,03/14/2020,By week,Texas,Week-ending,0,4142,1.03,305,0,34,339,
+06/10/2020,03/21/2020,03/21/2020,By week,Texas,Week-ending,10,4227,1.06,328,,23,356,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/28/2020,03/28/2020,By week,Texas,Week-ending,44,4224,1.08,344,14,17,389,
+06/10/2020,04/04/2020,04/04/2020,By week,Texas,Week-ending,121,4141,1.09,359,45,,441,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/11/2020,04/11/2020,By week,Texas,Week-ending,200,4224,1.09,402,77,,529,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/18/2020,04/18/2020,By week,Texas,Week-ending,225,4226,1.11,406,112,,522,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/25/2020,04/25/2020,By week,Texas,Week-ending,209,4327,1.14,320,85,,451,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/02/2020,05/02/2020,By week,Texas,Week-ending,209,4138,1.09,348,94,,470,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/09/2020,05/09/2020,By week,Texas,Week-ending,207,4092,1.1,329,91,,447,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/16/2020,05/16/2020,By week,Texas,Week-ending,217,3964,1.05,338,99,,457,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/23/2020,05/23/2020,By week,Texas,Week-ending,118,3595,0.98,283,59,,345,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/30/2020,05/30/2020,By week,Texas,Week-ending,62,2534,0.68,173,31,,206,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,06/06/2020,06/06/2020,By week,Texas,Week-ending,,893,0.06,41,,0,45,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/01/2020,02/01/2020,By week,Utah,Week-ending,0,361,0.98,18,0,,20,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/08/2020,02/08/2020,By week,Utah,Week-ending,0,305,0.79,18,0,,21,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/15/2020,02/15/2020,By week,Utah,Week-ending,0,412,1.12,14,0,,19,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/22/2020,02/22/2020,By week,Utah,Week-ending,0,366,0.95,16,0,,22,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/29/2020,02/29/2020,By week,Utah,Week-ending,0,394,1.01,31,0,,34,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/07/2020,03/07/2020,By week,Utah,Week-ending,0,403,1,30,0,,33,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/14/2020,03/14/2020,By week,Utah,Week-ending,0,404,1.09,22,0,,27,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/21/2020,03/21/2020,By week,Utah,Week-ending,0,410,1.08,29,0,,36,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/28/2020,03/28/2020,By week,Utah,Week-ending,,394,1.12,34,0,,42,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/04/2020,04/04/2020,By week,Utah,Week-ending,11,405,1.13,32,,0,38,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/11/2020,04/11/2020,By week,Utah,Week-ending,,377,1,16,,,22,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/18/2020,04/18/2020,By week,Utah,Week-ending,,386,1.01,19,,0,21,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/25/2020,04/25/2020,By week,Utah,Week-ending,15,403,1.14,18,,0,29,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/02/2020,05/02/2020,By week,Utah,Week-ending,12,378,1.06,12,,,23,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/09/2020,05/09/2020,By week,Utah,Week-ending,18,369,1.02,21,11,0,28,
+06/10/2020,05/16/2020,05/16/2020,By week,Utah,Week-ending,14,397,1.11,16,,0,26,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/23/2020,05/23/2020,By week,Utah,Week-ending,13,359,0.96,20,,0,26,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/30/2020,05/30/2020,By week,Utah,Week-ending,,339,0.96,14,,0,18,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,06/06/2020,06/06/2020,By week,Utah,Week-ending,0,144,0.11,,0,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/01/2020,02/01/2020,By week,Vermont,Week-ending,0,105,0.85,,0,,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/08/2020,02/08/2020,By week,Vermont,Week-ending,0,112,0.94,,0,,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/15/2020,02/15/2020,By week,Vermont,Week-ending,0,126,1.11,,0,,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/22/2020,02/22/2020,By week,Vermont,Week-ending,0,107,0.94,,0,,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/29/2020,02/29/2020,By week,Vermont,Week-ending,0,137,1.31,12,0,,13,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/07/2020,03/07/2020,By week,Vermont,Week-ending,0,135,0.91,,0,,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/14/2020,03/14/2020,By week,Vermont,Week-ending,0,140,1.28,11,0,,13,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/21/2020,03/21/2020,By week,Vermont,Week-ending,,134,1.14,10,,,13,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/28/2020,03/28/2020,By week,Vermont,Week-ending,,106,0.93,14,,0,21,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/04/2020,04/04/2020,By week,Vermont,Week-ending,,146,1.24,13,,0,18,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/11/2020,04/11/2020,By week,Vermont,Week-ending,,109,0.91,,,0,11,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/18/2020,04/18/2020,By week,Vermont,Week-ending,,128,1.13,11,,0,19,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/25/2020,04/25/2020,By week,Vermont,Week-ending,11,120,1.06,,,0,17,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/02/2020,05/02/2020,By week,Vermont,Week-ending,,118,1.05,,0,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/09/2020,05/09/2020,By week,Vermont,Week-ending,,109,1.19,,,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/16/2020,05/16/2020,By week,Vermont,Week-ending,,100,1.02,,0,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/23/2020,05/23/2020,By week,Vermont,Week-ending,0,102,0.97,,0,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/30/2020,05/30/2020,By week,Vermont,Week-ending,,113,1.15,,0,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,06/06/2020,06/06/2020,By week,Vermont,Week-ending,0,36,0.06,0,0,0,0,
+06/10/2020,02/01/2020,02/01/2020,By week,Virginia,Week-ending,0,1421,1.01,73,0,,82,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/08/2020,02/08/2020,By week,Virginia,Week-ending,0,1524,1.04,62,0,11,73,
+06/10/2020,02/15/2020,02/15/2020,By week,Virginia,Week-ending,0,1376,0.99,58,0,,67,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/22/2020,02/22/2020,By week,Virginia,Week-ending,0,1440,1.03,71,0,,76,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/29/2020,02/29/2020,By week,Virginia,Week-ending,0,1384,0.98,63,0,17,80,
+06/10/2020,03/07/2020,03/07/2020,By week,Virginia,Week-ending,0,1475,1.08,73,0,,81,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/14/2020,03/14/2020,By week,Virginia,Week-ending,,1424,1.05,64,0,18,83,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/21/2020,03/21/2020,By week,Virginia,Week-ending,,1445,1.03,72,,,82,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/28/2020,03/28/2020,By week,Virginia,Week-ending,25,1511,1.12,100,,,129,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/04/2020,04/04/2020,By week,Virginia,Week-ending,53,1457,1.07,106,24,,141,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/11/2020,04/11/2020,By week,Virginia,Week-ending,95,1600,1.19,133,31,,200,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/18/2020,04/18/2020,By week,Virginia,Week-ending,181,1573,1.21,139,67,,255,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/25/2020,04/25/2020,By week,Virginia,Week-ending,172,1560,1.22,118,54,,237,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/02/2020,05/02/2020,By week,Virginia,Week-ending,235,1625,1.26,157,96,,298,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/09/2020,05/09/2020,By week,Virginia,Week-ending,223,1541,1.22,115,64,,276,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/16/2020,05/16/2020,By week,Virginia,Week-ending,183,1477,1.19,100,54,0,229,
+06/10/2020,05/23/2020,05/23/2020,By week,Virginia,Week-ending,140,1297,1.04,83,44,0,179,
+06/10/2020,05/30/2020,05/30/2020,By week,Virginia,Week-ending,91,1046,0.82,56,21,0,126,
+06/10/2020,06/06/2020,06/06/2020,By week,Virginia,Week-ending,13,459,0.07,15,,0,24,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/01/2020,02/01/2020,By week,Washington,Week-ending,0,1195,1.02,71,0,,78,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/08/2020,02/08/2020,By week,Washington,Week-ending,0,1170,0.99,70,0,,78,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/15/2020,02/15/2020,By week,Washington,Week-ending,0,1176,0.97,85,0,11,96,
+06/10/2020,02/22/2020,02/22/2020,By week,Washington,Week-ending,0,1108,0.95,66,0,,71,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/29/2020,02/29/2020,By week,Washington,Week-ending,,1130,0.96,81,,,92,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/07/2020,03/07/2020,By week,Washington,Week-ending,20,1204,1.05,99,13,16,121,
+06/10/2020,03/14/2020,03/14/2020,By week,Washington,Week-ending,26,1159,1,88,16,,106,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/21/2020,03/21/2020,By week,Washington,Week-ending,61,1217,1.03,120,26,17,171,
+06/10/2020,03/28/2020,03/28/2020,By week,Washington,Week-ending,115,1286,1.16,164,57,,229,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/04/2020,04/04/2020,By week,Washington,Week-ending,153,1288,1.12,158,81,,238,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/11/2020,04/11/2020,By week,Washington,Week-ending,137,1285,1.15,137,81,0,193,
+06/10/2020,04/18/2020,04/18/2020,By week,Washington,Week-ending,111,1233,1.14,123,63,,175,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/25/2020,04/25/2020,By week,Washington,Week-ending,96,1209,1.17,104,49,,152,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/02/2020,05/02/2020,By week,Washington,Week-ending,73,1123,1.03,96,41,,130,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/09/2020,05/09/2020,By week,Washington,Week-ending,75,1163,1.08,84,39,,122,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/16/2020,05/16/2020,By week,Washington,Week-ending,47,955,0.87,70,27,,91,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/23/2020,05/23/2020,By week,Washington,Week-ending,,722,0.71,31,,0,32,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/30/2020,05/30/2020,By week,Washington,Week-ending,,571,0.54,22,,0,22,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,06/06/2020,06/06/2020,By week,Washington,Week-ending,,128,0.05,,0,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/01/2020,02/01/2020,By week,West Virginia,Week-ending,0,471,1,31,0,,33,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/08/2020,02/08/2020,By week,West Virginia,Week-ending,0,476,1.03,34,0,,39,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/15/2020,02/15/2020,By week,West Virginia,Week-ending,0,471,1.01,35,0,,40,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/22/2020,02/22/2020,By week,West Virginia,Week-ending,0,462,1.07,26,0,,35,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/29/2020,02/29/2020,By week,West Virginia,Week-ending,0,451,1,42,0,,44,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/07/2020,03/07/2020,By week,West Virginia,Week-ending,0,481,1.06,29,0,,36,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/14/2020,03/14/2020,By week,West Virginia,Week-ending,0,467,1.02,35,0,,43,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/21/2020,03/21/2020,By week,West Virginia,Week-ending,0,465,0.98,37,0,,46,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/28/2020,03/28/2020,By week,West Virginia,Week-ending,,483,1.02,26,0,,34,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/04/2020,04/04/2020,By week,West Virginia,Week-ending,,436,0.95,43,0,,49,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/11/2020,04/11/2020,By week,West Virginia,Week-ending,,473,1.02,44,,,53,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/18/2020,04/18/2020,By week,West Virginia,Week-ending,12,347,0.8,23,,,34,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/25/2020,04/25/2020,By week,West Virginia,Week-ending,15,386,0.92,27,,0,37,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/02/2020,05/02/2020,By week,West Virginia,Week-ending,15,382,0.87,30,,0,38,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/09/2020,05/09/2020,By week,West Virginia,Week-ending,,312,0.75,19,0,0,23,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/16/2020,05/16/2020,By week,West Virginia,Week-ending,13,177,0.43,17,,0,25,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/23/2020,05/23/2020,By week,West Virginia,Week-ending,,26,0.06,,,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/30/2020,05/30/2020,By week,West Virginia,Week-ending,,,0,,,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,06/06/2020,06/06/2020,By week,West Virginia,Week-ending,0,0,0,0,0,0,0,
+06/10/2020,02/01/2020,02/01/2020,By week,Wisconsin,Week-ending,0,1175,1.05,64,0,,67,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/08/2020,02/08/2020,By week,Wisconsin,Week-ending,0,1051,0.95,53,0,,58,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/15/2020,02/15/2020,By week,Wisconsin,Week-ending,0,1123,1.04,75,0,12,87,
+06/10/2020,02/22/2020,02/22/2020,By week,Wisconsin,Week-ending,0,1158,1.12,57,0,14,71,
+06/10/2020,02/29/2020,02/29/2020,By week,Wisconsin,Week-ending,0,1135,1.09,54,0,16,70,
+06/10/2020,03/07/2020,03/07/2020,By week,Wisconsin,Week-ending,0,1114,1.05,62,0,16,78,
+06/10/2020,03/14/2020,03/14/2020,By week,Wisconsin,Week-ending,0,1103,1.05,56,0,32,88,
+06/10/2020,03/21/2020,03/21/2020,By week,Wisconsin,Week-ending,,1109,1.03,74,,19,97,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/28/2020,03/28/2020,By week,Wisconsin,Week-ending,18,1144,1.11,73,,13,103,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/04/2020,04/04/2020,By week,Wisconsin,Week-ending,75,1215,1.16,89,10,,161,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/11/2020,04/11/2020,By week,Wisconsin,Week-ending,76,1168,1.12,75,16,,143,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/18/2020,04/18/2020,By week,Wisconsin,Week-ending,72,1139,1.13,52,11,,114,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/25/2020,04/25/2020,By week,Wisconsin,Week-ending,47,1021,1.02,56,,0,100,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/02/2020,05/02/2020,By week,Wisconsin,Week-ending,67,1146,1.14,58,,0,119,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/09/2020,05/09/2020,By week,Wisconsin,Week-ending,55,1054,1.02,51,16,,91,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/16/2020,05/16/2020,By week,Wisconsin,Week-ending,52,979,1,48,10,,91,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/23/2020,05/23/2020,By week,Wisconsin,Week-ending,58,980,0.98,51,18,0,91,
+06/10/2020,05/30/2020,05/30/2020,By week,Wisconsin,Week-ending,36,800,0.84,35,,0,66,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,06/06/2020,06/06/2020,By week,Wisconsin,Week-ending,,300,0.08,,0,0,12,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/01/2020,02/01/2020,By week,Wyoming,Week-ending,0,94,1.06,,0,,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/08/2020,02/08/2020,By week,Wyoming,Week-ending,0,97,1.06,13,0,,14,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/15/2020,02/15/2020,By week,Wyoming,Week-ending,0,75,0.8,,0,,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/22/2020,02/22/2020,By week,Wyoming,Week-ending,0,101,1.17,,0,,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/29/2020,02/29/2020,By week,Wyoming,Week-ending,0,100,1.11,,0,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/07/2020,03/07/2020,By week,Wyoming,Week-ending,0,80,0.83,10,0,,11,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/14/2020,03/14/2020,By week,Wyoming,Week-ending,0,85,0.91,,0,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/21/2020,03/21/2020,By week,Wyoming,Week-ending,0,117,1.26,,0,,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/28/2020,03/28/2020,By week,Wyoming,Week-ending,0,88,1.02,,0,,11,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/04/2020,04/04/2020,By week,Wyoming,Week-ending,0,123,1.4,10,0,0,10,
+06/10/2020,04/11/2020,04/11/2020,By week,Wyoming,Week-ending,,102,1.23,,0,0,10,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/18/2020,04/18/2020,By week,Wyoming,Week-ending,,89,1.04,,,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/25/2020,04/25/2020,By week,Wyoming,Week-ending,,98,1.24,10,,0,11,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/02/2020,05/02/2020,By week,Wyoming,Week-ending,0,67,0.77,,0,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/09/2020,05/09/2020,By week,Wyoming,Week-ending,0,82,0.86,,0,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/16/2020,05/16/2020,By week,Wyoming,Week-ending,,95,1.08,,0,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/23/2020,05/23/2020,By week,Wyoming,Week-ending,,88,1,,,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/30/2020,05/30/2020,By week,Wyoming,Week-ending,,44,0.58,0,0,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,06/06/2020,06/06/2020,By week,Wyoming,Week-ending,,17,0.09,0,0,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/01/2020,02/01/2020,By week,Puerto Rico,Week-ending,0,580,0.94,76,0,,81,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/08/2020,02/08/2020,By week,Puerto Rico,Week-ending,0,598,0.99,90,0,,95,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/15/2020,02/15/2020,By week,Puerto Rico,Week-ending,0,613,1.02,84,0,,90,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/22/2020,02/22/2020,By week,Puerto Rico,Week-ending,0,609,1.06,86,0,,91,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,02/29/2020,02/29/2020,By week,Puerto Rico,Week-ending,0,612,1,83,0,,91,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/07/2020,03/07/2020,By week,Puerto Rico,Week-ending,0,613,1.04,95,0,,100,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/14/2020,03/14/2020,By week,Puerto Rico,Week-ending,0,584,1.01,67,0,,71,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/21/2020,03/21/2020,By week,Puerto Rico,Week-ending,,625,1.09,89,,,94,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,03/28/2020,03/28/2020,By week,Puerto Rico,Week-ending,11,634,1.17,88,,,93,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/04/2020,04/04/2020,By week,Puerto Rico,Week-ending,18,566,1.03,85,10,,95,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/11/2020,04/11/2020,By week,Puerto Rico,Week-ending,22,584,1.09,87,11,0,98,
+06/10/2020,04/18/2020,04/18/2020,By week,Puerto Rico,Week-ending,19,537,1.02,68,,,80,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,04/25/2020,04/25/2020,By week,Puerto Rico,Week-ending,16,517,0.95,68,,,81,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/02/2020,05/02/2020,By week,Puerto Rico,Week-ending,14,482,0.9,54,,,66,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/09/2020,05/09/2020,By week,Puerto Rico,Week-ending,10,449,0.82,56,,,62,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/16/2020,05/16/2020,By week,Puerto Rico,Week-ending,,347,0.61,31,,,35,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/23/2020,05/23/2020,By week,Puerto Rico,Week-ending,,242,0.42,27,,0,30,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,05/30/2020,05/30/2020,By week,Puerto Rico,Week-ending,,115,0.21,18,,0,19,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+06/10/2020,06/06/2020,06/06/2020,By week,Puerto Rico,Week-ending,,26,0.02,,,0,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
