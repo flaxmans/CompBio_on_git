@@ -112,6 +112,6 @@ show(totalsPlot)
 totalCases <- filter( onsetData, description == "Total Cases" )
 totalDeaths <- filter( onsetData, description == "Total Deaths")
 
-show( doublingTimePlot( totalCases$number, 50, c(2:7, 10, 14, 30, 60), "case", "State of Colorado") )
+show( doublingTimePlot( totalCases$number, 50, c(3,5,7, 10, 14, 30, 60), "case", "State of Colorado") )
 
-show( doublingTimePlot( totalDeaths$number, 50, c(2:7, 10, 14, 30, 60), "death", "State of Colorado") )
+show( doublingTimePlot( totalDeaths$number, 50, c(3,5,7, 10, 14, 30, 60), "death", "State of Colorado") )

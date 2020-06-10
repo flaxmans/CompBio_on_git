@@ -93,4 +93,4 @@ show(CandD)
 
 source("../DoublingTimePlotFunctions.R")
 dtp <- subset(filteredData, Metric == "Cases")
-show( doublingTimePlot( dtp$Number, 50, c(2:7, 10, 14, 30, 60), "case", "Boulder County") )
+show( doublingTimePlot( dtp$Number, 50, c(3,5,7, 10, 14, 30, 60), "case", "Boulder County") )

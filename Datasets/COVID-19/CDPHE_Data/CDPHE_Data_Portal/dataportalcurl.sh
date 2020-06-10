@@ -4,15 +4,15 @@ mydate=$(date "+%Y-%m-%d")
 yesterday=$(date -j -v-1d '+%Y-%m-%d')
 
 # URLs for arcgis data portal from CDPHE:
-dailyStateStatURL="https://opendata.arcgis.com/datasets/da80229915e44b3db84f53e19647f261_0.csv?outSR=%7B%22latestWkid%22%3A4269%2C%22wkid%22%3A4269%7D"
+dailyStateStatURL="https://opendata.arcgis.com/datasets/566216cf203e400f8cbf2e6b4354bc57_0.csv"
 
 byCountyOfIDURL="https://opendata.arcgis.com/datasets/7dd9bfa5607f4c70b2a7c9634ccdca53_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
 
-stateodrURL="https://opendata.arcgis.com/datasets/882fd53e0c1b43c2b769a4fbdc1c6448_0.csv?outSR=%7B%22latestWkid%22%3A4269%2C%22wkid%22%3A4269%7D"
+stateodrURL="https://opendata.arcgis.com/datasets/90cc1ace62254550879f18cf94ca216b_0.csv"
 
-clinicalLabsURL="https://opendata.arcgis.com/datasets/3cccdf0a1ef04dbd8644eafc9351d341_0.csv?outSR=%7B%22latestWkid%22%3A4269%2C%22wkid%22%3A4269%7D"
+clinicalLabsURL="https://opendata.arcgis.com/datasets/ca2c4b063f494506a1047d9783789ef7_0.csv"
 
-countyodrURL="https://opendata.arcgis.com/datasets/199c1c4a0ece40078949cd24f743e5f4_0.csv?outSR=%7B%22latestWkid%22%3A4269%2C%22wkid%22%3A4269%7D"
+countyodrURL="https://opendata.arcgis.com/datasets/1456d8d43486449292e5784dcd9ce4a7_0.csv"
 
 testingSitesURL="https://opendata.arcgis.com/datasets/836372161f4f4f989fb826a6b78c1c67_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
 
