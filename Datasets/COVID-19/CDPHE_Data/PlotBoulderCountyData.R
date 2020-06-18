@@ -66,6 +66,7 @@ head(filteredData)
 unique(filteredData$Metric)
 
 # examine daily changes
+source("../DoublingTimePlotFunctions.R")
 require(tidyr) 
 BoulderDailies <- filteredData %>%
   filter( Metric %in% c("Cases", "Deaths") ) %>%
