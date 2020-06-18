@@ -63,6 +63,34 @@ filteredData$Description[ ratePer100k ] <- "Case Rate Per 100000 in Boulder Coun
 # Metric is just a shorter version of description
 
 head(filteredData)
+unique(filteredData$Metric)
+
+# examine daily changes
+require(tidyr) 
+BoulderDailies <- filteredData %>%
+  filter( Metric %in% c("Cases", "Deaths") ) %>%
+  select( Date, Metric, Number ) %>%
+  pivot_wider( id_cols = Date, 
+               names_from = Metric,
+               values_from = Number) %>% 
+  arrange( Date )
+
+BoulderDailies$DailyCases <- BoulderDailies$Cases
+BoulderDailies$DailyDeaths <- BoulderDailies$Deaths
+n <- nrow(BoulderDailies)
+BoulderDailies$DailyCases[2:n] <- BoulderDailies$Cases[2:n] - BoulderDailies$Cases[1:(n-1)]
+BoulderDailies$DailyDeaths[2:n] <- BoulderDailies$Deaths[2:n] - BoulderDailies$Deaths[1:(n-1)]
+
+BoulderDailies <- BoulderDailies %>%
+  select( Date, DailyCases, DailyDeaths ) %>%
+  pivot_longer( cols = c(DailyCases, DailyDeaths), 
+                names_to = "Metric", 
+                values_to = "Number")
+
+BoulderDailies$Number[ BoulderDailies$Number < 0 ] <- 0
+BoulderDailies$rollingAvg <- calcRollingAvg( y = BoulderDailies$Number, stratifyby = BoulderDailies$Metric, windowsize = 7 )
+BoulderDailies$Metric[ BoulderDailies$Metric == "DailyCases" ] <- "Cases"
+BoulderDailies$Metric[ BoulderDailies$Metric == "DailyDeaths" ] <- "Deaths"
 
 ######################
 ## STEP 3: PLOTTING
@@ -94,3 +122,20 @@ show(CandD)
 source("../DoublingTimePlotFunctions.R")
 dtp <- subset(filteredData, Metric == "Cases")
 show( doublingTimePlot( dtp$Number, 50, c(3,5,7, 10, 14, 30, 60), "case", "Boulder County") )
+
+
+# bar plots for daily tallies:
+dppColors <- c("#5C8BBC", "#C26064")
+lineColors <- c("blue", "magenta")
+dailyPlot <- ggplot( data = BoulderDailies, 
+                     mapping = aes( x = Date, y = Number )) + 
+  geom_bar( aes(fill = Metric), stat = "identity" ) + 
+  geom_line( aes( y = rollingAvg, color = Metric )) +
+  #geom_smooth() + 
+  facet_wrap( ~Metric, nrow = 2, scales = "free_y" ) + 
+  scale_fill_manual( values = dppColors ) +
+  scale_color_manual( values = lineColors ) +
+  theme_bw() + 
+  guides( fill = F, color = F ) + 
+  labs( title = paste("Boulder County Daily Data with 7-day averages"), fill = "Metric" )
+show(dailyPlot)
