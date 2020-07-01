@@ -97,3 +97,5 @@ goldPricePlot <- goldPricePlot +
                 color = refLineColor)
 
 show(goldPricePlot)
+
+show(goldPricePlot + geom_smooth())
