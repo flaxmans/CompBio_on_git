@@ -114,3 +114,6 @@ show(
     scale_y_log10() +
     theme_bw() )
 
+cat("\ntop 5 counties are:\n\t")
+cat(rankedCountiesByRate$County[1:nToKeep])
+cat("\n\n")
