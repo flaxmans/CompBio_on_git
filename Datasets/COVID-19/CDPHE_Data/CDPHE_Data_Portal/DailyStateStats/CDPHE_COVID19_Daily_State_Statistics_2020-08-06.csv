@@ -141,8 +141,9 @@ Colorado,State Data,08/02/2020,47716,544023,714560,1844,1691,5694287,837.96,6474
 Colorado,State Data,08/03/2020,47968,548808,721921,1844,1710,5694287,842.39,6487,63,483,140
 Colorado,State Data,08/04/2020,48394,552205,727026,1849,1710,5694287,849.87,6516,63,488,141
 Colorado,State Data,08/05/2020,48988,562086,754644,1851,1717,5694287,860.3,6536,63,502,142
-Note,Data is updated daily by about 4 p.m. and includes cases reported through the previous day.,,,,,,,,,,,,143
-Note,The number of cases includes people who have had a test that indicated they were positive for COVID-19. The number of cases also includes epidemiologically-linked cases -- or cases where public health epidemiologists have determined that infection is highly likely because a person exhibited symptoms and had close contact with someone who tested positive. The number of epidemiologically-linked cases represents a very small portion of the reported cases.,,,,,,,,,,,,144
-Note,Total people tested may not include all negative results. Testing data excludes serology and only counts PCR.,,,,,,,,,,,,145
-Note,A person is counted once in the number of People Tested. A person is counted once each day they are tested in the number of Test Encounters.,,,,,,,,,,,,146
-Note,Deaths due to COVID-19: https://www.cdc.gov/nchs/nvss/vsrr/covid19/index.htm (Table 2),,,,,,,,,,,,147
+Colorado,State Data,08/06/2020,49436,568127,766473,1852,1729,5694287,868.17,6572,63,509,143
+Note,Data is updated daily by about 4 p.m. and includes cases reported through the previous day.,,,,,,,,,,,,144
+Note,The number of cases includes people who have had a test that indicated they were positive for COVID-19. The number of cases also includes epidemiologically-linked cases -- or cases where public health epidemiologists have determined that infection is highly likely because a person exhibited symptoms and had close contact with someone who tested positive. The number of epidemiologically-linked cases represents a very small portion of the reported cases.,,,,,,,,,,,,145
+Note,Total people tested may not include all negative results. Testing data excludes serology and only counts PCR.,,,,,,,,,,,,146
+Note,A person is counted once in the number of People Tested. A person is counted once each day they are tested in the number of Test Encounters.,,,,,,,,,,,,147
+Note,Deaths due to COVID-19: https://www.cdc.gov/nchs/nvss/vsrr/covid19/index.htm (Table 2),,,,,,,,,,,,148
