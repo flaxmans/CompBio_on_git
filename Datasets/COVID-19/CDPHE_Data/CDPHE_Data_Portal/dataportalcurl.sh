@@ -6,9 +6,9 @@ yesterday=$(date -j -v-1d '+%Y-%m-%d')
 # URLs for arcgis data portal from CDPHE:
 dailyStateStatURL="https://opendata.arcgis.com/datasets/566216cf203e400f8cbf2e6b4354bc57_0.csv"
 
-byCountyOfIDURL="https://opendata.arcgis.com/datasets/7dd9bfa5607f4c70b2a7c9634ccdca53_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+byCountyOfIDURL="https://opendata.arcgis.com/datasets/222c9d85e93540dba523939cfb718d76_0.csv?outSR=%7B%22latestWkid%22%3A4326%2C%22wkid%22%3A4326%7D"
 
-stateodrURL="https://opendata.arcgis.com/datasets/90cc1ace62254550879f18cf94ca216b_0.csv"
+stateodrURL="https://opendata.arcgis.com/datasets/331ca20801e545c7a656158aaad6f8af_0.csv"
 
 clinicalLabsURL="https://opendata.arcgis.com/datasets/ca2c4b063f494506a1047d9783789ef7_0.csv"
 
