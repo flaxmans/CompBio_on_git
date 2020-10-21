@@ -21,7 +21,7 @@ testingSitesURL="https://opendata.arcgis.com/datasets/222c9d85e93540dba523939cfb
 cdcURL="https://data.cdc.gov/api/views/r8kw-7aab/rows.csv?accessType=DOWNLOAD"
 
 # as an array:
-URLs=($dailyStateStatURL $byCountyOfIDURL $stateodrURL $clinicalLabsURL $countyodrURL $testingSitesURL $cdcURL)
+URLs=($dailyStateStatURL $dailyStateStat2URL $byCountyOfIDURL $stateodrURL $clinicalLabsURL $countyodrURL $testingSitesURL $cdcURL)
 
 # note following names need to be in exact same order as URLs!
 names=(CDPHE_COVID19_Daily_State_Statistics_
