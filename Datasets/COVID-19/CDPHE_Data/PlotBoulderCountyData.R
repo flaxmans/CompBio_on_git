@@ -125,6 +125,9 @@ dtp <- subset(filteredData, Metric == "Cases")
 show( doublingTimePlot( dtp$Number, 50, c(3,5,7, 10, 14, 30, 60), "case", "Boulder County") )
 
 
+firstDate <- min(BoulderDailies$Date)
+lastDate <- max(BoulderDailies$Date)
+
 # bar plots for daily tallies:
 dppColors <- c("#5C8BBC", "#C26064")
 lineColors <- c("blue", "magenta")
@@ -137,6 +140,7 @@ dailyPlot <- ggplot( data = BoulderDailies,
   scale_fill_manual( values = dppColors ) +
   scale_color_manual( values = lineColors ) +
   theme_bw() + 
+  scale_x_date( breaks = seq(firstDate, lastDate, (lastDate - firstDate)/10)) +
   guides( fill = F, color = F ) + 
   labs( title = paste("Boulder County Daily Data with 7-day averages"), fill = "Metric" )
 show(dailyPlot)
