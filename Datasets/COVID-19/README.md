@@ -24,7 +24,9 @@ I've also archived here:
 
 4. This article suggests resources for/in R specifically, a great number of which are on GitHub: [https://towardsdatascience.com/top-5-r-resources-on-covid-19-coronavirus-1d4c8df6d85f](https://towardsdatascience.com/top-5-r-resources-on-covid-19-coronavirus-1d4c8df6d85f)
 
-5. For some modeling ideas, check out [http://covid19.healthdata.org/](http://covid19.healthdata.org/)
+5. For some modeling ideas, check out 
++ [http://covid19.healthdata.org/](http://covid19.healthdata.org/)
++ For Colorado: [https://github.com/agb85/covid-19](https://github.com/agb85/covid-19)
 
 6. And for a compelling model that many people, regardless of mathematical background, find informative, check out this simulation series from the Washington Post: [https://www.washingtonpost.com/graphics/2020/world/corona-simulator/](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
 
