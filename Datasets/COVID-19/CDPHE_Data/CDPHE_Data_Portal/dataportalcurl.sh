@@ -14,7 +14,7 @@ stateodrURL="https://opendata.arcgis.com/datasets/331ca20801e545c7a656158aaad6f8
 
 clinicalLabsURL="https://opendata.arcgis.com/datasets/ca2c4b063f494506a1047d9783789ef7_0.csv"
 
-countyodrURL="https://opendata.arcgis.com/datasets/1456d8d43486449292e5784dcd9ce4a7_0.csv"
+countyodrURL="https://opendata.arcgis.com/datasets/52fb11a8a07f49c1b28335a9de9ba99f_0.csv"
 
 testingSitesURL="https://opendata.arcgis.com/datasets/222c9d85e93540dba523939cfb718d76_0.csv?outSR=%7B%22latestWkid%22%3A4326%2C%22wkid%22%3A4326%7D"
 
