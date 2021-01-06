@@ -25,31 +25,31 @@ ______________________________
 
 ## Logistics and Contact Info
 
-#### Zoom Meetings for Class
+### Zoom Meetings for Class
 
-The following link is for ALL scheduled class meetings, MWF at 10:20 a.m. any day that class is held, including both lecture and lab.
++ The following link is for ALL scheduled class meetings, MWF at 10:20 a.m. any day that class is held, including both lecture and lab.
 [https://cuboulder.zoom.us/j/96646452340](https://cuboulder.zoom.us/j/96646452340)
 
-NOTE:  You MUST be signed into Zoom with your CU Boulder credentials to be able to join that meeting. See this video or this help page from OIT for instructions.
++ NOTE:  You MUST be signed into Zoom with your CU Boulder credentials to be able to join that meeting. See this video or this help page from OIT for instructions.
 
  
- #### Contacting Sam and Office Hours:
+ ### Contacting Sam and Office Hours:
 
-**NOTE DIFFERENT ZOOM LINK FOR OFFICE HOURS (below).**
++ **NOTE DIFFERENT ZOOM LINK FOR OFFICE HOURS (below).**
 
-Cell Phone: _see Canvas_
++ Cell Phone: _see Canvas_
 
-Email Address: [samuel.flaxman@colorado.edu](mailto:samuel.flaxman@colorado.edu) 
++ Email Address: [samuel.flaxman@colorado.edu](mailto:samuel.flaxman@colorado.edu) 
 
-Office hours on Zoom:  Mondays 9:00 - 10:00 a.m. and Mondays 11:30 a.m. - 12:30 p.m. 
++ Office hours on Zoom:  Mondays 9:00 - 10:00 a.m. and Mondays 11:30 a.m. - 12:30 p.m. 
 
-No appointment is needed for office hours.  You can simply join the Zoom meeting below.  Note that the "waiting room" feature will be used.  If you are in the waiting room for several minutes, it means that Sam is meeting with someone else.  Office hours are held on Mondays so that you can follow up on any remaining questions or challenges you have from labs (on Fridays).  Office hours will be held every Monday from January 25th - April 26th.
+    + No appointment is needed for office hours.  You can simply join the Zoom meeting below.  Note that the "waiting room" feature will be used.  If you are in the waiting room for several minutes, it means that Sam is meeting with someone else.  Office hours are held on Mondays so that you can follow up on any remaining questions or challenges you have from labs (on Fridays).  Office hours will be held every Monday from January 25th - April 26th.
 
-All one-on-one meetings and office hours meetings will take place using Zoom at the following link:  [https://cuboulder.zoom.us/j/98132204508](https://cuboulder.zoom.us/j/98132204508)
+    + All one-on-one meetings and office hours meetings will take place using Zoom at the following link:  [https://cuboulder.zoom.us/j/98132204508](https://cuboulder.zoom.us/j/98132204508)
 
-#### Information available on Canvas:
+### Information available on Canvas:
 
-Please visit our course's [Canvas page][CanvasSiteLink] for grades, assignment deadlines, PowerPoint files, announcements, and more.
++ Please visit our course's [Canvas page][CanvasSiteLink] for grades, assignment deadlines, PowerPoint files, announcements, and more.
 
 
 
