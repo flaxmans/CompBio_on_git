@@ -37,7 +37,7 @@ NOTE:  You MUST be signed into Zoom with your CU Boulder credentials to be able 
 
 **NOTE DIFFERENT ZOOM LINK FOR OFFICE HOURS (below).**
 
-Cell Phone: 303-249-3119
+Cell Phone: _see Canvas_
 
 Email Address: [samuel.flaxman@colorado.edu](mailto:samuel.flaxman@colorado.edu) 
 
