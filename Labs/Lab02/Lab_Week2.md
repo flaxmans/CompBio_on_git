@@ -52,7 +52,7 @@ In your terminal, you need to configure your git user account with the following
 
 <hr>
 
-### IV. Set up a repo for this class on Github.com
+### IV. Set up a repo for this class on GitHub.com
 1. Start a new project (i.e., a new repository).  Depending upon where you are, you might see a button to do this, or you might need to click on the "+" sign in the upper-right-hand corner of the github page.
 2. Name the new repository CompBioLabsAndHomework
 3. Do NOT initialize this repository with any files
@@ -61,7 +61,7 @@ In your terminal, you need to configure your git user account with the following
 
 <hr>
 
-### V. Linking your local .git repository to Github.com, and pushing your commits
+### V. Linking your local .git repository to GitHub.com, and pushing your commits
 1. Return to your terminal and make sure you are still in the local CompBioLabsAndHomework on your computer
 2. Designate the "remote" (i.e., online) repo with  
 	`git remote add origin your_repos_github_URL`,  
@@ -71,7 +71,7 @@ In your terminal, you need to configure your git user account with the following
 	Don't worry about the meaning of the "-u" flag for now.
 	Note that you will likely be prompted to give a username and password; these need to be your github username and password.
 4.  Go back to your browser and refresh.  The cookie recipe should be there now.
-5.  LETTING SAM KNOW about your GitHub repository for this class.  Please take a moment right now to send Sam your GitHub repo's link by filling out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfNiq_wvI-Dfi0C5t2kQF7-v3qBQSr-brgARnpJt9LfkD7Y5Q/viewform?usp=sf_link).
+5.  LET SAM KNOW about your GitHub repository for this class.  Please take a moment right now to send Sam your GitHub repo's link by filling out [this form][GoogleFormLink].
 
 
 
@@ -111,5 +111,11 @@ Recall the [final task from last week's Lab](https://github.com/flaxmans/CompBio
 
 
 ### *Finishing this lab*
-Please complete all steps of this lab by Wednesday of week 3 of class.
+Please complete all steps of this lab by Wednesday of next week of class.  See Canvas for official deadline.
 
+Don't forget to [tell Sam your GitHub repo's URL][GoogleFormLink]!
+
+
+
+
+[GoogleFormLink]: https://forms.gle/yNjfGdyuQLHrPLCt5

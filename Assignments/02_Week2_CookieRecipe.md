@@ -9,7 +9,8 @@ Create a cookie recipe in a plain text file
 
 ### Details:
 1. Look up your favorite cookie recipe
-2. Write it down in a plain text file
+2. Write it down in a plain text file.  NOTE about good scholarship: 
+**You need to include FULL ATTRIBUTION for the source of the recipe.  If you don't, that's plagiarism!**
 3. About plain text:
 
 	3a. MAC USERS: use TextEdit with "Preferences" set to "plain text" (NOT rich text)

@@ -9,9 +9,9 @@ This is a course for scientists who want to learn basic tools of modern computin
 This course's main learning goals are for students to: 
 
 1. Discover and implement computational tools for making their own professional work efficient, reproducible, transparent, shareable, maintainable, and robust.
-2. Learn and use tools of programming at a basic level, including but not limited to writing programs and scripts in R, using the git version control system, and using Github to share and publicly archive projects.
+2. Learn and use tools of programming at a basic level, including but not limited to writing programs and scripts in R, using the `git` version control system, and using GitHub to share and publicly archive projects.
 3. Learn and apply tools for handling data (filtering, manipulating, subsetting, concatenating, re-formatting)
-4. Learn how to learn new tools; learn how to find out how to use new tools
+4. Learn how to learn new tools; learn how to find out how to use new tools; become more self-sufficient as a scientist and problem solver
 5. If time allows and if there is sufficient interest, we may optionally: Learn and apply tools for simulating biological systems to generate pseudo-data and test hypotheses, including difference-time models, stochastic models, and ordinary differential equations models.
 
 
@@ -25,26 +25,55 @@ ______________________________
 
 ## Logistics and Contact Info
 
-#### Course meeting times and locations: 
-Lecture: Mondays and Wednesdays, 11:00 a.m. - 11:50 a.m., KTCH 1B20
+#### Zoom Meetings for Class
 
-Labs: Fridays, 12:00 noon - 1:50 p.m., RAMY 1B75
+The following link is for ALL scheduled class meetings, MWF at 10:20 a.m. any day that class is held, including both lecture and lab.
+[https://cuboulder.zoom.us/j/96646452340](https://cuboulder.zoom.us/j/96646452340)
 
-#### Office Hours: 
-Fridays, 11:00 - 11:50 a.m.
+NOTE:  You MUST be signed into Zoom with your CU Boulder credentials to be able to join that meeting. See this video or this help page from OIT for instructions.
 
-Office Location: Ramaley N211
+ 
+ #### Contacting Sam and Office Hours:
 
-#### Contact:
-Email Sam: <samuel.flaxman@colorado.edu>
+**NOTE DIFFERENT ZOOM LINK FOR OFFICE HOURS (below).**
 
-Office Phone: 303-492-7184
+Cell Phone: 303-249-3119
+
+Email Address: [samuel.flaxman@colorado.edu](mailto:samuel.flaxman@colorado.edu) 
+
+Office hours on Zoom:  Mondays 9:00 - 10:00 a.m. and Mondays 11:30 a.m. - 12:30 p.m. 
+
+No appointment is needed for office hours.  You can simply join the Zoom meeting below.  Note that the "waiting room" feature will be used.  If you are in the waiting room for several minutes, it means that Sam is meeting with someone else.  Office hours are held on Mondays so that you can follow up on any remaining questions or challenges you have from labs (on Fridays).  Office hours will be held every Monday from January 25th - April 26th.
+
+All one-on-one meetings and office hours meetings will take place using Zoom at the following link:  [https://cuboulder.zoom.us/j/98132204508](https://cuboulder.zoom.us/j/98132204508)
+
+#### Information available on Canvas:
+
+Please visit our course's [Canvas page][CanvasSiteLink] for grades, assignment deadlines, PowerPoint files, announcements, and more.
+
+
+
+______________________________
+
+## Required materials
+* A working computer that has the following capabilities
+    * Can run R and RStudio and Zoom simultaneously and at reasonable speed
+    * A camera that can show your face
+    * A microphone that can clearly transmit your voice
+* A reliable, high-speed internet connection that has enough bandwidth for you to transmit Zoom sound, video, and screenshares
+* The software requirements as detailed at [https://github.com/flaxmans/CompBio_on_git/blob/master/CourseDocuments/SoftwareRequirements.md](https://github.com/flaxmans/CompBio_on_git/blob/master/CourseDocuments/SoftwareRequirements.md)
+
+
+
 ______________________________
 
 ## Week-by-Week Agenda  
-(subject to change and frequent updating; note that accompanying PowerPoint files are available in a [Google Drive Folder][GoogleDriveLink])
+This is subject to change and frequent updating; note that the accompanying PowerPoint files are available on Canvas.
+Please also note that all deadlines for assignments are found on [Canvas][CanvasSiteLink].
 
-###### Week 1: 
+
+
+###### Week 1 (1/15 - 1/22): 
 + Topics
 	+ Mutual expectations
 	+ Implicit bias
@@ -52,30 +81,28 @@ ______________________________
 	+ Pitfalls of computing: case in point: don't use Excel (see paper by Ziemann et al. 2016)
 	+ UNIX Command Line  
 
-+ Action Items required of YOU:
-	+ **[Assignment 01](https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/01_Day1_SoftwareInstalls.md) announced on first day of class and due by 11:59 p.m. on second day of class**
-	+ **Please visit [this tutorial](http://linuxcommand.org/lc3_learning_the_shell.php)** and read through that page **AND items numbered 1-5 near the bottom of that page**.  
-
 + Lab week 1: Doing stuff with the UNIX command line
 	
-###### Week 2:
-+ Git intro
-+ Lab week 2: git
-+ Action items: 
-    + [Assignment02](https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/02_Week2_CookieRecipe.md)
-    + [Send your GitHub repo's URL to Sam](https://goo.gl/forms/PhPGZPvE7fP3vW3R2)
+###### Week 2 (1/25 - 1/29):
++ Topics
+    + Git intro
+    + Lab week 2: git
+    + Important reminder: [Send your GitHub repo's URL to Sam](https://goo.gl/forms/PhPGZPvE7fP3vW3R2)
+
 + Want to see live demonstrations of the key steps related to using `git` basics?  Sam made these screencasts for that purpose:
     + [Global user configuration settings](https://youtu.be/jPAB9BW1yXc), i.e., `git config ...`
     + [Initialize a new repo and link it to GitHub](https://youtu.be/8Ln6pjFrdvw), i.e., `git init` and `git remote add origin ...`
     + [Make a README, `add`, `commit`, and `push`](https://youtu.be/YwzEhb4Tf-g)
 
 ###### Week 3:
-+ Follow up from lab: remaining uncertainties?
-+ Best practices: git, files, comments, README
-+ Intro to R and scripting with R
++ Topics
+    + Follow up from lab: remaining uncertainties?
+    + Best practices: git, files, comments, README
+    + Intro to R and scripting with R
+
 + Lab week 3: some simple scripting (and of course using git with the script(s))
-+ Action Items: [Assignment 03](https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/03_TasksForWeekThree.md) announced on Monday, due on Monday next week. 
-+ To prepare for lab: 
+
++ Some resources to prepare for using R: 
     + Please watch these three (short) YouTube videos if you are new to R, and follow along by doing everything the narrator does on your own computer:
         + [intro](https://youtu.be/TG77MVHfC8E)
         + [vectors pt 1](https://youtu.be/A2Sh7uBwQv0)
@@ -87,11 +114,12 @@ ______________________________
     + If you are experiencing conflicts with git, check out [this screencast](https://youtu.be/jIV_toWa5Zc).
 
 ###### Week 4
-+ More R and Scripting
-+ Best practices for writing scripts and handling data
-+ Lab week 4: looping with `for` and array indexing
-+ Action Items:
-    + [Assignment 4](https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/04_TasksForWeek4.md) (pushing Lab04)
++ Topics
+    + More R and Scripting
+    + Best practices for writing scripts and handling data
+    + Lab week 4: looping with `for` and array indexing
+
++ Resources: 
     + Read the ["Best Practices" Guide][bestpracticeslink]
  
 ###### Week 5
@@ -300,7 +328,7 @@ See the [campus policy regarding religious observances](http://www.colorado.edu/
 
 [Lab8link]: https://github.com/flaxmans/CompBio_on_git/blob/master/Labs/Lab08/Lab08_documentation_and_metadata.md
 
-[CanvasSiteLink]: https://cuboulder.instructure.com/courses/59483
+[CanvasSiteLink]: https://canvas.colorado.edu/courses/70214
 
 [WordsToCodeLink]: https://docs.google.com/document/d/1jAa5_lQL5AMd6Qg2UZGkjI_z5a6xtIj9IUgzG2J10vg/edit?usp=sharing
 
