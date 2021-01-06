@@ -55,15 +55,21 @@ ______________________________
 
 ______________________________
 
-## Required materials
-* A working computer that has the following capabilities
-    * Can run R and RStudio and Zoom simultaneously and at reasonable speed
-    * A camera that can show your face
-    * A microphone that can clearly transmit your voice
+## Required Materials and Participation in the age of COVID-19
+
+The following are absolutely required for success in this class:
+
+* A working computer that can run R and RStudio and Zoom simultaneously and at reasonable speed
+* A webcam or camera built into your computer that can show your face
+* A microphone or one built into your computer that can clearly transmit your voice
 * A reliable, high-speed internet connection that has enough bandwidth for you to transmit Zoom sound, video, and screenshares
 * The software requirements as detailed at [https://github.com/flaxmans/CompBio_on_git/blob/master/CourseDocuments/SoftwareRequirements.md](https://github.com/flaxmans/CompBio_on_git/blob/master/CourseDocuments/SoftwareRequirements.md)
 
+If you have any difficulty obtaining any of the above, you MUST let Sam know ASAP so that he can help you rectify the situation.  Broken cameras, microphones, computers, etc. will not be accepted as excuses for consistently missing work or a consistent lack of participation.  Unreliable or slow internet will NOT be accepted as an excuse for repeated absences or a consistent lack of participation.  If you have any concerns about this, please talk to Sam ASAP.   Sam wants to help you succeed and can put you in touch with resources to surmount any challenges you may be facing that are impeding you in having the requirements above.  The University as well as State and local governments all have resources that we can tap into if there is a need.
 
+You are responsible for finding a quiet, appropriate location with a reliable, fast internet connection from which to "attend" classes on Zoom.  If you need help with that, I am happy to help arrange a location for you on campus.   
+
+I am expecting everyone to keep their cameras on all the time during class.  If this is an issue for you, please discuss with Sam ASAP.
 
 ______________________________
 
