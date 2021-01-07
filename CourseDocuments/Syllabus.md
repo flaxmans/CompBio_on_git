@@ -37,7 +37,7 @@ ______________________________
 
 + **NOTE DIFFERENT ZOOM LINK FOR OFFICE HOURS (below).**
 
-+ Cell Phone: _see Canvas_
++ Cell Phone: _see [Canvas][CanvasContactLink]_
 
 + Email Address: [samuel.flaxman@colorado.edu](mailto:samuel.flaxman@colorado.edu) 
 
@@ -45,7 +45,7 @@ ______________________________
 
     + No appointment is needed for office hours.  You can simply join the Zoom meeting below.  Note that the "waiting room" feature will be used.  If you are in the waiting room for several minutes, it means that Sam is meeting with someone else.  Office hours are held on Mondays so that you can follow up on any remaining questions or challenges you have from labs (on Fridays).  Office hours will be held every Monday from January 25th - April 26th.
 
-    + All one-on-one meetings and office hours meetings will take place using Zoom at the following link:  [https://cuboulder.zoom.us/j/98132204508](https://cuboulder.zoom.us/j/98132204508)
+    + All one-on-one meetings and office hours meetings will take place using Zoom at the following link:  _see [Canvas][CanvasContactLink]_
 
 ### Information available on Canvas:
 
@@ -63,6 +63,7 @@ The following are absolutely required for success in this class:
 * A webcam or camera built into your computer that can show your face
 * A microphone or one built into your computer that can clearly transmit your voice
 * A reliable, high-speed internet connection that has enough bandwidth for you to transmit Zoom sound, video, and screenshares
+* Checking [Canvas][CanvasSiteLink] regularly
 * The software requirements as detailed at [https://github.com/flaxmans/CompBio_on_git/blob/master/CourseDocuments/SoftwareRequirements.md](https://github.com/flaxmans/CompBio_on_git/blob/master/CourseDocuments/SoftwareRequirements.md)
 
 If you have any difficulty obtaining any of the above, you MUST let Sam know ASAP so that he can help you rectify the situation.  Broken cameras, microphones, computers, etc. will not be accepted as excuses for consistently missing work or a consistent lack of participation.  Unreliable or slow internet will NOT be accepted as an excuse for repeated absences or a consistent lack of participation.  If you have any concerns about this, please talk to Sam ASAP.   Sam wants to help you succeed and can put you in touch with resources to surmount any challenges you may be facing that are impeding you in having the requirements above.  The University as well as State and local governments all have resources that we can tap into if there is a need.
@@ -249,7 +250,9 @@ _____________________________
 ## Grading policies 
 This is a full, 3-credit course. You should expect to work as hard for these three credits as you do for any other advanced class.  Your final grade will be based upon a combination of (1) in-class participation, (2) formal assignments, (3) an independent project, (4) a take-home final examination, and (5) demonstrating enthusiasm and sincere effort for the material and the assignments.
 
-1. In-class participation will constitute 22.5% of your overall grade.  It will be based partially on attendance (you can’t participate without being there, right?), but mostly upon your work with others and your presentations to the class. Presentations to the class that fall in the participation category are “reporting out” exercises where you share the results of group work, sometimes at the front of the room using your own computer and/or the document camera.  Participation will also include discussions in class and demonstrations of your reasoning and problem solving (on paper and/or on your computer).  For most class periods, I will grade your participation on a scale from 0 to 5, with the approximate meanings of each as follows:  <br>
+1. Watching pre-recorded lectures will count for 20% of your grade.  These assignments will be completed via Canvas and the embedded PlayPosit tool.  
+
+2. In-class participation will constitute 15% of your overall grade.  It will be based partially on attendance (you can’t participate without being there, right?), but mostly upon your work with others and your presentations to the class. Presentations to the class that fall in the participation category are “reporting out” exercises where you share the results of group work, sometimes at the front of the room using your own computer and/or the document camera.  Participation will also include discussions in class and demonstrations of your reasoning and problem solving (on paper and/or on your computer).  For most class periods, I will grade your participation on a scale from 0 to 5, with the approximate meanings of each as follows:  <br>
 0 = absent  <br>
 1 = showed up but did not engage; very unprepared; very late  <br>
 2 = late; engaged minimally; not fully prepared  <br>
@@ -257,13 +260,13 @@ This is a full, 3-credit course. You should expect to work as hard for these thr
 4 = average preparation and participation  <br>
 5 = made an excellent contribution to the day's class
 
-2. Formal assignments and presentations will constitute 42.5% of your overall grade.  Assignments will include written homework problems, computer code, and written responses to readings and exercises.
+3. Formal assignments and presentations will constitute 35% of your overall grade.  Assignments will include written homework problems, computer code, and written responses to readings and exercises.
 
-3. An independent project will be announced just before or after spring break. This project will constitute 15% of your overall grade. The project will be built from a series of assignments during the semester.
+4. An independent project will be announced just before or after spring break. This project will constitute 15% of your overall grade. The project will be built from a series of assignments during the semester.
 
-4. A take-home final examination will be given out on the day of our final designated by the University. You will have 24 hours to complete it.  It will be open-book, but you must work alone.  This exam will constitute 15% of your final grade.
+5. A take-home final examination will be given out on the day of our final designated by the University. You will have 24 hours to complete it.  It will be open-book, but you must work alone.  This exam will constitute 10% of your final grade.
 
-5. Enthusiasm. 5% of your grade will be based upon a subjective evaluation (by me) of your general enthusiasm and effort for participating in all aspects of the course.  This not only includes your attitude toward class participation, but also things like really cleaning up your code nicely, polishing the work you show/turn in, etc.
+6. Enthusiasm. 5% of your grade will be based upon a subjective evaluation (by me) of your general enthusiasm and effort for participating in all aspects of the course.  This not only includes your attitude toward class participation, but also things like really cleaning up your code nicely, polishing the work you show/turn in, etc.
 
 Please note that all grades will be posted on the Course's [Canvas site][CanvasSiteLink]
 
@@ -364,3 +367,5 @@ See the [campus policy regarding religious observances](http://www.colorado.edu/
 [CitationLink]: https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html
 
 [CDPHEdata]: https://github.com/flaxmans/CompBio_on_git/tree/master/Datasets/COVID-19/CDPHE_Data
+
+[CanvasContactLink]: https://canvas.colorado.edu/courses/70214/pages/contact-information
