@@ -101,7 +101,7 @@ Please also note that all deadlines for assignments are found on [Canvas][Canvas
     + [Initialize a new repo and link it to GitHub](https://youtu.be/8Ln6pjFrdvw), i.e., `git init` and `git remote add origin ...`
     + [Make a README, `add`, `commit`, and `push`](https://youtu.be/YwzEhb4Tf-g)
 
-###### Week 3:
+###### Week 3 (2/1 - 2/5):
 + Topics
     + Follow up from lab: remaining uncertainties?
     + Best practices: git, files, comments, README
@@ -120,7 +120,7 @@ Please also note that all deadlines for assignments are found on [Canvas][Canvas
 + Hints and help: 
     + If you are experiencing conflicts with git, check out [this screencast](https://youtu.be/jIV_toWa5Zc).
 
-###### Week 4
+###### Week 4 (2/8 - 2/12)
 + Topics
     + More R and Scripting
     + Best practices for writing scripts and handling data
@@ -129,42 +129,39 @@ Please also note that all deadlines for assignments are found on [Canvas][Canvas
 + Resources: 
     + Read the ["Best Practices" Guide][bestpracticeslink]
  
-###### Week 5
+###### Week 5 (2/15 - 2/19)
 + More with loops
 + Vectorizing
 + Conditionals
 + Lab week 5: combining loops, vectors, and conditionals
-+ Action items:
-    + [Assignment 5][Assignment5link] (pushing Lab05)
-    + Re-read the ["Best Practices" Guide][bestpracticeslink]
++ Resources:
     + Check out this [guide to turning ideas into code][WordsToCodeLink] and let Sam know what you think of it.
+
  
-###### Week 6
+###### Week 6 (2/22 - 2/26)
  + More with loops and conditionals
  + Lab week 6: finish up lab 5 
  + Action items: 
-    + [Assignment 5][Assignment5link]
-    + Read the [Words to Code guide][WordsToCodeLink] and let Sam know what you think.  You can comment directly on that doc if you wish.
++ Read the [Words to Code guide][WordsToCodeLink] and let Sam know what you think.  You can comment directly on that doc if you wish.
++ **NOTE: Campus "Wellness day" (no classes) on Wednesday 2/24**
  
-###### Week 7
+###### Week 7 (3/1 - 3/5)
  + Solving problems and writing functions
  + Lab week 7: writing functions, part 1 
- + Action items: 
-    + [Assignment 6 (push lab 7)][Assignment6link]
+ 
     
-###### Week 8
+###### Week 8 (3/8 - 3/12)
  + Documentation and reproducibility
     + Markdown
     + More about Functions
  + [Lab week 8][Lab8link]: Markdown and more functions
- + Action items: 
+ + Resources:
     + Do the tutorial at [https://www.markdowntutorial.com/](https://www.markdowntutorial.com/)
-    + [Assignment 7 (push lab 8)][Assignment7link]
     + Reading for NEXT week:
         + *Abstract only* (unless you want to read more) at [https://doi.org/10.1371/journal.pone.0126373](https://doi.org/10.1371/journal.pone.0126373)
         + Data "Description" at [https://doi.org/10.5061/dryad.br86d](https://doi.org/10.5061/dryad.br86d)
 
-###### Week 9
+###### Week 9 (3/15 - 3/19)
  + Follow-up on labs from weeks 7 and 8
  + Putting it all together: working through data problems with real data
     + using previously learned tools and new tools
@@ -172,32 +169,31 @@ Please also note that all deadlines for assignments are found on [Canvas][Canvas
     + data exploration in R
     + scripting basic analyses and descriptive visualizations 
  + [Lab week 9](https://github.com/flaxmans/CompBio_on_git/blob/master/Labs/Lab09/Lab09_ParsingData.md): data parsing problems (prep by doing reading listed below)
- + Action items:
+ + Resources:
     + see two paragraphs of reading listed in week 8
     + Read about parsing dates and times in R at [https://www.stat.berkeley.edu/~s133/dates.html](https://www.stat.berkeley.edu/~s133/dates.html)
     + Browse the Tidyverse's date-handling package, "lubridate", at [https://lubridate.tidyverse.org/](https://lubridate.tidyverse.org/)
 
 
-###### Week 10
+###### Week 10 (3/22 - 3/26)
 + Continuation of last week's challenges
     + Putting it all together: working through data problems with real data
     + using previously learned tools and new tools
     + file exploration and parsing on the command line
     + data exploration in R
     + scripting basic analyses and descriptive visualizations 
-+ There is NO lab this week!
-+ Action item: please read (at least) through section 3.6 at the following guide to ggplot2: [https://r4ds.had.co.nz/data-visualisation.html](https://r4ds.had.co.nz/data-visualisation.html)
++ Resource: please read (at least) through section 3.6 at the following guide to ggplot2: [https://r4ds.had.co.nz/data-visualisation.html](https://r4ds.had.co.nz/data-visualisation.html)
++ **"Pause Week"**
+    + The week of March 22-26 will be used in this class as a “spring pause” to provide us all with a safe and supportive way to promote health, wellness and learning without leaving campus. During this week, we won’t have any exams or assignments due. We will still have class with interactive class activities that will require your attendance and be part of your final course grade. Attendance is still required for all class sessions. I wish we could take a regular spring break, but public-health concerns prevent us from doing so. I would like to emphasize that it is still important for you all to behave responsibly. Do not use the week to travel or engage in risky behavior that could result in an outbreak on campus.
 
- -- Spring Break --
  
- ###### Week 11
+ ###### Week 11 (3/29 - 4/2)
  + Topics:
     + Final projects announced and described (see also [Assignment 08][Assignment8link])
     + More fun with real data
     + Wrapping up work with the Cusack et al. dataset
 + Lab for Week 11: more practice filtering, subsetting, summarizing, and plotting data
-+ Action Items: 
-    + [Assignment 08][Assignment8link]
++ Resources: 
     + Preview the data set we'll work on in lab this week:
         + Read the abstract of [the original publication](https://doi.org/10.1111/j.1461-0248.2009.01285.x)
         + Download the [data package from Dryad](https://doi.org/10.5061/dryad.234)
@@ -207,43 +203,36 @@ Please also note that all deadlines for assignments are found on [Canvas][Canvas
         + In the `dplyr` package, check out `arrange()` and `summarise()`
         + Play with `ggplot()`
 
-###### Week 12
+###### Week 12 (4/5 - 4/9)
 + Topics:
     + More exploration of `ggplot()`
     + More work with the [tree density database](https://doi.org/10.5061/dryad.234)
-+ Action Items: 
-    + [Assignment 08][Assignment8link]
+
     
-###### Week 13
+###### Week 13 (4/12 - 4/16)
 + Topics:
     + Student presentations of work to each other! (see [Assignment 08][Assignment8link])
     + Reviewing problems from Labs 11 and 12 if needed
     + Working with `ggplot()` and [COVID-19 data from the Denver Post](https://github.com/flaxmans/CompBio_on_git/tree/master/Datasets/COVID-19/DenverPostPlot)
-    + **No lab this week!  Instead, please work on Assignment 9**.
-+ Action items:
++ Resources:
     + Read this Tidyverse [vignette about "pivoting"](https://tidyr.tidyverse.org/articles/pivot.html)
-    + [Independent project, Step 2 = Assignment 09][Assignment9link]
+
     
-###### Week 14
+###### Week 14 (4/19 - 4/23)
 + Topics:
     + Working with data sets comprising many files
     + Shell command line tools applied to big data
-+ No official lab this week; "lab" will be like extended office hours; Sam will be in N1B75 during the regularly scheduled time
-+ Action items:
-    + [Independent project, Step 2 = Assignment 09][Assignment9link]
++ Resources:
     + Check out one or two of the [raw data files on COVID-19 provided by CDPHE][CDPHEdata]
-    + Read this [guide on citing references][CitationLink] for doing Assignment 09.
+    + Read this [guide on citing references][CitationLink] for doing Assignment 09
  
- ###### Week 15
+ ###### Week 15 (4/26 - 4/28)
  + Topics:
     + Working with data sets comprising many files
     + Methods for creating visual and quantitative summaries across multiple data files
-+ No lab this week; Friday is the reading day
-+ Action items:
-    + [Independent project, Step 2 = Assignment 09][Assignment9link]
-    + Run the shell script "`IdeasForAnalyses.sh`" ([found in the CDPHE data folder][CDPHEdata]) on your own computer and look at the .csv files it produces.
++ Resources:
     + Read this [guide on citing references][CitationLink] for doing Assignment 09.
-    
++ **No class on Friday 4/30, "Reading Day"**    
 
 _____________________________
 
