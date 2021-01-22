@@ -1,8 +1,9 @@
 # Assignment 02
 ### *Announced*: 
-Tuesday, second week of class
+Tuesday, second full week of class
 ### *Due*: 
-Items #1-#6 are due by the *beginning* of lab on Friday this week (second week of class)
+Items #1-#6 are due by the *beginning* of lab on Friday this week (second week of class).
+See Canvas for exact due dates.
 
 ### *Short description of assignment*:
 Create a cookie recipe in a plain text file
