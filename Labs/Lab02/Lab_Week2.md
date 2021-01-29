@@ -117,6 +117,8 @@ Please complete all steps of this lab by Wednesday of next week of class.  See C
 
 Don't forget to [tell Sam your GitHub repo's URL][GoogleFormLink]!
 
+![requirements for completion](Completion.jpg "requirements for completion")
+
 
 
 
