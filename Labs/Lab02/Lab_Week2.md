@@ -67,7 +67,8 @@ In your terminal, you need to configure your git user account with the following
 	`git remote add origin your_repos_github_URL`,  
 	where "`your_repos_github_URL`" should be replaced by the actual link you copied from "quick setup" noted above (in part IV.)
 3. It's time to "push": the following command will push your local .git repo to the the address that you just designated as the remote:  
-	`git push -u origin master`  
+        `git push -u origin master`  or
+        `git push -u origin main`  (if you have changed your default branch to `main`)
 	Don't worry about the meaning of the "-u" flag for now.
 	Note that you will likely be prompted to give a username and password; these need to be your github username and password.
 4.  Go back to your browser and refresh.  The cookie recipe should be there now.
@@ -95,13 +96,14 @@ Also, if you indeed do a "checkout" operation, to get back to the most recently 
 ```
 $ git checkout master
 ```
+or `git checkout main` if you have changed the default branch to `main`.
 
 <hr>
 
 ### VIII. A shell script
 Formalizing Lab01's work
 
-Recall the [final task from last week's Lab](https://github.com/flaxmans/CompBio_on_git/blob/master/Labs/Lab01/Lab01_part2.md#5--if-you-have-time-or-on-your-own-to-just-learn-more-).  Note in particular the last three bullet points, which comprised a data-subsetting problem.  The task now is to write down in a plain text file a sequence of commands that would work to accomplish the final bullet point of last week's lab.  Before you begin, think about the task from start to finish.  I would suggest the following as steps: 
+Recall the [final task from last week's Lab](https://github.com/flaxmans/CompBio_on_git/blob/main/Labs/Lab01/Lab01_part2.md#5--if-you-have-time-or-on-your-own-to-just-learn-more-).  Note in particular the last three bullet points, which comprised a data-subsetting problem.  The task now is to write down in a plain text file a sequence of commands that would work to accomplish the final bullet point of last week's lab.  Before you begin, think about the task from start to finish.  I would suggest the following as steps: 
 1. make a new directory for Lab01 (where should that directory be?)
 2. copy the data file named `PredPreyData.csv` from your clone of Sam's repo into your own directory for Lab01
 3. make a plain text file in your Lab01 directory called `Lab01finalProblem.sh`.  Note that the `.sh` file extension is used here to indicate that this will be written as a shell script, i.e., a sequence of commands that can be implemented directly by the shell (i.e., in your terminal)
