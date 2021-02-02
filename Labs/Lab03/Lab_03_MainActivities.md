@@ -6,9 +6,10 @@ Get acquainted with the basic, universal features of R and RStudio that you will
 
 ### Preparation:  
 1.	If you have not done so already, and if you are new to R, please take the time now to watch this short video about R: [https://youtu.be/TG77MVHfC8E](https://youtu.be/TG77MVHfC8E)
-2.	If you are brand new to R and programming, please read the document I posted called "[For_people_who_have_never_used_R.md](https://github.com/flaxmans/CompBio_on_git/blob/master/Labs/Lab03/Start_Here_R_Basics.md)".
+2.	If you are brand new to R, I strongly recommend that you try the first tutorial of `swirl`.  To do so:  
+Go to [https://swirlstats.com/students.html](https://swirlstats.com/students.html) and do steps 3 and 4.  (You have already done the first two steps as part of this class by (previously) installing R and RStudio!  Woohoo!).  Proceed from the prompts in RStudio that follow when you give the `swirl()` command, and do the first module it offers, `1: R Programming: The basics of programming in R`.
 
-### Instructions:  
+### Instructions for this lab:  
 
 Please read and do all of the exercises below, in sequence.  Read the instructions carefully to save yourself time.  Have fun, ask questions, and talk to people around you about what you are doing!  Use Google searches like "how to ______ in R" if you are stuck.  Challenge yourself to become self-sufficient!  A detailed list of activities for this lab appears below.  The numbered items are the "action items", i.e., things you need to do for this lab.
 
