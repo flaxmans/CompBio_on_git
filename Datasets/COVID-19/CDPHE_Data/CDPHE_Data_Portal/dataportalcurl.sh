@@ -6,22 +6,31 @@ yesterday=$(date -j -v-1d '+%Y-%m-%d')
 # URLs for arcgis data portal from CDPHE:
 dailyStateStatURL="https://opendata.arcgis.com/datasets/566216cf203e400f8cbf2e6b4354bc57_0.csv"
 
-dailyStateStat2URL="https://opendata.arcgis.com/datasets/bd4ee19bc7fc4288a20db8d5a7bd2be2_0.csv"
+dailyStateStat2URL="https://opendata.arcgis.com/datasets/fb8f225c5fcf44f0831651f32656f234_0.csv"
 
 byCountyOfIDURL="https://opendata.arcgis.com/datasets/222c9d85e93540dba523939cfb718d76_0.csv?outSR=%7B%22latestWkid%22%3A4326%2C%22wkid%22%3A4326%7D"
 
 stateodrURL="https://opendata.arcgis.com/datasets/331ca20801e545c7a656158aaad6f8af_0.csv"
+# maybe stateodr is deprecated?
 
-clinicalLabsURL="https://opendata.arcgis.com/datasets/ca2c4b063f494506a1047d9783789ef7_0.csv"
+clinicalLabsURL="https://opendata.arcgis.com/datasets/86eeda81525c4afc97641868ac16bd34_0.csv"
 
-countyodrURL="https://opendata.arcgis.com/datasets/52fb11a8a07f49c1b28335a9de9ba99f_0.csv"
+countyodrURL="https://opendata.arcgis.com/datasets/b12ab49e84ab46bc8dfab19d2c9608e0_0.csv"
 
-testingSitesURL="https://opendata.arcgis.com/datasets/222c9d85e93540dba523939cfb718d76_0.csv?outSR=%7B%22latestWkid%22%3A4326%2C%22wkid%22%3A4326%7D"
+testingSitesURL="https://opendata.arcgis.com/datasets/836372161f4f4f989fb826a6b78c1c67_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
+
+vaccineURL="https://opendata.arcgis.com/datasets/b969cb642e9f48d49ae1b3b92dea5b87_0.csv"
+
+stateLevExpCaseDataURL="https://opendata.arcgis.com/datasets/20f9abcce0ed4a6c85a04cf14182f6a5_0.csv"
+
+wastewaterDashboardURL="https://opendata.arcgis.com/datasets/daeb2297e10c4b9f92437d06dfb72b81_0.csv"
 
 cdcURL="https://data.cdc.gov/api/views/r8kw-7aab/rows.csv?accessType=DOWNLOAD"
 
+
+
 # as an array:
-URLs=($dailyStateStatURL $dailyStateStat2URL $byCountyOfIDURL $stateodrURL $clinicalLabsURL $countyodrURL $testingSitesURL $cdcURL)
+URLs=($dailyStateStatURL $dailyStateStat2URL $byCountyOfIDURL $stateodrURL $clinicalLabsURL $countyodrURL $testingSitesURL $vaccineURL $stateLevExpCaseDataURL $wastewaterDashboardURL $cdcURL)
 
 # note following names need to be in exact same order as URLs!
 names=(CDPHE_COVID19_Daily_State_Statistics_
@@ -31,7 +40,11 @@ CDPHE_COVID19_State-Level_Open_Data_Repository_
 COVID19_Positivity_Data_from_Clinical_Laboratories_
 CDPHE_COVID19_County-Level_Open_Data_Repository_
 Community_Testing_Sites_
+Vaccine_Daily_Summary_Statistics_
+State_Level_Expanded_Case_Data_
+Wastewater_Dashboard_Data_
 Provisional_COVID-19_Death_Counts_by_Week_Ending_Date_and_State_)
+
 
 # subdirs in same order too!
 subdirs=(DailyStateStats
@@ -41,7 +54,11 @@ StateLevelOpenDataRepo
 ClinicalLabs
 CountyLevelOpenDataRepo
 CommunityTestingSites
+VaccineDailySummary
+StateLevelExpandedCaseData
+WastewaterDashboardData
 ../../CDC_Data)
+
 
 arrayLength="${#names[@]}"
 
@@ -51,6 +68,7 @@ do
 	echo $i
 	fname="${names[$i]}${mydate}.csv"
 	curl ${URLs[$i]} > tmp/${fname}
+    echo "${URLs[$i]}"
 	echo " "
 done
 
