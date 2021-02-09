@@ -6,22 +6,22 @@ yesterday=$(date -j -v-1d '+%Y-%m-%d')
 # URLs for arcgis data portal from CDPHE:
 dailyStateStatURL="https://opendata.arcgis.com/datasets/566216cf203e400f8cbf2e6b4354bc57_0.csv"
 
-dailyStateStat2URL="https://opendata.arcgis.com/datasets/fb8f225c5fcf44f0831651f32656f234_0.csv"
+dailyStateStat2URL="https://opendata.arcgis.com/datasets/89d3380a96374a6ab04c3256d766132b_0.csv"
 
 byCountyOfIDURL="https://opendata.arcgis.com/datasets/222c9d85e93540dba523939cfb718d76_0.csv?outSR=%7B%22latestWkid%22%3A4326%2C%22wkid%22%3A4326%7D"
 
 stateodrURL="https://opendata.arcgis.com/datasets/331ca20801e545c7a656158aaad6f8af_0.csv"
 # maybe stateodr is deprecated?
 
-clinicalLabsURL="https://opendata.arcgis.com/datasets/86eeda81525c4afc97641868ac16bd34_0.csv"
+clinicalLabsURL="https://opendata.arcgis.com/datasets/667a028c66e64be79d1f801cd6e6f304_0.csv"
 
-countyodrURL="https://opendata.arcgis.com/datasets/b12ab49e84ab46bc8dfab19d2c9608e0_0.csv"
+countyodrURL="https://opendata.arcgis.com/datasets/8ff1603466cb4fadaff7018612dc58a0_0.csv"
 
 testingSitesURL="https://opendata.arcgis.com/datasets/836372161f4f4f989fb826a6b78c1c67_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D"
 
-vaccineURL="https://opendata.arcgis.com/datasets/b969cb642e9f48d49ae1b3b92dea5b87_0.csv"
+vaccineURL="https://opendata.arcgis.com/datasets/a681d9e9f61144b2977badb89149198c_0.csv"
 
-stateLevExpCaseDataURL="https://opendata.arcgis.com/datasets/20f9abcce0ed4a6c85a04cf14182f6a5_0.csv"
+stateLevExpCaseDataURL="https://opendata.arcgis.com/datasets/15883575464d46f686044d2c1aa84ef9_0.csv"
 
 wastewaterDashboardURL="https://opendata.arcgis.com/datasets/daeb2297e10c4b9f92437d06dfb72b81_0.csv"
 

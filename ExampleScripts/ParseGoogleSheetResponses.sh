@@ -9,7 +9,7 @@ thisDir=`pwd`
 cd ~/compbio/Private_Files
 
 # get rid of quotation marks and header
-sed 's/"//g' StudentRepoLinks2020.csv | 	# remove "
+sed 's/"//g' StudentRepoLinks2021.csv | 	# remove "
 	sed "s/'//g" |				# remove '
 	tail +2 |				# remove header
 	sed 's/ //g' |				# remove whitespace
@@ -18,7 +18,7 @@ sed 's/"//g' StudentRepoLinks2020.csv | 	# remove "
 # make lastname_firstname,URL in a file, and remove duplicates:
 awk -F, '{print $2"_"$1","$4}' tmp.csv | 
 	sort | 					# sort entries for uniq
-	uniq > NamesUrlsNotEdited.csv		# remove duplicates
+	uniq > NamesUrlsNotEdited2021.csv		# remove duplicates
 
 # some stuff to deal with user dups and other extras:
 echo "\n\tNOTE: You now need to edit out incorrect entries manually.\n"

@@ -21,14 +21,14 @@ thisDir=`pwd` # so we can get back here when we're done
 # data file of student repos is NOT in this dir 
 # for data privacy reasons
 cd ~/compbio/Private_Files
-thisYearsWork="StudentWork2020"
+thisYearsWork="StudentWork2021"
 
 # names and links are first and second
 # columns in csv exported and parsed from
 # Google form:
 if [ "$1" == "clone" ]
 then
-    namesAndURLs=$(cat NamesURLsEdited.csv)
+    namesAndURLs=$(cat NamesUrlsNotEdited2021.csv)
 else
     cd ~/compbio/${thisYearsWork}
     namesAndURLs=$(tail +2 RepoNameList.csv)
