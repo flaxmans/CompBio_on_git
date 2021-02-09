@@ -1,8 +1,9 @@
 # Assignment 02
 ### *Announced*: 
-Tuesday, second full week of class
+Second full week of class
+
 ### *Due*: 
-Items #1-#6 are due by the *beginning* of lab on Friday this week (second week of class).
+Items #1-#6 (below) are due by the *beginning* of lab on Friday this week (second week of class).
 See Canvas for exact due dates.
 
 ### *Short description of assignment*:
@@ -27,4 +28,4 @@ Create a cookie recipe in a plain text file
 <hr>
 
 ### Completion:
-All of the above should be done prior to lab (as noted above).  However, the assignment will be considered to be complete when you have successfully completed **ALL steps of Lab 02**, because I will be grading it based upon what appears on your GitHub account.  Don't worry, we'll do all the setup for that in lab on Friday.
+All of the above should be done prior to lab (as noted above).  However, the assignment will be considered to be complete when you have successfully completed **ALL steps of [Lab 02](https://github.com/flaxmans/CompBio_on_git/blob/main/Labs/Lab02/Lab_Week2.md)**, because I will be grading it based upon what appears on your GitHub account.  Don't worry, we'll do all the setup for that in lab on Friday.
