@@ -94,7 +94,8 @@ do
     	printf "$dirname,$URL,$RepoName\n" >> RepoNameList.csv
     else
         # we're doing a pull:
-        echo "\nTrying to pull for student $dirname:"
+        echo " "
+        echo "Trying to pull for student $dirname:"
         RepoName=`echo $i | cut -f3 -d,` # repo directory name should be in third field
         cd ${dirname}/${RepoName}
         hiyou=`pwd`
@@ -102,7 +103,7 @@ do
         echo "dirname = $dirname"
         echo "reponame = $RepoName"
         git stash
-        git pull
+        git pull --no-rebase
         cd ~/compbio/${thisYearsWork}
     fi
 done

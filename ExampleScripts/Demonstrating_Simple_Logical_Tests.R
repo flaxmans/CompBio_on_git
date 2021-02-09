@@ -39,3 +39,25 @@ myThreshold <- 1
 testResults <- which(myVec >= myThreshold)
 myVec; testResults
 myVec[ testResults ]
+
+
+# How about NAs?  
+thisIsNA <- NA  # NA is a special value in R
+thisIsNOTNA <- "NA" # NA is NOT a string!  It's a special value
+# you can't test for NAs like this:
+thisIsNA == NA
+# you have to test for NAs like this:
+is.na(thisIsNA)
+someVector <- c(1, 2, NA, 4)
+is.na( someVector )
+
+# How about NaN?
+notReal <- sqrt(-1)
+notReal
+# similar to NAs, you can't test like this for NaNs:
+notReal == NaN
+# instead, do this:
+is.nan( notReal )
+someSqrts <- sqrt( c(25, 4, -9, 16) )
+someSqrts
+is.nan(someSqrts)
