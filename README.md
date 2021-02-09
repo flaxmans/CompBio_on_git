@@ -16,10 +16,8 @@ Some guidance about what you will find here:
 
 * For the *SYLLABUS*, look in "Course Documents" or just click [here](https://github.com/flaxmans/CompBio_on_git/blob/master/CourseDocuments/Syllabus.md)
 * For some of the assigned *READINGS*, you will have to visit the course's Canvas site (because of copyright protections on some readings)
-* For *POWERPOINT LECTURE SLIDES*, please visit [this Google Drive Folder folder][GoogleDriveLink]
 * Grades will be posted on the course's [Canvas site][CanvasSiteLink]
 * For *HELP* and *contact information*, click [here](https://github.com/flaxmans/CompBio_on_git/blob/master/CourseDocuments/Syllabus.md#contacting-sam-and-office-hours)
 
 
-[CanvasSiteLink]: https://cuboulder.instructure.com/courses/59483
-[GoogleDriveLink]: https://drive.google.com/drive/folders/1NnbmchARUxPdU6N4hdoRcbW9Yn_dXbEi?usp=sharing
+[CanvasSiteLink]: https://canvas.colorado.edu/courses/70214
