@@ -1,6 +1,5 @@
 # Some data on rainfall averages by state across the USA:
-rainfall <- read.csv( file = "~/compbio/CompBio_on_git/Datasets/AverageRainfallByState/AverageRainfallByState.csv", 
-                      stringsAsFactors = F)
+rainfall <- read.csv( file = "~/compbio/CompBio_on_git/Datasets/AverageRainfallByState/AverageRainfallByState.csv", stringsAsFactors = F)
 
 # General kind of problem:  Subset the data based upon the numbers
 
@@ -12,7 +11,7 @@ rainfall <- read.csv( file = "~/compbio/CompBio_on_git/Datasets/AverageRainfallB
 # Is a sort necessary?
 # Millimeters to meters conversion
 # Find rows where millimeters > 1000
-rainThreshold <- 500 # 1 meter is 1000 millimeters
+rainThreshold <- 1000 # 1 meter is 1000 millimeters
 # Look at third column (Millimeters) and Find rows where millimeters > 1000
 
 rainfall[,3] > rainThreshold
@@ -34,4 +33,6 @@ states3 <- rainfall$State[ logicalIndexes ]
 numStates <- length( states1 )
 
 # Print out the names
-
+cat(paste("There are", numStates, "states with average annual rainfall greater than", rainThreshold, "milimeters\n"))
+cat("Those states are:\n")
+cat(paste("\t",states3,"\n", sep = ""))
