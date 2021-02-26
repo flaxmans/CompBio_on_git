@@ -1,0 +1,4511 @@
+﻿Date,Utility,SARS_CoV_2_copies_L,Number_of_New_COVID19_Cases_by_,ObjectId
+08/13/2020,Fort Collins - Mulberry,4914.2,0,1
+08/06/2020,Loveland,,0,2
+08/15/2020,Metro Wastewater RWHTF - PRC,,36,3
+08/04/2020,Fort Collins - Boxelder,,0,4
+08/08/2020,South Adams County,,7,5
+08/02/2020,Aurora,,10,6
+08/17/2020,SPR,31424.9,6,7
+08/11/2020,Broomfield,,0,8
+08/13/2020,Greeley,19595.9,0,9
+08/13/2020,Longmont,,0,10
+08/13/2020,Louisville,1730.1,0,11
+08/13/2020,Loveland,,0,12
+08/13/2020,Metro Wastewater RWHTF - CC,,34,13
+08/13/2020,Metro Wastewater RWHTF - PRC,9358.1,44,14
+08/13/2020,Northglenn,,0,15
+08/13/2020,Pueblo,1779.8,5,16
+08/13/2020,Pueblo West,,0,17
+08/13/2020,South Adams County,7111.4,0,18
+08/13/2020,South Fort Collins,1624.6,0,19
+08/13/2020,SPR,7065.8,8,20
+08/13/2020,Wellington Water and Sewer,,0,21
+08/14/2020,Aurora,,24,22
+08/14/2020,Boulder,,0,23
+08/14/2020,Broomfield,,0,24
+08/14/2020,CO Springs - JD Phillips,,0,25
+08/14/2020,CO Springs - Las Vegas,,21,26
+08/14/2020,Estes Park + Upper Thompson,,0,27
+08/14/2020,Fort Collins - Boxelder,,0,28
+08/14/2020,Fort Collins - Drake,,5,29
+08/14/2020,Fort Collins - Mulberry,,0,30
+08/14/2020,Greeley,,0,31
+08/14/2020,Longmont,,0,32
+08/14/2020,Louisville,,0,33
+08/14/2020,Loveland,,0,34
+08/14/2020,Metro Wastewater RWHTF - CC,,29,35
+08/14/2020,Metro Wastewater RWHTF - PRC,,39,36
+08/14/2020,Northglenn,,0,37
+08/14/2020,Pueblo,,6,38
+08/14/2020,Pueblo West,,0,39
+08/14/2020,South Adams County,,0,40
+08/14/2020,South Fort Collins,,0,41
+08/14/2020,SPR,,8,42
+08/14/2020,Wellington Water and Sewer,,0,43
+08/15/2020,Aurora,,16,44
+08/15/2020,Boulder,,0,45
+08/15/2020,Broomfield,,0,46
+08/15/2020,CO Springs - JD Phillips,,5,47
+08/15/2020,CO Springs - Las Vegas,,15,48
+08/15/2020,Estes Park + Upper Thompson,,0,49
+08/15/2020,Fort Collins - Boxelder,,0,50
+08/15/2020,Fort Collins - Drake,,0,51
+08/15/2020,Fort Collins - Mulberry,,0,52
+08/15/2020,Greeley,,0,53
+08/15/2020,Longmont,,0,54
+08/15/2020,Louisville,,0,55
+08/15/2020,Loveland,,0,56
+08/15/2020,Metro Wastewater RWHTF - CC,,27,57
+08/15/2020,Northglenn,,0,58
+08/15/2020,Pueblo,,5,59
+08/15/2020,Pueblo West,,0,60
+08/15/2020,South Adams County,,0,61
+08/15/2020,South Fort Collins,,0,62
+08/15/2020,SPR,,7,63
+08/15/2020,Wellington Water and Sewer,,0,64
+08/16/2020,Aurora,,13,65
+08/16/2020,Boulder,,0,66
+08/16/2020,Broomfield,,0,67
+08/16/2020,CO Springs - JD Phillips,,5,68
+08/16/2020,CO Springs - Las Vegas,,12,69
+08/16/2020,Estes Park + Upper Thompson,,0,70
+08/16/2020,Fort Collins - Boxelder,,0,71
+08/16/2020,Fort Collins - Drake,,0,72
+08/16/2020,Fort Collins - Mulberry,,0,73
+08/16/2020,Greeley,,0,74
+08/16/2020,Longmont,,0,75
+08/16/2020,Louisville,,0,76
+08/16/2020,Loveland,,0,77
+08/16/2020,Metro Wastewater RWHTF - CC,,22,78
+08/16/2020,Metro Wastewater RWHTF - PRC,,42,79
+08/16/2020,Northglenn,8660.3,0,80
+08/16/2020,Pueblo,,5,81
+08/16/2020,Pueblo West,,0,82
+08/16/2020,South Adams County,,0,83
+08/16/2020,South Fort Collins,,0,84
+08/16/2020,SPR,,6,85
+08/16/2020,Wellington Water and Sewer,,0,86
+08/17/2020,Aurora,29500.8,13,87
+08/17/2020,Boulder,3501.7,0,88
+08/17/2020,Broomfield,0,0,89
+08/17/2020,CO Springs - JD Phillips,13380.4,7,90
+08/17/2020,CO Springs - Las Vegas,12423.4,12,91
+08/06/2020,Metro Wastewater RWHTF - CC,17308.9,40,92
+08/17/2020,Estes Park + Upper Thompson,3578.8,0,93
+08/17/2020,Fort Collins - Boxelder,279516,0,94
+08/17/2020,Fort Collins - Drake,13455.6,5,95
+08/17/2020,Fort Collins - Mulberry,1453.6,0,96
+08/17/2020,Greeley,20071.1,0,97
+08/17/2020,Longmont,5119,0,98
+08/17/2020,Louisville,0,0,99
+08/17/2020,Loveland,,0,100
+08/17/2020,Metro Wastewater RWHTF - CC,,24,101
+08/06/2020,Metro Wastewater RWHTF - PRC,7078.3,53,102
+08/11/2020,CO Springs - JD Phillips,,6,103
+08/17/2020,Metro Wastewater RWHTF - PRC,24940.5,40,104
+08/06/2020,Northglenn,,7,105
+08/17/2020,Wellington Water and Sewer,,0,106
+08/04/2020,Fort Collins - Drake,,7,107
+08/02/2020,Boulder,,0,108
+08/08/2020,South Fort Collins,,0,109
+08/04/2020,Fort Collins - Mulberry,,5,110
+08/04/2020,Greeley,,0,111
+08/04/2020,Longmont,,0,112
+08/08/2020,SPR,,8,113
+08/04/2020,Louisville,,0,114
+08/06/2020,Pueblo,17677.7,6,115
+08/08/2020,Wellington Water and Sewer,,0,116
+08/02/2020,Broomfield,12868.8,0,117
+08/18/2020,Aurora,,18,118
+08/11/2020,CO Springs - Las Vegas,,22,119
+08/04/2020,Loveland,,0,120
+08/06/2020,Pueblo West,,0,121
+08/09/2020,Aurora,,20,122
+08/02/2020,CO Springs - JD Phillips,24177.4,5,123
+08/18/2020,Boulder,,5,124
+08/11/2020,Estes Park + Upper Thompson,,0,125
+08/17/2020,Northglenn,,0,126
+08/04/2020,Metro Wastewater RWHTF - CC,,32,127
+08/06/2020,South Adams County,0,7,128
+08/09/2020,Boulder,,0,129
+08/02/2020,CO Springs - Las Vegas,50393.5,15,130
+08/18/2020,Broomfield,,0,131
+08/11/2020,Fort Collins - Boxelder,,0,132
+08/17/2020,Pueblo,14604.2,5,133
+08/04/2020,Metro Wastewater RWHTF - PRC,,51,134
+08/06/2020,South Fort Collins,19275.9,0,135
+08/09/2020,Broomfield,,0,136
+08/02/2020,Estes Park + Upper Thompson,4811.4,0,137
+08/18/2020,CO Springs - JD Phillips,,9,138
+08/11/2020,Fort Collins - Drake,,7,139
+08/17/2020,Pueblo West,,0,140
+08/17/2020,South Adams County,4106.2,5,141
+08/17/2020,South Fort Collins,5676.9,0,142
+08/06/2020,SPR,15333.7,11,143
+08/06/2020,Wellington Water and Sewer,,0,144
+08/07/2020,Aurora,,30,145
+08/07/2020,Boulder,,0,146
+08/07/2020,Broomfield,,0,147
+08/07/2020,CO Springs - JD Phillips,,5,148
+08/07/2020,CO Springs - Las Vegas,,18,149
+08/07/2020,Estes Park + Upper Thompson,,0,150
+08/07/2020,Fort Collins - Boxelder,,0,151
+08/07/2020,Fort Collins - Drake,,8,152
+08/07/2020,Fort Collins - Mulberry,,0,153
+08/07/2020,Greeley,,5,154
+08/07/2020,Longmont,,0,155
+08/07/2020,Louisville,,0,156
+08/07/2020,Loveland,,0,157
+08/07/2020,Metro Wastewater RWHTF - CC,,40,158
+08/07/2020,Metro Wastewater RWHTF - PRC,,50,159
+08/07/2020,Northglenn,,7,160
+08/07/2020,Pueblo,,5,161
+08/07/2020,Pueblo West,,0,162
+08/07/2020,South Adams County,,9,163
+08/07/2020,South Fort Collins,,0,164
+08/07/2020,SPR,,8,165
+08/07/2020,Wellington Water and Sewer,,0,166
+08/08/2020,Aurora,,27,167
+08/08/2020,Boulder,,0,168
+08/08/2020,Broomfield,,0,169
+08/08/2020,CO Springs - JD Phillips,,0,170
+08/08/2020,CO Springs - Las Vegas,,15,171
+08/08/2020,Estes Park + Upper Thompson,,0,172
+08/08/2020,Fort Collins - Boxelder,,0,173
+08/08/2020,Fort Collins - Drake,,6,174
+08/08/2020,Fort Collins - Mulberry,,0,175
+08/08/2020,Greeley,,0,176
+08/08/2020,Longmont,,0,177
+08/08/2020,Louisville,,0,178
+08/08/2020,Loveland,,0,179
+08/08/2020,Metro Wastewater RWHTF - CC,,30,180
+08/08/2020,Metro Wastewater RWHTF - PRC,,48,181
+08/08/2020,Northglenn,,5,182
+08/08/2020,Pueblo,,0,183
+08/08/2020,Pueblo West,,0,184
+08/04/2020,Northglenn,,0,185
+08/04/2020,Pueblo,,5,186
+08/04/2020,Pueblo West,,0,187
+08/04/2020,South Adams County,,6,188
+08/04/2020,South Fort Collins,,0,189
+08/04/2020,SPR,,14,190
+08/04/2020,Wellington Water and Sewer,,0,191
+08/05/2020,Aurora,,24,192
+08/05/2020,Boulder,,0,193
+08/05/2020,Broomfield,,0,194
+08/05/2020,CO Springs - JD Phillips,,5,195
+08/05/2020,CO Springs - Las Vegas,,28,196
+08/05/2020,Estes Park + Upper Thompson,,0,197
+08/05/2020,Fort Collins - Boxelder,,0,198
+08/05/2020,Fort Collins - Drake,,9,199
+08/05/2020,Fort Collins - Mulberry,,6,200
+08/05/2020,Greeley,,5,201
+08/05/2020,Longmont,,0,202
+08/05/2020,Louisville,,0,203
+08/05/2020,Loveland,,0,204
+08/05/2020,Metro Wastewater RWHTF - CC,,43,205
+08/05/2020,Metro Wastewater RWHTF - PRC,,61,206
+08/05/2020,Northglenn,,6,207
+08/05/2020,Pueblo,,6,208
+08/05/2020,Pueblo West,,0,209
+08/05/2020,South Adams County,,7,210
+08/05/2020,South Fort Collins,,0,211
+08/05/2020,SPR,,14,212
+08/05/2020,Wellington Water and Sewer,,0,213
+08/06/2020,Aurora,23675,27,214
+08/06/2020,Boulder,,0,215
+08/06/2020,Broomfield,1348.2,0,216
+08/06/2020,CO Springs - JD Phillips,23485.2,5,217
+08/06/2020,CO Springs - Las Vegas,22157,20,218
+08/06/2020,Estes Park + Upper Thompson,54446.7,0,219
+08/06/2020,Fort Collins - Boxelder,3590.5,0,220
+08/06/2020,Fort Collins - Drake,0,10,221
+08/06/2020,Fort Collins - Mulberry,4994.6,7,222
+08/06/2020,Greeley,5764.2,5,223
+08/06/2020,Longmont,,0,224
+08/06/2020,Louisville,5145.3,0,225
+08/11/2020,Fort Collins - Mulberry,,0,226
+08/11/2020,Greeley,,6,227
+08/11/2020,Longmont,,0,228
+08/11/2020,Louisville,,0,229
+08/11/2020,Loveland,,0,230
+08/11/2020,Metro Wastewater RWHTF - CC,,33,231
+08/11/2020,Metro Wastewater RWHTF - PRC,,49,232
+08/11/2020,Northglenn,,0,233
+08/11/2020,Pueblo,,5,234
+08/11/2020,Pueblo West,,0,235
+08/11/2020,South Adams County,,6,236
+08/11/2020,South Fort Collins,,0,237
+08/11/2020,SPR,,9,238
+08/11/2020,Wellington Water and Sewer,,0,239
+08/12/2020,Aurora,,25,240
+08/12/2020,Boulder,,0,241
+08/12/2020,Broomfield,,0,242
+08/12/2020,CO Springs - JD Phillips,,6,243
+08/12/2020,CO Springs - Las Vegas,,27,244
+08/12/2020,Estes Park + Upper Thompson,,0,245
+08/12/2020,Fort Collins - Boxelder,,0,246
+08/12/2020,Fort Collins - Drake,,9,247
+08/12/2020,Fort Collins - Mulberry,,0,248
+08/12/2020,Greeley,,5,249
+08/12/2020,Longmont,,0,250
+08/12/2020,Louisville,,0,251
+08/12/2020,Loveland,,0,252
+08/12/2020,Metro Wastewater RWHTF - CC,,35,253
+08/12/2020,Metro Wastewater RWHTF - PRC,,53,254
+08/12/2020,Northglenn,,0,255
+08/12/2020,Pueblo,,5,256
+08/12/2020,Pueblo West,,0,257
+08/12/2020,South Adams County,,6,258
+08/12/2020,South Fort Collins,,0,259
+08/12/2020,SPR,,9,260
+08/12/2020,Wellington Water and Sewer,,0,261
+08/13/2020,Aurora,25467.2,22,262
+08/13/2020,Boulder,4958.5,0,263
+08/13/2020,Broomfield,979.2,0,264
+08/13/2020,CO Springs - JD Phillips,13182.4,5,265
+08/13/2020,CO Springs - Las Vegas,23777,23,266
+08/13/2020,Estes Park + Upper Thompson,102439.4,0,267
+08/13/2020,Fort Collins - Boxelder,23829.8,0,268
+08/13/2020,Fort Collins - Drake,18605.5,8,269
+08/18/2020,CO Springs - Las Vegas,,18,270
+08/18/2020,Estes Park + Upper Thompson,,0,271
+08/18/2020,Fort Collins - Boxelder,,0,272
+08/18/2020,Fort Collins - Drake,,9,273
+08/18/2020,Fort Collins - Mulberry,,0,274
+08/18/2020,Greeley,,0,275
+08/18/2020,Longmont,,0,276
+08/18/2020,Louisville,,0,277
+08/18/2020,Loveland,,0,278
+08/18/2020,Metro Wastewater RWHTF - CC,,28,279
+08/18/2020,Metro Wastewater RWHTF - PRC,,45,280
+08/18/2020,Northglenn,18254.8,0,281
+08/18/2020,Pueblo,,6,282
+08/18/2020,Pueblo West,,0,283
+08/18/2020,South Adams County,,5,284
+08/18/2020,South Fort Collins,,0,285
+08/18/2020,SPR,,8,286
+08/18/2020,Wellington Water and Sewer,,0,287
+08/19/2020,Aurora,,21,288
+08/19/2020,Boulder,,6,289
+08/19/2020,Broomfield,,0,290
+08/19/2020,CO Springs - JD Phillips,,8,291
+08/19/2020,CO Springs - Las Vegas,,20,292
+08/19/2020,Estes Park + Upper Thompson,,0,293
+08/19/2020,Fort Collins - Boxelder,,0,294
+08/19/2020,Fort Collins - Drake,,10,295
+08/19/2020,Fort Collins - Mulberry,,0,296
+08/19/2020,Greeley,,0,297
+08/19/2020,Longmont,,0,298
+08/19/2020,Louisville,,0,299
+08/19/2020,Loveland,,0,300
+08/19/2020,Metro Wastewater RWHTF - CC,,31,301
+08/19/2020,Metro Wastewater RWHTF - PRC,,43,302
+08/19/2020,Northglenn,,0,303
+08/19/2020,Pueblo,,5,304
+08/19/2020,Pueblo West,,0,305
+08/19/2020,South Adams County,,0,306
+08/19/2020,South Fort Collins,,0,307
+08/19/2020,SPR,,9,308
+08/19/2020,Wellington Water and Sewer,,0,309
+08/20/2020,Aurora,29458.4,19,310
+08/20/2020,Boulder,8227.3,5,311
+08/20/2020,Broomfield,7451.3,0,312
+08/20/2020,CO Springs - JD Phillips,9642,5,313
+08/02/2020,Fort Collins - Boxelder,71341.9,0,314
+08/09/2020,CO Springs - JD Phillips,,0,315
+08/09/2020,CO Springs - Las Vegas,,13,316
+08/09/2020,Estes Park + Upper Thompson,,0,317
+08/09/2020,Fort Collins - Boxelder,,0,318
+08/09/2020,Fort Collins - Drake,,0,319
+08/09/2020,Fort Collins - Mulberry,,0,320
+08/09/2020,Greeley,,0,321
+08/09/2020,Longmont,,0,322
+08/09/2020,Louisville,,0,323
+08/09/2020,Loveland,,0,324
+08/09/2020,Metro Wastewater RWHTF - CC,,24,325
+08/09/2020,Metro Wastewater RWHTF - PRC,,43,326
+08/09/2020,Northglenn,,0,327
+08/09/2020,Pueblo,,5,328
+08/09/2020,Pueblo West,,0,329
+08/09/2020,South Adams County,,6,330
+08/09/2020,South Fort Collins,,0,331
+08/09/2020,SPR,,8,332
+08/09/2020,Wellington Water and Sewer,,0,333
+08/10/2020,Aurora,18286.1,19,334
+08/10/2020,Boulder,,0,335
+08/10/2020,Broomfield,9069.9,0,336
+08/10/2020,CO Springs - JD Phillips,19366.9,5,337
+08/10/2020,CO Springs - Las Vegas,25339.9,20,338
+08/10/2020,Estes Park + Upper Thompson,5572.5,0,339
+08/10/2020,Fort Collins - Boxelder,2554.4,0,340
+08/10/2020,Fort Collins - Drake,2755.9,0,341
+08/10/2020,Fort Collins - Mulberry,23079.3,0,342
+08/10/2020,Greeley,16073.5,5,343
+08/10/2020,Longmont,,0,344
+08/10/2020,Louisville,81151.8,0,345
+08/10/2020,Loveland,,0,346
+08/10/2020,Metro Wastewater RWHTF - CC,,24,347
+08/10/2020,Metro Wastewater RWHTF - PRC,14862.1,48,348
+08/10/2020,Northglenn,13357.1,0,349
+08/10/2020,Pueblo,9202.8,0,350
+08/10/2020,Pueblo West,,0,351
+08/10/2020,South Adams County,5308.3,5,352
+08/10/2020,South Fort Collins,2512,0,353
+08/10/2020,SPR,2500.4,10,354
+08/10/2020,Wellington Water and Sewer,,0,355
+08/11/2020,Aurora,,19,356
+08/11/2020,Boulder,,0,357
+08/02/2020,Fort Collins - Drake,1322.7,0,358
+08/02/2020,Fort Collins - Mulberry,0,0,359
+08/02/2020,Greeley,3512.1,0,360
+08/02/2020,Longmont,,0,361
+08/02/2020,Louisville,1256.1,0,362
+08/02/2020,Loveland,,0,363
+08/02/2020,Metro Wastewater RWHTF - CC,14555.4,13,364
+08/02/2020,Metro Wastewater RWHTF - PRC,6384.8,28,365
+08/02/2020,Northglenn,,0,366
+08/02/2020,Pueblo,2635.4,0,367
+08/02/2020,Pueblo West,,0,368
+08/02/2020,South Adams County,,0,369
+08/02/2020,South Fort Collins,7099.6,0,370
+08/02/2020,SPR,,9,371
+08/02/2020,Wellington Water and Sewer,,0,372
+08/03/2020,Aurora,,16,373
+08/03/2020,Boulder,,0,374
+08/03/2020,Broomfield,,0,375
+08/03/2020,CO Springs - JD Phillips,,6,376
+08/03/2020,CO Springs - Las Vegas,,27,377
+08/03/2020,Estes Park + Upper Thompson,,0,378
+08/03/2020,Fort Collins - Boxelder,,0,379
+08/03/2020,Fort Collins - Drake,,0,380
+08/03/2020,Fort Collins - Mulberry,,0,381
+08/03/2020,Greeley,,0,382
+08/03/2020,Longmont,,0,383
+08/03/2020,Louisville,,0,384
+08/03/2020,Loveland,,0,385
+08/03/2020,Metro Wastewater RWHTF - CC,,30,386
+08/03/2020,Metro Wastewater RWHTF - PRC,,48,387
+08/03/2020,Northglenn,,0,388
+08/03/2020,Pueblo,,0,389
+08/03/2020,Pueblo West,,0,390
+08/03/2020,South Adams County,,6,391
+08/03/2020,South Fort Collins,,0,392
+08/03/2020,SPR,,12,393
+08/03/2020,Wellington Water and Sewer,,0,394
+08/04/2020,Aurora,,18,395
+08/04/2020,Boulder,,0,396
+08/04/2020,Broomfield,,0,397
+08/04/2020,CO Springs - JD Phillips,,6,398
+08/04/2020,CO Springs - Las Vegas,,25,399
+08/04/2020,Estes Park + Upper Thompson,,0,400
+09/05/2020,Broomfield,,0,401
+09/05/2020,CO Springs - JD Phillips,,0,402
+09/05/2020,CO Springs - Las Vegas,,9,403
+09/05/2020,Estes Park + Upper Thompson,,0,404
+09/05/2020,Fort Collins - Boxelder,,0,405
+09/05/2020,Fort Collins - Drake,,6,406
+09/05/2020,Fort Collins - Mulberry,,0,407
+09/05/2020,Greeley,,7,408
+09/05/2020,Longmont,,0,409
+09/05/2020,Louisville,,0,410
+09/05/2020,Loveland,,0,411
+09/05/2020,Metro Wastewater RWHTF - CC,,23,412
+09/05/2020,Metro Wastewater RWHTF - PRC,,40,413
+09/05/2020,Northglenn,,0,414
+09/05/2020,Pueblo,,0,415
+09/05/2020,Pueblo West,,0,416
+09/05/2020,South Adams County,,5,417
+09/05/2020,South Fort Collins,,0,418
+09/05/2020,SPR,,8,419
+09/05/2020,Wellington Water and Sewer,,0,420
+09/06/2020,Aurora,,16,421
+09/06/2020,Boulder,,30,422
+09/06/2020,Broomfield,,0,423
+09/06/2020,CO Springs - JD Phillips,,0,424
+09/06/2020,CO Springs - Las Vegas,,8,425
+09/06/2020,Estes Park + Upper Thompson,,0,426
+09/06/2020,Fort Collins - Boxelder,,0,427
+09/06/2020,Fort Collins - Drake,,0,428
+09/06/2020,Fort Collins - Mulberry,,0,429
+09/06/2020,Greeley,,5,430
+09/06/2020,Longmont,,0,431
+09/06/2020,Louisville,,0,432
+09/06/2020,Loveland,,0,433
+09/06/2020,Metro Wastewater RWHTF - CC,,20,434
+09/06/2020,Metro Wastewater RWHTF - PRC,,36,435
+09/06/2020,Northglenn,,0,436
+09/06/2020,Pueblo,,0,437
+09/06/2020,Pueblo West,,0,438
+09/06/2020,South Adams County,,0,439
+09/06/2020,South Fort Collins,,0,440
+09/06/2020,SPR,,6,441
+09/06/2020,Wellington Water and Sewer,,0,442
+09/07/2020,Aurora,,11,443
+09/07/2020,Boulder,,36,444
+09/07/2020,Broomfield,,0,445
+09/07/2020,CO Springs - JD Phillips,,0,446
+09/07/2020,CO Springs - Las Vegas,,11,447
+09/07/2020,Estes Park + Upper Thompson,,0,448
+09/07/2020,Fort Collins - Boxelder,,0,449
+09/07/2020,Fort Collins - Drake,,0,450
+08/29/2020,Fort Collins - Boxelder,,0,451
+08/22/2020,Longmont,,0,452
+08/29/2020,Fort Collins - Drake,,8,453
+08/22/2020,Louisville,,0,454
+08/29/2020,Fort Collins - Mulberry,,0,455
+08/22/2020,Loveland,,0,456
+08/29/2020,Greeley,,9,457
+08/20/2020,CO Springs - Las Vegas,20614.9,21,458
+08/22/2020,Metro Wastewater RWHTF - CC,,33,459
+08/31/2020,Loveland,,0,460
+09/02/2020,South Adams County,,8,461
+08/29/2020,Longmont,,0,462
+08/20/2020,Estes Park + Upper Thompson,16283.3,0,463
+08/24/2020,Pueblo,15236,0,464
+08/22/2020,Metro Wastewater RWHTF - PRC,,50,465
+08/31/2020,Metro Wastewater RWHTF - CC,,19,466
+09/02/2020,South Fort Collins,,0,467
+08/27/2020,Aurora,,18,468
+08/29/2020,Louisville,,0,469
+08/20/2020,Fort Collins - Boxelder,11451.4,0,470
+08/24/2020,Pueblo West,,0,471
+08/22/2020,Northglenn,,0,472
+08/31/2020,Metro Wastewater RWHTF - PRC,2456.2,40,473
+09/02/2020,SPR,,14,474
+08/27/2020,Boulder,12215.9,6,475
+08/29/2020,Loveland,,0,476
+08/20/2020,Fort Collins - Drake,37557.1,9,477
+08/24/2020,South Adams County,7933.3,5,478
+08/22/2020,Pueblo,,5,479
+08/22/2020,Pueblo West,,0,480
+08/22/2020,South Adams County,,0,481
+08/22/2020,South Fort Collins,,0,482
+08/22/2020,SPR,,8,483
+08/22/2020,Wellington Water and Sewer,,0,484
+08/23/2020,Aurora,,18,485
+08/23/2020,Boulder,,0,486
+08/23/2020,Broomfield,,0,487
+08/23/2020,CO Springs - JD Phillips,,0,488
+08/23/2020,CO Springs - Las Vegas,,13,489
+08/23/2020,Estes Park + Upper Thompson,,0,490
+08/23/2020,Fort Collins - Boxelder,,0,491
+08/23/2020,Fort Collins - Drake,,5,492
+08/23/2020,Fort Collins - Mulberry,,0,493
+08/23/2020,Greeley,,5,494
+08/23/2020,Longmont,,0,495
+08/23/2020,Louisville,,0,496
+08/23/2020,Loveland,,0,497
+08/23/2020,Metro Wastewater RWHTF - CC,,28,498
+08/23/2020,Metro Wastewater RWHTF - PRC,,42,499
+08/23/2020,Northglenn,12990.5,0,500
+08/23/2020,Pueblo,,0,501
+08/23/2020,Pueblo West,,0,502
+08/23/2020,South Adams County,,0,503
+08/23/2020,South Fort Collins,,0,504
+08/23/2020,SPR,,8,505
+08/23/2020,Wellington Water and Sewer,,0,506
+08/24/2020,Aurora,16934.5,21,507
+08/24/2020,Boulder,3616.6,5,508
+08/24/2020,Broomfield,1391.5,0,509
+08/24/2020,CO Springs - JD Phillips,9150.8,5,510
+08/24/2020,CO Springs - Las Vegas,16686.5,15,511
+08/24/2020,Estes Park + Upper Thompson,16151.1,0,512
+08/24/2020,Fort Collins - Boxelder,5415.9,0,513
+08/24/2020,Fort Collins - Drake,7498.5,0,514
+08/24/2020,Fort Collins - Mulberry,4988.5,0,515
+08/24/2020,Greeley,23407.1,0,516
+08/24/2020,Longmont,8418,0,517
+08/24/2020,Louisville,4080.4,0,518
+08/24/2020,Loveland,,0,519
+08/24/2020,Metro Wastewater RWHTF - CC,,28,520
+08/24/2020,Metro Wastewater RWHTF - PRC,10083.9,45,521
+08/24/2020,Northglenn,,0,522
+08/27/2020,Broomfield,0,0,523
+08/27/2020,CO Springs - JD Phillips,15906.5,0,524
+08/27/2020,CO Springs - Las Vegas,9917.9,21,525
+08/27/2020,Estes Park + Upper Thompson,3061.5,0,526
+08/27/2020,Fort Collins - Boxelder,21659.7,0,527
+08/27/2020,Fort Collins - Drake,7622.4,9,528
+08/27/2020,Fort Collins - Mulberry,17807.1,0,529
+08/27/2020,Greeley,20741.9,9,530
+08/27/2020,Longmont,3538.4,0,531
+08/27/2020,Louisville,0,0,532
+08/27/2020,Loveland,,0,533
+08/27/2020,Metro Wastewater RWHTF - CC,,29,534
+08/27/2020,Metro Wastewater RWHTF - PRC,7397.2,42,535
+08/27/2020,Northglenn,,0,536
+08/27/2020,Pueblo,3294.5,0,537
+08/27/2020,Pueblo West,,0,538
+08/27/2020,South Adams County,15495.5,10,539
+08/27/2020,South Fort Collins,13242.8,0,540
+08/27/2020,SPR,21860.6,12,541
+08/27/2020,Wellington Water and Sewer,,0,542
+08/28/2020,Aurora,,19,543
+08/28/2020,Boulder,,5,544
+08/28/2020,Broomfield,,0,545
+08/28/2020,CO Springs - JD Phillips,,0,546
+08/28/2020,CO Springs - Las Vegas,,18,547
+08/28/2020,Estes Park + Upper Thompson,,0,548
+08/28/2020,Fort Collins - Boxelder,,0,549
+08/28/2020,Fort Collins - Drake,,10,550
+08/24/2020,South Fort Collins,17102.3,0,551
+08/28/2020,Fort Collins - Mulberry,,0,552
+08/31/2020,Northglenn,,0,553
+08/24/2020,SPR,7926.8,8,554
+09/02/2020,Wellington Water and Sewer,,0,555
+08/28/2020,Greeley,,9,556
+08/20/2020,Fort Collins - Mulberry,4983.8,0,557
+08/29/2020,Metro Wastewater RWHTF - CC,,22,558
+08/31/2020,Pueblo,6071.7,0,559
+08/24/2020,Wellington Water and Sewer,,0,560
+08/28/2020,Longmont,,0,561
+09/03/2020,Aurora,18477.5,20,562
+09/03/2020,Boulder,38466.4,29,563
+09/03/2020,Broomfield,2363.1,0,564
+09/03/2020,CO Springs - JD Phillips,15799.5,5,565
+09/03/2020,CO Springs - Las Vegas,6185.5,14,566
+09/03/2020,Estes Park + Upper Thompson,5504.4,0,567
+09/03/2020,Fort Collins - Boxelder,16389.7,0,568
+09/03/2020,Fort Collins - Drake,20166.8,11,569
+09/03/2020,Fort Collins - Mulberry,1306.5,0,570
+09/03/2020,Greeley,3382.6,9,571
+09/03/2020,Longmont,1665.5,0,572
+09/03/2020,Louisville,1073.5,0,573
+09/03/2020,Loveland,,6,574
+09/03/2020,Metro Wastewater RWHTF - CC,,31,575
+09/03/2020,Metro Wastewater RWHTF - PRC,11407.8,43,576
+09/03/2020,Northglenn,,0,577
+09/03/2020,Pueblo,11674.9,0,578
+09/03/2020,Pueblo West,,0,579
+09/03/2020,South Adams County,9730.1,8,580
+09/03/2020,South Fort Collins,4163.2,0,581
+09/03/2020,SPR,8157.2,13,582
+08/28/2020,Louisville,,0,583
+09/03/2020,Wellington Water and Sewer,,0,584
+08/28/2020,Loveland,,0,585
+08/31/2020,Pueblo West,,0,586
+08/20/2020,Greeley,3221.1,0,587
+09/04/2020,Aurora,,22,588
+08/31/2020,South Adams County,5579,5,589
+08/28/2020,Metro Wastewater RWHTF - CC,,26,590
+08/29/2020,Metro Wastewater RWHTF - PRC,,25,591
+08/25/2020,Aurora,,17,592
+08/20/2020,Longmont,4737.7,0,593
+08/28/2020,Metro Wastewater RWHTF - PRC,,33,594
+08/29/2020,Northglenn,,0,595
+08/31/2020,South Fort Collins,0,0,596
+08/25/2020,Boulder,,8,597
+09/04/2020,Boulder,,34,598
+08/20/2020,Louisville,1426.2,0,599
+08/28/2020,Northglenn,,0,600
+08/29/2020,Pueblo,,0,601
+08/31/2020,SPR,16126.6,10,602
+08/25/2020,Broomfield,,0,603
+09/04/2020,Broomfield,,0,604
+08/20/2020,Loveland,,0,605
+08/28/2020,Pueblo,,0,606
+08/29/2020,Pueblo West,,0,607
+08/31/2020,Wellington Water and Sewer,,0,608
+08/25/2020,CO Springs - JD Phillips,,0,609
+09/04/2020,CO Springs - JD Phillips,,5,610
+08/20/2020,Metro Wastewater RWHTF - CC,,29,611
+08/28/2020,Pueblo West,,0,612
+08/29/2020,South Adams County,,7,613
+09/01/2020,Aurora,,19,614
+08/25/2020,CO Springs - Las Vegas,,20,615
+09/04/2020,CO Springs - Las Vegas,,13,616
+08/20/2020,Metro Wastewater RWHTF - PRC,3329.5,51,617
+08/28/2020,South Adams County,,10,618
+08/29/2020,South Fort Collins,,0,619
+09/01/2020,Boulder,,17,620
+08/25/2020,Estes Park + Upper Thompson,,0,621
+09/04/2020,Estes Park + Upper Thompson,,0,622
+08/20/2020,Northglenn,,0,623
+08/28/2020,South Fort Collins,,0,624
+08/29/2020,SPR,,8,625
+09/01/2020,Broomfield,,0,626
+08/25/2020,Fort Collins - Boxelder,,0,627
+09/04/2020,Fort Collins - Boxelder,,0,628
+08/20/2020,Pueblo,15298.5,5,629
+08/28/2020,SPR,,12,630
+08/29/2020,Wellington Water and Sewer,,0,631
+09/01/2020,CO Springs - JD Phillips,,0,632
+08/25/2020,Fort Collins - Drake,,6,633
+09/04/2020,Fort Collins - Drake,,8,634
+08/20/2020,Pueblo West,,0,635
+08/28/2020,Wellington Water and Sewer,,0,636
+08/30/2020,Aurora,,12,637
+09/01/2020,CO Springs - Las Vegas,,9,638
+08/25/2020,Fort Collins - Mulberry,,0,639
+09/04/2020,Fort Collins - Mulberry,,0,640
+08/20/2020,South Adams County,22079.7,0,641
+08/29/2020,Aurora,,14,642
+08/30/2020,Boulder,,6,643
+08/29/2020,Boulder,,0,644
+09/01/2020,Estes Park + Upper Thompson,,0,645
+09/01/2020,Fort Collins - Boxelder,,0,646
+09/01/2020,Fort Collins - Drake,,8,647
+09/01/2020,Fort Collins - Mulberry,,0,648
+09/01/2020,Greeley,,8,649
+08/29/2020,Broomfield,,0,650
+08/25/2020,Greeley,,5,651
+08/29/2020,CO Springs - JD Phillips,,0,652
+09/01/2020,Longmont,,0,653
+09/04/2020,Greeley,,8,654
+08/20/2020,South Fort Collins,3267.5,0,655
+08/30/2020,Broomfield,,0,656
+09/04/2020,Longmont,,0,657
+09/01/2020,Louisville,,0,658
+08/30/2020,CO Springs - JD Phillips,,0,659
+08/20/2020,SPR,6634.5,8,660
+08/29/2020,CO Springs - Las Vegas,,15,661
+09/04/2020,Louisville,,0,662
+08/25/2020,Longmont,,0,663
+09/01/2020,Loveland,,5,664
+08/30/2020,CO Springs - Las Vegas,,10,665
+08/20/2020,Wellington Water and Sewer,,0,666
+08/29/2020,Estes Park + Upper Thompson,,0,667
+09/04/2020,Loveland,,5,668
+08/25/2020,Louisville,,0,669
+09/01/2020,Metro Wastewater RWHTF - CC,,23,670
+08/30/2020,Estes Park + Upper Thompson,,0,671
+08/21/2020,Aurora,,19,672
+09/04/2020,Metro Wastewater RWHTF - CC,,28,673
+08/25/2020,Loveland,,0,674
+09/01/2020,Metro Wastewater RWHTF - PRC,,47,675
+08/30/2020,Fort Collins - Boxelder,,0,676
+08/21/2020,Boulder,,5,677
+09/04/2020,Metro Wastewater RWHTF - PRC,,41,678
+08/25/2020,Metro Wastewater RWHTF - CC,,32,679
+09/01/2020,Northglenn,,0,680
+08/30/2020,Fort Collins - Drake,,5,681
+08/21/2020,Broomfield,,0,682
+09/04/2020,Northglenn,23492.1,0,683
+08/25/2020,Metro Wastewater RWHTF - PRC,,47,684
+09/01/2020,Pueblo,,0,685
+08/30/2020,Fort Collins - Mulberry,,0,686
+08/21/2020,CO Springs - JD Phillips,,0,687
+09/04/2020,Pueblo,,0,688
+08/25/2020,Northglenn,8152.9,0,689
+09/01/2020,Pueblo West,,0,690
+08/30/2020,Greeley,,8,691
+08/21/2020,CO Springs - Las Vegas,,16,692
+09/04/2020,Pueblo West,,0,693
+08/25/2020,Pueblo,,5,694
+09/01/2020,South Adams County,,5,695
+08/30/2020,Longmont,,0,696
+08/21/2020,Estes Park + Upper Thompson,,0,697
+09/04/2020,South Adams County,,8,698
+08/25/2020,Pueblo West,,0,699
+09/01/2020,South Fort Collins,,0,700
+08/30/2020,Louisville,,0,701
+08/21/2020,Fort Collins - Boxelder,,0,702
+09/04/2020,South Fort Collins,,0,703
+08/25/2020,South Adams County,,5,704
+09/01/2020,SPR,,14,705
+08/30/2020,Loveland,,0,706
+08/21/2020,Fort Collins - Drake,,6,707
+09/04/2020,SPR,,9,708
+08/25/2020,South Fort Collins,,0,709
+09/01/2020,Wellington Water and Sewer,,0,710
+08/30/2020,Metro Wastewater RWHTF - CC,,15,711
+08/21/2020,Fort Collins - Mulberry,,0,712
+09/04/2020,Wellington Water and Sewer,,0,713
+08/25/2020,SPR,,8,714
+09/02/2020,Aurora,,24,715
+08/30/2020,Metro Wastewater RWHTF - PRC,,28,716
+08/21/2020,Greeley,,0,717
+09/05/2020,Aurora,,17,718
+08/25/2020,Wellington Water and Sewer,,0,719
+09/02/2020,Boulder,,26,720
+08/30/2020,Northglenn,6100.8,0,721
+08/21/2020,Longmont,,0,722
+09/05/2020,Boulder,,30,723
+08/26/2020,Aurora,,22,724
+09/02/2020,Broomfield,,0,725
+08/30/2020,Pueblo,,0,726
+08/30/2020,Pueblo West,,0,727
+08/30/2020,South Adams County,,0,728
+08/30/2020,South Fort Collins,,0,729
+08/30/2020,SPR,,6,730
+08/30/2020,Wellington Water and Sewer,,0,731
+08/31/2020,Aurora,10397.3,16,732
+08/31/2020,Boulder,23309.3,12,733
+08/31/2020,Broomfield,2765.5,0,734
+08/31/2020,CO Springs - JD Phillips,9200.4,0,735
+08/31/2020,CO Springs - Las Vegas,8326.9,12,736
+08/31/2020,Estes Park + Upper Thompson,3274.4,0,737
+08/31/2020,Fort Collins - Boxelder,6979.8,0,738
+08/31/2020,Fort Collins - Drake,7046.5,0,739
+08/31/2020,Fort Collins - Mulberry,5286.9,0,740
+08/31/2020,Greeley,14971.6,7,741
+08/31/2020,Longmont,5078.5,0,742
+08/31/2020,Louisville,879.6,0,743
+08/26/2020,Boulder,,7,744
+08/26/2020,Broomfield,,0,745
+08/26/2020,CO Springs - JD Phillips,,0,746
+08/26/2020,CO Springs - Las Vegas,,23,747
+08/26/2020,Estes Park + Upper Thompson,,0,748
+08/26/2020,Fort Collins - Boxelder,,0,749
+09/02/2020,CO Springs - JD Phillips,,5,750
+08/26/2020,Fort Collins - Drake,,8,751
+09/02/2020,CO Springs - Las Vegas,,15,752
+08/26/2020,Fort Collins - Mulberry,,0,753
+09/02/2020,Estes Park + Upper Thompson,,0,754
+08/21/2020,Louisville,,0,755
+08/26/2020,Greeley,,7,756
+09/02/2020,Fort Collins - Boxelder,,0,757
+08/21/2020,Loveland,,0,758
+08/26/2020,Longmont,,0,759
+09/02/2020,Fort Collins - Drake,,10,760
+08/21/2020,Metro Wastewater RWHTF - CC,,35,761
+08/26/2020,Louisville,,0,762
+09/02/2020,Fort Collins - Mulberry,,0,763
+08/21/2020,Metro Wastewater RWHTF - PRC,,52,764
+08/26/2020,Loveland,,0,765
+09/02/2020,Greeley,,8,766
+08/21/2020,Northglenn,,0,767
+08/26/2020,Metro Wastewater RWHTF - CC,,34,768
+09/02/2020,Longmont,,0,769
+08/21/2020,Pueblo,,5,770
+08/26/2020,Metro Wastewater RWHTF - PRC,,52,771
+09/02/2020,Louisville,,0,772
+08/21/2020,Pueblo West,,0,773
+08/26/2020,Northglenn,,0,774
+09/02/2020,Loveland,,7,775
+08/21/2020,South Adams County,,0,776
+08/26/2020,Pueblo,,5,777
+09/02/2020,Metro Wastewater RWHTF - CC,,31,778
+08/21/2020,South Fort Collins,,0,779
+08/26/2020,Pueblo West,,0,780
+09/02/2020,Metro Wastewater RWHTF - PRC,,47,781
+08/21/2020,SPR,,9,782
+08/26/2020,South Adams County,,8,783
+09/02/2020,Northglenn,,0,784
+08/21/2020,Wellington Water and Sewer,,0,785
+08/26/2020,South Fort Collins,,0,786
+09/02/2020,Pueblo,,0,787
+08/22/2020,Aurora,,22,788
+08/26/2020,SPR,,11,789
+09/02/2020,Pueblo West,,0,790
+08/22/2020,Boulder,,0,791
+08/26/2020,Wellington Water and Sewer,,0,792
+08/22/2020,Broomfield,,0,793
+08/22/2020,CO Springs - JD Phillips,,0,794
+08/22/2020,CO Springs - Las Vegas,,13,795
+08/22/2020,Estes Park + Upper Thompson,,0,796
+08/22/2020,Fort Collins - Boxelder,,0,797
+08/22/2020,Fort Collins - Drake,,5,798
+08/22/2020,Fort Collins - Mulberry,,0,799
+08/22/2020,Greeley,,5,800
+09/21/2020,Aurora,21016.2,20,801
+09/21/2020,Boulder,66167.6,57,802
+09/21/2020,Broomfield,7574.6,6,803
+09/21/2020,CO Springs - JD Phillips,22508.2,0,804
+09/21/2020,CO Springs - Las Vegas,9761.4,18,805
+09/14/2020,CO Springs - Las Vegas,8296.8,17,806
+09/07/2020,Fort Collins - Mulberry,,0,807
+09/21/2020,Estes Park + Upper Thompson,23186.2,0,808
+09/21/2020,Fort Collins - Boxelder,2053.2,0,809
+09/21/2020,Fort Collins - Drake,,5,810
+09/21/2020,Fort Collins - Mulberry,3420.6,0,811
+09/21/2020,Greeley,14109.5,7,812
+09/21/2020,Longmont,7516.2,7,813
+09/21/2020,Louisville,14193.3,0,814
+09/21/2020,Loveland,,0,815
+09/21/2020,Metro Wastewater RWHTF - CC,24072.9,44,816
+09/21/2020,Metro Wastewater RWHTF - PRC,14118.5,89,817
+09/21/2020,Northglenn,87161.9,7,818
+09/21/2020,Pueblo,1205.1,0,819
+09/21/2020,Pueblo West,,0,820
+09/21/2020,South Adams County,14040.7,9,821
+09/21/2020,South Fort Collins,93581.4,0,822
+09/21/2020,SPR,18640.9,18,823
+09/21/2020,Wellington Water and Sewer,,0,824
+09/22/2020,Aurora,,31,825
+09/22/2020,Boulder,,52,826
+09/22/2020,Broomfield,,7,827
+09/22/2020,CO Springs - JD Phillips,,0,828
+09/22/2020,CO Springs - Las Vegas,,19,829
+09/22/2020,Estes Park + Upper Thompson,,0,830
+09/22/2020,Fort Collins - Boxelder,,0,831
+09/22/2020,Fort Collins - Drake,,6,832
+09/22/2020,Fort Collins - Mulberry,,0,833
+09/22/2020,Greeley,,11,834
+09/22/2020,Longmont,,6,835
+09/22/2020,Louisville,,0,836
+09/22/2020,Loveland,,5,837
+09/22/2020,Metro Wastewater RWHTF - CC,,53,838
+09/22/2020,Metro Wastewater RWHTF - PRC,,120,839
+09/22/2020,Northglenn,,7,840
+09/22/2020,Pueblo,,5,841
+09/22/2020,Pueblo West,3284.3,0,842
+09/22/2020,South Adams County,,12,843
+09/22/2020,South Fort Collins,,0,844
+09/22/2020,SPR,,23,845
+09/22/2020,Wellington Water and Sewer,,0,846
+09/23/2020,Aurora,,40,847
+09/23/2020,Boulder,,47,848
+09/23/2020,Broomfield,,8,849
+09/23/2020,CO Springs - JD Phillips,,5,850
+09/23/2020,CO Springs - Las Vegas,,25,851
+09/23/2020,Estes Park + Upper Thompson,,0,852
+09/11/2020,SPR,,18,853
+09/09/2020,Metro Wastewater RWHTF - PRC,,61,854
+09/23/2020,Fort Collins - Boxelder,,0,855
+09/16/2020,Longmont,,0,856
+09/18/2020,Pueblo,,9,857
+09/09/2020,Northglenn,29339.2,0,858
+09/23/2020,Fort Collins - Drake,,10,859
+09/09/2020,Pueblo,,6,860
+09/11/2020,Wellington Water and Sewer,,0,861
+09/23/2020,Fort Collins - Mulberry,,5,862
+09/14/2020,Estes Park + Upper Thompson,7940.2,0,863
+09/07/2020,Greeley,,0,864
+09/09/2020,Pueblo West,,0,865
+09/12/2020,Aurora,,23,866
+09/23/2020,Greeley,,13,867
+09/14/2020,Fort Collins - Boxelder,19030.4,0,868
+09/07/2020,Longmont,,0,869
+09/09/2020,South Adams County,,7,870
+09/18/2020,Pueblo West,,0,871
+09/16/2020,Louisville,,0,872
+09/12/2020,Boulder,,58,873
+09/23/2020,Longmont,,7,874
+09/14/2020,Fort Collins - Drake,51502.5,0,875
+09/07/2020,Louisville,,0,876
+09/09/2020,South Fort Collins,,0,877
+09/18/2020,South Adams County,,7,878
+09/16/2020,Loveland,,9,879
+09/12/2020,Broomfield,,5,880
+09/23/2020,Louisville,,0,881
+09/14/2020,Fort Collins - Mulberry,9864.6,0,882
+09/07/2020,Loveland,,0,883
+09/09/2020,SPR,,12,884
+09/18/2020,South Fort Collins,,0,885
+09/16/2020,Metro Wastewater RWHTF - CC,,54,886
+09/12/2020,CO Springs - JD Phillips,,0,887
+09/23/2020,Loveland,,6,888
+09/14/2020,Greeley,28312.3,6,889
+09/07/2020,Metro Wastewater RWHTF - CC,,20,890
+09/09/2020,Wellington Water and Sewer,,0,891
+09/18/2020,SPR,,24,892
+09/16/2020,Metro Wastewater RWHTF - PRC,,114,893
+09/12/2020,CO Springs - Las Vegas,,16,894
+09/23/2020,Metro Wastewater RWHTF - CC,,70,895
+09/18/2020,Wellington Water and Sewer,,0,896
+09/14/2020,Longmont,7699.9,5,897
+09/14/2020,Louisville,7574.1,0,898
+09/14/2020,Loveland,,5,899
+09/14/2020,Metro Wastewater RWHTF - CC,,28,900
+09/14/2020,Metro Wastewater RWHTF - PRC,13459.9,68,901
+09/14/2020,Northglenn,36800,0,902
+09/14/2020,Pueblo,1625.3,0,903
+09/14/2020,Pueblo West,,0,904
+09/14/2020,South Adams County,8257,5,905
+09/14/2020,South Fort Collins,4936.3,0,906
+09/14/2020,SPR,4565.3,18,907
+09/14/2020,Wellington Water and Sewer,,0,908
+09/15/2020,Aurora,,18,909
+09/15/2020,Boulder,,127,910
+09/15/2020,Broomfield,,5,911
+09/15/2020,CO Springs - JD Phillips,,0,912
+09/19/2020,Aurora,,23,913
+09/10/2020,Aurora,13711.3,23,914
+09/19/2020,Boulder,,76,915
+09/15/2020,CO Springs - Las Vegas,,21,916
+09/12/2020,Estes Park + Upper Thompson,,0,917
+09/16/2020,Northglenn,41079,5,918
+09/23/2020,Metro Wastewater RWHTF - PRC,,140,919
+09/07/2020,Metro Wastewater RWHTF - PRC,,36,920
+09/12/2020,Fort Collins - Boxelder,,0,921
+09/16/2020,Pueblo,,8,922
+09/07/2020,Northglenn,9317.6,0,923
+09/19/2020,Broomfield,,5,924
+09/23/2020,Northglenn,35875.1,9,925
+09/15/2020,Estes Park + Upper Thompson,,0,926
+09/12/2020,Fort Collins - Drake,,8,927
+09/10/2020,Boulder,93824,58,928
+09/16/2020,Pueblo West,,0,929
+09/07/2020,Pueblo,,5,930
+09/19/2020,CO Springs - JD Phillips,,0,931
+09/23/2020,Pueblo,,8,932
+09/15/2020,Fort Collins - Boxelder,,0,933
+09/12/2020,Fort Collins - Mulberry,,0,934
+09/10/2020,Broomfield,2146.6,0,935
+09/16/2020,South Adams County,,9,936
+09/07/2020,Pueblo West,,0,937
+09/19/2020,CO Springs - Las Vegas,,17,938
+09/23/2020,Pueblo West,,0,939
+09/15/2020,Fort Collins - Drake,,9,940
+09/12/2020,Greeley,,6,941
+09/10/2020,CO Springs - JD Phillips,13420.7,5,942
+09/16/2020,South Fort Collins,,0,943
+09/07/2020,South Adams County,,0,944
+09/19/2020,Estes Park + Upper Thompson,,0,945
+09/23/2020,South Adams County,,14,946
+09/15/2020,Fort Collins - Mulberry,,5,947
+09/12/2020,Longmont,,0,948
+09/10/2020,CO Springs - Las Vegas,27216.1,19,949
+09/16/2020,SPR,,26,950
+09/07/2020,South Fort Collins,,0,951
+09/19/2020,Fort Collins - Boxelder,,0,952
+09/23/2020,South Fort Collins,,0,953
+09/15/2020,Greeley,,7,954
+09/12/2020,Louisville,,0,955
+09/10/2020,Estes Park + Upper Thompson,7689,0,956
+09/16/2020,Wellington Water and Sewer,,0,957
+09/07/2020,SPR,,8,958
+09/19/2020,Fort Collins - Drake,,7,959
+09/23/2020,SPR,,26,960
+09/15/2020,Longmont,,0,961
+09/12/2020,Loveland,,0,962
+09/10/2020,Fort Collins - Boxelder,5347.8,0,963
+09/17/2020,Aurora,20789.8,22,964
+09/07/2020,Wellington Water and Sewer,,0,965
+09/19/2020,Fort Collins - Mulberry,,0,966
+09/23/2020,Wellington Water and Sewer,,0,967
+09/15/2020,Louisville,,0,968
+09/12/2020,Metro Wastewater RWHTF - CC,,28,969
+09/10/2020,Fort Collins - Drake,27522.7,0,970
+09/17/2020,Boulder,281157.4,121,971
+09/08/2020,Aurora,,17,972
+09/19/2020,Greeley,,8,973
+09/24/2020,Aurora,42387.4,40,974
+09/15/2020,Loveland,,7,975
+09/12/2020,Metro Wastewater RWHTF - PRC,,60,976
+09/10/2020,Fort Collins - Mulberry,6556.5,0,977
+09/17/2020,Broomfield,2268.8,5,978
+09/17/2020,CO Springs - JD Phillips,6959.9,0,979
+09/17/2020,CO Springs - Las Vegas,6649,20,980
+09/17/2020,Estes Park + Upper Thompson,20345.1,0,981
+09/17/2020,Fort Collins - Boxelder,12110.9,0,982
+09/17/2020,Fort Collins - Drake,4637.6,13,983
+09/17/2020,Fort Collins - Mulberry,16937.6,5,984
+09/17/2020,Greeley,24911.7,7,985
+09/17/2020,Longmont,27811.3,0,986
+09/17/2020,Louisville,978.5,0,987
+09/17/2020,Loveland,,6,988
+09/17/2020,Metro Wastewater RWHTF - CC,24187.6,57,989
+09/17/2020,Metro Wastewater RWHTF - PRC,23695.2,112,990
+09/17/2020,Northglenn,,7,991
+09/17/2020,Pueblo,1113.9,8,992
+09/17/2020,Pueblo West,2612.5,0,993
+09/17/2020,South Adams County,6439.4,9,994
+09/17/2020,South Fort Collins,12649.7,0,995
+09/17/2020,SPR,38276.8,24,996
+09/17/2020,Wellington Water and Sewer,,0,997
+09/18/2020,Aurora,,23,998
+09/18/2020,Boulder,,99,999
+09/18/2020,Broomfield,,0,1000
+09/18/2020,CO Springs - JD Phillips,,0,1001
+09/18/2020,CO Springs - Las Vegas,,15,1002
+09/18/2020,Estes Park + Upper Thompson,,0,1003
+09/18/2020,Fort Collins - Boxelder,,0,1004
+09/18/2020,Fort Collins - Drake,,8,1005
+09/18/2020,Fort Collins - Mulberry,,0,1006
+09/18/2020,Greeley,,9,1007
+09/18/2020,Longmont,,5,1008
+09/18/2020,Louisville,,0,1009
+09/18/2020,Loveland,,7,1010
+09/18/2020,Metro Wastewater RWHTF - CC,,57,1011
+09/18/2020,Metro Wastewater RWHTF - PRC,,100,1012
+09/18/2020,Northglenn,,8,1013
+09/15/2020,Metro Wastewater RWHTF - CC,,39,1014
+09/15/2020,Metro Wastewater RWHTF - PRC,,94,1015
+09/15/2020,Northglenn,,0,1016
+09/15/2020,Pueblo,,5,1017
+09/15/2020,Pueblo West,2008.8,0,1018
+09/15/2020,South Adams County,,8,1019
+09/15/2020,South Fort Collins,,0,1020
+09/15/2020,SPR,,21,1021
+09/15/2020,Wellington Water and Sewer,,0,1022
+09/16/2020,Aurora,,17,1023
+09/16/2020,Boulder,,147,1024
+09/16/2020,Broomfield,,5,1025
+09/16/2020,CO Springs - JD Phillips,,0,1026
+09/16/2020,CO Springs - Las Vegas,,20,1027
+09/16/2020,Estes Park + Upper Thompson,,0,1028
+09/16/2020,Fort Collins - Boxelder,,0,1029
+09/16/2020,Fort Collins - Drake,,11,1030
+09/16/2020,Fort Collins - Mulberry,,0,1031
+09/16/2020,Greeley,,7,1032
+09/19/2020,Longmont,,7,1033
+09/19/2020,Louisville,,0,1034
+09/19/2020,Loveland,,0,1035
+09/19/2020,Metro Wastewater RWHTF - CC,,48,1036
+09/19/2020,Metro Wastewater RWHTF - PRC,,80,1037
+09/19/2020,Northglenn,,8,1038
+09/19/2020,Pueblo,,6,1039
+09/19/2020,Pueblo West,,0,1040
+09/19/2020,South Adams County,,7,1041
+09/19/2020,South Fort Collins,,0,1042
+09/19/2020,SPR,,20,1043
+09/19/2020,Wellington Water and Sewer,,0,1044
+09/20/2020,Aurora,,19,1045
+09/20/2020,Boulder,,64,1046
+09/20/2020,Broomfield,,0,1047
+09/20/2020,CO Springs - JD Phillips,,0,1048
+09/20/2020,CO Springs - Las Vegas,,16,1049
+09/20/2020,Estes Park + Upper Thompson,,0,1050
+09/20/2020,Fort Collins - Boxelder,,0,1051
+09/20/2020,Fort Collins - Drake,,6,1052
+09/20/2020,Fort Collins - Mulberry,,0,1053
+09/20/2020,Greeley,,7,1054
+09/20/2020,Longmont,,7,1055
+09/20/2020,Louisville,,0,1056
+09/20/2020,Loveland,,0,1057
+09/20/2020,Metro Wastewater RWHTF - CC,,44,1058
+09/20/2020,Metro Wastewater RWHTF - PRC,,65,1059
+09/20/2020,Northglenn,,6,1060
+09/20/2020,Pueblo,,0,1061
+09/20/2020,Pueblo West,,0,1062
+09/20/2020,South Adams County,,6,1063
+09/20/2020,South Fort Collins,,0,1064
+09/20/2020,SPR,,20,1065
+09/20/2020,Wellington Water and Sewer,,0,1066
+09/10/2020,Greeley,9359.4,6,1067
+09/08/2020,Boulder,50690.9,48,1068
+09/08/2020,Broomfield,,0,1069
+09/08/2020,CO Springs - JD Phillips,,0,1070
+09/08/2020,CO Springs - Las Vegas,,18,1071
+09/08/2020,Estes Park + Upper Thompson,,0,1072
+09/08/2020,Fort Collins - Boxelder,,0,1073
+09/08/2020,Fort Collins - Drake,3998,0,1074
+09/08/2020,Fort Collins - Mulberry,95537.8,0,1075
+09/08/2020,Greeley,,5,1076
+09/08/2020,Longmont,,0,1077
+09/08/2020,Louisville,,0,1078
+09/08/2020,Loveland,,0,1079
+09/08/2020,Metro Wastewater RWHTF - CC,,26,1080
+09/08/2020,Metro Wastewater RWHTF - PRC,,48,1081
+09/08/2020,Northglenn,,0,1082
+09/08/2020,Pueblo,,6,1083
+09/08/2020,Pueblo West,,0,1084
+09/08/2020,South Adams County,,5,1085
+09/08/2020,South Fort Collins,,0,1086
+09/08/2020,SPR,,8,1087
+09/08/2020,Wellington Water and Sewer,,0,1088
+09/09/2020,Aurora,,17,1089
+09/09/2020,Boulder,,55,1090
+09/09/2020,Broomfield,,0,1091
+09/09/2020,CO Springs - JD Phillips,,5,1092
+09/09/2020,CO Springs - Las Vegas,,20,1093
+09/09/2020,Estes Park + Upper Thompson,,0,1094
+09/09/2020,Fort Collins - Boxelder,,0,1095
+09/09/2020,Fort Collins - Drake,,0,1096
+09/09/2020,Fort Collins - Mulberry,,0,1097
+09/09/2020,Greeley,,6,1098
+09/09/2020,Longmont,,0,1099
+09/09/2020,Louisville,,0,1100
+09/09/2020,Loveland,,0,1101
+09/09/2020,Metro Wastewater RWHTF - CC,,27,1102
+09/24/2020,Boulder,110678.7,41,1103
+09/12/2020,Northglenn,,0,1104
+09/24/2020,Broomfield,8330.8,6,1105
+09/12/2020,Pueblo,,5,1106
+09/24/2020,CO Springs - JD Phillips,18721.8,5,1107
+09/12/2020,Pueblo West,,0,1108
+09/10/2020,Longmont,3744.4,0,1109
+09/24/2020,CO Springs - Las Vegas,12040.3,26,1110
+09/12/2020,South Adams County,,0,1111
+09/10/2020,Louisville,9552.5,0,1112
+09/24/2020,Estes Park + Upper Thompson,2251.4,0,1113
+09/12/2020,South Fort Collins,,0,1114
+09/10/2020,Loveland,,0,1115
+09/24/2020,Fort Collins - Boxelder,8041.8,0,1116
+09/12/2020,SPR,,17,1117
+09/10/2020,Metro Wastewater RWHTF - CC,,31,1118
+09/24/2020,Fort Collins - Drake,35982,14,1119
+09/12/2020,Wellington Water and Sewer,,0,1120
+09/10/2020,Metro Wastewater RWHTF - PRC,10519.1,69,1121
+09/24/2020,Fort Collins - Mulberry,10805.2,6,1122
+09/13/2020,Aurora,,20,1123
+09/10/2020,Northglenn,,0,1124
+09/24/2020,Greeley,23700.3,14,1125
+09/13/2020,Boulder,,60,1126
+09/10/2020,Pueblo,2819.4,0,1127
+09/24/2020,Longmont,31524.4,6,1128
+09/13/2020,Broomfield,,5,1129
+09/10/2020,Pueblo West,,0,1130
+09/24/2020,Louisville,32908.8,0,1131
+09/13/2020,CO Springs - JD Phillips,,0,1132
+09/10/2020,South Adams County,7175.1,7,1133
+09/24/2020,Loveland,,5,1134
+09/13/2020,CO Springs - Las Vegas,,18,1135
+09/10/2020,South Fort Collins,6895.7,0,1136
+09/24/2020,Metro Wastewater RWHTF - CC,25533.7,76,1137
+09/13/2020,Estes Park + Upper Thompson,,0,1138
+09/10/2020,SPR,15554.5,15,1139
+09/24/2020,Metro Wastewater RWHTF - PRC,44418.1,119,1140
+09/13/2020,Fort Collins - Boxelder,,0,1141
+09/10/2020,Wellington Water and Sewer,,0,1142
+09/24/2020,Northglenn,,10,1143
+09/13/2020,Fort Collins - Drake,,7,1144
+09/11/2020,Aurora,,23,1145
+09/11/2020,Boulder,,55,1146
+09/11/2020,Broomfield,,5,1147
+09/11/2020,CO Springs - JD Phillips,,5,1148
+09/11/2020,CO Springs - Las Vegas,,17,1149
+09/11/2020,Estes Park + Upper Thompson,,0,1150
+09/11/2020,Fort Collins - Boxelder,,0,1151
+09/11/2020,Fort Collins - Drake,,9,1152
+09/11/2020,Fort Collins - Mulberry,,0,1153
+09/11/2020,Greeley,,6,1154
+09/11/2020,Longmont,,0,1155
+09/11/2020,Louisville,,0,1156
+09/11/2020,Loveland,,0,1157
+09/11/2020,Metro Wastewater RWHTF - CC,,28,1158
+09/11/2020,Metro Wastewater RWHTF - PRC,,68,1159
+09/11/2020,Northglenn,,0,1160
+09/11/2020,Pueblo,,0,1161
+09/11/2020,Pueblo West,,0,1162
+09/11/2020,South Adams County,,5,1163
+09/11/2020,South Fort Collins,,0,1164
+09/24/2020,Pueblo,22230.9,6,1165
+09/24/2020,Pueblo West,16808.5,0,1166
+09/24/2020,South Adams County,16430.4,11,1167
+09/24/2020,South Fort Collins,4630.6,0,1168
+09/24/2020,SPR,24397.1,28,1169
+09/24/2020,Wellington Water and Sewer,,0,1170
+09/25/2020,Aurora,,35,1171
+09/25/2020,Boulder,,38,1172
+09/25/2020,Broomfield,,6,1173
+09/25/2020,CO Springs - JD Phillips,,5,1174
+09/25/2020,CO Springs - Las Vegas,,25,1175
+09/25/2020,Estes Park + Upper Thompson,,0,1176
+09/25/2020,Fort Collins - Boxelder,,0,1177
+09/25/2020,Fort Collins - Drake,,16,1178
+09/25/2020,Fort Collins - Mulberry,,8,1179
+09/25/2020,Greeley,,12,1180
+09/25/2020,Longmont,,7,1181
+09/25/2020,Louisville,,0,1182
+09/13/2020,Fort Collins - Mulberry,,0,1183
+09/13/2020,Greeley,,6,1184
+09/13/2020,Longmont,,0,1185
+09/13/2020,Louisville,,0,1186
+09/13/2020,Loveland,,0,1187
+09/13/2020,Metro Wastewater RWHTF - CC,,24,1188
+09/13/2020,Metro Wastewater RWHTF - PRC,,58,1189
+09/13/2020,Northglenn,,0,1190
+09/13/2020,Pueblo,,0,1191
+09/13/2020,Pueblo West,,0,1192
+09/13/2020,South Adams County,,0,1193
+09/13/2020,South Fort Collins,,0,1194
+09/13/2020,SPR,,17,1195
+09/13/2020,Wellington Water and Sewer,,0,1196
+09/14/2020,Aurora,,14,1197
+09/14/2020,Boulder,61443.1,101,1198
+09/14/2020,Broomfield,7242.1,0,1199
+09/14/2020,CO Springs - JD Phillips,16919.2,0,1200
+09/25/2020,Loveland,,5,1201
+09/25/2020,Metro Wastewater RWHTF - CC,,81,1202
+10/06/2020,SPR,,32,1203
+09/25/2020,Metro Wastewater RWHTF - PRC,,102,1204
+09/25/2020,Northglenn,,11,1205
+09/25/2020,Pueblo,,10,1206
+09/25/2020,Pueblo West,,0,1207
+10/06/2020,Wellington Water and Sewer,,0,1208
+09/25/2020,South Adams County,,9,1209
+10/07/2020,Aurora,,70,1210
+09/25/2020,South Fort Collins,,0,1211
+10/07/2020,Boulder,,12,1212
+09/25/2020,SPR,,26,1213
+10/04/2020,Metro Wastewater RWHTF - PRC,,115,1214
+10/07/2020,Broomfield,,10,1215
+09/25/2020,Wellington Water and Sewer,,0,1216
+10/04/2020,Northglenn,,9,1217
+09/27/2020,South Adams County,,7,1218
+10/07/2020,CO Springs - JD Phillips,,16,1219
+10/11/2020,Longmont,,11,1220
+10/02/2020,Fort Collins - Mulberry,,7,1221
+09/26/2020,Aurora,,30,1222
+09/30/2020,Broomfield,,6,1223
+10/04/2020,Pueblo,,11,1224
+09/27/2020,South Fort Collins,,0,1225
+10/09/2020,CO Springs - Las Vegas,,58,1226
+10/07/2020,CO Springs - Las Vegas,,56,1227
+10/11/2020,Louisville,,0,1228
+10/02/2020,Greeley,,9,1229
+09/26/2020,Boulder,,27,1230
+09/30/2020,CO Springs - JD Phillips,,7,1231
+10/04/2020,Pueblo West,,0,1232
+09/27/2020,SPR,,17,1233
+10/09/2020,Estes Park + Upper Thompson,,0,1234
+10/07/2020,Estes Park + Upper Thompson,,0,1235
+10/07/2020,Fort Collins - Boxelder,,0,1236
+10/07/2020,Fort Collins - Drake,,23,1237
+10/07/2020,Fort Collins - Mulberry,,10,1238
+10/07/2020,Greeley,,7,1239
+10/07/2020,Longmont,,10,1240
+10/07/2020,Louisville,,0,1241
+10/07/2020,Loveland,,11,1242
+10/07/2020,Metro Wastewater RWHTF - CC,,103,1243
+10/07/2020,Metro Wastewater RWHTF - PRC,,191,1244
+10/07/2020,Northglenn,,15,1245
+10/07/2020,Pueblo,,24,1246
+10/07/2020,Pueblo West,,0,1247
+10/07/2020,South Adams County,,18,1248
+10/07/2020,South Fort Collins,,0,1249
+10/07/2020,SPR,,38,1250
+10/07/2020,Wellington Water and Sewer,,0,1251
+10/08/2020,Aurora,63279,73,1252
+10/08/2020,Boulder,7430,9,1253
+10/08/2020,Broomfield,8924.1,10,1254
+10/08/2020,CO Springs - JD Phillips,41982.7,16,1255
+10/08/2020,CO Springs - Las Vegas,43116.7,52,1256
+10/08/2020,Estes Park + Upper Thompson,7594,0,1257
+10/08/2020,Fort Collins - Boxelder,50081.5,0,1258
+10/08/2020,Fort Collins - Drake,18008.4,25,1259
+10/08/2020,Fort Collins - Mulberry,12771.5,9,1260
+10/08/2020,Greeley,29688.1,10,1261
+10/08/2020,Longmont,42111.2,10,1262
+10/08/2020,Louisville,9156.6,0,1263
+10/08/2020,Loveland,,13,1264
+10/08/2020,Metro Wastewater RWHTF - CC,52084.3,104,1265
+10/08/2020,Metro Wastewater RWHTF - PRC,63999.7,182,1266
+10/08/2020,Northglenn,,14,1267
+10/08/2020,Pueblo,24716.7,25,1268
+10/08/2020,Pueblo West,41878.6,0,1269
+10/08/2020,South Adams County,19806.9,19,1270
+10/08/2020,South Fort Collins,30904.4,5,1271
+10/08/2020,SPR,54189.1,42,1272
+10/08/2020,Wellington Water and Sewer,,0,1273
+10/09/2020,Aurora,,83,1274
+10/09/2020,Boulder,,8,1275
+10/09/2020,Broomfield,,10,1276
+10/09/2020,CO Springs - JD Phillips,,13,1277
+09/30/2020,CO Springs - Las Vegas,,41,1278
+09/30/2020,Estes Park + Upper Thompson,,0,1279
+09/30/2020,Fort Collins - Boxelder,,0,1280
+10/09/2020,Fort Collins - Boxelder,,0,1281
+09/30/2020,Fort Collins - Drake,,19,1282
+09/26/2020,Broomfield,,6,1283
+10/09/2020,Fort Collins - Drake,,22,1284
+09/27/2020,Wellington Water and Sewer,,0,1285
+10/04/2020,South Adams County,,11,1286
+09/30/2020,Fort Collins - Mulberry,,8,1287
+09/26/2020,CO Springs - JD Phillips,,0,1288
+10/09/2020,Fort Collins - Mulberry,,10,1289
+09/28/2020,Aurora,40314.4,39,1290
+10/04/2020,South Fort Collins,,0,1291
+10/11/2020,Loveland,,6,1292
+09/30/2020,Greeley,,9,1293
+10/02/2020,Longmont,,7,1294
+09/26/2020,CO Springs - Las Vegas,,19,1295
+10/09/2020,Greeley,,11,1296
+09/28/2020,Boulder,55073.9,15,1297
+10/04/2020,SPR,,22,1298
+10/11/2020,Metro Wastewater RWHTF - CC,,78,1299
+09/30/2020,Longmont,,7,1300
+10/02/2020,Louisville,,0,1301
+09/26/2020,Estes Park + Upper Thompson,,0,1302
+10/09/2020,Longmont,,10,1303
+09/28/2020,Broomfield,2263.2,7,1304
+10/04/2020,Wellington Water and Sewer,,0,1305
+10/11/2020,Metro Wastewater RWHTF - PRC,,131,1306
+09/30/2020,Louisville,,0,1307
+10/02/2020,Loveland,,6,1308
+09/26/2020,Fort Collins - Boxelder,,0,1309
+10/09/2020,Louisville,,0,1310
+09/28/2020,CO Springs - JD Phillips,16759,5,1311
+10/05/2020,Aurora,47118.6,50,1312
+10/11/2020,Northglenn,,8,1313
+09/30/2020,Loveland,,5,1314
+10/02/2020,Metro Wastewater RWHTF - CC,,78,1315
+09/26/2020,Fort Collins - Drake,,12,1316
+10/09/2020,Loveland,,11,1317
+09/28/2020,CO Springs - Las Vegas,12634.8,25,1318
+09/28/2020,Estes Park + Upper Thompson,12937.1,0,1319
+09/28/2020,Fort Collins - Boxelder,8924.6,0,1320
+09/28/2020,Fort Collins - Drake,23304.1,12,1321
+09/28/2020,Fort Collins - Mulberry,15790.1,5,1322
+09/28/2020,Greeley,28545,9,1323
+09/28/2020,Longmont,20050.1,7,1324
+09/28/2020,Louisville,21041,0,1325
+09/28/2020,Loveland,,0,1326
+09/28/2020,Metro Wastewater RWHTF - CC,21977.4,65,1327
+09/28/2020,Metro Wastewater RWHTF - PRC,38536.7,97,1328
+09/28/2020,Northglenn,93176.5,5,1329
+09/28/2020,Pueblo,11776.3,8,1330
+09/28/2020,Pueblo West,,0,1331
+09/28/2020,South Adams County,14095.5,11,1332
+09/28/2020,South Fort Collins,0,0,1333
+09/28/2020,SPR,29343.8,15,1334
+09/28/2020,Wellington Water and Sewer,,0,1335
+09/29/2020,Aurora,,45,1336
+09/29/2020,Boulder,,16,1337
+09/29/2020,Broomfield,,6,1338
+09/29/2020,CO Springs - JD Phillips,,7,1339
+09/29/2020,CO Springs - Las Vegas,,30,1340
+09/29/2020,Estes Park + Upper Thompson,,0,1341
+09/29/2020,Fort Collins - Boxelder,,0,1342
+09/29/2020,Fort Collins - Drake,,17,1343
+09/29/2020,Fort Collins - Mulberry,,7,1344
+09/29/2020,Greeley,,10,1345
+09/29/2020,Longmont,,7,1346
+09/29/2020,Louisville,,0,1347
+09/29/2020,Loveland,,0,1348
+09/29/2020,Metro Wastewater RWHTF - CC,,68,1349
+09/29/2020,Metro Wastewater RWHTF - PRC,,123,1350
+09/29/2020,Northglenn,,7,1351
+09/29/2020,Pueblo,,11,1352
+09/29/2020,Pueblo West,21607.1,0,1353
+09/29/2020,South Adams County,,15,1354
+09/29/2020,South Fort Collins,,0,1355
+09/29/2020,SPR,,20,1356
+09/29/2020,Wellington Water and Sewer,,0,1357
+09/30/2020,Aurora,,55,1358
+09/30/2020,Boulder,,14,1359
+09/26/2020,Fort Collins - Mulberry,,6,1360
+10/02/2020,Metro Wastewater RWHTF - PRC,,133,1361
+09/26/2020,Greeley,,10,1362
+09/30/2020,Metro Wastewater RWHTF - CC,,79,1363
+10/02/2020,Northglenn,,11,1364
+10/11/2020,Pueblo,,17,1365
+09/26/2020,Longmont,,7,1366
+09/30/2020,Metro Wastewater RWHTF - PRC,,148,1367
+10/02/2020,Pueblo,,14,1368
+10/11/2020,Pueblo West,,0,1369
+10/09/2020,Metro Wastewater RWHTF - CC,,106,1370
+10/05/2020,Boulder,37781.8,9,1371
+09/26/2020,Louisville,,0,1372
+09/30/2020,Northglenn,119952.4,10,1373
+10/02/2020,Pueblo West,,0,1374
+10/11/2020,South Adams County,,15,1375
+10/09/2020,Metro Wastewater RWHTF - PRC,,180,1376
+10/05/2020,Broomfield,17385.3,11,1377
+09/26/2020,Loveland,,0,1378
+09/30/2020,Pueblo,,11,1379
+10/02/2020,South Adams County,,16,1380
+10/11/2020,South Fort Collins,,0,1381
+10/09/2020,Northglenn,,15,1382
+10/05/2020,CO Springs - JD Phillips,17235.1,12,1383
+09/26/2020,Metro Wastewater RWHTF - CC,,70,1384
+09/30/2020,Pueblo West,,0,1385
+10/02/2020,South Fort Collins,,0,1386
+10/11/2020,SPR,,27,1387
+10/09/2020,Pueblo,,24,1388
+10/05/2020,CO Springs - Las Vegas,46992.9,47,1389
+09/26/2020,Metro Wastewater RWHTF - PRC,,89,1390
+09/30/2020,South Adams County,,21,1391
+10/02/2020,SPR,,28,1392
+10/11/2020,Wellington Water and Sewer,,0,1393
+10/09/2020,Pueblo West,,0,1394
+10/05/2020,Estes Park + Upper Thompson,35317.6,0,1395
+09/26/2020,Northglenn,,9,1396
+09/30/2020,South Fort Collins,,0,1397
+10/02/2020,Wellington Water and Sewer,,0,1398
+10/12/2020,Aurora,98305,57,1399
+10/09/2020,South Adams County,,20,1400
+10/05/2020,Fort Collins - Boxelder,20002.4,0,1401
+10/05/2020,Fort Collins - Drake,,11,1402
+10/05/2020,Fort Collins - Mulberry,31440.5,6,1403
+10/05/2020,Greeley,27782,8,1404
+10/05/2020,Longmont,11868.5,6,1405
+10/05/2020,Louisville,40018.7,0,1406
+10/05/2020,Loveland,,5,1407
+10/05/2020,Metro Wastewater RWHTF - CC,53577.5,86,1408
+10/05/2020,Metro Wastewater RWHTF - PRC,34014.3,148,1409
+10/05/2020,Northglenn,,12,1410
+10/05/2020,Pueblo,26852.7,15,1411
+10/05/2020,Pueblo West,22785.7,0,1412
+10/05/2020,South Adams County,,14,1413
+10/05/2020,South Fort Collins,21958.8,0,1414
+10/05/2020,SPR,43215.9,25,1415
+10/05/2020,Wellington Water and Sewer,,0,1416
+10/06/2020,Aurora,,58,1417
+10/06/2020,Boulder,,10,1418
+10/06/2020,Broomfield,,10,1419
+10/06/2020,CO Springs - JD Phillips,,14,1420
+10/06/2020,CO Springs - Las Vegas,,52,1421
+10/06/2020,Estes Park + Upper Thompson,,0,1422
+10/06/2020,Fort Collins - Boxelder,,0,1423
+10/06/2020,Fort Collins - Drake,,19,1424
+10/06/2020,Fort Collins - Mulberry,,8,1425
+10/06/2020,Greeley,,8,1426
+10/06/2020,Longmont,,8,1427
+10/06/2020,Louisville,,0,1428
+10/06/2020,Loveland,,8,1429
+10/06/2020,Metro Wastewater RWHTF - CC,,95,1430
+10/06/2020,Metro Wastewater RWHTF - PRC,,167,1431
+10/06/2020,Northglenn,,11,1432
+10/06/2020,Pueblo,,16,1433
+10/06/2020,Pueblo West,22785.7,0,1434
+10/06/2020,South Adams County,,14,1435
+10/06/2020,South Fort Collins,,0,1436
+09/26/2020,Pueblo,,8,1437
+09/30/2020,SPR,,24,1438
+10/09/2020,South Fort Collins,,7,1439
+10/03/2020,Aurora,,37,1440
+10/12/2020,Boulder,16343.4,9,1441
+09/30/2020,Wellington Water and Sewer,,0,1442
+10/12/2020,Broomfield,15345.3,9,1443
+10/03/2020,Boulder,,8,1444
+10/09/2020,SPR,,39,1445
+10/01/2020,Aurora,59029.5,45,1446
+09/26/2020,Pueblo West,,0,1447
+10/12/2020,CO Springs - JD Phillips,56248,14,1448
+10/03/2020,Broomfield,,7,1449
+10/09/2020,Wellington Water and Sewer,,0,1450
+10/01/2020,Boulder,47565.4,12,1451
+09/26/2020,South Adams County,,9,1452
+10/12/2020,CO Springs - Las Vegas,39086.1,47,1453
+10/03/2020,CO Springs - JD Phillips,,12,1454
+10/10/2020,Aurora,,77,1455
+10/01/2020,Broomfield,12463.1,5,1456
+09/26/2020,South Fort Collins,,0,1457
+10/12/2020,Estes Park + Upper Thompson,41969.7,0,1458
+10/03/2020,CO Springs - Las Vegas,,36,1459
+10/10/2020,Boulder,,6,1460
+10/01/2020,CO Springs - JD Phillips,51760.7,10,1461
+09/26/2020,SPR,,20,1462
+10/12/2020,Fort Collins - Boxelder,23557.1,0,1463
+10/03/2020,Estes Park + Upper Thompson,,0,1464
+10/10/2020,Broomfield,,9,1465
+10/01/2020,CO Springs - Las Vegas,44489.2,41,1466
+09/26/2020,Wellington Water and Sewer,,0,1467
+10/12/2020,Fort Collins - Drake,55463.7,11,1468
+10/03/2020,Fort Collins - Boxelder,,0,1469
+10/10/2020,CO Springs - JD Phillips,,15,1470
+10/01/2020,Estes Park + Upper Thompson,2439.6,0,1471
+09/27/2020,Aurora,,26,1472
+10/12/2020,Fort Collins - Mulberry,24501.1,0,1473
+10/03/2020,Fort Collins - Drake,,15,1474
+10/10/2020,CO Springs - Las Vegas,,53,1475
+10/01/2020,Fort Collins - Boxelder,38153.6,0,1476
+09/27/2020,Boulder,,21,1477
+10/12/2020,Greeley,48381.1,12,1478
+10/03/2020,Fort Collins - Mulberry,,5,1479
+10/10/2020,Estes Park + Upper Thompson,,0,1480
+10/01/2020,Fort Collins - Drake,27936.1,17,1481
+09/27/2020,Broomfield,,6,1482
+10/12/2020,Longmont,34328.3,12,1483
+10/12/2020,Louisville,2136,0,1484
+10/12/2020,Loveland,,7,1485
+10/12/2020,Metro Wastewater RWHTF - CC,60046.6,112,1486
+10/12/2020,Metro Wastewater RWHTF - PRC,,157,1487
+10/12/2020,Northglenn,177216.6,9,1488
+10/12/2020,Pueblo,,24,1489
+10/12/2020,Pueblo West,,0,1490
+10/12/2020,South Adams County,28787.1,17,1491
+10/12/2020,South Fort Collins,,0,1492
+10/12/2020,SPR,48694.3,36,1493
+10/12/2020,Wellington Water and Sewer,,0,1494
+10/13/2020,Aurora,,64,1495
+10/13/2020,Boulder,,10,1496
+10/13/2020,Broomfield,,10,1497
+10/13/2020,CO Springs - JD Phillips,,14,1498
+10/13/2020,CO Springs - Las Vegas,,56,1499
+10/13/2020,Estes Park + Upper Thompson,,0,1500
+10/13/2020,Fort Collins - Boxelder,,0,1501
+10/13/2020,Fort Collins - Drake,,16,1502
+10/13/2020,Fort Collins - Mulberry,,6,1503
+10/13/2020,Greeley,,14,1504
+10/13/2020,Longmont,,12,1505
+10/13/2020,Louisville,,0,1506
+10/13/2020,Loveland,,8,1507
+10/13/2020,Metro Wastewater RWHTF - CC,,144,1508
+10/13/2020,Metro Wastewater RWHTF - PRC,,203,1509
+10/13/2020,Northglenn,,13,1510
+10/10/2020,Fort Collins - Boxelder,,0,1511
+10/03/2020,Greeley,,10,1512
+10/01/2020,Fort Collins - Mulberry,14930.9,7,1513
+09/27/2020,CO Springs - JD Phillips,,0,1514
+10/10/2020,Fort Collins - Drake,,17,1515
+10/03/2020,Longmont,,8,1516
+09/27/2020,CO Springs - Las Vegas,,19,1517
+10/01/2020,Greeley,28439.1,9,1518
+10/10/2020,Fort Collins - Mulberry,,6,1519
+10/03/2020,Louisville,,0,1520
+09/27/2020,Estes Park + Upper Thompson,,0,1521
+10/01/2020,Longmont,11041.6,6,1522
+10/10/2020,Greeley,,13,1523
+10/03/2020,Loveland,,6,1524
+09/27/2020,Fort Collins - Boxelder,,0,1525
+10/01/2020,Louisville,15517.9,0,1526
+10/10/2020,Longmont,,12,1527
+10/03/2020,Metro Wastewater RWHTF - CC,,70,1528
+09/27/2020,Fort Collins - Drake,,10,1529
+10/01/2020,Loveland,,5,1530
+10/10/2020,Louisville,,0,1531
+10/03/2020,Metro Wastewater RWHTF - PRC,,123,1532
+09/27/2020,Fort Collins - Mulberry,,6,1533
+10/01/2020,Metro Wastewater RWHTF - CC,60902.8,72,1534
+10/10/2020,Loveland,,8,1535
+10/03/2020,Northglenn,,10,1536
+09/27/2020,Greeley,,9,1537
+10/01/2020,Metro Wastewater RWHTF - PRC,,145,1538
+10/10/2020,Metro Wastewater RWHTF - CC,,92,1539
+10/03/2020,Pueblo,,15,1540
+09/27/2020,Longmont,,7,1541
+10/01/2020,Northglenn,,12,1542
+10/10/2020,Metro Wastewater RWHTF - PRC,,158,1543
+10/03/2020,Pueblo West,,0,1544
+09/27/2020,Louisville,,0,1545
+10/01/2020,Pueblo,13533.7,16,1546
+10/10/2020,Northglenn,,10,1547
+10/03/2020,South Adams County,,15,1548
+09/27/2020,Loveland,,0,1549
+10/01/2020,Pueblo West,,0,1550
+10/10/2020,Pueblo,,20,1551
+10/03/2020,South Fort Collins,,0,1552
+09/27/2020,Metro Wastewater RWHTF - CC,,60,1553
+10/01/2020,South Adams County,37821.2,20,1554
+10/10/2020,Pueblo West,,0,1555
+10/03/2020,SPR,,25,1556
+09/27/2020,Metro Wastewater RWHTF - PRC,,82,1557
+10/01/2020,South Fort Collins,21435,0,1558
+10/10/2020,South Adams County,,19,1559
+10/03/2020,Wellington Water and Sewer,,0,1560
+09/27/2020,Northglenn,,7,1561
+10/01/2020,SPR,84141.6,28,1562
+10/10/2020,South Fort Collins,,6,1563
+10/04/2020,Aurora,,36,1564
+09/27/2020,Pueblo,,10,1565
+10/01/2020,Wellington Water and Sewer,,0,1566
+10/02/2020,Aurora,,41,1567
+10/02/2020,Boulder,,10,1568
+10/02/2020,Broomfield,,6,1569
+10/02/2020,CO Springs - JD Phillips,,10,1570
+10/02/2020,CO Springs - Las Vegas,,41,1571
+10/02/2020,Estes Park + Upper Thompson,,0,1572
+10/02/2020,Fort Collins - Boxelder,,0,1573
+10/02/2020,Fort Collins - Drake,,18,1574
+10/10/2020,SPR,,35,1575
+10/10/2020,Wellington Water and Sewer,,0,1576
+10/04/2020,Boulder,,7,1577
+10/11/2020,Aurora,,58,1578
+10/04/2020,Broomfield,,9,1579
+10/11/2020,Boulder,,7,1580
+10/04/2020,CO Springs - JD Phillips,,11,1581
+10/11/2020,Broomfield,,9,1582
+10/04/2020,CO Springs - Las Vegas,,38,1583
+10/11/2020,CO Springs - JD Phillips,,14,1584
+10/04/2020,Estes Park + Upper Thompson,,0,1585
+10/11/2020,CO Springs - Las Vegas,,50,1586
+10/04/2020,Fort Collins - Boxelder,,0,1587
+10/11/2020,Estes Park + Upper Thompson,,0,1588
+10/04/2020,Fort Collins - Drake,,13,1589
+10/11/2020,Fort Collins - Boxelder,,0,1590
+10/04/2020,Fort Collins - Mulberry,,6,1591
+10/11/2020,Fort Collins - Drake,,17,1592
+10/04/2020,Greeley,,8,1593
+10/11/2020,Fort Collins - Mulberry,,7,1594
+10/04/2020,Longmont,,6,1595
+10/11/2020,Greeley,,10,1596
+10/04/2020,Louisville,,0,1597
+10/04/2020,Loveland,,6,1598
+10/04/2020,Metro Wastewater RWHTF - CC,,74,1599
+09/27/2020,Pueblo West,,0,1600
+10/27/2020,Fort Collins - Mulberry,,5,1601
+10/22/2020,South Adams County,73358.2,32,1602
+10/27/2020,Greeley,,32,1603
+10/22/2020,South Fort Collins,36814.4,7,1604
+10/27/2020,Longmont,,26,1605
+10/22/2020,SPR,119131.9,65,1606
+10/20/2020,Loveland,,15,1607
+10/16/2020,Aurora,,87,1608
+10/27/2020,Louisville,,8,1609
+10/13/2020,Pueblo,,26,1610
+10/22/2020,Wellington Water and Sewer,,0,1611
+10/20/2020,Metro Wastewater RWHTF - CC,,158,1612
+10/25/2020,Broomfield,,19,1613
+10/16/2020,Boulder,,10,1614
+10/27/2020,Loveland,,19,1615
+10/13/2020,Pueblo West,,0,1616
+10/29/2020,Metro Wastewater RWHTF - PRC,139406.4,525,1617
+10/23/2020,Aurora,,100,1618
+10/18/2020,Fort Collins - Boxelder,,0,1619
+10/20/2020,Metro Wastewater RWHTF - PRC,,264,1620
+10/25/2020,CO Springs - JD Phillips,,17,1621
+10/16/2020,Broomfield,,11,1622
+10/27/2020,Metro Wastewater RWHTF - CC,,158,1623
+10/13/2020,South Adams County,,23,1624
+10/29/2020,Northglenn,,26,1625
+10/23/2020,Boulder,,18,1626
+10/20/2020,Northglenn,,18,1627
+10/18/2020,Fort Collins - Drake,,11,1628
+10/25/2020,CO Springs - Las Vegas,,72,1629
+10/16/2020,CO Springs - JD Phillips,,22,1630
+10/27/2020,Metro Wastewater RWHTF - PRC,,301,1631
+10/13/2020,South Fort Collins,,5,1632
+10/29/2020,Pueblo,48255.5,88,1633
+10/23/2020,Broomfield,,18,1634
+10/20/2020,Pueblo,,26,1635
+10/18/2020,Fort Collins - Mulberry,,0,1636
+10/25/2020,Estes Park + Upper Thompson,,0,1637
+10/16/2020,CO Springs - Las Vegas,,60,1638
+10/27/2020,Northglenn,,17,1639
+10/13/2020,SPR,,45,1640
+10/29/2020,Pueblo West,27866.7,0,1641
+10/23/2020,CO Springs - JD Phillips,,23,1642
+10/20/2020,Pueblo West,22378.5,0,1643
+10/18/2020,Greeley,,14,1644
+10/25/2020,Fort Collins - Boxelder,,0,1645
+10/16/2020,Estes Park + Upper Thompson,,0,1646
+10/27/2020,Pueblo,,71,1647
+10/13/2020,Wellington Water and Sewer,,0,1648
+10/29/2020,South Adams County,80322.4,66,1649
+10/23/2020,CO Springs - Las Vegas,,87,1650
+10/20/2020,South Adams County,,30,1651
+10/18/2020,Longmont,,15,1652
+10/25/2020,Fort Collins - Drake,,13,1653
+10/16/2020,Fort Collins - Boxelder,,5,1654
+10/16/2020,Fort Collins - Drake,,17,1655
+10/16/2020,Fort Collins - Mulberry,,9,1656
+10/16/2020,Greeley,,13,1657
+10/16/2020,Longmont,,14,1658
+10/16/2020,Louisville,,0,1659
+10/16/2020,Loveland,,15,1660
+10/16/2020,Metro Wastewater RWHTF - CC,,145,1661
+10/16/2020,Metro Wastewater RWHTF - PRC,,246,1662
+10/16/2020,Northglenn,,20,1663
+10/16/2020,Pueblo,,22,1664
+10/16/2020,Pueblo West,,0,1665
+10/16/2020,South Adams County,,29,1666
+10/16/2020,South Fort Collins,,0,1667
+10/16/2020,SPR,,51,1668
+10/16/2020,Wellington Water and Sewer,,0,1669
+10/17/2020,Aurora,,82,1670
+10/17/2020,Boulder,,8,1671
+10/17/2020,Broomfield,,12,1672
+10/17/2020,CO Springs - JD Phillips,,20,1673
+10/17/2020,CO Springs - Las Vegas,,60,1674
+10/17/2020,Estes Park + Upper Thompson,,0,1675
+10/17/2020,Fort Collins - Boxelder,,0,1676
+10/17/2020,Fort Collins - Drake,,12,1677
+10/17/2020,Fort Collins - Mulberry,,7,1678
+10/17/2020,Greeley,,14,1679
+10/17/2020,Longmont,,16,1680
+10/17/2020,Louisville,,0,1681
+10/17/2020,Loveland,,11,1682
+10/17/2020,Metro Wastewater RWHTF - CC,,125,1683
+10/17/2020,Metro Wastewater RWHTF - PRC,,200,1684
+10/17/2020,Northglenn,,16,1685
+10/17/2020,Pueblo,,23,1686
+10/17/2020,Pueblo West,,0,1687
+10/17/2020,South Adams County,,28,1688
+10/17/2020,South Fort Collins,,0,1689
+10/17/2020,SPR,,45,1690
+10/17/2020,Wellington Water and Sewer,,0,1691
+10/18/2020,Aurora,,67,1692
+10/18/2020,Boulder,,7,1693
+10/18/2020,Broomfield,,12,1694
+10/18/2020,CO Springs - JD Phillips,,18,1695
+10/18/2020,CO Springs - Las Vegas,,55,1696
+10/18/2020,Estes Park + Upper Thompson,,0,1697
+10/25/2020,Fort Collins - Mulberry,,0,1698
+10/25/2020,Greeley,,16,1699
+10/25/2020,Longmont,,13,1700
+10/25/2020,Louisville,,0,1701
+10/25/2020,Loveland,,11,1702
+10/25/2020,Metro Wastewater RWHTF - CC,,114,1703
+10/25/2020,Metro Wastewater RWHTF - PRC,,223,1704
+10/14/2020,Aurora,,85,1705
+10/25/2020,Northglenn,,14,1706
+10/20/2020,South Fort Collins,,6,1707
+10/23/2020,Estes Park + Upper Thompson,,0,1708
+10/14/2020,Boulder,,10,1709
+10/25/2020,Pueblo,,26,1710
+10/27/2020,Pueblo West,39115.5,0,1711
+10/20/2020,SPR,,59,1712
+10/23/2020,Fort Collins - Boxelder,,5,1713
+10/14/2020,Broomfield,,10,1714
+10/25/2020,Pueblo West,,0,1715
+10/29/2020,South Fort Collins,31014.5,10,1716
+10/18/2020,Louisville,,0,1717
+10/27/2020,South Adams County,,37,1718
+10/20/2020,Wellington Water and Sewer,,0,1719
+10/23/2020,Fort Collins - Drake,,20,1720
+10/14/2020,CO Springs - JD Phillips,,18,1721
+10/25/2020,South Adams County,,18,1722
+10/29/2020,SPR,189836.1,96,1723
+10/18/2020,Loveland,,9,1724
+10/27/2020,South Fort Collins,,6,1725
+10/21/2020,Aurora,,108,1726
+10/23/2020,Fort Collins - Mulberry,,6,1727
+10/14/2020,CO Springs - Las Vegas,,61,1728
+10/25/2020,South Fort Collins,,0,1729
+10/29/2020,Wellington Water and Sewer,119090.3,5,1730
+10/18/2020,Metro Wastewater RWHTF - CC,,100,1731
+10/27/2020,SPR,,68,1732
+10/21/2020,Boulder,,20,1733
+10/23/2020,Greeley,,25,1734
+10/14/2020,Estes Park + Upper Thompson,,0,1735
+10/25/2020,SPR,,53,1736
+10/30/2020,Aurora,,184,1737
+10/30/2020,Boulder,,31,1738
+10/30/2020,Broomfield,,24,1739
+10/30/2020,CO Springs - JD Phillips,,36,1740
+10/30/2020,CO Springs - Las Vegas,,158,1741
+10/30/2020,Estes Park + Upper Thompson,,0,1742
+10/30/2020,Fort Collins - Boxelder,,8,1743
+10/30/2020,Fort Collins - Drake,,38,1744
+10/30/2020,Fort Collins - Mulberry,,11,1745
+10/30/2020,Greeley,,60,1746
+10/30/2020,Longmont,,46,1747
+10/30/2020,Louisville,,5,1748
+10/30/2020,Loveland,,24,1749
+10/30/2020,Metro Wastewater RWHTF - CC,,279,1750
+10/30/2020,Metro Wastewater RWHTF - PRC,,535,1751
+10/30/2020,Northglenn,,26,1752
+10/30/2020,Pueblo,,73,1753
+10/30/2020,Pueblo West,,0,1754
+10/30/2020,South Adams County,,73,1755
+10/30/2020,South Fort Collins,,9,1756
+10/30/2020,SPR,,103,1757
+10/30/2020,Wellington Water and Sewer,,6,1758
+10/31/2020,Aurora,,179,1759
+10/31/2020,Boulder,,30,1760
+10/31/2020,Broomfield,,22,1761
+10/31/2020,CO Springs - JD Phillips,,32,1762
+10/31/2020,CO Springs - Las Vegas,,136,1763
+10/31/2020,Estes Park + Upper Thompson,,0,1764
+10/31/2020,Fort Collins - Boxelder,,5,1765
+10/31/2020,Fort Collins - Drake,,26,1766
+10/31/2020,Fort Collins - Mulberry,,11,1767
+10/31/2020,Greeley,,52,1768
+10/31/2020,Longmont,,46,1769
+10/31/2020,Louisville,,0,1770
+10/31/2020,Loveland,,17,1771
+10/31/2020,Metro Wastewater RWHTF - CC,,244,1772
+10/31/2020,Metro Wastewater RWHTF - PRC,,454,1773
+10/31/2020,Northglenn,,26,1774
+10/31/2020,Pueblo,,66,1775
+10/31/2020,Pueblo West,,0,1776
+10/31/2020,South Adams County,,65,1777
+10/31/2020,South Fort Collins,,7,1778
+10/18/2020,Metro Wastewater RWHTF - PRC,,167,1779
+10/18/2020,Northglenn,,12,1780
+10/18/2020,Pueblo,,22,1781
+10/18/2020,Pueblo West,,0,1782
+10/18/2020,South Adams County,,19,1783
+10/18/2020,South Fort Collins,,0,1784
+10/18/2020,SPR,,42,1785
+10/18/2020,Wellington Water and Sewer,,0,1786
+10/19/2020,Aurora,71673.6,70,1787
+10/19/2020,Boulder,7432.2,6,1788
+10/19/2020,Broomfield,30838.3,15,1789
+10/19/2020,CO Springs - JD Phillips,60618.2,21,1790
+10/19/2020,CO Springs - Las Vegas,38204.4,62,1791
+10/19/2020,Estes Park + Upper Thompson,93826.8,0,1792
+10/19/2020,Fort Collins - Boxelder,45223.5,0,1793
+10/19/2020,Fort Collins - Drake,,11,1794
+10/19/2020,Fort Collins - Mulberry,27072.6,0,1795
+10/19/2020,Greeley,65266.7,20,1796
+10/19/2020,Longmont,71380,18,1797
+10/19/2020,Louisville,7943.8,0,1798
+10/19/2020,Loveland,,12,1799
+10/19/2020,Metro Wastewater RWHTF - CC,60060.7,122,1800
+10/19/2020,Metro Wastewater RWHTF - PRC,53202.6,191,1801
+10/19/2020,Northglenn,109767.2,12,1802
+10/19/2020,Pueblo,28619.8,21,1803
+10/19/2020,Pueblo West,,0,1804
+10/19/2020,South Adams County,37496.1,27,1805
+10/19/2020,South Fort Collins,19862.5,0,1806
+10/19/2020,SPR,90239.6,42,1807
+10/19/2020,Wellington Water and Sewer,,0,1808
+10/20/2020,Aurora,,92,1809
+10/20/2020,Boulder,,13,1810
+10/20/2020,Broomfield,,17,1811
+10/20/2020,CO Springs - JD Phillips,,23,1812
+10/20/2020,CO Springs - Las Vegas,,72,1813
+10/20/2020,Estes Park + Upper Thompson,,0,1814
+10/20/2020,Fort Collins - Boxelder,,7,1815
+10/20/2020,Fort Collins - Drake,,19,1816
+10/20/2020,Fort Collins - Mulberry,,7,1817
+10/20/2020,Greeley,,24,1818
+10/20/2020,Longmont,,23,1819
+10/20/2020,Louisville,,0,1820
+10/21/2020,Broomfield,,19,1821
+10/27/2020,Wellington Water and Sewer,,0,1822
+10/14/2020,Fort Collins - Boxelder,,5,1823
+10/23/2020,Longmont,,22,1824
+10/25/2020,Wellington Water and Sewer,,0,1825
+10/23/2020,Louisville,,0,1826
+10/28/2020,Aurora,,150,1827
+10/14/2020,Fort Collins - Drake,,17,1828
+10/23/2020,Loveland,,17,1829
+10/26/2020,Aurora,163823.3,75,1830
+10/28/2020,Boulder,,33,1831
+10/21/2020,CO Springs - JD Phillips,,25,1832
+10/14/2020,Fort Collins - Mulberry,,7,1833
+10/23/2020,Metro Wastewater RWHTF - CC,,159,1834
+10/26/2020,Boulder,45646.7,15,1835
+10/28/2020,Broomfield,,24,1836
+10/21/2020,CO Springs - Las Vegas,,80,1837
+10/14/2020,Greeley,,18,1838
+10/23/2020,Metro Wastewater RWHTF - PRC,,308,1839
+10/26/2020,Broomfield,14147.7,21,1840
+10/28/2020,CO Springs - JD Phillips,,31,1841
+10/21/2020,Estes Park + Upper Thompson,,0,1842
+10/14/2020,Longmont,,12,1843
+10/23/2020,Northglenn,,16,1844
+10/26/2020,CO Springs - JD Phillips,52583,20,1845
+10/28/2020,CO Springs - Las Vegas,,134,1846
+10/21/2020,Fort Collins - Boxelder,,7,1847
+10/14/2020,Louisville,,0,1848
+10/23/2020,Pueblo,,73,1849
+10/26/2020,CO Springs - Las Vegas,94305.7,70,1850
+10/28/2020,Estes Park + Upper Thompson,,6,1851
+10/21/2020,Fort Collins - Drake,,23,1852
+10/14/2020,Loveland,,12,1853
+10/23/2020,Pueblo West,,0,1854
+10/26/2020,Estes Park + Upper Thompson,,0,1855
+10/28/2020,Fort Collins - Boxelder,,8,1856
+10/21/2020,Fort Collins - Mulberry,,8,1857
+10/14/2020,Metro Wastewater RWHTF - CC,,165,1858
+10/23/2020,South Adams County,,32,1859
+10/26/2020,Fort Collins - Boxelder,37342.1,0,1860
+10/28/2020,Fort Collins - Drake,,32,1861
+10/21/2020,Greeley,,28,1862
+10/14/2020,Metro Wastewater RWHTF - PRC,,259,1863
+10/23/2020,South Fort Collins,,6,1864
+10/26/2020,Fort Collins - Drake,35817.2,7,1865
+10/28/2020,Fort Collins - Mulberry,,8,1866
+10/21/2020,Longmont,,28,1867
+10/14/2020,Northglenn,154221.8,17,1868
+10/23/2020,SPR,,60,1869
+10/26/2020,Fort Collins - Mulberry,41299.6,0,1870
+10/28/2020,Greeley,,48,1871
+10/21/2020,Louisville,,0,1872
+10/14/2020,Pueblo,,24,1873
+10/23/2020,Wellington Water and Sewer,,0,1874
+10/26/2020,Greeley,77073.3,20,1875
+10/28/2020,Longmont,,38,1876
+10/21/2020,Loveland,,21,1877
+10/14/2020,Pueblo West,,0,1878
+10/24/2020,Aurora,,96,1879
+10/26/2020,Longmont,53117,18,1880
+10/28/2020,Louisville,,11,1881
+10/21/2020,Metro Wastewater RWHTF - CC,,183,1882
+10/14/2020,South Adams County,,27,1883
+10/24/2020,Boulder,,15,1884
+10/26/2020,Louisville,33362,0,1885
+10/28/2020,Loveland,,28,1886
+10/21/2020,Metro Wastewater RWHTF - PRC,,320,1887
+10/14/2020,South Fort Collins,,6,1888
+10/24/2020,Broomfield,,21,1889
+10/26/2020,Loveland,64887.8,11,1890
+10/28/2020,Metro Wastewater RWHTF - CC,,232,1891
+10/21/2020,Northglenn,130206.5,22,1892
+10/14/2020,SPR,,52,1893
+10/24/2020,CO Springs - JD Phillips,,20,1894
+10/26/2020,Metro Wastewater RWHTF - CC,,102,1895
+10/28/2020,Metro Wastewater RWHTF - PRC,,450,1896
+10/21/2020,Pueblo,,30,1897
+10/14/2020,Wellington Water and Sewer,,0,1898
+10/24/2020,CO Springs - Las Vegas,,84,1899
+10/26/2020,Metro Wastewater RWHTF - PRC,131739.3,222,1900
+10/28/2020,Northglenn,173578.8,21,1901
+10/21/2020,Pueblo West,,0,1902
+10/15/2020,Aurora,134874.1,85,1903
+10/24/2020,Estes Park + Upper Thompson,,0,1904
+10/26/2020,Northglenn,146015,12,1905
+10/28/2020,Pueblo,,84,1906
+10/28/2020,Pueblo West,,0,1907
+10/28/2020,South Adams County,,53,1908
+10/28/2020,South Fort Collins,,9,1909
+10/28/2020,SPR,,85,1910
+10/28/2020,Wellington Water and Sewer,,5,1911
+10/29/2020,Aurora,128712.6,184,1912
+10/29/2020,Boulder,55568.4,35,1913
+10/29/2020,Broomfield,53908.9,25,1914
+10/29/2020,CO Springs - JD Phillips,75923.6,36,1915
+10/29/2020,CO Springs - Las Vegas,134619.9,164,1916
+10/29/2020,Estes Park + Upper Thompson,42603.6,5,1917
+10/29/2020,Fort Collins - Boxelder,77958.9,10,1918
+10/29/2020,Fort Collins - Drake,56850.6,35,1919
+10/29/2020,Fort Collins - Mulberry,34164.2,10,1920
+10/29/2020,Greeley,189948.6,58,1921
+10/29/2020,Longmont,117402.7,43,1922
+10/29/2020,Louisville,61795,9,1923
+10/29/2020,Loveland,89277.7,27,1924
+10/29/2020,Metro Wastewater RWHTF - CC,71332.5,276,1925
+10/26/2020,Pueblo,144272,51,1926
+10/26/2020,Pueblo West,,0,1927
+10/15/2020,Boulder,14715.9,8,1928
+10/26/2020,South Adams County,58795.3,21,1929
+10/24/2020,Fort Collins - Boxelder,,0,1930
+10/21/2020,South Adams County,,32,1931
+10/15/2020,Broomfield,15908.8,10,1932
+10/26/2020,South Fort Collins,22733.4,0,1933
+10/24/2020,Fort Collins - Drake,,15,1934
+10/21/2020,South Fort Collins,,8,1935
+10/15/2020,CO Springs - JD Phillips,91115.2,22,1936
+10/26/2020,SPR,194983.1,56,1937
+10/24/2020,Fort Collins - Mulberry,,5,1938
+10/21/2020,SPR,,67,1939
+10/15/2020,CO Springs - Las Vegas,83139.3,63,1940
+10/26/2020,Wellington Water and Sewer,57231.6,0,1941
+10/24/2020,Greeley,,22,1942
+10/21/2020,Wellington Water and Sewer,,0,1943
+10/15/2020,Estes Park + Upper Thompson,68113.9,0,1944
+10/27/2020,Aurora,,110,1945
+10/24/2020,Longmont,,17,1946
+10/22/2020,Aurora,111407.4,112,1947
+10/15/2020,Fort Collins - Boxelder,37108.3,6,1948
+10/27/2020,Boulder,,24,1949
+10/24/2020,Louisville,,0,1950
+10/22/2020,Boulder,13068.2,21,1951
+10/15/2020,Fort Collins - Drake,48173.6,18,1952
+10/27/2020,Broomfield,,20,1953
+10/24/2020,Loveland,,13,1954
+10/22/2020,Broomfield,,19,1955
+10/15/2020,Fort Collins - Mulberry,,7,1956
+10/27/2020,CO Springs - JD Phillips,,25,1957
+10/24/2020,Metro Wastewater RWHTF - CC,,148,1958
+10/22/2020,CO Springs - JD Phillips,79908.7,23,1959
+10/15/2020,Greeley,78097.5,15,1960
+10/27/2020,CO Springs - Las Vegas,,97,1961
+10/24/2020,Metro Wastewater RWHTF - PRC,,289,1962
+10/22/2020,CO Springs - Las Vegas,76918.3,81,1963
+10/15/2020,Longmont,61353.6,15,1964
+10/27/2020,Estes Park + Upper Thompson,,6,1965
+10/24/2020,Northglenn,,14,1966
+10/22/2020,Estes Park + Upper Thompson,50075.7,0,1967
+10/15/2020,Louisville,26248.4,0,1968
+10/27/2020,Fort Collins - Boxelder,,5,1969
+10/24/2020,Pueblo,,73,1970
+10/22/2020,Fort Collins - Boxelder,30436.8,6,1971
+10/15/2020,Loveland,,13,1972
+10/27/2020,Fort Collins - Drake,,17,1973
+10/24/2020,Pueblo West,,0,1974
+10/22/2020,Fort Collins - Drake,38927.4,20,1975
+10/15/2020,Metro Wastewater RWHTF - CC,64402.5,151,1976
+10/24/2020,South Adams County,,28,1977
+10/22/2020,Fort Collins - Mulberry,38898.3,8,1978
+10/15/2020,Metro Wastewater RWHTF - PRC,75141.7,255,1979
+10/24/2020,South Fort Collins,,0,1980
+10/22/2020,Greeley,40832,27,1981
+10/15/2020,Northglenn,,19,1982
+10/24/2020,SPR,,56,1983
+10/22/2020,Longmont,46087,26,1984
+10/15/2020,Pueblo,124521.9,20,1985
+10/24/2020,Wellington Water and Sewer,,0,1986
+10/22/2020,Louisville,3257.8,0,1987
+10/15/2020,Pueblo West,,0,1988
+10/15/2020,South Adams County,107092.2,33,1989
+10/15/2020,South Fort Collins,38476.2,5,1990
+10/15/2020,SPR,127901.4,49,1991
+10/15/2020,Wellington Water and Sewer,,0,1992
+10/22/2020,Loveland,,17,1993
+10/22/2020,Metro Wastewater RWHTF - CC,95365.4,169,1994
+10/22/2020,Metro Wastewater RWHTF - PRC,69936,323,1995
+10/22/2020,Northglenn,,19,1996
+10/22/2020,Pueblo,71196.7,72,1997
+10/22/2020,Pueblo West,,0,1998
+10/25/2020,Aurora,,77,1999
+10/25/2020,Boulder,,14,2000
+11/07/2020,Pueblo,,198,2001
+11/07/2020,Pueblo West,,0,2002
+11/07/2020,South Adams County,,79,2003
+11/07/2020,South Fort Collins,,11,2004
+11/07/2020,SPR,,165,2005
+11/07/2020,Wellington Water and Sewer,,8,2006
+11/08/2020,Aurora,,178,2007
+11/03/2020,CO Springs - Las Vegas,162429.4,221,2008
+11/08/2020,Boulder,,53,2009
+11/08/2020,Broomfield,,24,2010
+11/08/2020,CO Springs - JD Phillips,,54,2011
+11/03/2020,Estes Park + Upper Thompson,,0,2012
+11/08/2020,CO Springs - Las Vegas,,177,2013
+11/03/2020,Fort Collins - Boxelder,,12,2014
+11/08/2020,Estes Park + Upper Thompson,,0,2015
+10/31/2020,SPR,,96,2016
+11/03/2020,Fort Collins - Drake,,28,2017
+11/10/2020,Aurora,,262,2018
+11/05/2020,Longmont,191672.5,59,2019
+11/08/2020,Fort Collins - Boxelder,,9,2020
+10/31/2020,Wellington Water and Sewer,,5,2021
+11/03/2020,Fort Collins - Mulberry,,14,2022
+11/10/2020,Boulder,,64,2023
+11/05/2020,Louisville,68526.7,8,2024
+11/14/2020,Loveland,,44,2025
+11/08/2020,Fort Collins - Drake,,40,2026
+11/01/2020,Aurora,,150,2027
+11/16/2020,South Adams County,263335.7,59,2028
+11/03/2020,Greeley,,56,2029
+11/12/2020,Fort Collins - Boxelder,84802.1,18,2030
+11/10/2020,Broomfield,,31,2031
+11/05/2020,Loveland,111197.7,37,2032
+11/14/2020,Metro Wastewater RWHTF - CC,,367,2033
+11/08/2020,Fort Collins - Mulberry,,18,2034
+11/01/2020,Boulder,,31,2035
+11/16/2020,South Fort Collins,,16,2036
+11/03/2020,Longmont,,55,2037
+11/12/2020,Fort Collins - Drake,173652.5,78,2038
+11/10/2020,CO Springs - JD Phillips,,83,2039
+11/05/2020,Metro Wastewater RWHTF - CC,145540.3,387,2040
+11/14/2020,Metro Wastewater RWHTF - PRC,,736,2041
+11/08/2020,Greeley,,46,2042
+11/01/2020,Broomfield,,20,2043
+11/16/2020,SPR,218215.3,170,2044
+11/03/2020,Louisville,,6,2045
+11/12/2020,Fort Collins - Mulberry,180672,24,2046
+11/10/2020,CO Springs - Las Vegas,,264,2047
+11/05/2020,Metro Wastewater RWHTF - PRC,171509.7,803,2048
+11/14/2020,Northglenn,,44,2049
+11/08/2020,Longmont,,51,2050
+11/01/2020,CO Springs - JD Phillips,,24,2051
+11/16/2020,Wellington Water and Sewer,156292.5,11,2052
+11/03/2020,Loveland,,31,2053
+11/12/2020,Greeley,301267.1,114,2054
+11/10/2020,Estes Park + Upper Thompson,,0,2055
+11/05/2020,Northglenn,,39,2056
+11/14/2020,Pueblo,,174,2057
+11/08/2020,Louisville,,5,2058
+11/01/2020,CO Springs - Las Vegas,,160,2059
+11/17/2020,Aurora,,280,2060
+11/03/2020,Metro Wastewater RWHTF - CC,,294,2061
+11/12/2020,Longmont,216751.4,80,2062
+11/10/2020,Fort Collins - Boxelder,,13,2063
+11/05/2020,Pueblo,172244.7,116,2064
+11/14/2020,Pueblo West,,0,2065
+11/08/2020,Loveland,,29,2066
+11/01/2020,Estes Park + Upper Thompson,,0,2067
+11/17/2020,Boulder,,62,2068
+11/03/2020,Metro Wastewater RWHTF - PRC,,581,2069
+11/12/2020,Louisville,74563.3,9,2070
+11/10/2020,Fort Collins - Drake,,52,2071
+11/05/2020,Pueblo West,,0,2072
+11/14/2020,South Adams County,,72,2073
+11/08/2020,Metro Wastewater RWHTF - CC,,288,2074
+11/01/2020,Fort Collins - Boxelder,,0,2075
+11/17/2020,Broomfield,,43,2076
+11/12/2020,Loveland,185150.3,62,2077
+11/03/2020,Northglenn,,29,2078
+11/03/2020,Pueblo,,97,2079
+11/12/2020,Metro Wastewater RWHTF - CC,147426.9,432,2080
+11/08/2020,Metro Wastewater RWHTF - PRC,,600,2081
+11/03/2020,Pueblo West,110000,0,2082
+11/12/2020,Metro Wastewater RWHTF - PRC,250452.9,921,2083
+11/10/2020,Fort Collins - Mulberry,,21,2084
+11/14/2020,South Fort Collins,,19,2085
+11/01/2020,Fort Collins - Drake,,21,2086
+11/17/2020,CO Springs - JD Phillips,,100,2087
+11/05/2020,South Adams County,135646.8,88,2088
+11/12/2020,Northglenn,,45,2089
+11/17/2020,CO Springs - Las Vegas,,320,2090
+11/01/2020,Fort Collins - Mulberry,,9,2091
+11/08/2020,Northglenn,,39,2092
+11/14/2020,SPR,,174,2093
+11/10/2020,Greeley,,93,2094
+11/05/2020,South Fort Collins,40369.2,15,2095
+11/03/2020,South Adams County,,66,2096
+11/12/2020,Pueblo,325593.4,192,2097
+11/17/2020,Estes Park + Upper Thompson,,0,2098
+11/01/2020,Greeley,,41,2099
+11/08/2020,Pueblo,,175,2100
+11/14/2020,Wellington Water and Sewer,,6,2101
+11/10/2020,Longmont,,67,2102
+11/05/2020,SPR,234576.7,167,2103
+11/03/2020,South Fort Collins,,10,2104
+11/12/2020,Pueblo West,,0,2105
+11/17/2020,Fort Collins - Boxelder,,20,2106
+11/01/2020,Longmont,,44,2107
+11/08/2020,Pueblo West,,0,2108
+11/15/2020,Aurora,,219,2109
+11/10/2020,Louisville,,9,2110
+11/05/2020,Wellington Water and Sewer,205245.4,7,2111
+11/03/2020,SPR,,129,2112
+11/12/2020,South Adams County,208143.5,92,2113
+11/17/2020,Fort Collins - Drake,,64,2114
+11/01/2020,Louisville,,0,2115
+11/08/2020,South Adams County,,65,2116
+11/15/2020,Boulder,,43,2117
+11/10/2020,Loveland,,38,2118
+11/06/2020,Aurora,,277,2119
+11/03/2020,Wellington Water and Sewer,,7,2120
+11/12/2020,South Fort Collins,105339.6,22,2121
+11/17/2020,Fort Collins - Mulberry,,21,2122
+11/01/2020,Loveland,,14,2123
+11/08/2020,South Fort Collins,,9,2124
+11/15/2020,Broomfield,,27,2125
+11/10/2020,Metro Wastewater RWHTF - CC,,364,2126
+11/06/2020,Boulder,,58,2127
+11/04/2020,Aurora,,270,2128
+11/12/2020,SPR,213598.5,214,2129
+11/17/2020,Greeley,,111,2130
+11/01/2020,Metro Wastewater RWHTF - CC,,220,2131
+11/08/2020,SPR,,130,2132
+11/15/2020,CO Springs - JD Phillips,,60,2133
+11/10/2020,Metro Wastewater RWHTF - PRC,,756,2134
+11/06/2020,Broomfield,,30,2135
+11/04/2020,Boulder,,66,2136
+11/12/2020,Wellington Water and Sewer,338410.1,10,2137
+11/17/2020,Longmont,,74,2138
+11/01/2020,Metro Wastewater RWHTF - PRC,,386,2139
+11/08/2020,Wellington Water and Sewer,,7,2140
+11/15/2020,CO Springs - Las Vegas,,197,2141
+11/10/2020,Northglenn,,41,2142
+11/06/2020,CO Springs - JD Phillips,,83,2143
+11/04/2020,Broomfield,,32,2144
+11/13/2020,Aurora,,304,2145
+11/17/2020,Louisville,,9,2146
+11/01/2020,Northglenn,,24,2147
+11/09/2020,Aurora,227082.5,205,2148
+11/15/2020,Estes Park + Upper Thompson,,0,2149
+11/10/2020,Pueblo,,150,2150
+11/06/2020,CO Springs - Las Vegas,,260,2151
+11/04/2020,CO Springs - JD Phillips,,84,2152
+11/13/2020,Boulder,,79,2153
+11/17/2020,Loveland,,40,2154
+11/01/2020,Pueblo,,41,2155
+11/09/2020,Boulder,80415.1,56,2156
+11/15/2020,Fort Collins - Boxelder,,19,2157
+11/10/2020,Pueblo West,,0,2158
+11/06/2020,Estes Park + Upper Thompson,,9,2159
+11/13/2020,Broomfield,,44,2160
+11/04/2020,CO Springs - Las Vegas,,223,2161
+11/13/2020,CO Springs - JD Phillips,,107,2162
+11/01/2020,Pueblo West,,0,2163
+11/17/2020,Metro Wastewater RWHTF - CC,,367,2164
+11/15/2020,Fort Collins - Drake,,76,2165
+11/13/2020,CO Springs - Las Vegas,,295,2166
+11/04/2020,Estes Park + Upper Thompson,,11,2167
+11/01/2020,South Adams County,,46,2168
+11/10/2020,South Adams County,,76,2169
+11/06/2020,Fort Collins - Boxelder,,17,2170
+11/09/2020,Broomfield,47087.8,29,2171
+11/04/2020,Fort Collins - Boxelder,,16,2172
+11/10/2020,South Fort Collins,,13,2173
+11/06/2020,Fort Collins - Drake,,58,2174
+11/01/2020,South Fort Collins,,5,2175
+11/09/2020,CO Springs - JD Phillips,175790.3,70,2176
+11/15/2020,Fort Collins - Mulberry,,31,2177
+11/13/2020,Estes Park + Upper Thompson,,0,2178
+11/17/2020,Metro Wastewater RWHTF - PRC,,788,2179
+11/04/2020,Fort Collins - Drake,,44,2180
+11/10/2020,SPR,,198,2181
+11/06/2020,Fort Collins - Mulberry,,31,2182
+11/01/2020,SPR,,82,2183
+11/09/2020,CO Springs - Las Vegas,254641.7,208,2184
+11/15/2020,Greeley,,74,2185
+11/13/2020,Fort Collins - Boxelder,,21,2186
+11/17/2020,Northglenn,,45,2187
+11/04/2020,Fort Collins - Mulberry,,23,2188
+11/10/2020,Wellington Water and Sewer,,9,2189
+11/06/2020,Greeley,,77,2190
+11/01/2020,Wellington Water and Sewer,,5,2191
+11/09/2020,Estes Park + Upper Thompson,119913.4,0,2192
+11/15/2020,Longmont,,64,2193
+11/13/2020,Fort Collins - Drake,,86,2194
+11/17/2020,Pueblo,,204,2195
+11/04/2020,Greeley,,67,2196
+11/11/2020,Aurora,,326,2197
+11/06/2020,Longmont,,61,2198
+11/02/2020,Aurora,150254,175,2199
+11/09/2020,Fort Collins - Boxelder,122595.1,9,2200
+11/15/2020,Louisville,,6,2201
+11/13/2020,Fort Collins - Mulberry,,29,2202
+11/17/2020,Pueblo West,,0,2203
+11/04/2020,Longmont,,59,2204
+11/11/2020,Boulder,,78,2205
+11/06/2020,Louisville,,5,2206
+11/02/2020,Boulder,49479.3,46,2207
+11/09/2020,Fort Collins - Drake,96364.4,29,2208
+11/15/2020,Loveland,,29,2209
+11/13/2020,Greeley,,109,2210
+11/17/2020,South Adams County,,67,2211
+11/04/2020,Louisville,,7,2212
+11/11/2020,Broomfield,,39,2213
+11/06/2020,Loveland,,38,2214
+11/02/2020,Broomfield,31928.7,27,2215
+11/09/2020,Fort Collins - Mulberry,183183.6,11,2216
+11/15/2020,Metro Wastewater RWHTF - CC,,296,2217
+11/13/2020,Longmont,,85,2218
+11/17/2020,South Fort Collins,,17,2219
+11/04/2020,Loveland,,41,2220
+11/11/2020,CO Springs - JD Phillips,,117,2221
+11/06/2020,Metro Wastewater RWHTF - CC,,404,2222
+11/02/2020,CO Springs - JD Phillips,100102.9,38,2223
+11/09/2020,Greeley,264238.4,68,2224
+11/15/2020,Metro Wastewater RWHTF - PRC,,579,2225
+11/13/2020,Louisville,,8,2226
+11/17/2020,SPR,,201,2227
+11/04/2020,Metro Wastewater RWHTF - CC,,363,2228
+11/11/2020,CO Springs - Las Vegas,,327,2229
+11/06/2020,Metro Wastewater RWHTF - PRC,,834,2230
+11/02/2020,CO Springs - Las Vegas,,176,2231
+11/09/2020,Longmont,184751,53,2232
+11/15/2020,Northglenn,,39,2233
+11/13/2020,Loveland,,58,2234
+11/17/2020,Wellington Water and Sewer,,14,2235
+11/04/2020,Metro Wastewater RWHTF - PRC,,736,2236
+11/11/2020,Estes Park + Upper Thompson,,0,2237
+11/06/2020,Northglenn,,46,2238
+11/02/2020,Estes Park + Upper Thompson,158831.9,0,2239
+11/09/2020,Louisville,39366.4,7,2240
+11/15/2020,Pueblo,,129,2241
+11/13/2020,Metro Wastewater RWHTF - CC,,412,2242
+11/13/2020,Metro Wastewater RWHTF - PRC,,856,2243
+11/13/2020,Northglenn,,51,2244
+11/13/2020,Pueblo,,179,2245
+11/13/2020,Pueblo West,,0,2246
+11/13/2020,South Adams County,,90,2247
+11/13/2020,South Fort Collins,,24,2248
+11/13/2020,SPR,,203,2249
+11/13/2020,Wellington Water and Sewer,,9,2250
+11/14/2020,Aurora,,272,2251
+11/14/2020,Boulder,,58,2252
+11/14/2020,Broomfield,,39,2253
+11/14/2020,CO Springs - JD Phillips,,85,2254
+11/14/2020,CO Springs - Las Vegas,,269,2255
+11/14/2020,Estes Park + Upper Thompson,,0,2256
+11/14/2020,Fort Collins - Boxelder,,19,2257
+11/14/2020,Fort Collins - Drake,,79,2258
+11/14/2020,Fort Collins - Mulberry,,28,2259
+11/14/2020,Greeley,,102,2260
+11/14/2020,Longmont,,80,2261
+11/14/2020,Louisville,,7,2262
+11/15/2020,Pueblo West,,0,2263
+11/15/2020,South Adams County,,61,2264
+11/15/2020,South Fort Collins,,15,2265
+11/15/2020,SPR,,154,2266
+11/15/2020,Wellington Water and Sewer,,5,2267
+11/16/2020,Aurora,346193.4,248,2268
+11/16/2020,Boulder,165764.9,47,2269
+11/16/2020,Broomfield,115853.2,35,2270
+11/16/2020,CO Springs - JD Phillips,321116.8,76,2271
+11/16/2020,CO Springs - Las Vegas,388599.3,249,2272
+11/16/2020,Estes Park + Upper Thompson,137657.1,0,2273
+11/16/2020,Fort Collins - Boxelder,127302.4,16,2274
+11/16/2020,Fort Collins - Drake,133018.6,62,2275
+11/16/2020,Fort Collins - Mulberry,90639.8,21,2276
+11/16/2020,Greeley,312752.6,97,2277
+11/16/2020,Longmont,312565.9,63,2278
+11/16/2020,Louisville,195400.3,7,2279
+11/16/2020,Loveland,180505.3,28,2280
+11/16/2020,Metro Wastewater RWHTF - CC,102342.1,321,2281
+11/16/2020,Metro Wastewater RWHTF - PRC,172608.6,637,2282
+11/16/2020,Northglenn,66228.8,39,2283
+11/16/2020,Pueblo,370977.8,167,2284
+11/16/2020,Pueblo West,,0,2285
+11/18/2020,Aurora,,343,2286
+11/02/2020,Fort Collins - Boxelder,79374,7,2287
+11/18/2020,Boulder,,69,2288
+11/09/2020,Loveland,157117.3,29,2289
+11/11/2020,Fort Collins - Boxelder,,18,2290
+11/02/2020,Fort Collins - Drake,27516.1,19,2291
+11/18/2020,Broomfield,,48,2292
+11/09/2020,Metro Wastewater RWHTF - CC,123870.7,295,2293
+11/11/2020,Fort Collins - Drake,,75,2294
+11/02/2020,Fort Collins - Mulberry,21196.1,7,2295
+11/18/2020,CO Springs - JD Phillips,,124,2296
+11/09/2020,Metro Wastewater RWHTF - PRC,218487.7,601,2297
+11/11/2020,Fort Collins - Mulberry,,26,2298
+11/06/2020,Pueblo,,116,2299
+11/04/2020,Northglenn,,36,2300
+11/02/2020,Greeley,128185.9,43,2301
+11/18/2020,CO Springs - Las Vegas,,420,2302
+11/09/2020,Northglenn,240952.4,39,2303
+11/11/2020,Greeley,,123,2304
+11/06/2020,Pueblo West,,0,2305
+11/04/2020,Pueblo,,119,2306
+11/02/2020,Longmont,95797.5,46,2307
+11/18/2020,Estes Park + Upper Thompson,,5,2308
+11/09/2020,Pueblo,168123.1,195,2309
+11/11/2020,Longmont,,77,2310
+11/06/2020,South Adams County,,82,2311
+11/04/2020,Pueblo West,,0,2312
+11/02/2020,Louisville,30368.3,0,2313
+11/18/2020,Fort Collins - Boxelder,,19,2314
+11/09/2020,Pueblo West,,0,2315
+11/11/2020,Louisville,,10,2316
+11/06/2020,South Fort Collins,,15,2317
+11/04/2020,South Adams County,,84,2318
+11/02/2020,Loveland,85874,20,2319
+11/18/2020,Fort Collins - Drake,,76,2320
+11/09/2020,South Adams County,107211.9,65,2321
+11/11/2020,Loveland,,55,2322
+11/06/2020,SPR,,173,2323
+11/04/2020,South Fort Collins,,15,2324
+11/04/2020,SPR,,159,2325
+11/04/2020,Wellington Water and Sewer,,8,2326
+11/05/2020,Aurora,275983.1,286,2327
+11/05/2020,Boulder,60862.8,61,2328
+11/05/2020,Broomfield,29733.7,28,2329
+11/05/2020,CO Springs - JD Phillips,197896.6,88,2330
+11/05/2020,CO Springs - Las Vegas,178364.2,242,2331
+11/05/2020,Estes Park + Upper Thompson,93877,10,2332
+11/05/2020,Fort Collins - Boxelder,176513.4,17,2333
+11/05/2020,Fort Collins - Drake,52473.4,45,2334
+11/05/2020,Fort Collins - Mulberry,77009.1,26,2335
+11/05/2020,Greeley,236193.2,77,2336
+11/11/2020,Metro Wastewater RWHTF - CC,,439,2337
+11/11/2020,Metro Wastewater RWHTF - PRC,,887,2338
+11/11/2020,Northglenn,,49,2339
+11/11/2020,Pueblo,,183,2340
+11/11/2020,Pueblo West,,0,2341
+11/09/2020,South Fort Collins,40360.7,9,2342
+11/11/2020,South Adams County,,92,2343
+11/02/2020,Metro Wastewater RWHTF - CC,,232,2344
+11/09/2020,SPR,214975.3,159,2345
+11/11/2020,South Fort Collins,,21,2346
+11/18/2020,Fort Collins - Mulberry,,25,2347
+11/02/2020,Metro Wastewater RWHTF - PRC,118171.4,439,2348
+11/09/2020,Wellington Water and Sewer,466462,7,2349
+11/06/2020,Wellington Water and Sewer,,8,2350
+11/11/2020,SPR,,241,2351
+11/18/2020,Greeley,,142,2352
+11/02/2020,Northglenn,169488.6,26,2353
+11/07/2020,Aurora,,237,2354
+11/11/2020,Wellington Water and Sewer,,11,2355
+11/18/2020,Longmont,,83,2356
+11/02/2020,Pueblo,134215.5,69,2357
+11/07/2020,Boulder,,57,2358
+11/12/2020,Aurora,361227.9,308,2359
+11/18/2020,Louisville,,7,2360
+11/02/2020,Pueblo West,,0,2361
+11/07/2020,Broomfield,,27,2362
+11/12/2020,Boulder,109962.8,82,2363
+11/18/2020,Loveland,,57,2364
+11/02/2020,South Adams County,56957.3,46,2365
+11/07/2020,CO Springs - JD Phillips,,71,2366
+11/12/2020,Broomfield,31603,45,2367
+11/18/2020,Metro Wastewater RWHTF - CC,,443,2368
+11/02/2020,South Fort Collins,44981.2,6,2369
+11/07/2020,CO Springs - Las Vegas,,230,2370
+11/12/2020,CO Springs - JD Phillips,287535.7,112,2371
+11/18/2020,Metro Wastewater RWHTF - PRC,,911,2372
+11/02/2020,SPR,163855.8,103,2373
+11/07/2020,Estes Park + Upper Thompson,,0,2374
+11/12/2020,CO Springs - Las Vegas,280099.4,300,2375
+11/18/2020,Northglenn,370621.4,56,2376
+11/02/2020,Wellington Water and Sewer,100752.2,6,2377
+11/07/2020,Fort Collins - Boxelder,,12,2378
+11/12/2020,Estes Park + Upper Thompson,109450.4,0,2379
+11/18/2020,Pueblo,,266,2380
+11/03/2020,Aurora,,219,2381
+11/07/2020,Fort Collins - Drake,,48,2382
+11/18/2020,Pueblo West,,0,2383
+11/03/2020,Boulder,,55,2384
+11/07/2020,Fort Collins - Mulberry,,23,2385
+11/18/2020,South Adams County,,76,2386
+11/03/2020,Broomfield,,28,2387
+11/07/2020,Greeley,,67,2388
+11/18/2020,South Fort Collins,,18,2389
+11/03/2020,CO Springs - JD Phillips,,59,2390
+11/07/2020,Longmont,,59,2391
+11/18/2020,SPR,,225,2392
+11/07/2020,Louisville,,6,2393
+11/18/2020,Wellington Water and Sewer,,14,2394
+11/07/2020,Loveland,,36,2395
+11/19/2020,Aurora,125657,300,2396
+11/07/2020,Metro Wastewater RWHTF - CC,,356,2397
+11/19/2020,Boulder,117260.2,59,2398
+11/07/2020,Metro Wastewater RWHTF - PRC,,747,2399
+11/07/2020,Northglenn,,46,2400
+11/23/2020,Metro Wastewater RWHTF - PRC,,583,2401
+11/23/2020,Northglenn,303600,36,2402
+11/21/2020,Fort Collins - Mulberry,,28,2403
+11/19/2020,Broomfield,27927.3,46,2404
+11/23/2020,Pueblo,,127,2405
+11/23/2020,Pueblo West,,0,2406
+11/23/2020,South Adams County,,57,2407
+11/23/2020,South Fort Collins,,13,2408
+11/23/2020,SPR,,161,2409
+11/23/2020,Wellington Water and Sewer,,8,2410
+11/24/2020,Aurora,330741.7,256,2411
+11/24/2020,Boulder,103188.4,41,2412
+11/24/2020,Broomfield,35645.9,34,2413
+11/24/2020,CO Springs - JD Phillips,329230.7,79,2414
+11/24/2020,CO Springs - Las Vegas,279129.6,320,2415
+11/24/2020,Estes Park + Upper Thompson,105484.2,0,2416
+11/24/2020,Fort Collins - Boxelder,126246.1,21,2417
+11/24/2020,Fort Collins - Drake,151454.9,66,2418
+11/24/2020,Fort Collins - Mulberry,105783,19,2419
+11/24/2020,Greeley,308340.1,100,2420
+11/24/2020,Longmont,,60,2421
+11/24/2020,Louisville,42985.5,9,2422
+11/24/2020,Loveland,,57,2423
+11/24/2020,Metro Wastewater RWHTF - CC,213774.7,332,2424
+11/24/2020,Metro Wastewater RWHTF - PRC,262795.5,615,2425
+11/24/2020,Northglenn,,39,2426
+11/24/2020,Pueblo,459627.3,157,2427
+11/24/2020,Pueblo West,,0,2428
+11/24/2020,South Adams County,203139,60,2429
+11/24/2020,South Fort Collins,72883.2,17,2430
+11/24/2020,SPR,0,177,2431
+11/24/2020,Wellington Water and Sewer,202247.3,9,2432
+11/25/2020,Aurora,,312,2433
+11/25/2020,Boulder,,46,2434
+11/25/2020,Broomfield,,35,2435
+11/25/2020,CO Springs - JD Phillips,,102,2436
+11/25/2020,CO Springs - Las Vegas,,389,2437
+11/25/2020,Estes Park + Upper Thompson,,0,2438
+11/25/2020,Fort Collins - Boxelder,,25,2439
+11/25/2020,Fort Collins - Drake,,76,2440
+11/25/2020,Fort Collins - Mulberry,,36,2441
+11/25/2020,Greeley,,118,2442
+11/25/2020,Longmont,,64,2443
+11/25/2020,Louisville,,9,2444
+11/25/2020,Loveland,,78,2445
+11/25/2020,Metro Wastewater RWHTF - CC,,376,2446
+11/25/2020,Metro Wastewater RWHTF - PRC,,721,2447
+11/25/2020,Northglenn,,48,2448
+11/25/2020,Pueblo,,209,2449
+11/25/2020,Pueblo West,,0,2450
+11/25/2020,South Adams County,,72,2451
+11/25/2020,South Fort Collins,,21,2452
+12/05/2020,Aurora,,214,2453
+12/02/2020,Pueblo,,201,2454
+11/30/2020,Longmont,164923.8,57,2455
+12/05/2020,Boulder,,24,2456
+12/05/2020,Broomfield,,21,2457
+12/05/2020,CO Springs - JD Phillips,,77,2458
+12/05/2020,CO Springs - Las Vegas,,250,2459
+12/05/2020,Estes Park + Upper Thompson,,0,2460
+12/05/2020,Fort Collins - Boxelder,,23,2461
+12/05/2020,Fort Collins - Drake,,65,2462
+12/05/2020,Fort Collins - Mulberry,,24,2463
+12/05/2020,Greeley,,70,2464
+12/05/2020,Longmont,,55,2465
+12/05/2020,Louisville,,6,2466
+12/05/2020,Loveland,,50,2467
+12/05/2020,Metro Wastewater RWHTF - CC,,264,2468
+12/05/2020,Metro Wastewater RWHTF - PRC,,616,2469
+12/05/2020,Northglenn,,27,2470
+12/05/2020,Pueblo,,138,2471
+12/05/2020,Pueblo West,,0,2472
+12/05/2020,South Adams County,,48,2473
+12/05/2020,South Fort Collins,,18,2474
+12/05/2020,SPR,,135,2475
+12/05/2020,Wellington Water and Sewer,,20,2476
+12/06/2020,Aurora,,161,2477
+12/06/2020,Boulder,,18,2478
+12/06/2020,Broomfield,,17,2479
+12/06/2020,CO Springs - JD Phillips,,54,2480
+12/06/2020,CO Springs - Las Vegas,,183,2481
+12/06/2020,Estes Park + Upper Thompson,,0,2482
+12/06/2020,Fort Collins - Boxelder,,13,2483
+12/06/2020,Fort Collins - Drake,,43,2484
+12/06/2020,Fort Collins - Mulberry,,16,2485
+12/06/2020,Greeley,,54,2486
+12/06/2020,Longmont,,44,2487
+12/06/2020,Louisville,,5,2488
+12/06/2020,Loveland,,31,2489
+12/06/2020,Metro Wastewater RWHTF - CC,,200,2490
+12/06/2020,Metro Wastewater RWHTF - PRC,,500,2491
+12/06/2020,Northglenn,,21,2492
+12/06/2020,Pueblo,,104,2493
+12/06/2020,Pueblo West,,0,2494
+12/06/2020,South Adams County,,40,2495
+12/06/2020,South Fort Collins,,12,2496
+12/06/2020,SPR,,98,2497
+12/06/2020,Wellington Water and Sewer,,6,2498
+12/07/2020,Aurora,223465.2,159,2499
+12/07/2020,Boulder,97257.1,24,2500
+12/07/2020,Broomfield,22550.9,19,2501
+12/07/2020,CO Springs - JD Phillips,241053,60,2502
+12/07/2020,CO Springs - Las Vegas,273518.9,197,2503
+12/07/2020,Estes Park + Upper Thompson,161052.6,0,2504
+12/02/2020,Pueblo West,,0,2505
+11/19/2020,CO Springs - JD Phillips,193270.3,115,2506
+11/21/2020,Greeley,,97,2507
+11/30/2020,Louisville,,6,2508
+11/30/2020,Loveland,,46,2509
+11/30/2020,Metro Wastewater RWHTF - CC,266679.7,295,2510
+11/30/2020,Metro Wastewater RWHTF - PRC,184016.2,566,2511
+11/30/2020,Northglenn,254320,35,2512
+11/30/2020,Pueblo,551311.3,153,2513
+11/30/2020,Pueblo West,,0,2514
+11/30/2020,South Adams County,119176.8,51,2515
+11/30/2020,South Fort Collins,77922.3,16,2516
+11/30/2020,SPR,184435.1,168,2517
+11/30/2020,Wellington Water and Sewer,490406.5,7,2518
+12/01/2020,Aurora,,266,2519
+12/01/2020,Boulder,,40,2520
+12/01/2020,Broomfield,,35,2521
+12/01/2020,CO Springs - JD Phillips,,101,2522
+12/01/2020,CO Springs - Las Vegas,,325,2523
+12/01/2020,Estes Park + Upper Thompson,,0,2524
+12/01/2020,Fort Collins - Boxelder,,23,2525
+12/01/2020,Fort Collins - Drake,,67,2526
+12/01/2020,Fort Collins - Mulberry,,20,2527
+12/01/2020,Greeley,,116,2528
+12/01/2020,Longmont,,61,2529
+12/01/2020,Louisville,,6,2530
+12/01/2020,Loveland,,59,2531
+12/01/2020,Metro Wastewater RWHTF - CC,,342,2532
+12/01/2020,Metro Wastewater RWHTF - PRC,,631,2533
+12/01/2020,Northglenn,,31,2534
+12/01/2020,Pueblo,,176,2535
+12/01/2020,Pueblo West,221859.5,0,2536
+12/01/2020,South Adams County,,56,2537
+12/01/2020,South Fort Collins,,21,2538
+12/01/2020,SPR,,184,2539
+12/01/2020,Wellington Water and Sewer,,11,2540
+12/02/2020,Aurora,,300,2541
+12/02/2020,Boulder,,44,2542
+12/02/2020,Broomfield,,37,2543
+12/02/2020,CO Springs - JD Phillips,,121,2544
+12/02/2020,CO Springs - Las Vegas,,390,2545
+12/02/2020,Estes Park + Upper Thompson,,0,2546
+12/02/2020,Fort Collins - Boxelder,,27,2547
+12/02/2020,Fort Collins - Drake,,78,2548
+12/02/2020,Fort Collins - Mulberry,,28,2549
+12/02/2020,Greeley,,130,2550
+12/02/2020,Longmont,,71,2551
+12/02/2020,Louisville,,5,2552
+12/02/2020,Loveland,,75,2553
+12/02/2020,Metro Wastewater RWHTF - CC,,383,2554
+12/02/2020,Metro Wastewater RWHTF - PRC,,657,2555
+12/02/2020,Northglenn,225919,36,2556
+11/19/2020,CO Springs - Las Vegas,166291.4,369,2557
+11/19/2020,Estes Park + Upper Thompson,49760.3,0,2558
+11/19/2020,Fort Collins - Boxelder,98783.1,21,2559
+11/19/2020,Fort Collins - Drake,86722.1,77,2560
+11/19/2020,Fort Collins - Mulberry,76048,28,2561
+11/19/2020,Greeley,441091.6,125,2562
+11/19/2020,Longmont,252747.7,80,2563
+11/19/2020,Louisville,42493.5,8,2564
+12/02/2020,South Adams County,,61,2565
+11/19/2020,Loveland,190271,57,2566
+12/02/2020,South Fort Collins,,23,2567
+11/19/2020,Metro Wastewater RWHTF - CC,306884.8,429,2568
+11/21/2020,Longmont,,70,2569
+12/02/2020,SPR,,195,2570
+11/19/2020,Metro Wastewater RWHTF - PRC,822053.6,823,2571
+11/21/2020,Louisville,,8,2572
+12/02/2020,Wellington Water and Sewer,,11,2573
+11/19/2020,Northglenn,,48,2574
+11/21/2020,Loveland,,50,2575
+12/03/2020,Aurora,311213.1,283,2576
+12/03/2020,Boulder,123598.3,37,2577
+12/03/2020,Broomfield,30804.6,29,2578
+12/03/2020,CO Springs - JD Phillips,314261.6,95,2579
+12/03/2020,CO Springs - Las Vegas,279576.1,318,2580
+12/03/2020,Estes Park + Upper Thompson,114805.7,0,2581
+12/03/2020,Fort Collins - Boxelder,126733,28,2582
+12/03/2020,Fort Collins - Drake,144885.9,74,2583
+12/03/2020,Fort Collins - Mulberry,72488.2,26,2584
+12/03/2020,Greeley,309320.9,93,2585
+12/03/2020,Longmont,178098,61,2586
+12/03/2020,Louisville,49860.2,5,2587
+12/03/2020,Loveland,171512.5,69,2588
+12/03/2020,Metro Wastewater RWHTF - CC,292661,350,2589
+12/03/2020,Metro Wastewater RWHTF - PRC,161344.4,562,2590
+12/03/2020,Northglenn,,32,2591
+12/03/2020,Pueblo,264070,162,2592
+12/03/2020,Pueblo West,276636.9,0,2593
+12/03/2020,South Adams County,141417,61,2594
+12/03/2020,South Fort Collins,67325,20,2595
+12/03/2020,SPR,324554.2,182,2596
+12/03/2020,Wellington Water and Sewer,317140.5,23,2597
+12/04/2020,Aurora,,250,2598
+12/04/2020,Boulder,,31,2599
+12/04/2020,Broomfield,,28,2600
+12/04/2020,CO Springs - JD Phillips,,88,2601
+12/04/2020,CO Springs - Las Vegas,,298,2602
+12/04/2020,Estes Park + Upper Thompson,,0,2603
+12/04/2020,Fort Collins - Boxelder,,22,2604
+12/04/2020,Fort Collins - Drake,,74,2605
+12/04/2020,Fort Collins - Mulberry,,25,2606
+12/04/2020,Greeley,,81,2607
+12/04/2020,Longmont,,62,2608
+12/04/2020,Louisville,,7,2609
+12/04/2020,Loveland,,63,2610
+12/04/2020,Metro Wastewater RWHTF - CC,,317,2611
+12/04/2020,Metro Wastewater RWHTF - PRC,,667,2612
+12/04/2020,Northglenn,,32,2613
+12/04/2020,Pueblo,,152,2614
+12/04/2020,Pueblo West,,0,2615
+12/04/2020,South Adams County,,55,2616
+12/04/2020,South Fort Collins,,18,2617
+12/04/2020,SPR,,158,2618
+12/04/2020,Wellington Water and Sewer,,21,2619
+11/21/2020,Metro Wastewater RWHTF - CC,,354,2620
+11/21/2020,Metro Wastewater RWHTF - PRC,,644,2621
+11/21/2020,Northglenn,,35,2622
+11/21/2020,Pueblo,,172,2623
+11/21/2020,Pueblo West,,0,2624
+11/21/2020,South Adams County,,64,2625
+11/21/2020,South Fort Collins,,18,2626
+11/21/2020,SPR,,174,2627
+11/21/2020,Wellington Water and Sewer,,8,2628
+11/22/2020,Aurora,,207,2629
+11/22/2020,Boulder,,46,2630
+11/22/2020,Broomfield,,27,2631
+11/22/2020,CO Springs - JD Phillips,,72,2632
+11/22/2020,CO Springs - Las Vegas,,190,2633
+11/22/2020,Estes Park + Upper Thompson,,0,2634
+11/22/2020,Fort Collins - Boxelder,,14,2635
+11/22/2020,Fort Collins - Drake,,67,2636
+11/22/2020,Fort Collins - Mulberry,,22,2637
+11/22/2020,Greeley,,70,2638
+11/22/2020,Longmont,,55,2639
+11/22/2020,Louisville,,7,2640
+11/22/2020,Loveland,,40,2641
+11/22/2020,Metro Wastewater RWHTF - CC,,277,2642
+11/22/2020,Metro Wastewater RWHTF - PRC,,524,2643
+11/22/2020,Northglenn,,27,2644
+11/22/2020,Pueblo,,121,2645
+11/22/2020,Pueblo West,,0,2646
+11/22/2020,South Adams County,,49,2647
+11/22/2020,South Fort Collins,,15,2648
+11/22/2020,SPR,,139,2649
+11/22/2020,Wellington Water and Sewer,,6,2650
+11/23/2020,Aurora,,229,2651
+11/23/2020,Boulder,,35,2652
+11/23/2020,Broomfield,,30,2653
+11/23/2020,CO Springs - JD Phillips,,73,2654
+11/23/2020,CO Springs - Las Vegas,,268,2655
+11/23/2020,Estes Park + Upper Thompson,,0,2656
+11/23/2020,Fort Collins - Boxelder,,16,2657
+11/23/2020,Fort Collins - Drake,,65,2658
+11/23/2020,Fort Collins - Mulberry,,21,2659
+11/23/2020,Greeley,,73,2660
+11/23/2020,Longmont,178182,60,2661
+11/23/2020,Louisville,,8,2662
+11/23/2020,Loveland,,49,2663
+11/23/2020,Metro Wastewater RWHTF - CC,,312,2664
+11/19/2020,Pueblo,741009,241,2665
+11/19/2020,Pueblo West,401408.3,0,2666
+11/19/2020,South Adams County,79424.6,73,2667
+11/19/2020,South Fort Collins,59633.6,16,2668
+11/19/2020,SPR,250589.4,210,2669
+11/19/2020,Wellington Water and Sewer,421693.6,9,2670
+11/20/2020,Aurora,,292,2671
+11/20/2020,Boulder,,62,2672
+11/20/2020,Broomfield,,38,2673
+11/20/2020,CO Springs - JD Phillips,,109,2674
+11/20/2020,CO Springs - Las Vegas,,328,2675
+11/20/2020,Estes Park + Upper Thompson,,0,2676
+11/20/2020,Fort Collins - Boxelder,,20,2677
+11/20/2020,Fort Collins - Drake,,86,2678
+11/20/2020,Fort Collins - Mulberry,,34,2679
+11/20/2020,Greeley,,118,2680
+11/20/2020,Longmont,,74,2681
+11/20/2020,Louisville,,7,2682
+11/20/2020,Loveland,,59,2683
+11/20/2020,Metro Wastewater RWHTF - CC,,412,2684
+11/20/2020,Metro Wastewater RWHTF - PRC,,758,2685
+11/20/2020,Northglenn,,42,2686
+11/20/2020,Pueblo,,220,2687
+11/20/2020,Pueblo West,,0,2688
+11/20/2020,South Adams County,,70,2689
+11/20/2020,South Fort Collins,,20,2690
+11/20/2020,SPR,,192,2691
+11/20/2020,Wellington Water and Sewer,,7,2692
+11/21/2020,Aurora,,255,2693
+11/21/2020,Boulder,,53,2694
+11/21/2020,Broomfield,,34,2695
+11/21/2020,CO Springs - JD Phillips,,100,2696
+11/21/2020,CO Springs - Las Vegas,,270,2697
+11/21/2020,Estes Park + Upper Thompson,,0,2698
+11/21/2020,Fort Collins - Boxelder,,18,2699
+11/21/2020,Fort Collins - Drake,,78,2700
+11/25/2020,SPR,,213,2701
+11/25/2020,Wellington Water and Sewer,,10,2702
+11/26/2020,Aurora,,209,2703
+11/26/2020,Boulder,,35,2704
+11/26/2020,Broomfield,,28,2705
+11/26/2020,CO Springs - JD Phillips,,68,2706
+11/26/2020,CO Springs - Las Vegas,,239,2707
+11/26/2020,Estes Park + Upper Thompson,,0,2708
+11/26/2020,Fort Collins - Boxelder,,16,2709
+11/26/2020,Fort Collins - Drake,,49,2710
+11/26/2020,Fort Collins - Mulberry,,27,2711
+11/26/2020,Greeley,,82,2712
+11/26/2020,Longmont,,42,2713
+11/26/2020,Louisville,,6,2714
+11/26/2020,Loveland,,52,2715
+11/26/2020,Metro Wastewater RWHTF - CC,,243,2716
+11/26/2020,Metro Wastewater RWHTF - PRC,,494,2717
+11/26/2020,Northglenn,,30,2718
+11/26/2020,Pueblo,,158,2719
+11/26/2020,Pueblo West,,0,2720
+11/26/2020,South Adams County,,48,2721
+11/26/2020,South Fort Collins,,14,2722
+11/26/2020,SPR,,146,2723
+11/26/2020,Wellington Water and Sewer,,6,2724
+11/27/2020,Aurora,,210,2725
+11/27/2020,Boulder,,33,2726
+11/27/2020,Broomfield,64392.3,27,2727
+11/27/2020,CO Springs - JD Phillips,,75,2728
+11/27/2020,CO Springs - Las Vegas,,241,2729
+11/27/2020,Estes Park + Upper Thompson,195137,0,2730
+11/27/2020,Fort Collins - Boxelder,105605.5,14,2731
+11/27/2020,Fort Collins - Drake,,52,2732
+11/27/2020,Fort Collins - Mulberry,,30,2733
+11/27/2020,Greeley,,59,2734
+11/27/2020,Longmont,192198.5,47,2735
+11/27/2020,Louisville,50794.4,0,2736
+11/27/2020,Loveland,,49,2737
+11/27/2020,Metro Wastewater RWHTF - CC,,279,2738
+11/27/2020,Metro Wastewater RWHTF - PRC,,484,2739
+11/27/2020,Northglenn,,39,2740
+11/27/2020,Pueblo,,162,2741
+11/27/2020,Pueblo West,,0,2742
+11/27/2020,South Adams County,,57,2743
+11/27/2020,South Fort Collins,,13,2744
+11/27/2020,SPR,,148,2745
+11/27/2020,Wellington Water and Sewer,,6,2746
+11/28/2020,Aurora,,183,2747
+11/28/2020,Boulder,,25,2748
+11/28/2020,Broomfield,,28,2749
+11/28/2020,CO Springs - JD Phillips,,67,2750
+11/28/2020,CO Springs - Las Vegas,,223,2751
+11/28/2020,Estes Park + Upper Thompson,,0,2752
+11/28/2020,Fort Collins - Boxelder,,12,2753
+11/28/2020,Fort Collins - Drake,,37,2754
+11/28/2020,Fort Collins - Mulberry,,12,2755
+11/28/2020,Greeley,,49,2756
+11/28/2020,Longmont,,43,2757
+11/28/2020,Louisville,,0,2758
+11/28/2020,Loveland,,33,2759
+11/28/2020,Metro Wastewater RWHTF - CC,,248,2760
+11/28/2020,Metro Wastewater RWHTF - PRC,,413,2761
+11/28/2020,Northglenn,,36,2762
+11/28/2020,Pueblo,,130,2763
+11/28/2020,Pueblo West,,0,2764
+11/28/2020,South Adams County,,52,2765
+11/28/2020,South Fort Collins,,9,2766
+11/28/2020,SPR,,126,2767
+11/28/2020,Wellington Water and Sewer,,5,2768
+11/29/2020,Aurora,,225,2769
+11/29/2020,Boulder,,28,2770
+11/29/2020,Broomfield,,31,2771
+11/29/2020,CO Springs - JD Phillips,,71,2772
+11/29/2020,CO Springs - Las Vegas,,230,2773
+11/29/2020,Estes Park + Upper Thompson,,0,2774
+11/29/2020,Fort Collins - Boxelder,,14,2775
+11/29/2020,Fort Collins - Drake,,43,2776
+11/29/2020,Fort Collins - Mulberry,,14,2777
+11/29/2020,Greeley,,58,2778
+11/29/2020,Longmont,,48,2779
+11/29/2020,Louisville,,5,2780
+11/29/2020,Loveland,,37,2781
+11/29/2020,Metro Wastewater RWHTF - CC,,294,2782
+11/29/2020,Metro Wastewater RWHTF - PRC,,465,2783
+11/29/2020,Northglenn,,41,2784
+11/29/2020,Pueblo,,134,2785
+11/29/2020,Pueblo West,,0,2786
+11/29/2020,South Adams County,,61,2787
+11/29/2020,South Fort Collins,,11,2788
+11/29/2020,SPR,,157,2789
+11/29/2020,Wellington Water and Sewer,,6,2790
+11/30/2020,Aurora,293664.5,230,2791
+11/30/2020,Boulder,63802.8,34,2792
+11/30/2020,Broomfield,31946.4,37,2793
+11/30/2020,CO Springs - JD Phillips,259395.1,89,2794
+11/30/2020,CO Springs - Las Vegas,311940.4,273,2795
+11/30/2020,Estes Park + Upper Thompson,128190.8,0,2796
+11/30/2020,Fort Collins - Boxelder,146380.3,18,2797
+11/30/2020,Fort Collins - Drake,264013.2,52,2798
+11/30/2020,Fort Collins - Mulberry,52031.5,18,2799
+11/30/2020,Greeley,362470.9,96,2800
+12/07/2020,Fort Collins - Boxelder,105567.1,17,2801
+12/07/2020,Fort Collins - Drake,119402.7,47,2802
+12/07/2020,Fort Collins - Mulberry,53788.9,23,2803
+12/07/2020,Greeley,221469.2,45,2804
+12/07/2020,Longmont,157788.7,41,2805
+12/07/2020,Louisville,51686.4,0,2806
+12/07/2020,Loveland,133179.7,42,2807
+12/07/2020,Metro Wastewater RWHTF - CC,112978.7,201,2808
+12/07/2020,Metro Wastewater RWHTF - PRC,197522.8,341,2809
+12/07/2020,Northglenn,75234.8,23,2810
+12/07/2020,Pueblo,242701.9,120,2811
+12/07/2020,Pueblo West,,0,2812
+12/07/2020,South Adams County,146664.3,42,2813
+12/07/2020,South Fort Collins,93873.1,16,2814
+12/07/2020,SPR,181673.2,102,2815
+12/07/2020,Wellington Water and Sewer,155797.8,7,2816
+12/09/2020,Loveland,,61,2817
+12/08/2020,Aurora,,167,2818
+12/08/2020,Boulder,,31,2819
+12/08/2020,Broomfield,,21,2820
+12/09/2020,Metro Wastewater RWHTF - CC,,245,2821
+12/08/2020,CO Springs - JD Phillips,,57,2822
+12/09/2020,Metro Wastewater RWHTF - PRC,,443,2823
+12/08/2020,CO Springs - Las Vegas,,233,2824
+12/09/2020,Northglenn,146404.8,24,2825
+12/11/2020,South Adams County,,40,2826
+12/20/2020,SPR,,47,2827
+12/16/2020,Fort Collins - Mulberry,,12,2828
+12/18/2020,Metro Wastewater RWHTF - PRC,,270,2829
+12/23/2020,CO Springs - Las Vegas,85518.6,121,2830
+12/08/2020,Estes Park + Upper Thompson,,0,2831
+12/08/2020,Fort Collins - Boxelder,,14,2832
+12/08/2020,Fort Collins - Drake,,57,2833
+12/08/2020,Fort Collins - Mulberry,,17,2834
+12/08/2020,Greeley,,55,2835
+12/08/2020,Longmont,,36,2836
+12/08/2020,Louisville,,0,2837
+12/08/2020,Loveland,,51,2838
+12/08/2020,Metro Wastewater RWHTF - CC,,221,2839
+12/08/2020,Metro Wastewater RWHTF - PRC,,393,2840
+12/08/2020,Northglenn,,24,2841
+12/08/2020,Pueblo,,115,2842
+12/08/2020,Pueblo West,393872,0,2843
+12/08/2020,South Adams County,,44,2844
+12/08/2020,South Fort Collins,,15,2845
+12/08/2020,SPR,,108,2846
+12/08/2020,Wellington Water and Sewer,,8,2847
+12/09/2020,Aurora,,203,2848
+12/09/2020,Boulder,,37,2849
+12/09/2020,Broomfield,,20,2850
+12/09/2020,CO Springs - JD Phillips,,73,2851
+12/09/2020,CO Springs - Las Vegas,,272,2852
+12/09/2020,Estes Park + Upper Thompson,,0,2853
+12/09/2020,Fort Collins - Boxelder,,16,2854
+12/09/2020,Fort Collins - Drake,,62,2855
+12/09/2020,Fort Collins - Mulberry,,20,2856
+12/09/2020,Greeley,,63,2857
+12/09/2020,Longmont,,43,2858
+12/09/2020,Louisville,,0,2859
+12/14/2020,Broomfield,32788.8,11,2860
+12/20/2020,Wellington Water and Sewer,,0,2861
+12/21/2020,Aurora,184830.1,107,2862
+12/21/2020,Boulder,48087.3,13,2863
+12/21/2020,Broomfield,24523.9,14,2864
+12/21/2020,CO Springs - JD Phillips,116151.4,35,2865
+12/21/2020,CO Springs - Las Vegas,137641.9,78,2866
+12/21/2020,Estes Park + Upper Thompson,27344.6,0,2867
+12/21/2020,Fort Collins - Boxelder,30304.8,6,2868
+12/21/2020,Fort Collins - Drake,116121.6,20,2869
+12/21/2020,Fort Collins - Mulberry,29951.6,8,2870
+12/21/2020,Greeley,162986.8,35,2871
+12/21/2020,Longmont,55236,23,2872
+12/21/2020,Louisville,82134.8,0,2873
+12/21/2020,Loveland,88236.3,26,2874
+12/21/2020,Metro Wastewater RWHTF - CC,93789,119,2875
+12/21/2020,Metro Wastewater RWHTF - PRC,82080.7,197,2876
+12/21/2020,Northglenn,68608.6,12,2877
+12/21/2020,Pueblo,93318.1,35,2878
+12/21/2020,Pueblo West,,0,2879
+12/21/2020,South Adams County,100178.9,21,2880
+12/21/2020,South Fort Collins,54244.5,6,2881
+12/21/2020,SPR,150012.2,51,2882
+12/21/2020,Wellington Water and Sewer,58537.8,0,2883
+12/22/2020,Aurora,,116,2884
+12/22/2020,Boulder,,17,2885
+12/22/2020,Broomfield,,15,2886
+12/22/2020,CO Springs - JD Phillips,,40,2887
+12/22/2020,CO Springs - Las Vegas,,94,2888
+12/22/2020,Estes Park + Upper Thompson,,0,2889
+12/22/2020,Fort Collins - Boxelder,,7,2890
+12/22/2020,Fort Collins - Drake,,23,2891
+12/22/2020,Fort Collins - Mulberry,,9,2892
+12/22/2020,Greeley,,45,2893
+12/22/2020,Longmont,,27,2894
+12/22/2020,Louisville,,0,2895
+12/22/2020,Loveland,,30,2896
+12/22/2020,Metro Wastewater RWHTF - CC,,124,2897
+12/22/2020,Metro Wastewater RWHTF - PRC,,222,2898
+12/22/2020,Northglenn,,10,2899
+12/22/2020,Pueblo,,35,2900
+12/22/2020,Pueblo West,34361.9,0,2901
+12/22/2020,South Adams County,,21,2902
+12/22/2020,South Fort Collins,,8,2903
+12/22/2020,SPR,,58,2904
+12/22/2020,Wellington Water and Sewer,,0,2905
+12/23/2020,Aurora,195865.6,133,2906
+12/23/2020,Boulder,39312,22,2907
+12/23/2020,Broomfield,14057.1,19,2908
+12/23/2020,CO Springs - JD Phillips,111613.2,54,2909
+12/16/2020,Greeley,,56,2910
+12/16/2020,Longmont,,41,2911
+12/16/2020,Louisville,,0,2912
+12/16/2020,Loveland,,37,2913
+12/16/2020,Metro Wastewater RWHTF - CC,,181,2914
+12/16/2020,Metro Wastewater RWHTF - PRC,,308,2915
+12/16/2020,Northglenn,,14,2916
+12/16/2020,Pueblo,,71,2917
+12/16/2020,Pueblo West,,0,2918
+12/16/2020,South Adams County,,36,2919
+12/16/2020,South Fort Collins,,14,2920
+12/16/2020,SPR,,85,2921
+12/16/2020,Wellington Water and Sewer,,5,2922
+12/17/2020,Aurora,301380.8,161,2923
+12/17/2020,Boulder,27120.7,21,2924
+12/17/2020,Broomfield,49066.7,14,2925
+12/17/2020,CO Springs - JD Phillips,70888.9,38,2926
+12/17/2020,CO Springs - Las Vegas,66824.1,156,2927
+12/17/2020,Estes Park + Upper Thompson,35047.9,0,2928
+12/17/2020,Fort Collins - Boxelder,40009.2,13,2929
+12/17/2020,Fort Collins - Drake,58733.7,35,2930
+12/17/2020,Fort Collins - Mulberry,12271.5,10,2931
+12/17/2020,Greeley,99024.4,43,2932
+12/17/2020,Longmont,64879.8,32,2933
+12/17/2020,Louisville,83665.7,0,2934
+12/17/2020,Loveland,145861.4,34,2935
+12/17/2020,Metro Wastewater RWHTF - CC,70992.9,161,2936
+12/17/2020,Metro Wastewater RWHTF - PRC,130936.9,284,2937
+12/17/2020,Northglenn,69771.4,10,2938
+12/17/2020,Pueblo,73932.2,58,2939
+12/17/2020,Pueblo West,282128.9,0,2940
+12/17/2020,South Adams County,48524.8,28,2941
+12/17/2020,South Fort Collins,43275.4,11,2942
+12/17/2020,SPR,166325.1,76,2943
+12/17/2020,Wellington Water and Sewer,100877.2,7,2944
+12/18/2020,Aurora,,145,2945
+12/18/2020,Boulder,,19,2946
+12/18/2020,Broomfield,,13,2947
+12/18/2020,CO Springs - JD Phillips,,37,2948
+12/18/2020,CO Springs - Las Vegas,,140,2949
+12/18/2020,Estes Park + Upper Thompson,,0,2950
+12/18/2020,Fort Collins - Boxelder,,12,2951
+12/18/2020,Fort Collins - Drake,,34,2952
+12/18/2020,Fort Collins - Mulberry,,9,2953
+12/18/2020,Greeley,,40,2954
+12/18/2020,Longmont,,31,2955
+12/18/2020,Louisville,,0,2956
+12/18/2020,Loveland,,29,2957
+12/18/2020,Metro Wastewater RWHTF - CC,,147,2958
+12/11/2020,South Fort Collins,,12,2959
+12/18/2020,Northglenn,,11,2960
+12/18/2020,Pueblo,,58,2961
+12/18/2020,Pueblo West,,0,2962
+12/18/2020,South Adams County,,28,2963
+12/18/2020,South Fort Collins,,12,2964
+12/18/2020,SPR,,71,2965
+12/18/2020,Wellington Water and Sewer,,6,2966
+12/19/2020,Aurora,,122,2967
+12/19/2020,Boulder,,17,2968
+12/19/2020,Broomfield,,11,2969
+12/19/2020,CO Springs - JD Phillips,,31,2970
+12/19/2020,CO Springs - Las Vegas,,105,2971
+12/19/2020,Estes Park + Upper Thompson,,0,2972
+12/19/2020,Fort Collins - Boxelder,,8,2973
+12/19/2020,Fort Collins - Drake,,29,2974
+12/19/2020,Fort Collins - Mulberry,,8,2975
+12/19/2020,Greeley,,31,2976
+12/19/2020,Longmont,,28,2977
+12/19/2020,Louisville,,0,2978
+12/19/2020,Loveland,,24,2979
+12/19/2020,Metro Wastewater RWHTF - CC,,130,2980
+12/19/2020,Metro Wastewater RWHTF - PRC,,217,2981
+12/19/2020,Northglenn,,9,2982
+12/19/2020,Pueblo,,53,2983
+12/19/2020,Pueblo West,,0,2984
+12/19/2020,South Adams County,,27,2985
+12/19/2020,South Fort Collins,,9,2986
+12/19/2020,SPR,,64,2987
+12/19/2020,Wellington Water and Sewer,,5,2988
+12/20/2020,Aurora,,101,2989
+12/20/2020,Boulder,,12,2990
+12/20/2020,Broomfield,,10,2991
+12/20/2020,CO Springs - JD Phillips,,24,2992
+12/20/2020,CO Springs - Las Vegas,,73,2993
+12/20/2020,Estes Park + Upper Thompson,,0,2994
+12/20/2020,Fort Collins - Boxelder,,5,2995
+12/20/2020,Fort Collins - Drake,,16,2996
+12/20/2020,Fort Collins - Mulberry,,0,2997
+12/20/2020,Greeley,,27,2998
+12/23/2020,Estes Park + Upper Thompson,56849.6,0,2999
+12/09/2020,Pueblo,,126,3000
+12/20/2020,Longmont,,20,3001
+12/20/2020,Louisville,,0,3002
+12/20/2020,Loveland,,17,3003
+12/20/2020,Metro Wastewater RWHTF - CC,,106,3004
+12/20/2020,Metro Wastewater RWHTF - PRC,,188,3005
+12/20/2020,Northglenn,,10,3006
+12/20/2020,Pueblo,,32,3007
+12/20/2020,Pueblo West,,0,3008
+12/20/2020,South Adams County,,25,3009
+12/20/2020,South Fort Collins,,7,3010
+12/14/2020,CO Springs - JD Phillips,192488.7,40,3011
+12/14/2020,CO Springs - Las Vegas,183214.8,126,3012
+12/14/2020,Estes Park + Upper Thompson,49842.3,0,3013
+12/14/2020,Fort Collins - Boxelder,51198.2,9,3014
+12/14/2020,Fort Collins - Drake,84837.5,33,3015
+12/14/2020,Fort Collins - Mulberry,48591.9,10,3016
+12/14/2020,Greeley,186821,48,3017
+12/14/2020,Longmont,85501.1,31,3018
+12/14/2020,Louisville,59652.6,0,3019
+12/14/2020,Loveland,115340.7,23,3020
+12/14/2020,Metro Wastewater RWHTF - CC,132292.7,151,3021
+12/14/2020,Metro Wastewater RWHTF - PRC,105827.2,236,3022
+12/14/2020,Northglenn,108372.8,12,3023
+12/14/2020,Pueblo,175708.2,66,3024
+12/14/2020,Pueblo West,,0,3025
+12/14/2020,South Adams County,92958.4,31,3026
+12/14/2020,South Fort Collins,120224.2,9,3027
+12/14/2020,SPR,,75,3028
+12/14/2020,Wellington Water and Sewer,200230.2,0,3029
+12/15/2020,Aurora,,132,3030
+12/15/2020,Boulder,,19,3031
+12/15/2020,Broomfield,,13,3032
+12/15/2020,CO Springs - JD Phillips,,39,3033
+12/15/2020,CO Springs - Las Vegas,,144,3034
+12/15/2020,Estes Park + Upper Thompson,,0,3035
+12/15/2020,Fort Collins - Boxelder,,12,3036
+12/15/2020,Fort Collins - Drake,,36,3037
+12/15/2020,Fort Collins - Mulberry,,11,3038
+12/15/2020,Greeley,,47,3039
+12/15/2020,Longmont,,38,3040
+12/15/2020,Louisville,,0,3041
+12/15/2020,Loveland,,31,3042
+12/15/2020,Metro Wastewater RWHTF - CC,,171,3043
+12/15/2020,Metro Wastewater RWHTF - PRC,,269,3044
+12/15/2020,Northglenn,,11,3045
+12/15/2020,Pueblo,,68,3046
+12/15/2020,Pueblo West,147400,0,3047
+12/15/2020,South Adams County,,36,3048
+12/15/2020,South Fort Collins,,11,3049
+12/15/2020,SPR,,75,3050
+12/15/2020,Wellington Water and Sewer,,0,3051
+12/16/2020,Aurora,,161,3052
+12/16/2020,Boulder,,20,3053
+12/16/2020,Broomfield,,14,3054
+12/16/2020,CO Springs - JD Phillips,,45,3055
+12/16/2020,CO Springs - Las Vegas,,182,3056
+12/16/2020,Estes Park + Upper Thompson,,0,3057
+12/16/2020,Fort Collins - Boxelder,,14,3058
+12/16/2020,Fort Collins - Drake,,39,3059
+12/23/2020,Fort Collins - Boxelder,33893.1,6,3060
+12/23/2020,Fort Collins - Drake,65960.4,29,3061
+12/23/2020,Fort Collins - Mulberry,20833.3,9,3062
+12/23/2020,Greeley,160249.7,47,3063
+12/23/2020,Longmont,80469.2,31,3064
+12/23/2020,Louisville,32727.8,0,3065
+12/23/2020,Loveland,100705.5,33,3066
+12/23/2020,Metro Wastewater RWHTF - CC,67615.1,140,3067
+12/23/2020,Metro Wastewater RWHTF - PRC,73262.4,253,3068
+12/23/2020,Northglenn,118381,10,3069
+12/23/2020,Pueblo,51047.5,46,3070
+12/23/2020,Pueblo West,,0,3071
+12/23/2020,South Adams County,58544.5,23,3072
+12/23/2020,South Fort Collins,,8,3073
+12/23/2020,SPR,82555.6,64,3074
+12/23/2020,Wellington Water and Sewer,50608.3,0,3075
+12/24/2020,Aurora,,110,3076
+12/24/2020,Boulder,,22,3077
+12/24/2020,Broomfield,,15,3078
+12/24/2020,CO Springs - JD Phillips,,42,3079
+12/24/2020,CO Springs - Las Vegas,,102,3080
+12/24/2020,Estes Park + Upper Thompson,,0,3081
+12/24/2020,Fort Collins - Boxelder,,7,3082
+12/24/2020,Fort Collins - Drake,,21,3083
+12/24/2020,Fort Collins - Mulberry,,0,3084
+12/24/2020,Greeley,,35,3085
+12/24/2020,Longmont,,25,3086
+12/24/2020,Louisville,,0,3087
+12/24/2020,Loveland,,22,3088
+12/24/2020,Metro Wastewater RWHTF - CC,,117,3089
+12/24/2020,Metro Wastewater RWHTF - PRC,,221,3090
+12/24/2020,Northglenn,,10,3091
+12/24/2020,Pueblo,,32,3092
+12/24/2020,Pueblo West,,0,3093
+12/24/2020,South Adams County,,21,3094
+12/24/2020,South Fort Collins,,7,3095
+12/24/2020,SPR,,60,3096
+12/24/2020,Wellington Water and Sewer,,0,3097
+12/25/2020,Aurora,,84,3098
+12/25/2020,Boulder,,15,3099
+12/25/2020,Broomfield,,12,3100
+12/25/2020,CO Springs - JD Phillips,,35,3101
+12/25/2020,CO Springs - Las Vegas,,83,3102
+12/25/2020,Estes Park + Upper Thompson,,0,3103
+12/25/2020,Fort Collins - Boxelder,,5,3104
+12/25/2020,Fort Collins - Drake,,15,3105
+12/25/2020,Fort Collins - Mulberry,,0,3106
+12/25/2020,Greeley,,24,3107
+12/11/2020,SPR,,99,3108
+12/09/2020,Pueblo West,,0,3109
+12/09/2020,South Adams County,,51,3110
+12/09/2020,South Fort Collins,,17,3111
+12/09/2020,SPR,,118,3112
+12/09/2020,Wellington Water and Sewer,,8,3113
+12/10/2020,Aurora,267759.3,193,3114
+12/10/2020,Boulder,41728.2,32,3115
+12/10/2020,Broomfield,30461,19,3116
+12/10/2020,CO Springs - JD Phillips,205286.9,56,3117
+12/10/2020,CO Springs - Las Vegas,162630.8,212,3118
+12/10/2020,Estes Park + Upper Thompson,19222.3,0,3119
+12/10/2020,Fort Collins - Boxelder,102556.2,13,3120
+12/10/2020,Fort Collins - Drake,83177.3,59,3121
+12/10/2020,Fort Collins - Mulberry,58600.9,15,3122
+12/10/2020,Greeley,301890.8,63,3123
+12/10/2020,Longmont,156161.3,40,3124
+12/10/2020,Louisville,134656.7,0,3125
+12/10/2020,Loveland,156077.3,48,3126
+12/10/2020,Metro Wastewater RWHTF - CC,190879.4,218,3127
+12/10/2020,Metro Wastewater RWHTF - PRC,173947.2,408,3128
+12/10/2020,Northglenn,,22,3129
+12/10/2020,Pueblo,244763.9,92,3130
+12/10/2020,Pueblo West,161726.2,0,3131
+12/10/2020,South Adams County,149835.8,43,3132
+12/10/2020,South Fort Collins,177455.7,13,3133
+12/10/2020,SPR,166472.7,111,3134
+12/10/2020,Wellington Water and Sewer,178378.1,5,3135
+12/11/2020,Aurora,,178,3136
+12/11/2020,Boulder,,27,3137
+12/11/2020,Broomfield,,19,3138
+12/11/2020,CO Springs - JD Phillips,,56,3139
+12/11/2020,CO Springs - Las Vegas,,187,3140
+12/11/2020,Estes Park + Upper Thompson,,0,3141
+12/11/2020,Fort Collins - Boxelder,,12,3142
+12/11/2020,Fort Collins - Drake,,47,3143
+12/11/2020,Fort Collins - Mulberry,,14,3144
+12/11/2020,Greeley,,50,3145
+12/11/2020,Longmont,,41,3146
+12/11/2020,Louisville,,0,3147
+12/11/2020,Loveland,,42,3148
+12/11/2020,Metro Wastewater RWHTF - CC,,191,3149
+12/11/2020,Metro Wastewater RWHTF - PRC,,358,3150
+12/11/2020,Northglenn,,18,3151
+12/11/2020,Pueblo,,86,3152
+12/11/2020,Pueblo West,,0,3153
+12/11/2020,Wellington Water and Sewer,,0,3154
+12/12/2020,Aurora,,152,3155
+12/12/2020,Boulder,,20,3156
+12/12/2020,Broomfield,,18,3157
+12/12/2020,CO Springs - JD Phillips,,46,3158
+12/12/2020,CO Springs - Las Vegas,,160,3159
+12/12/2020,Estes Park + Upper Thompson,,0,3160
+12/12/2020,Fort Collins - Boxelder,,10,3161
+12/12/2020,Fort Collins - Drake,,40,3162
+12/12/2020,Fort Collins - Mulberry,,11,3163
+12/12/2020,Greeley,,49,3164
+12/12/2020,Longmont,,30,3165
+12/12/2020,Louisville,,0,3166
+12/12/2020,Loveland,,34,3167
+12/12/2020,Metro Wastewater RWHTF - CC,,162,3168
+12/12/2020,Metro Wastewater RWHTF - PRC,,297,3169
+12/12/2020,Northglenn,,18,3170
+12/12/2020,Pueblo,,73,3171
+12/12/2020,Pueblo West,,0,3172
+12/12/2020,South Adams County,,32,3173
+12/12/2020,South Fort Collins,,9,3174
+12/12/2020,SPR,,86,3175
+12/12/2020,Wellington Water and Sewer,,0,3176
+12/13/2020,Aurora,,121,3177
+12/13/2020,Boulder,,15,3178
+12/13/2020,Broomfield,,15,3179
+12/13/2020,CO Springs - JD Phillips,,38,3180
+12/13/2020,CO Springs - Las Vegas,,115,3181
+12/13/2020,Estes Park + Upper Thompson,,0,3182
+12/13/2020,Fort Collins - Boxelder,,6,3183
+12/13/2020,Fort Collins - Drake,,21,3184
+12/13/2020,Fort Collins - Mulberry,,7,3185
+12/13/2020,Greeley,,36,3186
+12/13/2020,Longmont,,22,3187
+12/13/2020,Louisville,,0,3188
+12/13/2020,Loveland,,24,3189
+12/13/2020,Metro Wastewater RWHTF - CC,,134,3190
+12/13/2020,Metro Wastewater RWHTF - PRC,,234,3191
+12/13/2020,Northglenn,,12,3192
+12/13/2020,Pueblo,,50,3193
+12/13/2020,Pueblo West,,0,3194
+12/13/2020,South Adams County,,28,3195
+12/13/2020,South Fort Collins,,6,3196
+12/13/2020,SPR,,62,3197
+12/13/2020,Wellington Water and Sewer,,0,3198
+12/14/2020,Aurora,178742.8,120,3199
+12/14/2020,Boulder,49389.8,17,3200
+01/01/2021,Fort Collins - Boxelder,,0,3201
+01/01/2021,Fort Collins - Drake,,19,3202
+01/01/2021,Fort Collins - Mulberry,,0,3203
+01/01/2021,Greeley,,40,3204
+01/01/2021,Longmont,,26,3205
+01/01/2021,Louisville,,0,3206
+01/01/2021,Loveland,,30,3207
+01/01/2021,Metro Wastewater RWHTF - CC,,124,3208
+01/01/2021,Metro Wastewater RWHTF - PRC,,223,3209
+01/01/2021,Northglenn,,16,3210
+01/01/2021,Pueblo,,34,3211
+01/01/2021,Pueblo West,,0,3212
+01/01/2021,South Adams County,,28,3213
+01/01/2021,South Fort Collins,,6,3214
+01/01/2021,SPR,,67,3215
+01/01/2021,Wellington Water and Sewer,,0,3216
+01/02/2021,Aurora,,106,3217
+01/02/2021,Boulder,,19,3218
+01/02/2021,Broomfield,,15,3219
+01/02/2021,CO Springs - JD Phillips,,34,3220
+01/02/2021,CO Springs - Las Vegas,,100,3221
+01/02/2021,Estes Park + Upper Thompson,,0,3222
+01/02/2021,Fort Collins - Boxelder,,0,3223
+01/02/2021,Fort Collins - Drake,,14,3224
+01/02/2021,Fort Collins - Mulberry,,0,3225
+01/02/2021,Greeley,,37,3226
+01/02/2021,Longmont,,22,3227
+01/02/2021,Louisville,,0,3228
+01/02/2021,Loveland,,20,3229
+01/02/2021,Metro Wastewater RWHTF - CC,,105,3230
+01/02/2021,Metro Wastewater RWHTF - PRC,,216,3231
+01/02/2021,Northglenn,,11,3232
+01/02/2021,Pueblo,,31,3233
+01/02/2021,Pueblo West,,0,3234
+01/02/2021,South Adams County,,19,3235
+01/02/2021,South Fort Collins,,5,3236
+01/02/2021,SPR,,67,3237
+01/02/2021,Wellington Water and Sewer,,0,3238
+01/03/2021,Aurora,,106,3239
+01/03/2021,Boulder,,20,3240
+01/03/2021,Broomfield,,14,3241
+01/03/2021,CO Springs - JD Phillips,,29,3242
+01/03/2021,CO Springs - Las Vegas,,79,3243
+01/03/2021,Estes Park + Upper Thompson,,0,3244
+01/03/2021,Fort Collins - Boxelder,,5,3245
+01/03/2021,Fort Collins - Drake,,16,3246
+01/03/2021,Fort Collins - Mulberry,,0,3247
+01/03/2021,Greeley,,35,3248
+01/03/2021,Longmont,,22,3249
+01/03/2021,Louisville,,0,3250
+01/03/2021,Loveland,,17,3251
+12/30/2020,Aurora,170926.1,143,3252
+01/08/2021,Broomfield,,13,3253
+12/25/2020,Longmont,,18,3254
+01/10/2021,Fort Collins - Mulberry,,5,3255
+01/05/2021,South Adams County,,30,3256
+12/27/2020,Pueblo,,27,3257
+01/05/2021,South Fort Collins,,13,3258
+01/05/2021,SPR,,94,3259
+01/05/2021,Wellington Water and Sewer,,0,3260
+01/06/2021,Aurora,,173,3261
+01/06/2021,Boulder,,34,3262
+01/06/2021,Broomfield,,19,3263
+01/06/2021,CO Springs - JD Phillips,,51,3264
+01/06/2021,CO Springs - Las Vegas,,135,3265
+01/06/2021,Estes Park + Upper Thompson,,0,3266
+01/06/2021,Fort Collins - Boxelder,,14,3267
+01/06/2021,Fort Collins - Drake,,36,3268
+01/06/2021,Fort Collins - Mulberry,,10,3269
+01/06/2021,Greeley,,46,3270
+01/06/2021,Longmont,,27,3271
+01/06/2021,Louisville,,7,3272
+01/06/2021,Loveland,,33,3273
+01/06/2021,Metro Wastewater RWHTF - CC,,173,3274
+01/06/2021,Metro Wastewater RWHTF - PRC,,367,3275
+01/06/2021,Northglenn,,20,3276
+01/06/2021,Pueblo,,27,3277
+01/06/2021,Pueblo West,,0,3278
+01/06/2021,South Adams County,,33,3279
+01/06/2021,South Fort Collins,,13,3280
+01/06/2021,SPR,,103,3281
+01/06/2021,Wellington Water and Sewer,,0,3282
+01/07/2021,Aurora,204405.1,140,3283
+01/07/2021,Boulder,39726.8,29,3284
+01/07/2021,Broomfield,10647.4,15,3285
+01/07/2021,CO Springs - JD Phillips,127954.6,36,3286
+01/07/2021,CO Springs - Las Vegas,90397.2,111,3287
+01/07/2021,Estes Park + Upper Thompson,52496.2,0,3288
+01/07/2021,Fort Collins - Boxelder,20243.1,10,3289
+01/07/2021,Fort Collins - Drake,65055.7,26,3290
+01/07/2021,Fort Collins - Mulberry,26390.9,6,3291
+01/07/2021,Greeley,111339,36,3292
+01/07/2021,Longmont,44846.5,27,3293
+01/07/2021,Louisville,40394.1,6,3294
+01/07/2021,Loveland,73106.8,23,3295
+01/07/2021,Metro Wastewater RWHTF - CC,,159,3296
+01/07/2021,Metro Wastewater RWHTF - PRC,,305,3297
+01/07/2021,Northglenn,,13,3298
+01/07/2021,Pueblo,61415.6,19,3299
+01/07/2021,Pueblo West,,0,3300
+01/07/2021,South Adams County,101863.9,26,3301
+01/07/2021,South Fort Collins,65840.7,8,3302
+01/07/2021,SPR,,93,3303
+01/07/2021,Wellington Water and Sewer,242065.9,0,3304
+01/08/2021,Aurora,,133,3305
+01/08/2021,Boulder,,22,3306
+01/08/2021,CO Springs - JD Phillips,,36,3307
+01/08/2021,CO Springs - Las Vegas,,107,3308
+01/08/2021,Estes Park + Upper Thompson,,0,3309
+01/08/2021,Fort Collins - Boxelder,,12,3310
+01/08/2021,Fort Collins - Drake,,22,3311
+01/08/2021,Fort Collins - Mulberry,,7,3312
+01/08/2021,Greeley,,30,3313
+01/08/2021,Longmont,,26,3314
+01/08/2021,Louisville,,0,3315
+01/08/2021,Loveland,,20,3316
+01/08/2021,Metro Wastewater RWHTF - CC,,147,3317
+01/08/2021,Metro Wastewater RWHTF - PRC,,287,3318
+01/08/2021,Northglenn,,12,3319
+01/08/2021,Pueblo,,22,3320
+01/08/2021,Pueblo West,,0,3321
+01/08/2021,South Adams County,,29,3322
+01/08/2021,South Fort Collins,,6,3323
+01/08/2021,SPR,,85,3324
+01/08/2021,Wellington Water and Sewer,,0,3325
+01/09/2021,Aurora,,121,3326
+01/09/2021,Boulder,,17,3327
+01/09/2021,Broomfield,,13,3328
+01/09/2021,CO Springs - JD Phillips,,30,3329
+01/09/2021,CO Springs - Las Vegas,,87,3330
+01/09/2021,Estes Park + Upper Thompson,,0,3331
+01/09/2021,Fort Collins - Boxelder,,10,3332
+01/09/2021,Fort Collins - Drake,,18,3333
+01/09/2021,Fort Collins - Mulberry,,6,3334
+01/09/2021,Greeley,,27,3335
+01/09/2021,Longmont,,21,3336
+01/09/2021,Louisville,,0,3337
+01/09/2021,Loveland,,17,3338
+01/09/2021,Metro Wastewater RWHTF - CC,,121,3339
+01/09/2021,Metro Wastewater RWHTF - PRC,,232,3340
+01/09/2021,Northglenn,,8,3341
+01/09/2021,Pueblo,,20,3342
+01/09/2021,Pueblo West,,0,3343
+01/09/2021,South Adams County,,25,3344
+01/09/2021,South Fort Collins,,0,3345
+01/09/2021,SPR,,67,3346
+01/09/2021,Wellington Water and Sewer,,0,3347
+01/10/2021,Aurora,,100,3348
+01/10/2021,Boulder,,15,3349
+01/10/2021,Broomfield,,12,3350
+01/10/2021,CO Springs - JD Phillips,,29,3351
+01/10/2021,CO Springs - Las Vegas,,70,3352
+01/10/2021,Estes Park + Upper Thompson,,0,3353
+01/10/2021,Fort Collins - Boxelder,,8,3354
+01/10/2021,Fort Collins - Drake,,14,3355
+01/03/2021,Metro Wastewater RWHTF - CC,,110,3356
+01/10/2021,Greeley,,27,3357
+01/03/2021,Metro Wastewater RWHTF - PRC,,218,3358
+12/25/2020,Louisville,,0,3359
+12/27/2020,Pueblo West,,0,3360
+12/30/2020,Boulder,62907.9,26,3361
+12/30/2020,Broomfield,40777.1,16,3362
+12/30/2020,CO Springs - JD Phillips,145209,41,3363
+12/30/2020,CO Springs - Las Vegas,146497,133,3364
+12/30/2020,Estes Park + Upper Thompson,103196.2,5,3365
+12/30/2020,Fort Collins - Boxelder,31612.4,8,3366
+12/30/2020,Fort Collins - Drake,,37,3367
+12/30/2020,Fort Collins - Mulberry,,9,3368
+12/30/2020,Greeley,151998.5,53,3369
+12/30/2020,Longmont,121785.8,30,3370
+12/30/2020,Louisville,22192.7,0,3371
+12/30/2020,Loveland,188187.2,40,3372
+12/30/2020,Metro Wastewater RWHTF - CC,214587.7,172,3373
+12/30/2020,Metro Wastewater RWHTF - PRC,83002.4,332,3374
+12/30/2020,Northglenn,,19,3375
+12/30/2020,Pueblo,56134.6,37,3376
+12/30/2020,Pueblo West,,0,3377
+12/30/2020,South Adams County,125102.9,37,3378
+12/30/2020,South Fort Collins,,14,3379
+12/30/2020,SPR,285760.8,88,3380
+12/30/2020,Wellington Water and Sewer,54789.6,0,3381
+12/31/2020,Aurora,,121,3382
+12/31/2020,Boulder,,22,3383
+12/31/2020,Broomfield,,15,3384
+12/31/2020,CO Springs - JD Phillips,,37,3385
+12/31/2020,CO Springs - Las Vegas,,120,3386
+12/31/2020,Estes Park + Upper Thompson,,0,3387
+12/31/2020,Fort Collins - Boxelder,,6,3388
+12/31/2020,Fort Collins - Drake,,27,3389
+12/31/2020,Fort Collins - Mulberry,,5,3390
+12/31/2020,Greeley,,48,3391
+12/31/2020,Longmont,,30,3392
+12/31/2020,Louisville,,0,3393
+12/31/2020,Loveland,,35,3394
+12/31/2020,Metro Wastewater RWHTF - CC,,147,3395
+12/31/2020,Metro Wastewater RWHTF - PRC,,278,3396
+12/31/2020,Northglenn,,19,3397
+12/31/2020,Pueblo,,34,3398
+12/31/2020,Pueblo West,40006,0,3399
+12/31/2020,South Adams County,,32,3400
+12/31/2020,South Fort Collins,,10,3401
+12/31/2020,SPR,,78,3402
+12/31/2020,Wellington Water and Sewer,,0,3403
+01/01/2021,Aurora,,107,3404
+01/01/2021,Boulder,,19,3405
+01/01/2021,Broomfield,,14,3406
+01/01/2021,CO Springs - JD Phillips,,34,3407
+01/01/2021,CO Springs - Las Vegas,,112,3408
+01/01/2021,Estes Park + Upper Thompson,,0,3409
+12/27/2020,South Adams County,,15,3410
+12/27/2020,South Fort Collins,,0,3411
+12/27/2020,SPR,,50,3412
+12/27/2020,Wellington Water and Sewer,,0,3413
+12/28/2020,Aurora,135194.8,133,3414
+12/28/2020,Boulder,17503.6,20,3415
+12/28/2020,Broomfield,20810.4,15,3416
+12/28/2020,CO Springs - JD Phillips,161808.9,31,3417
+12/28/2020,CO Springs - Las Vegas,108523.9,105,3418
+12/28/2020,Estes Park + Upper Thompson,142657.8,0,3419
+12/28/2020,Fort Collins - Boxelder,37913.4,7,3420
+12/28/2020,Fort Collins - Drake,43278.3,24,3421
+12/28/2020,Fort Collins - Mulberry,17613.9,7,3422
+12/28/2020,Greeley,161432.5,50,3423
+12/28/2020,Longmont,129156,20,3424
+12/28/2020,Louisville,40713.6,0,3425
+12/28/2020,Loveland,77132.9,23,3426
+12/28/2020,Metro Wastewater RWHTF - CC,147263.1,141,3427
+12/28/2020,Metro Wastewater RWHTF - PRC,63960.4,277,3428
+12/28/2020,Northglenn,95878.1,17,3429
+12/28/2020,Pueblo,76739.8,36,3430
+12/28/2020,Pueblo West,,0,3431
+12/28/2020,South Adams County,67929.7,24,3432
+12/28/2020,South Fort Collins,39318.1,8,3433
+12/28/2020,SPR,143933,71,3434
+12/28/2020,Wellington Water and Sewer,78808.9,5,3435
+12/29/2020,Aurora,,132,3436
+12/29/2020,Boulder,,22,3437
+12/29/2020,Broomfield,,15,3438
+12/29/2020,CO Springs - JD Phillips,,31,3439
+12/29/2020,CO Springs - Las Vegas,,106,3440
+12/29/2020,Estes Park + Upper Thompson,,0,3441
+12/29/2020,Fort Collins - Boxelder,,8,3442
+12/29/2020,Fort Collins - Drake,,28,3443
+12/29/2020,Fort Collins - Mulberry,,7,3444
+12/29/2020,Greeley,,46,3445
+12/29/2020,Longmont,,22,3446
+12/29/2020,Louisville,,0,3447
+12/29/2020,Loveland,,25,3448
+12/29/2020,Metro Wastewater RWHTF - CC,,143,3449
+12/29/2020,Metro Wastewater RWHTF - PRC,,309,3450
+12/29/2020,Northglenn,,16,3451
+12/29/2020,Pueblo,,31,3452
+12/29/2020,Pueblo West,17460.3,0,3453
+12/29/2020,South Adams County,,27,3454
+12/29/2020,South Fort Collins,,12,3455
+12/29/2020,SPR,,75,3456
+12/29/2020,Wellington Water and Sewer,,5,3457
+01/10/2021,Longmont,,16,3458
+12/25/2020,Loveland,,16,3459
+01/03/2021,Northglenn,,9,3460
+01/03/2021,Pueblo,,26,3461
+01/03/2021,Pueblo West,,0,3462
+01/03/2021,South Adams County,,19,3463
+01/03/2021,South Fort Collins,,5,3464
+01/03/2021,SPR,,67,3465
+01/03/2021,Wellington Water and Sewer,,0,3466
+01/04/2021,Aurora,220792.9,156,3467
+01/04/2021,Boulder,41247.7,29,3468
+01/04/2021,Broomfield,27452.6,19,3469
+01/04/2021,CO Springs - JD Phillips,152391.5,44,3470
+01/04/2021,CO Springs - Las Vegas,96770.4,117,3471
+01/04/2021,Estes Park + Upper Thompson,80849.1,0,3472
+01/04/2021,Fort Collins - Boxelder,31466.3,12,3473
+01/04/2021,Fort Collins - Drake,44058.3,34,3474
+01/04/2021,Fort Collins - Mulberry,37917.9,7,3475
+01/04/2021,Greeley,241980,45,3476
+01/04/2021,Longmont,76265.1,25,3477
+01/04/2021,Louisville,15760,0,3478
+01/04/2021,Loveland,76877.7,30,3479
+01/04/2021,Metro Wastewater RWHTF - CC,148993.4,148,3480
+01/04/2021,Metro Wastewater RWHTF - PRC,70748,318,3481
+01/04/2021,Northglenn,73333.3,18,3482
+01/04/2021,Pueblo,64655.1,33,3483
+01/04/2021,Pueblo West,,0,3484
+01/04/2021,South Adams County,54475.3,29,3485
+01/04/2021,South Fort Collins,34539.8,12,3486
+01/04/2021,SPR,133851,87,3487
+01/04/2021,Wellington Water and Sewer,27356.1,0,3488
+01/05/2021,Aurora,,165,3489
+01/05/2021,Boulder,,32,3490
+01/05/2021,Broomfield,,19,3491
+01/05/2021,CO Springs - JD Phillips,,44,3492
+01/05/2021,CO Springs - Las Vegas,,118,3493
+01/05/2021,Estes Park + Upper Thompson,,0,3494
+01/05/2021,Fort Collins - Boxelder,,13,3495
+01/05/2021,Fort Collins - Drake,,36,3496
+01/05/2021,Fort Collins - Mulberry,,9,3497
+01/05/2021,Greeley,,46,3498
+01/05/2021,Longmont,,25,3499
+01/05/2021,Louisville,,6,3500
+01/05/2021,Loveland,,32,3501
+01/05/2021,Metro Wastewater RWHTF - CC,,163,3502
+01/05/2021,Metro Wastewater RWHTF - PRC,,337,3503
+01/05/2021,Northglenn,,18,3504
+01/05/2021,Pueblo,,28,3505
+01/05/2021,Pueblo West,23375,0,3506
+12/25/2020,Metro Wastewater RWHTF - CC,,98,3507
+12/25/2020,Metro Wastewater RWHTF - PRC,,180,3508
+12/25/2020,Northglenn,,10,3509
+12/25/2020,Pueblo,,30,3510
+12/25/2020,Pueblo West,,0,3511
+12/25/2020,South Adams County,,18,3512
+12/25/2020,South Fort Collins,,0,3513
+12/25/2020,SPR,,48,3514
+12/25/2020,Wellington Water and Sewer,,0,3515
+12/26/2020,Aurora,,82,3516
+12/26/2020,Boulder,,10,3517
+12/26/2020,Broomfield,,12,3518
+12/26/2020,CO Springs - JD Phillips,,25,3519
+12/26/2020,CO Springs - Las Vegas,,74,3520
+12/26/2020,Estes Park + Upper Thompson,,0,3521
+12/26/2020,Fort Collins - Boxelder,,5,3522
+12/26/2020,Fort Collins - Drake,,11,3523
+12/26/2020,Fort Collins - Mulberry,,0,3524
+12/26/2020,Greeley,,34,3525
+12/26/2020,Longmont,,17,3526
+12/26/2020,Louisville,,0,3527
+12/26/2020,Loveland,,14,3528
+12/26/2020,Metro Wastewater RWHTF - CC,,100,3529
+12/26/2020,Metro Wastewater RWHTF - PRC,,172,3530
+12/26/2020,Northglenn,,13,3531
+12/26/2020,Pueblo,,25,3532
+12/26/2020,Pueblo West,,0,3533
+12/26/2020,South Adams County,,16,3534
+12/26/2020,South Fort Collins,,0,3535
+12/26/2020,SPR,,53,3536
+12/26/2020,Wellington Water and Sewer,,0,3537
+12/27/2020,Aurora,,90,3538
+12/27/2020,Boulder,,11,3539
+12/27/2020,Broomfield,,11,3540
+12/27/2020,CO Springs - JD Phillips,,18,3541
+12/27/2020,CO Springs - Las Vegas,,66,3542
+12/27/2020,Estes Park + Upper Thompson,,0,3543
+12/27/2020,Fort Collins - Boxelder,,0,3544
+12/27/2020,Fort Collins - Drake,,11,3545
+12/27/2020,Fort Collins - Mulberry,,0,3546
+12/27/2020,Greeley,,36,3547
+12/27/2020,Longmont,,15,3548
+12/27/2020,Louisville,,0,3549
+12/27/2020,Loveland,,10,3550
+12/27/2020,Metro Wastewater RWHTF - CC,,94,3551
+12/27/2020,Metro Wastewater RWHTF - PRC,,181,3552
+12/27/2020,Northglenn,,14,3553
+01/10/2021,Louisville,,5,3554
+01/10/2021,Loveland,,14,3555
+01/10/2021,Metro Wastewater RWHTF - CC,,95,3556
+01/10/2021,Metro Wastewater RWHTF - PRC,,193,3557
+01/10/2021,Northglenn,,9,3558
+01/10/2021,Pueblo,,17,3559
+01/10/2021,Pueblo West,,0,3560
+01/10/2021,South Adams County,,23,3561
+01/10/2021,South Fort Collins,,0,3562
+01/10/2021,SPR,,60,3563
+01/10/2021,Wellington Water and Sewer,,0,3564
+01/11/2021,Aurora,202027.4,103,3565
+01/11/2021,Boulder,32219.5,20,3566
+01/11/2021,Broomfield,22593.1,13,3567
+01/11/2021,CO Springs - JD Phillips,70061,26,3568
+01/11/2021,CO Springs - Las Vegas,85588.1,66,3569
+01/11/2021,Estes Park + Upper Thompson,36479.6,0,3570
+01/11/2021,Fort Collins - Boxelder,41790.1,7,3571
+01/11/2021,Fort Collins - Drake,85684.6,24,3572
+01/11/2021,Fort Collins - Mulberry,13691.7,6,3573
+01/11/2021,Greeley,98257.4,33,3574
+01/11/2021,Longmont,49041.1,18,3575
+01/11/2021,Louisville,,5,3576
+01/11/2021,Loveland,71257.5,16,3577
+01/11/2021,Metro Wastewater RWHTF - CC,63704.8,89,3578
+01/11/2021,Metro Wastewater RWHTF - PRC,52725.5,198,3579
+01/11/2021,Northglenn,,11,3580
+01/11/2021,Pueblo,44514.1,16,3581
+01/11/2021,Pueblo West,,0,3582
+01/11/2021,South Adams County,54172.4,24,3583
+01/11/2021,South Fort Collins,43894.5,7,3584
+01/11/2021,SPR,142822.4,56,3585
+01/11/2021,Wellington Water and Sewer,62240.7,0,3586
+01/12/2021,Aurora,,106,3587
+01/12/2021,Boulder,,24,3588
+01/12/2021,Broomfield,,13,3589
+01/12/2021,CO Springs - JD Phillips,,28,3590
+01/12/2021,CO Springs - Las Vegas,,72,3591
+01/12/2021,Estes Park + Upper Thompson,,0,3592
+01/12/2021,Fort Collins - Boxelder,,9,3593
+01/12/2021,Fort Collins - Drake,,33,3594
+01/12/2021,Fort Collins - Mulberry,,6,3595
+01/12/2021,Greeley,,39,3596
+01/12/2021,Longmont,,18,3597
+01/12/2021,Louisville,,5,3598
+01/12/2021,Loveland,,20,3599
+01/12/2021,Metro Wastewater RWHTF - CC,,104,3600
+01/26/2021,Fort Collins - Boxelder,,6,3601
+01/26/2021,Fort Collins - Drake,,26,3602
+01/26/2021,Fort Collins - Mulberry,,7,3603
+01/26/2021,Greeley,,22,3604
+01/26/2021,Longmont,,20,3605
+01/26/2021,Louisville,,0,3606
+01/26/2021,Loveland,,17,3607
+01/26/2021,Metro Wastewater RWHTF - CC,,67,3608
+01/26/2021,Metro Wastewater RWHTF - PRC,,163,3609
+01/26/2021,Northglenn,,8,3610
+01/26/2021,Pueblo,,11,3611
+01/26/2021,Pueblo West,,0,3612
+01/26/2021,South Adams County,,18,3613
+01/26/2021,South Fort Collins,,5,3614
+01/26/2021,SPR,,51,3615
+01/26/2021,Wellington Water and Sewer,,0,3616
+01/27/2021,Aurora,,77,3617
+01/27/2021,Boulder,,24,3618
+01/27/2021,Broomfield,,14,3619
+01/27/2021,CO Springs - JD Phillips,,22,3620
+01/27/2021,CO Springs - Las Vegas,,47,3621
+01/27/2021,Estes Park + Upper Thompson,,0,3622
+01/27/2021,Fort Collins - Boxelder,,5,3623
+01/27/2021,Fort Collins - Drake,,28,3624
+01/27/2021,Fort Collins - Mulberry,,6,3625
+01/27/2021,Greeley,,26,3626
+01/27/2021,Longmont,,18,3627
+01/27/2021,Louisville,,0,3628
+01/27/2021,Loveland,,16,3629
+01/27/2021,Metro Wastewater RWHTF - CC,,71,3630
+01/27/2021,Metro Wastewater RWHTF - PRC,,183,3631
+01/27/2021,Northglenn,,8,3632
+01/27/2021,Pueblo,,12,3633
+01/27/2021,Pueblo West,,0,3634
+01/27/2021,South Adams County,,18,3635
+01/27/2021,South Fort Collins,,6,3636
+01/27/2021,SPR,,56,3637
+01/27/2021,Wellington Water and Sewer,,0,3638
+01/28/2021,Aurora,68158.5,71,3639
+01/28/2021,Boulder,42707.7,21,3640
+01/28/2021,Broomfield,27128.9,12,3641
+01/28/2021,CO Springs - JD Phillips,56933.4,21,3642
+01/28/2021,CO Springs - Las Vegas,,48,3643
+01/28/2021,Estes Park + Upper Thompson,40361.1,0,3644
+01/28/2021,Fort Collins - Boxelder,31315.4,6,3645
+01/28/2021,Fort Collins - Drake,,25,3646
+01/28/2021,Fort Collins - Mulberry,,7,3647
+01/28/2021,Greeley,77378.8,22,3648
+01/28/2021,Longmont,169208.4,12,3649
+01/28/2021,Louisville,16973.5,0,3650
+01/28/2021,Loveland,36757.3,13,3651
+01/28/2021,Metro Wastewater RWHTF - CC,70739.7,59,3652
+01/28/2021,Metro Wastewater RWHTF - PRC,55446.4,167,3653
+01/28/2021,Northglenn,,8,3654
+01/28/2021,Pueblo,33967,9,3655
+01/28/2021,Pueblo West,,0,3656
+01/28/2021,South Adams County,42743.1,17,3657
+01/28/2021,South Fort Collins,32840,8,3658
+01/28/2021,SPR,81955.4,56,3659
+01/28/2021,Wellington Water and Sewer,53007.7,5,3660
+01/29/2021,Aurora,,66,3661
+01/29/2021,Boulder,,19,3662
+01/29/2021,Broomfield,,10,3663
+01/29/2021,CO Springs - JD Phillips,,19,3664
+01/29/2021,CO Springs - Las Vegas,,52,3665
+01/29/2021,Estes Park + Upper Thompson,,0,3666
+01/29/2021,Fort Collins - Boxelder,,6,3667
+01/29/2021,Fort Collins - Drake,,26,3668
+01/29/2021,Fort Collins - Mulberry,,6,3669
+01/29/2021,Greeley,,22,3670
+01/29/2021,Longmont,,16,3671
+01/29/2021,Louisville,,0,3672
+01/29/2021,Loveland,,10,3673
+01/29/2021,Metro Wastewater RWHTF - CC,,56,3674
+01/29/2021,Metro Wastewater RWHTF - PRC,,152,3675
+01/29/2021,Northglenn,,7,3676
+01/29/2021,Pueblo,,10,3677
+01/29/2021,Pueblo West,,0,3678
+01/29/2021,South Adams County,,18,3679
+01/29/2021,South Fort Collins,,8,3680
+01/29/2021,SPR,,47,3681
+01/29/2021,Wellington Water and Sewer,,6,3682
+01/30/2021,Aurora,,61,3683
+01/30/2021,Boulder,,16,3684
+01/30/2021,Broomfield,,9,3685
+01/30/2021,CO Springs - JD Phillips,,16,3686
+01/30/2021,CO Springs - Las Vegas,,49,3687
+01/30/2021,Estes Park + Upper Thompson,,0,3688
+01/30/2021,Fort Collins - Boxelder,,7,3689
+01/30/2021,Fort Collins - Drake,,22,3690
+01/30/2021,Fort Collins - Mulberry,,6,3691
+01/30/2021,Greeley,,18,3692
+01/30/2021,Longmont,,18,3693
+01/30/2021,Louisville,,0,3694
+01/30/2021,Loveland,,10,3695
+01/30/2021,Metro Wastewater RWHTF - CC,,47,3696
+01/30/2021,Metro Wastewater RWHTF - PRC,,133,3697
+01/30/2021,Northglenn,,5,3698
+01/30/2021,Pueblo,,9,3699
+01/30/2021,Pueblo West,,0,3700
+01/14/2021,SPR,83835,59,3701
+01/17/2021,CO Springs - Las Vegas,,44,3702
+01/19/2021,Longmont,,13,3703
+01/24/2021,Aurora,,58,3704
+01/24/2021,Boulder,,15,3705
+01/24/2021,Broomfield,,9,3706
+01/24/2021,CO Springs - JD Phillips,,18,3707
+01/24/2021,CO Springs - Las Vegas,,42,3708
+01/24/2021,Estes Park + Upper Thompson,,0,3709
+01/24/2021,Fort Collins - Boxelder,,5,3710
+01/24/2021,Fort Collins - Drake,,20,3711
+01/24/2021,Fort Collins - Mulberry,,5,3712
+01/24/2021,Greeley,,17,3713
+01/24/2021,Longmont,,13,3714
+01/24/2021,Louisville,,0,3715
+01/24/2021,Loveland,,10,3716
+01/24/2021,Metro Wastewater RWHTF - CC,,68,3717
+01/24/2021,Metro Wastewater RWHTF - PRC,,135,3718
+01/24/2021,Northglenn,,7,3719
+01/24/2021,Pueblo,,10,3720
+01/24/2021,Pueblo West,,0,3721
+01/24/2021,South Adams County,,13,3722
+01/24/2021,South Fort Collins,,0,3723
+01/24/2021,SPR,,43,3724
+01/24/2021,Wellington Water and Sewer,,0,3725
+01/25/2021,Aurora,70896.5,64,3726
+01/25/2021,Boulder,41845.6,17,3727
+01/25/2021,Broomfield,10471.4,10,3728
+01/25/2021,CO Springs - JD Phillips,42501.9,17,3729
+01/25/2021,CO Springs - Las Vegas,26519.3,43,3730
+01/25/2021,Estes Park + Upper Thompson,626506,0,3731
+01/25/2021,Fort Collins - Boxelder,34395.9,5,3732
+01/25/2021,Fort Collins - Drake,19871.4,22,3733
+01/25/2021,Fort Collins - Mulberry,18279.4,5,3734
+01/25/2021,Greeley,40638.1,20,3735
+01/25/2021,Longmont,27756.8,20,3736
+01/25/2021,Louisville,19093.8,0,3737
+01/25/2021,Loveland,18609.5,12,3738
+01/25/2021,Metro Wastewater RWHTF - CC,30176.5,63,3739
+01/25/2021,Metro Wastewater RWHTF - PRC,46667.2,142,3740
+01/25/2021,Northglenn,,7,3741
+01/25/2021,Pueblo,13956,12,3742
+01/25/2021,Pueblo West,,0,3743
+01/25/2021,South Adams County,49750.7,15,3744
+01/25/2021,South Fort Collins,30054.8,0,3745
+01/25/2021,SPR,61628.6,43,3746
+01/25/2021,Wellington Water and Sewer,4732.3,0,3747
+01/26/2021,Aurora,,69,3748
+01/26/2021,Boulder,,20,3749
+01/26/2021,Broomfield,,12,3750
+01/26/2021,CO Springs - JD Phillips,,19,3751
+01/26/2021,CO Springs - Las Vegas,,43,3752
+01/26/2021,Estes Park + Upper Thompson,,0,3753
+01/19/2021,Louisville,,0,3754
+01/19/2021,Loveland,,14,3755
+01/19/2021,Metro Wastewater RWHTF - CC,,80,3756
+01/19/2021,Metro Wastewater RWHTF - PRC,,190,3757
+01/19/2021,Northglenn,,8,3758
+01/19/2021,Pueblo,,16,3759
+01/19/2021,Pueblo West,12621.9,0,3760
+01/19/2021,South Adams County,,16,3761
+01/19/2021,South Fort Collins,,6,3762
+01/19/2021,SPR,,42,3763
+01/19/2021,Wellington Water and Sewer,,0,3764
+01/20/2021,Aurora,,84,3765
+01/20/2021,Boulder,,22,3766
+01/20/2021,Broomfield,,13,3767
+01/20/2021,CO Springs - JD Phillips,,25,3768
+01/20/2021,CO Springs - Las Vegas,,69,3769
+01/20/2021,Estes Park + Upper Thompson,,0,3770
+01/20/2021,Fort Collins - Boxelder,,8,3771
+01/20/2021,Fort Collins - Drake,,30,3772
+01/20/2021,Fort Collins - Mulberry,,11,3773
+01/20/2021,Greeley,,31,3774
+01/20/2021,Longmont,,14,3775
+01/20/2021,Louisville,,5,3776
+01/20/2021,Loveland,,19,3777
+01/20/2021,Metro Wastewater RWHTF - CC,,82,3778
+01/20/2021,Metro Wastewater RWHTF - PRC,,202,3779
+01/20/2021,Northglenn,141031.6,8,3780
+01/20/2021,Pueblo,,18,3781
+01/20/2021,Pueblo West,,0,3782
+01/20/2021,South Adams County,,17,3783
+01/20/2021,South Fort Collins,,6,3784
+01/20/2021,SPR,,49,3785
+01/20/2021,Wellington Water and Sewer,,0,3786
+01/21/2021,Aurora,78158.1,85,3787
+01/21/2021,Boulder,48505.9,24,3788
+01/21/2021,Broomfield,30587.9,16,3789
+01/21/2021,CO Springs - JD Phillips,90083.2,23,3790
+01/21/2021,CO Springs - Las Vegas,46996.4,63,3791
+01/21/2021,Estes Park + Upper Thompson,49648.1,0,3792
+01/21/2021,Fort Collins - Boxelder,43813.6,8,3793
+01/21/2021,Fort Collins - Drake,34900.9,29,3794
+01/21/2021,Fort Collins - Mulberry,16792.6,11,3795
+01/21/2021,Greeley,45201.5,27,3796
+01/21/2021,Longmont,26752.4,17,3797
+01/21/2021,Louisville,19049,5,3798
+01/21/2021,Loveland,56282.6,18,3799
+01/21/2021,Metro Wastewater RWHTF - CC,43766.7,81,3800
+01/21/2021,Metro Wastewater RWHTF - PRC,52066.6,191,3801
+01/21/2021,Northglenn,,8,3802
+01/21/2021,Pueblo,22150.9,12,3803
+01/12/2021,Metro Wastewater RWHTF - PRC,,220,3804
+01/14/2021,Wellington Water and Sewer,26070.7,0,3805
+01/15/2021,Aurora,,99,3806
+01/15/2021,Boulder,,26,3807
+01/15/2021,Broomfield,,16,3808
+01/15/2021,CO Springs - JD Phillips,,25,3809
+01/15/2021,CO Springs - Las Vegas,,59,3810
+01/15/2021,Estes Park + Upper Thompson,,0,3811
+01/15/2021,Fort Collins - Boxelder,,8,3812
+01/15/2021,Fort Collins - Drake,,30,3813
+01/15/2021,Fort Collins - Mulberry,,10,3814
+01/15/2021,Greeley,,29,3815
+01/15/2021,Longmont,,20,3816
+01/15/2021,Louisville,,5,3817
+01/15/2021,Loveland,,22,3818
+01/15/2021,Metro Wastewater RWHTF - CC,,84,3819
+01/15/2021,Metro Wastewater RWHTF - PRC,,225,3820
+01/15/2021,Northglenn,,11,3821
+01/15/2021,Pueblo,,16,3822
+01/15/2021,Pueblo West,,0,3823
+01/15/2021,South Adams County,,28,3824
+01/15/2021,South Fort Collins,,8,3825
+01/15/2021,SPR,,56,3826
+01/15/2021,Wellington Water and Sewer,,0,3827
+01/16/2021,Aurora,,85,3828
+01/16/2021,Boulder,,26,3829
+01/16/2021,Broomfield,,16,3830
+01/16/2021,CO Springs - JD Phillips,,22,3831
+01/16/2021,CO Springs - Las Vegas,,53,3832
+01/16/2021,Estes Park + Upper Thompson,,0,3833
+01/16/2021,Fort Collins - Boxelder,,7,3834
+01/16/2021,Fort Collins - Drake,,27,3835
+01/16/2021,Fort Collins - Mulberry,,8,3836
+01/16/2021,Greeley,,26,3837
+01/16/2021,Longmont,,15,3838
+01/16/2021,Louisville,,0,3839
+01/16/2021,Loveland,,18,3840
+01/16/2021,Metro Wastewater RWHTF - CC,,86,3841
+01/16/2021,Metro Wastewater RWHTF - PRC,,195,3842
+01/16/2021,Northglenn,,10,3843
+01/16/2021,Pueblo,,13,3844
+01/16/2021,Pueblo West,,0,3845
+01/16/2021,South Adams County,,26,3846
+01/16/2021,South Fort Collins,,7,3847
+01/16/2021,SPR,,54,3848
+01/16/2021,Wellington Water and Sewer,,0,3849
+01/17/2021,Estes Park + Upper Thompson,,0,3850
+01/21/2021,Pueblo West,22392.9,0,3851
+01/17/2021,Aurora,,75,3852
+01/17/2021,Boulder,,20,3853
+01/17/2021,Broomfield,,16,3854
+01/17/2021,CO Springs - JD Phillips,,16,3855
+01/17/2021,Fort Collins - Boxelder,,6,3856
+01/17/2021,Fort Collins - Drake,,19,3857
+01/17/2021,Fort Collins - Mulberry,,0,3858
+01/17/2021,Greeley,,21,3859
+01/17/2021,Longmont,,14,3860
+01/17/2021,Louisville,,0,3861
+01/17/2021,Loveland,,12,3862
+01/17/2021,Metro Wastewater RWHTF - CC,,75,3863
+01/17/2021,Metro Wastewater RWHTF - PRC,,159,3864
+01/17/2021,Northglenn,,9,3865
+01/17/2021,Pueblo,,10,3866
+01/17/2021,Pueblo West,,0,3867
+01/17/2021,South Adams County,,18,3868
+01/17/2021,South Fort Collins,,7,3869
+01/17/2021,SPR,,45,3870
+01/17/2021,Wellington Water and Sewer,,0,3871
+01/18/2021,Aurora,,70,3872
+01/18/2021,Boulder,53011.4,17,3873
+01/18/2021,Broomfield,55644.6,13,3874
+01/18/2021,CO Springs - JD Phillips,,18,3875
+01/18/2021,CO Springs - Las Vegas,,49,3876
+01/18/2021,Estes Park + Upper Thompson,96802.6,0,3877
+01/18/2021,Fort Collins - Boxelder,31699.2,6,3878
+01/18/2021,Fort Collins - Drake,,21,3879
+01/18/2021,Fort Collins - Mulberry,,5,3880
+01/18/2021,Greeley,37987.4,24,3881
+01/18/2021,Longmont,50630.1,11,3882
+01/18/2021,Louisville,15454.5,0,3883
+01/18/2021,Loveland,55695.9,10,3884
+01/18/2021,Metro Wastewater RWHTF - CC,26462.6,76,3885
+01/18/2021,Metro Wastewater RWHTF - PRC,81391.6,152,3886
+01/18/2021,Northglenn,60720,8,3887
+01/18/2021,Pueblo,37706.4,16,3888
+01/18/2021,Pueblo West,,0,3889
+01/18/2021,South Adams County,,11,3890
+01/18/2021,South Fort Collins,20141.9,6,3891
+01/18/2021,SPR,145538.2,45,3892
+01/18/2021,Wellington Water and Sewer,,0,3893
+01/19/2021,Aurora,,78,3894
+01/19/2021,Boulder,,19,3895
+01/19/2021,Broomfield,,13,3896
+01/19/2021,CO Springs - JD Phillips,,20,3897
+01/19/2021,CO Springs - Las Vegas,,56,3898
+01/19/2021,Estes Park + Upper Thompson,,0,3899
+01/19/2021,Fort Collins - Boxelder,,8,3900
+01/19/2021,Fort Collins - Drake,,24,3901
+01/19/2021,Fort Collins - Mulberry,,8,3902
+01/19/2021,Greeley,,26,3903
+01/12/2021,Northglenn,,14,3904
+01/21/2021,South Adams County,30876.8,18,3905
+01/21/2021,South Fort Collins,13453.4,6,3906
+01/21/2021,SPR,56082,43,3907
+01/21/2021,Wellington Water and Sewer,19383.2,0,3908
+01/22/2021,Aurora,,76,3909
+01/22/2021,Boulder,,22,3910
+01/22/2021,Broomfield,,15,3911
+01/22/2021,CO Springs - JD Phillips,,23,3912
+01/22/2021,CO Springs - Las Vegas,,58,3913
+01/22/2021,Estes Park + Upper Thompson,,0,3914
+01/22/2021,Fort Collins - Boxelder,,6,3915
+01/22/2021,Fort Collins - Drake,,31,3916
+01/22/2021,Fort Collins - Mulberry,,8,3917
+01/22/2021,Greeley,,24,3918
+01/22/2021,Longmont,,17,3919
+01/22/2021,Louisville,,0,3920
+01/22/2021,Loveland,,14,3921
+01/22/2021,Metro Wastewater RWHTF - CC,,84,3922
+01/22/2021,Metro Wastewater RWHTF - PRC,,169,3923
+01/22/2021,Northglenn,,8,3924
+01/22/2021,Pueblo,,12,3925
+01/22/2021,Pueblo West,,0,3926
+01/22/2021,South Adams County,,16,3927
+01/22/2021,South Fort Collins,,6,3928
+01/22/2021,SPR,,50,3929
+01/22/2021,Wellington Water and Sewer,,0,3930
+01/23/2021,Aurora,,70,3931
+01/23/2021,Boulder,,20,3932
+01/23/2021,Broomfield,,14,3933
+01/23/2021,CO Springs - JD Phillips,,20,3934
+01/23/2021,CO Springs - Las Vegas,,47,3935
+01/23/2021,Estes Park + Upper Thompson,,0,3936
+01/23/2021,Fort Collins - Boxelder,,5,3937
+01/23/2021,Fort Collins - Drake,,26,3938
+01/23/2021,Fort Collins - Mulberry,,6,3939
+01/23/2021,Greeley,,20,3940
+01/23/2021,Longmont,,15,3941
+01/23/2021,Louisville,,0,3942
+01/23/2021,Loveland,,9,3943
+01/23/2021,Metro Wastewater RWHTF - CC,,79,3944
+01/23/2021,Metro Wastewater RWHTF - PRC,,152,3945
+01/23/2021,Northglenn,,7,3946
+01/23/2021,Pueblo,,10,3947
+01/23/2021,Pueblo West,,0,3948
+01/23/2021,South Adams County,,14,3949
+01/23/2021,South Fort Collins,,5,3950
+01/23/2021,SPR,,45,3951
+01/23/2021,Wellington Water and Sewer,,0,3952
+01/12/2021,Pueblo,,17,3953
+01/12/2021,Pueblo West,,0,3954
+01/12/2021,South Adams County,,23,3955
+01/12/2021,South Fort Collins,,8,3956
+01/12/2021,SPR,,62,3957
+01/12/2021,Wellington Water and Sewer,,0,3958
+01/13/2021,Aurora,,119,3959
+01/13/2021,Boulder,,24,3960
+01/13/2021,Broomfield,,14,3961
+01/13/2021,CO Springs - JD Phillips,,31,3962
+01/13/2021,CO Springs - Las Vegas,,76,3963
+01/13/2021,Estes Park + Upper Thompson,,0,3964
+01/13/2021,Fort Collins - Boxelder,,10,3965
+01/13/2021,Fort Collins - Drake,,37,3966
+01/13/2021,Fort Collins - Mulberry,,8,3967
+01/13/2021,Greeley,,41,3968
+01/13/2021,Longmont,,21,3969
+01/13/2021,Louisville,,5,3970
+01/13/2021,Loveland,,24,3971
+01/13/2021,Metro Wastewater RWHTF - CC,,105,3972
+01/13/2021,Metro Wastewater RWHTF - PRC,,239,3973
+01/13/2021,Northglenn,,13,3974
+01/13/2021,Pueblo,,20,3975
+01/13/2021,Pueblo West,,0,3976
+01/13/2021,South Adams County,,24,3977
+01/13/2021,South Fort Collins,,10,3978
+01/13/2021,SPR,,63,3979
+01/13/2021,Wellington Water and Sewer,,0,3980
+01/14/2021,Aurora,157261.9,105,3981
+01/14/2021,Boulder,32128.4,25,3982
+01/14/2021,Broomfield,23343.2,14,3983
+01/14/2021,CO Springs - JD Phillips,71310.4,28,3984
+01/14/2021,CO Springs - Las Vegas,64843.1,67,3985
+01/14/2021,Estes Park + Upper Thompson,128618.4,0,3986
+01/14/2021,Fort Collins - Boxelder,32652.8,9,3987
+01/14/2021,Fort Collins - Drake,32810.6,33,3988
+01/14/2021,Fort Collins - Mulberry,15640,10,3989
+01/14/2021,Greeley,72777.9,36,3990
+01/14/2021,Longmont,53918.9,17,3991
+01/14/2021,Louisville,45495.5,5,3992
+01/14/2021,Loveland,74569.2,23,3993
+01/14/2021,Metro Wastewater RWHTF - CC,87551.8,98,3994
+01/14/2021,Metro Wastewater RWHTF - PRC,66366.4,231,3995
+01/14/2021,Northglenn,,11,3996
+01/14/2021,Pueblo,28578.4,20,3997
+01/14/2021,Pueblo West,,0,3998
+01/14/2021,South Adams County,75779.1,24,3999
+01/14/2021,South Fort Collins,38564.5,8,4000
+02/02/2021,Broomfield,,13,4001
+02/02/2021,CO Springs - JD Phillips,,14,4002
+02/02/2021,CO Springs - Las Vegas,,47,4003
+02/02/2021,Estes Park + Upper Thompson,,0,4004
+02/02/2021,Fort Collins - Boxelder,,5,4005
+02/02/2021,Fort Collins - Drake,,22,4006
+02/02/2021,Fort Collins - Mulberry,,9,4007
+02/02/2021,Greeley,,24,4008
+02/02/2021,Longmont,,14,4009
+02/02/2021,Louisville,,0,4010
+02/02/2021,Loveland,,12,4011
+02/02/2021,Metro Wastewater RWHTF - CC,,70,4012
+02/02/2021,Metro Wastewater RWHTF - PRC,,140,4013
+02/02/2021,Northglenn,,10,4014
+02/02/2021,Pueblo,,7,4015
+02/02/2021,Pueblo West,,0,4016
+02/02/2021,South Adams County,,12,4017
+02/02/2021,South Fort Collins,,0,4018
+02/02/2021,SPR,,57,4019
+02/02/2021,Wellington Water and Sewer,,0,4020
+02/03/2021,Aurora,,63,4021
+02/03/2021,Boulder,,21,4022
+02/03/2021,Broomfield,,14,4023
+02/03/2021,CO Springs - JD Phillips,,17,4024
+02/03/2021,CO Springs - Las Vegas,,55,4025
+02/03/2021,Estes Park + Upper Thompson,,0,4026
+02/03/2021,Fort Collins - Boxelder,,7,4027
+02/03/2021,Fort Collins - Drake,,18,4028
+02/03/2021,Fort Collins - Mulberry,,8,4029
+02/03/2021,Greeley,,25,4030
+02/03/2021,Longmont,,20,4031
+02/03/2021,Louisville,,0,4032
+02/03/2021,Loveland,,14,4033
+02/03/2021,Metro Wastewater RWHTF - CC,,76,4034
+02/03/2021,Metro Wastewater RWHTF - PRC,,166,4035
+02/03/2021,Northglenn,,10,4036
+02/03/2021,Pueblo,,6,4037
+02/03/2021,Pueblo West,,0,4038
+02/03/2021,South Adams County,,12,4039
+02/03/2021,South Fort Collins,,5,4040
+02/03/2021,SPR,,59,4041
+02/03/2021,Wellington Water and Sewer,,0,4042
+02/04/2021,Aurora,,60,4043
+02/04/2021,Boulder,56120.3,20,4044
+02/04/2021,Broomfield,13969.8,14,4045
+02/04/2021,CO Springs - JD Phillips,46337.4,18,4046
+02/04/2021,CO Springs - Las Vegas,44869.7,50,4047
+02/04/2021,Estes Park + Upper Thompson,37966.7,0,4048
+02/04/2021,Fort Collins - Boxelder,16264.5,6,4049
+02/04/2021,Fort Collins - Drake,23972.1,17,4050
+02/08/2021,SPR,35066.3,46,4051
+02/08/2021,Wellington Water and Sewer,64195.1,0,4052
+02/09/2021,Aurora,,46,4053
+02/09/2021,Boulder,,26,4054
+02/09/2021,Broomfield,,8,4055
+02/09/2021,CO Springs - JD Phillips,,21,4056
+02/09/2021,CO Springs - Las Vegas,,52,4057
+02/09/2021,Estes Park + Upper Thompson,,0,4058
+02/09/2021,Fort Collins - Boxelder,,0,4059
+02/09/2021,Fort Collins - Drake,,18,4060
+02/09/2021,Fort Collins - Mulberry,,7,4061
+02/09/2021,Greeley,,14,4062
+02/09/2021,Longmont,,13,4063
+02/09/2021,Louisville,,0,4064
+02/09/2021,Loveland,,11,4065
+02/09/2021,Metro Wastewater RWHTF - CC,,67,4066
+02/09/2021,Metro Wastewater RWHTF - PRC,,159,4067
+02/09/2021,Northglenn,,6,4068
+02/09/2021,Pueblo,,0,4069
+02/09/2021,Pueblo West,,0,4070
+02/09/2021,South Adams County,,8,4071
+02/09/2021,South Fort Collins,,0,4072
+02/09/2021,SPR,,48,4073
+02/09/2021,Wellington Water and Sewer,,0,4074
+02/10/2021,Aurora,,53,4075
+02/10/2021,Boulder,,28,4076
+02/10/2021,Broomfield,,8,4077
+02/10/2021,CO Springs - JD Phillips,,24,4078
+02/10/2021,CO Springs - Las Vegas,,60,4079
+02/10/2021,Estes Park + Upper Thompson,,0,4080
+02/10/2021,Fort Collins - Boxelder,,5,4081
+02/10/2021,Fort Collins - Drake,,22,4082
+02/10/2021,Fort Collins - Mulberry,,8,4083
+02/10/2021,Greeley,,16,4084
+02/10/2021,Longmont,,14,4085
+02/10/2021,Louisville,,0,4086
+02/10/2021,Loveland,,11,4087
+02/10/2021,Metro Wastewater RWHTF - CC,,73,4088
+02/10/2021,Metro Wastewater RWHTF - PRC,,162,4089
+02/10/2021,Northglenn,,6,4090
+02/10/2021,Pueblo,,0,4091
+02/10/2021,Pueblo West,,0,4092
+02/10/2021,South Adams County,,9,4093
+02/10/2021,South Fort Collins,,6,4094
+02/10/2021,SPR,,52,4095
+02/10/2021,Wellington Water and Sewer,,0,4096
+02/11/2021,Aurora,45589.7,45,4097
+02/11/2021,Boulder,29757.1,24,4098
+02/11/2021,Broomfield,50508.4,6,4099
+02/11/2021,CO Springs - JD Phillips,89405.1,24,4100
+02/11/2021,CO Springs - Las Vegas,52301.6,59,4101
+02/06/2021,Metro Wastewater RWHTF - PRC,,156,4102
+02/15/2021,Pueblo,13951.3,0,4103
+02/13/2021,Longmont,,12,4104
+02/13/2021,Louisville,,0,4105
+02/13/2021,Loveland,,11,4106
+02/13/2021,Metro Wastewater RWHTF - CC,,44,4107
+02/13/2021,Metro Wastewater RWHTF - PRC,,106,4108
+02/13/2021,Northglenn,,6,4109
+02/13/2021,Pueblo,,7,4110
+02/13/2021,Pueblo West,,0,4111
+02/13/2021,South Adams County,,9,4112
+02/13/2021,South Fort Collins,,0,4113
+02/13/2021,SPR,,40,4114
+02/13/2021,Wellington Water and Sewer,,0,4115
+02/14/2021,Aurora,,34,4116
+02/14/2021,Boulder,,16,4117
+02/14/2021,Broomfield,,0,4118
+02/14/2021,CO Springs - JD Phillips,,14,4119
+02/14/2021,CO Springs - Las Vegas,,29,4120
+02/14/2021,Estes Park + Upper Thompson,,0,4121
+02/14/2021,Fort Collins - Boxelder,,0,4122
+02/14/2021,Fort Collins - Drake,,15,4123
+02/14/2021,Fort Collins - Mulberry,,6,4124
+02/06/2021,Northglenn,,0,4125
+02/14/2021,Greeley,,8,4126
+02/11/2021,Estes Park + Upper Thompson,61738.2,0,4127
+02/15/2021,Pueblo West,,0,4128
+02/06/2021,Pueblo,,6,4129
+02/14/2021,Longmont,,9,4130
+02/11/2021,Fort Collins - Boxelder,10041.4,5,4131
+02/15/2021,South Adams County,,10,4132
+02/06/2021,Pueblo West,,0,4133
+02/14/2021,Louisville,,0,4134
+02/11/2021,Fort Collins - Drake,36643.8,21,4135
+02/15/2021,South Fort Collins,,0,4136
+02/06/2021,South Adams County,,12,4137
+02/14/2021,Loveland,,9,4138
+02/11/2021,Fort Collins - Mulberry,12482.3,7,4139
+02/15/2021,SPR,86693.5,34,4140
+02/06/2021,South Fort Collins,,6,4141
+02/14/2021,Metro Wastewater RWHTF - CC,,36,4142
+02/11/2021,Greeley,35334.5,15,4143
+02/15/2021,Wellington Water and Sewer,,0,4144
+02/06/2021,SPR,,45,4145
+02/14/2021,Metro Wastewater RWHTF - PRC,,79,4146
+02/11/2021,Longmont,54680.2,13,4147
+02/11/2021,Louisville,2827.9,0,4148
+02/11/2021,Loveland,27757.4,10,4149
+02/11/2021,Metro Wastewater RWHTF - CC,51846.6,64,4150
+02/11/2021,Metro Wastewater RWHTF - PRC,46034.8,145,4151
+02/11/2021,Northglenn,,6,4152
+02/11/2021,Pueblo,8954.6,6,4153
+02/11/2021,Pueblo West,,0,4154
+02/11/2021,South Adams County,73242,10,4155
+02/11/2021,South Fort Collins,26483.6,5,4156
+02/11/2021,SPR,23475.2,46,4157
+02/11/2021,Wellington Water and Sewer,30789.5,0,4158
+02/12/2021,Aurora,,46,4159
+02/12/2021,Boulder,,21,4160
+02/12/2021,Broomfield,,0,4161
+02/12/2021,CO Springs - JD Phillips,,21,4162
+02/12/2021,CO Springs - Las Vegas,,47,4163
+02/12/2021,Estes Park + Upper Thompson,,0,4164
+02/12/2021,Fort Collins - Boxelder,,6,4165
+02/12/2021,Fort Collins - Drake,,21,4166
+02/12/2021,Fort Collins - Mulberry,,7,4167
+02/12/2021,Greeley,,14,4168
+02/12/2021,Longmont,,13,4169
+02/12/2021,Louisville,,0,4170
+02/12/2021,Loveland,,11,4171
+02/12/2021,Metro Wastewater RWHTF - CC,,56,4172
+02/12/2021,Metro Wastewater RWHTF - PRC,,129,4173
+02/12/2021,Northglenn,,6,4174
+02/12/2021,Pueblo,,6,4175
+02/12/2021,Pueblo West,,0,4176
+02/12/2021,South Adams County,,8,4177
+02/12/2021,South Fort Collins,,6,4178
+02/12/2021,SPR,,46,4179
+02/12/2021,Wellington Water and Sewer,,0,4180
+02/13/2021,Aurora,,38,4181
+02/13/2021,Boulder,,20,4182
+02/13/2021,Broomfield,,0,4183
+02/13/2021,CO Springs - JD Phillips,,18,4184
+02/13/2021,CO Springs - Las Vegas,,38,4185
+02/13/2021,Estes Park + Upper Thompson,,0,4186
+02/13/2021,Fort Collins - Boxelder,,5,4187
+02/13/2021,Fort Collins - Drake,,16,4188
+02/13/2021,Fort Collins - Mulberry,,5,4189
+02/13/2021,Greeley,,10,4190
+02/04/2021,Fort Collins - Mulberry,,8,4191
+01/30/2021,South Adams County,,16,4192
+02/14/2021,Northglenn,,0,4193
+02/14/2021,Pueblo,,5,4194
+02/14/2021,Pueblo West,,0,4195
+02/14/2021,South Adams County,,7,4196
+02/14/2021,South Fort Collins,,0,4197
+02/14/2021,SPR,,32,4198
+02/14/2021,Wellington Water and Sewer,,0,4199
+02/15/2021,Aurora,,35,4200
+02/15/2021,Boulder,55053.9,18,4201
+02/15/2021,Broomfield,11664.7,5,4202
+02/15/2021,CO Springs - JD Phillips,,16,4203
+02/15/2021,CO Springs - Las Vegas,,32,4204
+02/15/2021,Estes Park + Upper Thompson,70066.5,0,4205
+02/15/2021,Fort Collins - Boxelder,7191.1,5,4206
+02/15/2021,Fort Collins - Drake,,14,4207
+02/15/2021,Fort Collins - Mulberry,,6,4208
+02/15/2021,Greeley,79656.8,7,4209
+02/15/2021,Longmont,26112.5,8,4210
+02/15/2021,Louisville,23579.5,0,4211
+02/15/2021,Loveland,29546.7,12,4212
+02/15/2021,Metro Wastewater RWHTF - CC,62755.9,42,4213
+02/15/2021,Metro Wastewater RWHTF - PRC,37012,87,4214
+02/15/2021,Northglenn,,5,4215
+02/06/2021,Wellington Water and Sewer,,0,4216
+02/07/2021,Aurora,,43,4217
+02/07/2021,Boulder,,15,4218
+02/07/2021,Broomfield,,8,4219
+02/07/2021,CO Springs - JD Phillips,,16,4220
+02/16/2021,Aurora,,41,4221
+02/07/2021,CO Springs - Las Vegas,,38,4222
+02/16/2021,Boulder,,17,4223
+02/07/2021,Estes Park + Upper Thompson,,0,4224
+02/16/2021,Broomfield,,7,4225
+02/07/2021,Fort Collins - Boxelder,,0,4226
+02/16/2021,CO Springs - JD Phillips,,19,4227
+02/07/2021,Fort Collins - Drake,,15,4228
+02/16/2021,CO Springs - Las Vegas,,38,4229
+02/07/2021,Fort Collins - Mulberry,,0,4230
+02/16/2021,Estes Park + Upper Thompson,,0,4231
+02/16/2021,Fort Collins - Boxelder,,5,4232
+02/16/2021,Fort Collins - Drake,,20,4233
+02/16/2021,Fort Collins - Mulberry,,10,4234
+02/16/2021,Greeley,,9,4235
+02/16/2021,Longmont,,8,4236
+02/16/2021,Louisville,,0,4237
+02/16/2021,Loveland,,13,4238
+02/16/2021,Metro Wastewater RWHTF - CC,,60,4239
+02/16/2021,Metro Wastewater RWHTF - PRC,,112,4240
+02/16/2021,Northglenn,,5,4241
+02/16/2021,Pueblo,,0,4242
+02/16/2021,Pueblo West,,0,4243
+02/16/2021,South Adams County,,10,4244
+02/16/2021,South Fort Collins,,5,4245
+02/16/2021,SPR,,41,4246
+02/16/2021,Wellington Water and Sewer,,0,4247
+02/17/2021,Aurora,,47,4248
+02/17/2021,Boulder,,20,4249
+02/17/2021,Broomfield,,8,4250
+02/17/2021,CO Springs - JD Phillips,,24,4251
+02/17/2021,CO Springs - Las Vegas,,46,4252
+02/17/2021,Estes Park + Upper Thompson,,0,4253
+02/17/2021,Fort Collins - Boxelder,,5,4254
+02/17/2021,Fort Collins - Drake,,22,4255
+02/17/2021,Fort Collins - Mulberry,,10,4256
+02/17/2021,Greeley,,12,4257
+02/17/2021,Longmont,,10,4258
+02/17/2021,Louisville,,0,4259
+02/17/2021,Loveland,,16,4260
+02/17/2021,Metro Wastewater RWHTF - CC,,65,4261
+02/17/2021,Metro Wastewater RWHTF - PRC,,125,4262
+02/17/2021,Northglenn,,5,4263
+02/17/2021,Pueblo,,0,4264
+02/17/2021,Pueblo West,,0,4265
+02/17/2021,South Adams County,,10,4266
+02/17/2021,South Fort Collins,,5,4267
+02/17/2021,SPR,,49,4268
+02/17/2021,Wellington Water and Sewer,,0,4269
+02/07/2021,Greeley,,16,4270
+02/07/2021,Longmont,,13,4271
+02/07/2021,Louisville,,0,4272
+02/07/2021,Loveland,,10,4273
+02/07/2021,Metro Wastewater RWHTF - CC,,56,4274
+02/07/2021,Metro Wastewater RWHTF - PRC,,138,4275
+02/07/2021,Northglenn,,0,4276
+02/07/2021,Pueblo,,7,4277
+02/07/2021,Pueblo West,,0,4278
+02/07/2021,South Adams County,,8,4279
+02/07/2021,South Fort Collins,,0,4280
+02/07/2021,SPR,,40,4281
+02/07/2021,Wellington Water and Sewer,,0,4282
+02/08/2021,Aurora,50351.8,45,4283
+02/08/2021,Boulder,53689.2,23,4284
+02/08/2021,Broomfield,15161.1,8,4285
+02/08/2021,CO Springs - JD Phillips,3187.7,19,4286
+02/08/2021,CO Springs - Las Vegas,885.6,41,4287
+02/08/2021,Estes Park + Upper Thompson,45719,0,4288
+02/08/2021,Fort Collins - Boxelder,22414.6,5,4289
+02/08/2021,Fort Collins - Drake,28205.9,13,4290
+02/08/2021,Fort Collins - Mulberry,23393.8,0,4291
+02/08/2021,Greeley,66724.3,12,4292
+02/08/2021,Longmont,47570.1,15,4293
+02/08/2021,Louisville,21329.2,0,4294
+02/08/2021,Loveland,36437.7,13,4295
+02/08/2021,Metro Wastewater RWHTF - CC,13661.5,56,4296
+02/08/2021,Metro Wastewater RWHTF - PRC,18003.3,147,4297
+02/08/2021,Northglenn,,5,4298
+01/30/2021,South Fort Collins,,6,4299
+02/08/2021,Pueblo,6790.8,6,4300
+02/04/2021,Greeley,42660.7,23,4301
+02/04/2021,Longmont,41697.5,18,4302
+02/04/2021,Louisville,6834.9,0,4303
+02/04/2021,Loveland,28708.2,14,4304
+02/04/2021,Metro Wastewater RWHTF - CC,50852.9,73,4305
+02/04/2021,Metro Wastewater RWHTF - PRC,52027.7,165,4306
+02/04/2021,Northglenn,,6,4307
+02/04/2021,Pueblo,23262.8,0,4308
+02/04/2021,Pueblo West,,0,4309
+02/04/2021,South Adams County,49761.1,13,4310
+02/04/2021,South Fort Collins,20440.5,6,4311
+02/04/2021,SPR,91679.8,56,4312
+02/04/2021,Wellington Water and Sewer,229078.1,0,4313
+02/05/2021,Aurora,,57,4314
+02/05/2021,Boulder,,17,4315
+02/05/2021,Broomfield,,12,4316
+02/05/2021,CO Springs - JD Phillips,,19,4317
+02/05/2021,CO Springs - Las Vegas,,52,4318
+02/05/2021,Estes Park + Upper Thompson,,0,4319
+02/05/2021,Fort Collins - Boxelder,,5,4320
+02/05/2021,Fort Collins - Drake,,19,4321
+02/05/2021,Fort Collins - Mulberry,,7,4322
+02/05/2021,Greeley,,25,4323
+02/05/2021,Longmont,,16,4324
+02/05/2021,Louisville,,0,4325
+02/05/2021,Loveland,,12,4326
+02/05/2021,Metro Wastewater RWHTF - CC,,74,4327
+02/05/2021,Metro Wastewater RWHTF - PRC,,170,4328
+02/05/2021,Northglenn,,0,4329
+02/05/2021,Pueblo,,0,4330
+02/05/2021,Pueblo West,,0,4331
+02/05/2021,South Adams County,,11,4332
+02/05/2021,South Fort Collins,,7,4333
+02/05/2021,SPR,,49,4334
+02/05/2021,Wellington Water and Sewer,,0,4335
+02/06/2021,Aurora,,54,4336
+02/06/2021,Boulder,,15,4337
+02/06/2021,Broomfield,,9,4338
+02/06/2021,CO Springs - JD Phillips,,19,4339
+02/06/2021,CO Springs - Las Vegas,,45,4340
+02/06/2021,Estes Park + Upper Thompson,,0,4341
+02/06/2021,Fort Collins - Boxelder,,0,4342
+02/06/2021,Fort Collins - Drake,,18,4343
+02/06/2021,Fort Collins - Mulberry,,6,4344
+02/06/2021,Greeley,,19,4345
+02/06/2021,Longmont,,15,4346
+02/06/2021,Louisville,,0,4347
+02/06/2021,Loveland,,12,4348
+02/06/2021,Metro Wastewater RWHTF - CC,,66,4349
+01/30/2021,SPR,,45,4350
+02/08/2021,Pueblo West,,0,4351
+01/30/2021,Wellington Water and Sewer,,6,4352
+01/31/2021,Aurora,,55,4353
+01/31/2021,Boulder,,15,4354
+01/31/2021,Broomfield,,11,4355
+01/31/2021,CO Springs - JD Phillips,,15,4356
+01/31/2021,CO Springs - Las Vegas,,41,4357
+01/31/2021,Estes Park + Upper Thompson,,0,4358
+01/31/2021,Fort Collins - Boxelder,,5,4359
+01/31/2021,Fort Collins - Drake,,19,4360
+01/31/2021,Fort Collins - Mulberry,,7,4361
+01/31/2021,Greeley,,19,4362
+01/31/2021,Longmont,,16,4363
+01/31/2021,Louisville,,0,4364
+01/31/2021,Loveland,,9,4365
+01/31/2021,Metro Wastewater RWHTF - CC,,48,4366
+01/31/2021,Metro Wastewater RWHTF - PRC,,114,4367
+01/31/2021,Northglenn,,5,4368
+01/31/2021,Pueblo,,9,4369
+01/31/2021,Pueblo West,,0,4370
+01/31/2021,South Adams County,,14,4371
+01/31/2021,South Fort Collins,,0,4372
+01/31/2021,SPR,,39,4373
+01/31/2021,Wellington Water and Sewer,,0,4374
+02/01/2021,Aurora,69208.2,57,4375
+02/01/2021,Boulder,70229.7,15,4376
+02/01/2021,Broomfield,14541.3,11,4377
+02/01/2021,CO Springs - JD Phillips,60414.2,16,4378
+02/01/2021,CO Springs - Las Vegas,47208,44,4379
+02/01/2021,Estes Park + Upper Thompson,26810.7,0,4380
+02/01/2021,Fort Collins - Boxelder,14253.6,0,4381
+02/01/2021,Fort Collins - Drake,35969.5,18,4382
+02/01/2021,Fort Collins - Mulberry,12801,7,4383
+02/01/2021,Greeley,44798.4,20,4384
+02/01/2021,Longmont,,15,4385
+02/01/2021,Louisville,10535.2,0,4386
+02/01/2021,Loveland,22552.1,9,4387
+02/01/2021,Metro Wastewater RWHTF - CC,87028.2,56,4388
+02/01/2021,Metro Wastewater RWHTF - PRC,52345.3,127,4389
+02/01/2021,Northglenn,,8,4390
+02/01/2021,Pueblo,9781.2,8,4391
+02/01/2021,Pueblo West,,0,4392
+02/01/2021,South Adams County,39296.1,11,4393
+02/01/2021,South Fort Collins,24698.7,0,4394
+02/01/2021,SPR,101126.8,46,4395
+02/01/2021,Wellington Water and Sewer,58671.5,0,4396
+02/02/2021,Aurora,,61,4397
+02/02/2021,Boulder,,19,4398
+02/08/2021,South Adams County,40341.4,9,4399
+02/08/2021,South Fort Collins,38733.6,0,4400
+02/18/2021,Aurora,93864.7,38,4401
+02/18/2021,Boulder,20400,14,4402
+02/18/2021,Broomfield,5172,7,4403
+02/18/2021,CO Springs - JD Phillips,69656.2,22,4404
+02/18/2021,CO Springs - Las Vegas,46924.9,37,4405
+02/18/2021,Estes Park + Upper Thompson,8768.1,0,4406
+02/18/2021,Fort Collins - Boxelder,10243.6,0,4407
+02/18/2021,Fort Collins - Drake,49665.2,25,4408
+02/18/2021,Fort Collins - Mulberry,39049.1,11,4409
+02/18/2021,Greeley,83338.5,14,4410
+02/18/2021,Longmont,34445.1,8,4411
+02/18/2021,Louisville,29493,0,4412
+02/18/2021,Loveland,64336.5,12,4413
+02/18/2021,Metro Wastewater RWHTF - CC,48499.9,57,4414
+02/18/2021,Metro Wastewater RWHTF - PRC,59511.9,117,4415
+02/18/2021,Northglenn,,0,4416
+02/18/2021,Pueblo,21551.6,0,4417
+02/18/2021,Pueblo West,,0,4418
+02/18/2021,South Adams County,50890.9,7,4419
+02/18/2021,South Fort Collins,50098.2,6,4420
+02/18/2021,SPR,161898.5,41,4421
+02/18/2021,Wellington Water and Sewer,71119.3,0,4422
+02/19/2021,Aurora,,31,4423
+02/19/2021,Boulder,,11,4424
+02/19/2021,Broomfield,,5,4425
+02/19/2021,CO Springs - JD Phillips,,20,4426
+02/19/2021,CO Springs - Las Vegas,,37,4427
+02/19/2021,Estes Park + Upper Thompson,,0,4428
+02/19/2021,Fort Collins - Boxelder,,0,4429
+02/19/2021,Fort Collins - Drake,,24,4430
+02/19/2021,Fort Collins - Mulberry,,12,4431
+02/19/2021,Greeley,,13,4432
+02/19/2021,Longmont,,8,4433
+02/19/2021,Louisville,,0,4434
+02/19/2021,Loveland,,12,4435
+02/19/2021,Metro Wastewater RWHTF - CC,,43,4436
+02/19/2021,Metro Wastewater RWHTF - PRC,,96,4437
+02/19/2021,Northglenn,,0,4438
+02/19/2021,Pueblo,,0,4439
+02/19/2021,Pueblo West,,0,4440
+02/19/2021,South Adams County,,5,4441
+02/19/2021,South Fort Collins,,5,4442
+02/19/2021,SPR,,35,4443
+02/19/2021,Wellington Water and Sewer,,0,4444
+02/20/2021,Aurora,,21,4445
+02/20/2021,Boulder,,7,4446
+02/20/2021,Broomfield,,0,4447
+02/20/2021,CO Springs - JD Phillips,,13,4448
+02/20/2021,CO Springs - Las Vegas,,34,4449
+02/20/2021,Estes Park + Upper Thompson,,0,4450
+02/20/2021,Fort Collins - Boxelder,,0,4451
+02/20/2021,Fort Collins - Drake,,21,4452
+02/20/2021,Fort Collins - Mulberry,,12,4453
+02/20/2021,Greeley,,10,4454
+02/20/2021,Longmont,,6,4455
+02/20/2021,Louisville,,0,4456
+02/20/2021,Loveland,,12,4457
+02/20/2021,Metro Wastewater RWHTF - CC,,37,4458
+02/20/2021,Metro Wastewater RWHTF - PRC,,72,4459
+02/20/2021,Northglenn,,0,4460
+02/20/2021,Pueblo,,0,4461
+02/20/2021,Pueblo West,,0,4462
+02/20/2021,South Adams County,,0,4463
+02/20/2021,South Fort Collins,,5,4464
+02/20/2021,SPR,,21,4465
+02/20/2021,Wellington Water and Sewer,,0,4466
+02/21/2021,Aurora,,17,4467
+02/21/2021,Boulder,,0,4468
+02/21/2021,Broomfield,,0,4469
+02/21/2021,CO Springs - JD Phillips,,10,4470
+02/21/2021,CO Springs - Las Vegas,,36,4471
+02/21/2021,Estes Park + Upper Thompson,,0,4472
+02/21/2021,Fort Collins - Boxelder,,0,4473
+02/21/2021,Fort Collins - Drake,,17,4474
+02/21/2021,Fort Collins - Mulberry,,10,4475
+02/21/2021,Greeley,,7,4476
+02/21/2021,Longmont,,5,4477
+02/21/2021,Louisville,,0,4478
+02/21/2021,Loveland,,10,4479
+02/21/2021,Metro Wastewater RWHTF - CC,,23,4480
+02/21/2021,Metro Wastewater RWHTF - PRC,,47,4481
+02/21/2021,Northglenn,,0,4482
+02/21/2021,Pueblo,,0,4483
+02/21/2021,Pueblo West,,0,4484
+02/21/2021,South Adams County,,5,4485
+02/21/2021,South Fort Collins,,0,4486
+02/21/2021,SPR,,14,4487
+02/21/2021,Wellington Water and Sewer,,0,4488
+02/22/2021,Aurora,72295.5,13,4489
+02/22/2021,Boulder,32638.8,0,4490
+02/22/2021,Broomfield,14708,0,4491
+02/22/2021,CO Springs - JD Phillips,75296.8,7,4492
+02/22/2021,CO Springs - Las Vegas,56997.1,22,4493
+02/22/2021,Estes Park + Upper Thompson,96216.7,0,4494
+02/22/2021,Fort Collins - Boxelder,19078.5,0,4495
+02/22/2021,Fort Collins - Drake,28806.8,12,4496
+02/22/2021,Fort Collins - Mulberry,36310.9,6,4497
+02/22/2021,Greeley,72741.8,6,4498
+02/22/2021,Longmont,37783.6,0,4499
+02/22/2021,Louisville,11485.4,0,4500
+02/22/2021,Loveland,27283.5,7,4501
+02/22/2021,Metro Wastewater RWHTF - CC,55103.1,15,4502
+02/22/2021,Metro Wastewater RWHTF - PRC,51029,22,4503
+02/22/2021,Northglenn,,0,4504
+02/22/2021,Pueblo,23929.1,0,4505
+02/22/2021,Pueblo West,,0,4506
+02/22/2021,South Adams County,62015.3,0,4507
+02/22/2021,South Fort Collins,11187.8,0,4508
+02/22/2021,SPR,37872.7,6,4509
+02/22/2021,Wellington Water and Sewer,32361.6,0,4510
