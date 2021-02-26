@@ -104,7 +104,7 @@ Once you have data in a vector, it is often essential to be able to access, mani
 (12) Now make a "data frame" using the 4 vectors of rankings.  The data frame should have the names of the people as the names of its columns.  Given what we already have in memory (from the steps above), there are two ways to do this, one using "`data.frame()`" and one using "`as.data.frame()`".  Try BOTH ways in your code just for the sake of learning.  
 
 
-(13) Verbally (using a comment after step #12) describe the similarities and differences between (a) the object created in step #10 using `cbind()` and (b) one of the objects created as a data frame in step #12.   To do this you will probably find it helpful to use `dim()`, `str()`, `==`, and `typeof()` and verbally describe the results of what you get from each.
+(13) Verbally (using a comment after step #12) describe the similarities and differences between (a) the object created in step #10 using `cbind()` and (b) one of the objects created as a data frame in step #12.   To do this, please use `dim()`, `str()`, `==`, and `typeof()` and verbally describe the results of what you get from each.
 
 R can make vectors of characters or "strings" of characters too.  To tell R that something is a character or string, just put quotes around it.   
 
