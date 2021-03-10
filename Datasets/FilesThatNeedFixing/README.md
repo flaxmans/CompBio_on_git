@@ -21,6 +21,9 @@ This is a real data file that was shared with Sam as part of a class on regressi
 
 If you are curious, you can learn more about why these data are interesting by reading about "[Moore's law][mooreslaw]".
 
+### "ChromosomeNumber.txt"
+These data were copied and pasted from [a Wikipedia page listing chromosome numbers][chromosomedata] for many species of organisms.  The data should have 6 columns.  The first two are what I suggest we focus on: "Organism (Scientific name)" and "Chromosome number".
+
 ## Where might you begin?
 Explore the files with tools in the shell and by opening them in any plain text editor.  Look for reasons that would explain RStudio's behavior (Sam will demo).
 
@@ -29,3 +32,4 @@ Explore the files with tools in the shell and by opening them in any plain text 
 
 [mooresource]: https://en.wikipedia.org/wiki/Transistor_count
 [mooreslaw]: https://en.wikipedia.org/wiki/Moore's_law
+[chromosomedata]: https://en.wikipedia.org/wiki/List_of_organisms_by_chromosome_count

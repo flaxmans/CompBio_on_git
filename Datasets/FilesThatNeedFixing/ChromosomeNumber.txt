@@ -1,0 +1,423 @@
+Organism
+(Scientific name) 	Chromosome number 	Picture 	Karyotype 	Notes 	Source
+Jack jumper ant
+(Myrmecia pilosula) 	2/1 	Myrmecia.pilosula.jpg 		2 for females, males are haploid and thus have 1; smallest number possible. Other ant species have more chromosomes.[6] 	[6]
+Spider mite
+(Tetranychidae) 	4–14 	Tetranychus urticae with silk threads.jpg 		Spider mites (family Tetranychidae) are typically haplodiploid (males are haploid, while females are diploid)[7] 	[7]
+Oikopleura dioica 	6 	Oikopleura dioica 2.jpg 			[8]
+Yellow fever mosquito
+(Aedes aegypti) 	6 	Aedes aegypti.jpg 	Yellow Fever Mosquito (Aedes aegypti) chromosomes.png 	The 2n=6 chromosome number is conserved in the entire family Culicidae, except in Chagasia bathana, which has 2n=8.[9] 	[9]
+Indian muntjac
+(Muntiacus muntjak) 	6/7 	Muntjac deer.JPG 	Karyotype of Indian muntjac (Muntiacus muntjak).png 	2n = 6 for females and 7 for males. The lowest diploid chromosomal number in mammals.[10] 	[11]
+Hieracium 	8 	Yellow Hawkweed.jpg 			
+Fruit fly
+(Drosophila melanogaster) 	8 	Drosophila melanogaster - side (aka).jpg 	Drosophila metaphase chromosomes female.png 	6 autosomal and 2 allosomic (sex) 	[12]
+Macrostomum lignano 	8 	Macrostomum lignano.jpg 	Karyotype of Macrostomum lignano.png 	[13] 	
+Thale cress
+(Arabidopsis thaliana) 	10 	Arabidopsis thaliana.jpg 	Karyotype of Thale cress (Arabidopsis thaliana).png 		
+Swamp wallaby
+(Wallabia bicolor) 	10/11 	Image-Swamp-Wallaby-Feeding-4,-Vic,-Jan.2008.jpg 	Karyotype of swamp wallaby (Wallabia bicolor).png 	11 for male, 10 for female 	[14]
+Australian daisy
+(Brachyscome dichromosomatica) 	12 	Brachyscome iberidifolia1.jpg 		This species can have more B chromosomes than A chromosomes at times, but 2n=4. 	[15]
+Nematode
+(Caenorhabditis elegans) 	12/11 	Adult Caenorhabditis elegans.jpg 	Karyotype of Caenorhabditis elegans.png 	12 for hermaphrodites, 11 for males 	
+Spinach
+(Spinacia oleracea) 	12 	Wurzelspinat02.jpg 	Karyotype of Spinach (Spinacia oleracea L. Mazeran).png 		[16]
+Broad bean
+(Vicia faba) 	12 	Fava beans 1.jpg 	Karyotype of Broad bean (Vicia faba).png 		[17]
+Yellow dung fly
+(Scathophaga stercoraria) 	12 	Fliege9012.JPG 	Karyotype of female yellow dung fly (Scathophaga stercoraria).png 	10 autosomal and 2 allosomic (sex) chromosomes. Males have XY sex chromosomes and females have XX sex chromosomes. The sex chromosomes are the largest chromosomes and constitute 30% of the total length of the diploid set in females and about 25% in males.[18] 	[18]
+Slime mold
+(Dictyostelium discoideum) 	12 	Dictyostelium Fruiting Bodies.JPG 			[19]
+Cucumber
+(Cucumis sativus) 	14 	Komkommer plant.jpg 	Karyotype of cucumber (Cucumis sativus).png 		[20]
+Tasmanian devil
+(Sarcophilus harrisii) 	14 	Sarcophilus harrisii taranna.jpg 	Karyotype of Tasmanian devil (Sarcophilus Harrisii).png 		
+Rye
+(Secale cereale) 	14 	Rye Mature Grain Summer.jpg 	Karyotype of Austrian rye (Secale cereale).png 		[21]
+Pea
+(Pisum sativum) 	14 	Peas in pods - Studio.jpg 	Karyotype of pea (Pisum sativum).png 		[21]
+Barley
+(Hordeum vulgare) 	14 	Hordeum-barley.jpg 	Karyotype of barley (Hordeum vulgare).png 		[22]
+Aloe vera 	14 	Aloe vera 1.jpg 	Karyotype of Aloe vera.png 	The diploid chromosome number is 2n = 14 with four pair of long acrocentric chromosomes ranging from 14.4 μm to 17.9 μm and three pair of short sub metacentric chromosomes ranging from 4.6 μm to 5.4 μm.[23] 	[23]
+Koala
+(Phascolarctos cinereus) 	16 	Koala climbing tree.jpg 			
+Kangaroo 	16 	Macropus robustus2.jpg 	Karyotype of wallaroo (Macropus robustus).png 	This includes several members of genus Macropus, but not the red kangaroo (M. rufus, 20) 	[24]
+Botryllus schlosseri 	16 	Botryllus schlosseri.jpg 			[25]
+Schistosoma mansoni 	16 	Schistosoma mansoni trematodes.jpg 	Karyotype of Schistosoma mansoni.png 	2n=16. 7 autosomal pairs and ZW sex-determination pair.[26] 	[26]
+Welsh onion
+(Allium fistulosum) 	16 	Spring Onion.jpg 	DAPI stained Welsh onion (Allium fistulosum) chromosomes.png 		[27]
+Garlic
+(Allium sativum) 	16 	All Garlic Ail Ajo.jpg 	Karyotype of garlic (Allium sativum).png 		[27]
+Itch mite
+(Sarcoptes scabiei) 	17/18 	Sarcoptes scabei 2.jpg 	Chromosomal spreads of single itch mite (Sarcoptes scabiei) cell - 17 chromosomes.png 	According to the observation of embryonic cells of egg, chromosome number of the itch mite is either 17 or 18. While the cause for the disparate numbers is unknown, it may arise because of an XO sex determination mechanism, where males (2n=17) lack the sex chromosome and therefore have one less chromosome than the female (2n=18).[28] 	[28]
+Radish
+(Raphanus sativus) 	18 	Raphanus sativus subsp. sativus, radijs (1).jpg 	Karyotype of radish (Raphanus sativus).png 		[21]
+Carrot
+(Daucus carota) 	18 	Baby carrots - jules.jpg 	Karyotype of carrot (Daucus carota).png 	The genus Daucus includes around 25 species. D. carota has nine chromosome pairs (2n = 2x = 18). D. capillifolius, D. sahariensis and D. syrticus are the other members of the genus with 2n = 18, whereas D. muricatus (2n = 20) and D. pusillus (2n = 22) have a slightly higher chromosome number. A few polyploid species as for example D. glochidiatus (2n = 4x = 44) and D. montanus (2n = 6x = 66) also exist.[29] 	[29]
+Cabbage
+(Brassica oleracea) 	18 	Choux 02.jpg 	Karyotype of Brussels sprout (Brassica oleracea var. gemmifera).png 	Broccoli, cabbage, kale, kohlrabi, brussels sprouts, and cauliflower are all the same species and have the same chromosome number.[21] 	[21]
+Citrus
+(Citrus) 	18 	Lemon, Lime and Orange.jpg 	Karyotype of Lemon (Citrus limon).png 	Chromosome number of the genus Citrus, which including lemons, oranges, grapefruit, pomelo and limes, is 2n = 18.[30] 	[31]
+Passion fruit
+(Passiflora edulis) 	18 	Passionfruit and cross section.jpg 	Karyotype of passion fruit (Passiflora edulis).png 		[32]
+Setaria viridis
+(Setaria viridis) 	18 	エノコログサSetaria viridis (L.) P.Beauv.P9130041.JPG 	Karyotype of Setaria viridis.png 		[33]
+Maize
+(Zea mays) 	20 	Klip kukuruza uzgojen u Međimurju (Croatia).JPG 	C-banded karyograms of Maize.png 		[21]
+Cannabis
+(Cannabis sativa) 	20 	Cannabis sativa leaf.jpg 	Karyotype of Hemp (Cannabis sativa).png 		
+Western clawed frog
+(Xenopus tropicalis) 	20 	Xenopus tropicalis02.jpeg 	Karyotype of Western clawed frog (Xenopus (Silurana) tropicalis).png 		[34]
+Australian pitcher plant
+(Cephalotus follicularis) 	20 	Cephalotus follicularis 002.jpg 			[35]
+Cacao
+(Theobroma cacao) 	20 	Matadecacao.jpg 	Karyotype of cacao.png 		[36]
+Eucalyptus
+(Eucalyptus) 	22 	700 yr red river gum02.jpg 	Karyotype of river red gum (Eucalyptus camaldulensis).png 	Although some contradictory cases have been reported, the large homogeneity of the chromosome number 2n = 22 is now known for 135 (33.5%) distinct species among genus Eucalyptus.[37] 	[38]
+Virginia opossum
+(Didelphis virginiana) 	22 	Opossum 2.jpg 			[39]
+Bean
+(Phaseolus sp.) 	22 	Phaseolus vulgaris MHNT.BOT.2016.24.73.jpg 	Karyotype of Common bean (Phaseolus vulgaris).png 	All species in the genus Phaseolus have the same chromosome number, including common bean (P. vulgaris), runner bean (P. coccineus), tepary bean (P. acutifolius) and lima bean (P. lunatus).[21] 	[21]
+Snail 	24 	Grapevinesnail 01.jpg 			
+Melon
+(Cucumis melo) 	24 	Cucumis melo 34.jpg 	Karyotype of melon (Cucumis melo L.).png 		[40]
+Rice
+(Oryza sativa) 	24 	US long grain rice.jpg 	Karyotype of rice (Oryza sativa).png 		[21]
+Silverleaf nightshade
+(Solanum elaeagnifolium) 	24 	Solanum elaeagnifolium.jpg 			[41]
+Sweet chestnut
+(Castanea sativa) 	24 	Frucht der Edelkastanie.jpg 	Karyotype of Sweet chestnut (Castanea sativa).png 		[42]
+Tomato
+(Solanum lycopersicum) 	24 	Bright red tomato and cross section02.jpg 	Karyotype of tomato (Solanum lycopersicum).png 		[43]
+European beech
+(Fagus sylvatica) 	24 	Hayedomasaustral.jpg 	Karyotype of European beech (Fagus sylvatica).png 		[44]
+Bittersweet nightshade
+(Solanum dulcamara) 	24 	SolanumDulcamara-bloem-sm.jpg 			[45][46]
+Cork oak
+(Quercus suber) 	24 	ChampagneCorksLarge.jpg 	Karyotype of Cork oak (Quercus suber).png 		[47]
+Edible frog
+(Pelophylax kl. esculentus) 	26 	Rana esculenta on Nymphaea edit.JPG 	Karyotype of Edible frog (Pelophylax esculentus).png 	Edible frog is the fertile hybrid of the pool frog and the marsh frog.[48] 	[49]
+Axolotl
+(Ambystoma mexicanum) 	28 	AxolotlBE.jpg 	Karyotype of axolotl (Ambystoma mexicanum).png 		[50]
+Bed bug
+(Cimex lectularius) 	29–47 	Bedbug004.jpg 	Karyotype of male bed bug (Cimex lectularius).png 	26 autosomes and varying number of the sex chromosomes from three (X1X2Y) to 21 (X1X2Y+18 extra Xs).[51] 	[51]
+Pill millipede
+(Arthrosphaera magna attems) 	30 	Pillmillipede talakaveri.jpg 			[52]
+Giraffe
+(Giraffa camelopardalis) 	30 	Giraffen.jpg 	Karyotype of giraffe (Giraffa camelopardalis).png 		[53]
+American mink
+(Neovison vison) 	30 	American mink geograph.co.uk 2083077.jpg 			
+Pistachio
+(Pistacia vera) 	30 	ARS pistachio.jpg 	Karyotype of Pistachio (Pistacia vera).png 		[54]
+Japanese oak silkmoth (Antheraea yamamai) 	31 	
+Antheraea yamamai male sjh.jpg
+Antheraea yamamai karyotype.jpg
+	[55]
+Yeast
+(Saccharomyces cerivisiae) 	32 	S cerevisiae under DIC microscopy.jpg 			
+European honey bee
+(Apis mellifera) 	32/16 	BeeCropped.jpg 	Karyotype of Honey bee (Apis mellifera).png 	32 for females (2n = 32), males are haploid and thus have 16 (1n =16).[56] 	[56]
+American badger
+(Taxidea taxus) 	32 	AmericanBadger.JPG 			
+Alfalfa
+(Medicago sativa) 	32 	Graines de luzerne bio germées - 001.JPG 	Karyotype of tetraploid Alfalfa (Medicago sativa ssp falcata).png 	Cultivated alfalfa is tetraploid, with 2n=4x=32. Wild relatives have 2n=16.[21]:165 	[21]
+Red fox
+(Vulpes vulpes) 	34 	Vulpes vulpes 2.jpg 		Plus 3-5 microsomes. 	[57]
+Sunflower
+(Helianthus annuus) 	34 	Lule Dielli.JPG 	Karyotype of sunflower (Helianthus annuus).png 		[58]
+Porcupine
+(Erethizon dorsatum) 	34 	Porcupine-BioDome.jpg 			[59]
+Globe artichoke
+(Cynara cardunculus var. scolymus) 	34 	Artichoke J1.jpg 	Karyotype of globe artichoke.png 		[60]
+Yellow mongoose
+(Cynictis penicillata) 	36 	Yellow mongoose 1.jpg 			
+Tibetan sand fox
+(Vulpes ferrilata) 	36 	Tibet Fox.jpg 			
+Starfish
+(Asteroidea) 	36 	Nerr0878.jpg 			
+Red panda
+(Ailurus fulgens) 	36 	Ailurus fulgens RoterPanda LesserPanda.jpg 			
+Meerkat
+(Suricata suricatta) 	36 	Meerkat feb 09.jpg 			
+Cassava
+(Manihot esculenta) 	36 	Manihot esculenta 001.jpg 	Karyotype of Cassava (Manihot esculenta).png 		[61]
+Long-nosed cusimanse
+(Crossarchus obscurus) 	36 	Crossarchus obscurus Plzen zoo 02.2011.jpg 			
+Earthworm
+(Lumbricus terrestris) 	36 	Regenwurm1.jpg 			
+African clawed frog
+(Xenopus laevis) 	36 	Xenopus laevis 1.jpg 	Karyotype of African clawed frog (Xenopus laevis).png 		[34]
+Waterwheel plant
+(Aldrovanda vesiculosa) 	38 	Aldrovanda vesiculosa.jpg 			[35]
+Tiger
+(Panthera tigris) 	38 	Tigress at Jim Corbett National Park.jpg 	Karyotype of Siberian tiger.png 		
+Sea otter
+(Enhydra lutris) 	38 	Sea otter.jpg 			
+Sable
+(Martes zibellina) 	38 	Sable - 2.png 			
+Raccoon
+(Procyon lotor) 	38 	Procyon lotor (raccoon).jpg 			[62]
+Pine marten
+(Martes martes) 	38 	Baummarder 01.jpg 			
+Pig
+(Sus) 	38 	Sus Barbatus, the Bornean Bearded Pig (12616351323).jpg 	Karyotype of normal male pig.png 		
+Oriental small-clawed otter
+(Aonyx cinerea) 	38 	Otter - melbourne zoo.jpg 			
+Lion
+(Panthera leo) 	38 	Lion Ngorongoro Crater.jpg 			
+Fisher
+(Pekania pennanti) 	38 	Martes martes crop.jpg 		a type of marten 	
+European mink
+(Mustela lutreola) 	38 	Europäischer Nerz.jpg 			
+Coatimundi 	38 	Coati.jpg 			
+Cat
+(Felis silvestris catus) 	38 	Kittyply edit1.jpg 	Karyotype of domestic cat (Felis catus).png 		
+Beech marten
+(Martes foina) 	38 	Steinmarder 01.jpg 			
+Baja California ratsnake
+(Bogertophis rosaliae) 	38 	Bogertophis subocularis.jpg 			[63]
+American marten
+(Martes americana) 	38 	Marten with Flowers.jpg 			
+Trans-Pecos ratsnake
+(Bogertophis subocularis) 	40 	Trans-Pecos Rat Snake.jpg 			[64]
+Mouse
+(Mus musculus) 	40 	Мышь 2.jpg 	Karyotype of normal male mouse.png 		[65]
+Mango
+(Mangifera indica) 	40 	Mangga indramayu 071007-0327 rwg.jpg 			[21]
+Hyena
+(Hyaenidae) 	40 	Spotted Hyena and young in Ngorogoro crater.jpg 			
+Ferret
+(Mustela putorius furo) 	40 	Furets albinos champagne et zibeline sable.jpg 			
+European polecat
+(Mustela putorius) 	40 	Ilder.jpg 			
+American beaver
+(Castor canadensis) 	40 	Castor canadensis.jpg 			
+Peanut
+(Arachis hypogaea) 	40 	Arachis-hypogaea-(peanuts).jpg 	Karyotype of cultivated peanut (Arachis hypogaea).png 	Cultivated peanut is an allotetraploid (2n = 4x = 40). Its closest relatives are the diploid (2n = 2x = 20).[66] 	[66]
+Wolverine
+(Gulo gulo) 	42 	Gulo gulo 01.jpg 			
+Wheat
+(Triticum aestivum) 	42 	Wheat (Triticum aestivum L.) at Alnarp 1.jpg 	Karyotype of wheat (Triticum aestivum).png 	This is a hexaploid with 2n=6x=42. Durum wheat is Triticum turgidum var. durum, and is a tetraploid with 2n=4x=28.[21] 	[21]
+Rhesus monkey
+(Macaca mulatta) 	42 	Macaca mulatta in Guiyang.jpg 	Karyotype of normal male rhesus macaque (Macaca mulatta).png 		[67]
+Rat
+(Rattus norvegicus) 	42 	Rattus norvegicus 1.jpg 	Karyogram of normal rat.png 		[68]
+Oats
+(Avena sativa) 	42 	Avena sativa 002.JPG 	Karyotype of hexaploid common wild oat (Avena fatua).png 	This is a hexaploid with 2n=6x=42. Diploid and tetraploid cultivated species also exist.[21] 	[21]
+Giant panda
+(Ailuropoda melanoleuca) 	42 	Giant Panda 2004-03-2.jpg 			
+Fossa
+(Cryptoprocta ferox) 	42 	Cryptoprocta ferox.jpg 			
+European rabbit
+(Oryctolagus cuniculus) 	44 	Oryctolagus cuniculus Tasmania 2.jpg 	Karyotype of Rabbit (Oryctolagus cuniculus).png 		
+Eurasian badger
+(Meles meles) 	44 	Badger-badger.jpg 			
+Moon jellyfish
+(Aurelia aurita) 	44 	Moon jellyfish at Gota Sagher.JPG 			[69]
+Dolphin
+(Delphinidae) 	44 	Kentriodon BW.jpg 			
+Arabian coffee
+(Coffea arabica) 	44 	Coffee arabica 12.10.2011 14-01-6.jpg 	Karyotype of Coffea arabica.png 	Out of the 103 species in the genus Coffea, arabica coffee is the only tetraploid species (2n = 4x = 44), the remaining species being diploid with 2n = 2x = 22.[70] 	
+Reeves's muntjac
+(Muntiacus reevesi) 	46 	Formosan Reeve's muntjac.jpg 			
+Human
+(Homo sapiens) 	46 	Akha cropped hires.JPG 	Human male karyotpe high resolution.jpg 	44 autosomal. and 2 allosomic (sex) 	[71]
+Nilgai
+(Boselaphus tragocamelus) 	46 	Nilgais fighting, Lakeshwari, Gwalior district, India.jpg 			[72]
+Parhyale hawaiensis 	46 	Parhyale hawaiensis - adult female.png 	Parhyale hawaiensis - karyotype.png 		[73]
+Water buffalo (river type)
+(Bubalus bubalis) 	48 				
+Tobacco
+(Nicotiana tabacum) 	48 	Patch of Tobacco (Nicotiana tabacum ) in a field in Intercourse, Pennsylvania..jpg 	Karyotype of Tobacco (Nicotiana tabacum).png 	Cultivated species N. tabacum is an amphidiploid (2n=4x=48) evolved through the interspecific hybridization of the ancestors of N. sylvestris (2n=2x=24, maternal donor) and N. tomentosiformis (2n=2x=24, paternal donor) about 200,000 years ago.[74] 	[74]
+Potato
+(Solanum tuberosum) 	48 	Solanum tuberosum 02.jpg 	Karyotype of Potato (Solanum tuberosum).png 	This is for common potato Solanum tuberosum (tetraploid, 2n = 4x = 48). Other cultivated potato species may be diploid (2n = 2x = 24), triploid (2n = 3x = 36), tetraploid (2n = 4x = 48), or pentaploid (2n = 5x = 60).[75] Wild relatives mostly have 2n=24.[21] 	[75]
+Orangutan
+(Pongo) 	48 	Orang Utan, Semenggok Forest Reserve, Sarawak, Borneo, Malaysia.JPG 	Karyotype of Orangutan (Pongo).png 		
+Hare
+(Lepus) 	48 	Polarhase 1 1997-08-04.jpg 			[76][77]
+Gorilla
+(Gorilla) 	48 	Gorillas in Uganda-1, by Fiver Löcker.jpg 			
+Deer mouse
+(Peromyscus maniculatus) 	48 	Peromyscus maniculatus.jpg 			
+Chimpanzee
+(Pan troglodytes) 	48 	Lightmatter chimp.jpg 	Karyotype of chimpanzee (Pan troglodytes).png 		[78]
+Eurasian beaver
+(Castor fiber) 	48 	Beaver pho34.jpg 			
+Zebrafish
+(Danio rerio) 	50 	Zebrafisch.jpg 	Karyotype of zebrafish (Danio rerio).png 		[79]
+Water buffalo (swamp type)
+(Bubalus bubalis) 	50 	Water buffaloes in Wuyishan Wufu 2012.08.24 15-46-30.jpg 	Karyotype of female Nili Ravi buffalo.png 		
+Striped skunk
+(Mephitis mephitis) 	50 	Striped Skunk (Mephitis mephitis) DSC 0030.jpg 			
+Pineapple
+(Ananas comosus) 	50 	Pineapple victoria dsc07770.jpg 			[21]
+Kit fox
+(Vulpes macrotis) 	50 	Vulpes macrotis mutica with pups.jpg 			
+Spectacled bear
+(Tremarctos ornatus) 	52 	Urso-de-óculos no Zoológico de Sorocaba.JPG 			
+Platypus
+(Ornithorhynchus anatinus) 	52 	Platypus BrokenRiver QLD Australia.jpg 	Karyotype of male platypus (Ornithorhynchus anatinus).png 	Ten sex chromosomes. Males have X1Y1X2Y2X3Y3X4Y4X5Y5, females have X1X1X2X2X3X3X4X4X5X5.[80] 	[81]
+Upland cotton
+(Gossypium hirsutum) 	52 	CottonPlant.JPG 	Karyotype of Cotton (Gossypium hirsutum).png 	This is for the cultivated species G. hirsutum (allotetraploid, 2n=4x=52). This species accounts for 90% of the world cotton production. Among 50 species in the genus Gossypium, 45 are diploid (2n = 2x = 26) and 5 are allotetraploid (2n = 4x = 52).[82] 	[82]
+Sheep
+(Ovis orientalis aries) 	54 	Sheep norwegian dala.jpg 	Karyotype of sheep (Ovis aries).png 		
+Hyrax
+(Hyracoidea) 	54 	Procavia-capensis-Frontal.JPG 	Karyotype of rock hyrax (Procavia capensis).png 	Hyraxes were considered to be the closest living relatives of elephants,[83] but sirenians have been found to be more closely related to elephants. 	[84]
+Raccoon dog
+(Nyctereutes procyonoides procyonoides) 	54 	Nyctereutes procyonoides 4 (Piotr Kuczynski).jpg 	Karyotype of Chinese raccoon dog (Nyctereutes procyonoides procyonoides).png 	This number is for Chinese raccoon dog (N. p. procyonoides), 2n=54+B(0–4). On the other hand, Japanese raccoon dog (N. p. viverrinus) with 2n=38+B(0–8). Here, B represents B chromosome and its variation in the number between individuals.[85][86] 	[85]
+Capuchin monkey
+(Cebinae) 	54 	Cebus capucinus, Costa Rica.JPG 			[87]
+Silkworm
+(Bombyx mori) 	56 	Silkworm & cocoon.jpg 	Karyotype of Silkworm (Bombyx mori).png 	This is for the species mulberry silkworm, B. mori (2n=56). Probably more than 99% of the world's commercial silk today come from this species.[88] Other silk producing moths, called non-mulberry silkworms, have various chromosome numbers. (e.g. Samia cynthia with 2n=25–28,[89] Antheraea pernyi with 2n=98.[90]) 	[91]
+Strawberry
+(Fragaria × ananassa) 	56 	Fragaria × ananassa.JPG 	Karyotype of Strawberry (Fragaria virginiana ssp glauca).png 	This number is octoploid, main cultivated species Fragaria × ananassa (2n = 8x = 56). In genus Fragaria, basic chromosome number is seven (x = 7) and multiple levels of ploidy, ranging from diploid (2n = 2x = 14) to decaploid (F. iturupensis, 2n = 10x = 70), are known.[92] 	[92]
+Gaur
+(Bos gaurus) 	56 	Bos gaurus.jpeg 			
+Elephant
+(Elephantidae) 	56 	Elephant near ndutu.jpg 			
+Woolly mammoth
+(Mammuthus primigenius) 	58 	Mamut lanudo cropped.jpg 		extinct; tissue from a frozen carcass 	
+Yak
+(Bos mutus) 	60 	Bos grunniens - Syracuse Zoo.jpg 			
+Goat
+(Capra aegagrus hircus) 	60 	Hausziege 04.jpg 	Karyotype of normal male goat.png 		
+Cow/bull
+(Bos primigenius) 	60 	20100516 Vacas Vilarromarís, Oroso-8-1.jpg 	Karyotype of cattle.PNG 		
+American bison
+(Bison bison) 	60 	American bison k5680-1.jpg 			
+Sable antelope
+(Hippotragus niger) 	60 	Sable antelope (Hippotragus niger) adult male.jpg 			[93]
+Bengal fox
+(Vulpes bengalensis) 	60 	Indianfox.jpg 			
+Gypsy moth
+(Lymantria dispar dispar) 	62 	Lymantria dispar MHNT Fronton Male.jpg 			
+Donkey
+(Equus africanus asinus) 	62 	Donkey in Clovelly, North Devon, England.jpg 			
+Scarlet macaw
+(Ara macao) 	62–64 	Scarlet Macaw (Ara macao) -Panama-8a.jpg 	Karyotype of Scarlet Macaw (Ara macao).png 		[94]
+Mule 	63 	Juancito.jpg 		semi-infertile (odd number of chromosomes – between donkey (62) and horse (64) makes meiosis much more difficult) 	
+Guinea pig
+(Cavia porcellus) 	64 	Two adult Guinea Pigs (Cavia porcellus).jpg 	G-banded karyotype of female guinea pig (Cavia porcellus).png 		
+Spotted skunk
+(Spilogale x) 	64 	Spilogale gracilis.jpg 			
+Horse
+(Equus ferus caballus) 	64 	LaMirage body07.jpg 	Karyotype of male Marajoara Horse (Equus Caballus).png 		
+Fennec fox
+(Vulpes zerda) 	64 	Fennec Foxes.jpg 			[57]
+Echidna
+(Tachyglossidae) 	63/64 	Ameisenigel.jpg 		63 (X1Y1X2Y2X3Y3X4Y4X5, male) and 64 (X1X1X2X2X3X3X4X4X5X5, female)[95] 	
+Chinchilla
+(Chinchilla lanigera) 	64 	Chinchilla lanigera.jpg 			[59]
+Nine-banded armadillo
+(Dasypus novemcinctus) 	64 	Nine-banded Armadillo.jpg 	Karyotype of nine-banded armadillo.png 		[96]
+Gray fox
+(Urocyon cinereoargenteus) 	66 	Urocyon cinereoargenteus.jpg 			[57]
+Red deer
+(Cervus elaphus) 	68 	Zoo-Dortmund-IMG 5549-a.jpg 			
+Elk (wapiti)
+(Cervus canadensis) 	68 	2007-Tule-elk-rut.jpg 			
+Roadside hawk
+(Rupornis magnirostris) 	68 	Buteo magnirostris -Goias -Brazil-8.jpg 	Karyotype of roadside hawk (Rupornis magnirostris).png 		[97]
+White-tailed deer
+(Odocoileus virginianus) 	70 	White-tailed deer (Odocoileus virginianus) grazing - 20050809.jpg 			
+Black nightshade
+(Solanum nigrum) 	72 	Solanum nigra bgiu.jpg 			[98]
+Bat-eared fox
+(Otocyon megalotis) 	72 	Otocyon megalotis (Namibia).jpg 			[57]
+Sun bear
+(Helarctos malayanus) 	74 	Sitting sun bear.jpg 			
+Sloth bear
+(Melursus ursinus) 	74 	Sloth Bear Washington DC.JPG 			
+Polar bear
+(Ursus maritimus) 	74 	Polar Bear - Alaska.jpg 			
+Brown bear
+(Ursus arctos) 	74 	Brown bear (Ursus arctos arctos) running.jpg 			
+Asiatic black bear
+(Ursus thibetanus) 	74 	Kragenbär.jpg 			
+American black bear
+(Ursus americanus) 	74 	Ursus americanus sequoia forest 2003-09-21.jpg 			
+Bush dog
+(Speothos venaticus) 	74 	Speothos venaticus Zoo Praha 2011-5 (cropped).jpg 			
+Maned wolf
+(Chrysocyon brachyurus) 	76 	Chrysocyon.brachyurus.jpg 			
+Gray wolf
+(Canis lupus) 	78 	Canis lupus 265b.jpg 			
+Golden jackal
+(Canis aureus) 	78 	Golden wolf sa02.jpg 			[57]
+Dove
+(Columbidae) 	78 	Rock dove - natures pics.jpg 		Based on African collared dove 	[99]
+Dog
+(Canis lupus familiaris) 	78 	Boddhi the mixed-breed dog.jpg 	Karyotype of Dog (Canis lupus familiaris).png 	Normal dog karyotype is composed of 38 pairs of acrocentric autosomes and two metacentric sex chromosomes.[100][101] 	[102]
+Dingo
+(Canis lupus dingo) 	78 	Canis lupus dingo - cleland wildlife park.JPG 			[57]
+Dhole
+(Cuon alpinus) 	78 	Cuon.alpinus-cut.jpg 			
+Coyote
+(Canis latrans) 	78 	Coyote by Rebecca Richardson.jpg 			[57]
+Chicken
+(Gallus gallus domesticus) 	78 	Female pair.jpg 	Karyotype of chicken (Gallus gallus).png 		
+African wild dog
+(Lycaon pictus) 	78 	Lycaon pictus (Temminck, 1820).jpg 			[57]
+Tropical pitcher plant
+(Nepenthes rafflesiana) 	78 	Pahangraff3.jpg 			[35]
+Turkey
+(Meleagris) 	80 	Wild turkey eastern us.jpg 			[103]
+Sugarcane
+(Saccharum officinarum) 	80 	Cut sugarcane.jpg 	Karyotype of Sugarcane (Saccharum officinarum LA Purple).png 	This is for S. officinarum (octoploid, 2n = 8× = 80).[104] About 70% of the world's sugar comes from this species.[105] Other species in the genus Saccharum, collectively known as sugarcane, have chromosome numbers in the range 2n=40–128.[106] 	[104]
+Pigeon
+(Columbidae) 	80 	Paloma en la Ciudad de México.JPG 			[107]
+Azure-winged magpie
+(Cyanopica cyanus) 	80 	Cyanopica cyanus Yokohama 5.jpg 			[108]
+Great white shark
+(Carcharodon carcharias) 	82 	Carcharodon carcharias.jpg 			[109]
+Woodland hedgehogs
+Erinaceus 	88 	Erinaceus europeaus (DarkAn9el).jpg 			
+Moonworts
+(Botrychium) 	90 	Botrychium-4.jpg 			
+African hedgehogs
+Atelerix 	90 	Igel01.jpg 			
+Grape fern
+(Sceptridium) 	90 	Botrychium multifidum.jpg 			
+Pittier's crab-eating rat
+(Ichthyomys pittieri) 	92 			Previously thought to be the highest number in mammals, tied with Anotomys leander. 	[110]
+Prawn
+(Penaeus semisulcatus) 	86–92 	Penaeus monodon.jpg 			[111]
+Aquatic rat
+(Anotomys leander) 	92 			Previously thought to be the highest number in mammals, tied with Ichthyomys pittieri. 	[110]
+Kamraj (fern)
+(Helminthostachys zeylanica) 	94 	Helminthostachys zeylanica.jpg 			
+Crucian carp
+(Carassius carassius) 	100 	Cyprinus carpio.jpeg 	Karyotype of crucian carp (Carassius carassius).png 		[112]
+Red viscacha rat
+(Tympanoctomys barrerae) 	102 	Tympanoctomys barrerae.jpg 	Metaphase spread of the Viscacha rat (Tympanoctomys barrerae).jpg 	Highest number known in mammals, thought to be a tetraploid[113] or allotetraploid.[114] 	[115]
+Walking catfish
+(Clarias batrachus) 	104 	Clarias batrachus.jpg 	Karyotype of walking catfish (Clarias batrachus).png 		[116]
+American paddlefish
+(Polyodon spathula) 	120 	Paddlefish underwater.jpeg 	Karyotype of North American paddlefish (Polyodon spathula).png 		[117]
+African baobab
+(Adansonia digitata) 	168 		
+
+aka "tree of life". 2n = 4x = 168
+	[118]
+Northern lamprey
+(Petromyzontidae) 	174 	Petromyzon marinus2.jpg 			[119]
+Rattlesnake fern
+(Botrypus virginianus) 	184 	Botrychium virginianum.JPG 			[120]
+Red king crab
+(Paralithodes camtschaticus) 	208 	Paralithodes camtschaticus, 1.jpg 			
+Field horsetail
+(Equisetum arvense) 	216 	Equisetum arvense foliage.jpg 			
+Agrodiaetus butterfly
+(Agrodiaetus shahrami) 	268 			This insect has one of the highest chromosome numbers among all animals. 	[121]
+Black mulberry
+(Morus nigra) 	308 	Morus-nigra.JPG 		Highest ploidy among plants, 22-ploid (2n = 22x = 308)[122] 	[123]
+Atlas blue
+(Polyommatus atlantica) 	448-452 	PolyommatusAtlanticaMMUpUnAC1.jpg 	Karyotype of Atlas blue (Polyommatus atlanticus).png 	2n = circa 448–452. Highest number of chromosomes in the non-polyploid eukaryotic organisms.[124] 	[124]
+Adders-tongue
+(Ophioglossum) 	1260 	Ophioglossum closeup.jpg 		n=120–720 with a high degree of polyploidization[125] Ophioglossum reticulatum n=720 in hexaploid species, 2n=1260 in decaploid species [126] 	
+Ciliated protozoa
+(Tetrahymena thermophila) 	10 (in micronucleus) 	Tetrahymena thermophila.png 		50x = 12,500 (in macronucleus, except minichromosomes)
+10,000x = 10,000 (macronuclear minichromosomes)[127] 	
+Ciliated protozoa
+(Oxytricha trifallax) 	1260[citation needed] 	Oxytricha trifallax.jpg 		Macronuclear "nanochromosomes"; ampliploid. MAC chromosomes × 1900 ploidy level = 2.964 × 107 chromosomes 	[128][129][130]
