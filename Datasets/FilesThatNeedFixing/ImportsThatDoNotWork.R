@@ -11,5 +11,4 @@ mooresLawData <- read.csv("moore.csv") # should import with six columns
 
 chromosomeNumbers <- read.table("ChromosomeNumber.txt", sep = "\t") # should import with six columns
 
-catAndDogePreClean <- read.csv("DoubleSpacedWindowsNewlines.txt", stringsAsFactors = F)
-catAndDoge <- read.csv("CleanedUpGameResults.csv", stringsAsFactors = F)  
+catAndDoge <- read.csv("DoubleSpacedWindowsNewlines.txt", stringsAsFactors = F)
