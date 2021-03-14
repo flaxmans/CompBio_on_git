@@ -24,6 +24,9 @@ If you are curious, you can learn more about why these data are interesting by r
 ### "ChromosomeNumber.txt"
 These data were copied and pasted from [a Wikipedia page listing chromosome numbers][chromosomedata] for many species of organisms.  The data should have 6 columns.  The first two are what I suggest we focus on: "Organism (Scientific name)" and "Chromosome number".
 
+### "DoubleSpacedWindowsNewlines.txt"
+An example file I used in pre-recorded lectures
+
 ## Where might you begin?
 Explore the files with tools in the shell and by opening them in any plain text editor.  Look for reasons that would explain RStudio's behavior (Sam will demo).
 

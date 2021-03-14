@@ -1,0 +1,10 @@
+Round,HighScore,FirstPlace,SecondPlace,ThirdPlace
+
+1,2000,Cat,Doge,Dog
+
+2,2500,Cat,Dog,Doge
+
+3,n/a,Doge,Dog,Cat
+
+4,2250,Doge,Cat,dog
+
