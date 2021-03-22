@@ -13,4 +13,18 @@
 echo "Processor,MOS transistor count,Date of introduction,Designer,MOS process (nm),Area (mm2)" > cleaned_moore.csv
 
 
+cat moore.csv |
+    sed -E 's/\[[0-9]{1,2}\]//g' |          # delete references
+    tr -d ',' |                             # delete commas
+    sed -E 's/ nm//g' |                     # delete nanometer units
+    sed -E 's/ mm.$//g' |                   # delete mm units
+    tr '\t' ',' |                           # make it a csv
+    sed -E 's/cca |~//g' >> cleaned_moore.csv  # remove a couple other extraneous characters
+
+# and redirect into a file as the last step
+
+# note the final sed command uses the vertical bar as a logical OR operator:
+# it searches for "cca " OR "~"
+
+
 
