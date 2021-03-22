@@ -51,6 +51,10 @@ y <- log(mooresLawData$MOS.transistor.count)
 mooreFit <- lm(formula = y ~ x) # basic linear regression
 slope <- mooreFit$coefficients['x']
 doublingTime <- log(2)/slope # see preceding comments for derivation
-cat(paste("\nDoubling time from linear regression is: ", doublingTime, "years \n"))
+cat(paste("\nDoubling time from linear regression is: ", doublingTime, "years \n\n"))
+cat(paste("\nR-squared is :", summary(mooreFit)$r.squared, "\n\n" ))
 
 # Note how close that is to two years!
+
+
+
