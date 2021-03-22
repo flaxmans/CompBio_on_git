@@ -14,6 +14,9 @@ mooresLawData <- read.table("moore.csv",
                             stringsAsFactors = F) # should import with six columns
 
 
+###################################################################################
+## Exercises with cleaned up moore's law data:
+###################################################################################
 mooresLawData <- read.csv("cleaned_moore.csv", stringsAsFactors = F) # that works!
 # make a plot to demonstrate moore's law
 # It says that the number of transistors per dense integrated circuit doubles about once every two years, which would mean exponential growth:
@@ -25,7 +28,7 @@ ggplot( data = mooresLawData, mapping = aes(x = Date.of.introduction, y = MOS.tr
 ggplot( data = mooresLawData, mapping = aes(x = Date.of.introduction, y = log(MOS.transistor.count)) ) +
   geom_point( ) +
   geom_smooth( method = "lm" ) +
-  labs(x = "year", y = "ln(transistor count)")
+  labs(x = "year", y = "ln(transistor count)", title = "Exponential growth appears linear on log scale")
 
 # our model from the last plot:  log(trcount) = slope * year + intercept
 # with model given above, let's solve for doubling time and see if the data support Moore's law
