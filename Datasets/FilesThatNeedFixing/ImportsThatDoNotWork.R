@@ -17,6 +17,7 @@ mooresLawData <- read.table("moore.csv",
 ###################################################################################
 ## Exercises with cleaned up moore's law data:
 ###################################################################################
+system("bash cleanUpMooreData.sh") # needed to make the .csv used in next command
 mooresLawData <- read.csv("cleaned_moore.csv", stringsAsFactors = F) # that works!
 # make a plot to demonstrate moore's law
 # It says that the number of transistors per dense integrated circuit doubles about once every two years, which would mean exponential growth:
