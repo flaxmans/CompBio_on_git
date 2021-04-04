@@ -56,6 +56,7 @@ cat(paste("\nDoubling time from linear regression is: ", doublingTime, "years \n
 cat(paste("\nR-squared is :", summary(mooreFit)$r.squared, "\n\n" ))
 
 # Note how close that is to two years!
-
+# confidence interval on slope expressed in doubling time:
+log(2) / confint(mooreFit, 'x')
 
 
