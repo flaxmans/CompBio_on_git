@@ -20,12 +20,12 @@ mooresLawData <- read.table("moore.csv",
 mooresLawData <- read.csv("cleaned_moore.csv", stringsAsFactors = F) # that works!
 # make a plot to demonstrate moore's law
 # It says that the number of transistors per dense integrated circuit doubles about once every two years, which would mean exponential growth:
-ggplot( data = mooresLawData, mapping = aes(x = Date.of.introduction, y = MOS.transistor.count) ) +
+ggplot( data = mooresLawData, mapping = aes(x = Year, y = TransistorCount) ) +
   geom_point( ) +
   labs(x = "year", y = "transistor count", title = "note exponential growth")
 
 # exponential growth should be linear on a log scale:
-ggplot( data = mooresLawData, mapping = aes(x = Date.of.introduction, y = log(MOS.transistor.count)) ) +
+ggplot( data = mooresLawData, mapping = aes(x = Year, y = log(TransistorCount)) ) +
   geom_point( ) +
   geom_smooth( method = "lm" ) +
   labs(x = "year", y = "ln(transistor count)", title = "Exponential growth appears linear on log scale")
@@ -46,8 +46,8 @@ ggplot( data = mooresLawData, mapping = aes(x = Date.of.introduction, y = log(MO
   # rearranging that by subtracting intercept from both sides and then dividing both sides by slope:
     # year = year + doublingTime - log(2)/slope
     # and thus:  log(2)/slope = doublingTime
-x <- mooresLawData$Date.of.introduction
-y <- log(mooresLawData$MOS.transistor.count)
+x <- mooresLawData$Year
+y <- log(mooresLawData$TransistorCount)
 mooreFit <- lm(formula = y ~ x) # basic linear regression
 slope <- mooreFit$coefficients['x']
 doublingTime <- log(2)/slope # see preceding comments for derivation
