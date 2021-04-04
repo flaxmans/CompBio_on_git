@@ -9,8 +9,8 @@
     #References in square braces messing up R's import, e.g., [11]
 
 
-# create a new file wit the right headers:
-echo "Processor,MOS transistor count,Date of introduction,Designer,MOS process (nm),Area (mm2)" > cleaned_moore.csv
+# create a new file with nice headers:
+echo "Processor,TransistorCount,Year,Designer,MOS process (nm),Area (mm2)" > cleaned_moore.csv
 
 
 cat moore.csv |
