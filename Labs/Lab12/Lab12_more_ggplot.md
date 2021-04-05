@@ -1,44 +1,52 @@
-# Lab 12
+# Lab 12 -- New for 2021
 
-## Choose your own adventure!
+## Adding concepts, models, and reference lines to plots
 
 <hr>
 
 ### Introduction
 
-Lab 11 was a combination of items from many weeks of the course, reviewing some of the old and trying some newer items.  For some questions, the "old" may have come back easily.  For other questions, it may have been a bit of "How did we do that again?"  This is all natural and part of the process for everyone.
+This week in class  we walked into a new dataset, beginning with a script that I emailed to you and that is also available [here on GitHub](https://github.com/flaxmans/CompBio_on_git/blob/main/ExampleScripts/In-Class_33_More_Data_Wrangling.R).
 
-If you finished Lab 11's problems, then please work on the problems below for this week.  If you did NOT finish Lab 11's problems, then you have a choice: continue to [work on Lab 11](https://github.com/flaxmans/CompBio_on_git/blob/master/Labs/Lab11/Lab11_WoodDatabase.md), or do the problems below.  Like last week, I want you to spend 2 hours working on whatever you choose.  If you finish one, then move to the other.
+Starting with the raw data imported by that script, I hope we can write code that will make "doubling time" plots for Cases and Deaths for statewide Colorado Data on COVID-19.  These plots would be very similar to [ones that appeared on the New York Times website](https://github.com/flaxmans/CompBio_on_git/tree/main/Datasets/COVID-19/NYTimes_DoublingTimesDeaths) early on during the pandemic.
 
-If you have questions about Assignment 8, now is a good time to ask Sam as well.  Remember: it is due on Monday!
+ The goal of this lab is to give you time to work toward 
 
-### Lab 12 new problems: Some more `ggplot()` 
+### Lab 12 problems:
 
-Each of the following problems below will require you to be resourceful in terms of finding functions/commands that do what you want to do, and figuring out how to use them.  
+#### Part 1: (Finish) Getting the data into shape
 
-#### Problem 1: A bar plot in `ggplot()`
+We started discussing in class how to perform various operations on the data to create a nice clean data set for plotting purposes.  The tasks for this were detailed as comments in the script linked above.  Here they are for reference:
+```
+# try to figure out ways to do all of the following using functions from the Tidyverse
 
-Write code using `ggplot()` that makes the following plot based upon the [Cusack et al. data](https://github.com/flaxmans/CompBio_on_git/blob/master/Datasets/Cusack_et_al/Cusack_et_al_random_versus_trail_camera_trap_data_Ruaha_2013_14.csv), which you likely already downloaded for lab 09.
+# 1. subset the data so that we only keep the rows where the text in the column (variable) named "Name" is "Colorado"
 
-As you look at this plot, the first thing that may be obvious is that you can't read the species' names, which are shown on the x axis.  All the species' names (all 41 of them) are indeed there on the x-axis, and the y-axis is the total number of observations of each species in the whole dataset.  
+# 2. subset to keep (select) only the columns "Date", "Cases", and "Deaths"
 
-![Problem 1 ggplot](Problem1.png)
+# 3. change the data in the "Date" column to be actual dates rather than a character
+
+# 4. sort the data so that the rows are in order by date from earliest to latest
+
+# 5. subset the data so that we only have dates prior to May 15th, 2020
+```
+If we didn't already do so, work on getting all five of those steps into a single pipeline (in R) that will lead to the creation of a data frame/tibble that might look like this:
+| Date | Cases | Deaths |
+|:------------|:----------:|:----------:|
+| 2020-03-17 | 183 | 2 |
+| 2020-03-18 | 216 | 2 |
+| 2020-03-19 | 277 | 2 |
+| 2020-03-20 | 363 | 4 |
+| ... | ... | ... |
 
 
+#### Part 2:  Make plots in R using the data from Part 1
+Try to create the following two plots (two separate plots):
 
-#### Problem 2: Rotate the axis tick labels.  
+![Cases and deaths from COVID-19 in Colorado, March 15 - May 1, 2020][Lab12_FirstGraphs_2021.jpg]
 
-The species' names in the plot above are shown as what are called "x-axis tick labels".  Add to your code from Problem 1 to make the plot as shown next, with  x-axis tick labels that are readable because they are running 90 degrees to the horizontal:
+#### Part 3: Write a function for adding doubling times
 
-![Problem 2 ggplot](Problem2.png)
-
-#### Problem 3: A different orientation, scaling, and sorting
-
-Suppose you decided that you'd like to flip the axes, sort the species from least to most abundant in the plot, and also transform the count axis to be logarithmic so that you can see the smaller count values more easily.  In other words, figure out how to make the following plot:
-
-![Problem 3 ggplot](Problem3.png)
-
-<hr>
 
 ### Finishing lab: 
 Please push whatever you have done at the end of two hours to GitHub.
