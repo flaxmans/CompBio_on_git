@@ -40,12 +40,40 @@ If we didn't already do so, work on getting all five of those steps into a singl
 | ... | ... | ... |
 
 
+Note that the numbers are cumulative over time (NOT daily new numbers per se).
+
 #### Part 2:  Make plots in R using the data from Part 1
 Try to create the following two plots (two separate plots):
 
-![Cases and deaths from COVID-19 in Colorado, March 15 - May 1, 2020](Lab12_FirstGraphs_2021.jpg)
+![Cases and deaths from COVID-19 in Colorado, March 15 - May 15, 2020](Lab12_FirstGraphs_2021.jpg)
 
 #### Part 3: Write a function for adding doubling times
+
+In Wednesday's pre-recorded lecture, Sam showed a way to create and add one doubling-time reference line for the Moore's law data.  The code for that is linked [here](https://github.com/flaxmans/CompBio_on_git/blob/main/ExampleScripts/Pre-Class34_CodeUsedInPreRecordedLecture.R) for reference.  
+
+Recall that layers of a ggplot object can be added in successive commands.  In other words, if you have a command like this:
+```
+myPlot <- ggplot( data = myDataFrame ) + geom_point( aes(x , y) )
+```
+then you can add more features/layers to it with subsequent commands like:
+```
+myPlot <- myPlot + ...
+```
+
+Now, suppose you made a plot like one of the above and you wanted to add multiple reference lines to it, where each reference line represented a different doubling time.  As an example, suppose you wanted to add reference lines for doubling times of 2 days, 3 days, 5 days, 7 days, and 10 days to the "Cases" plot above.  The function might take a form like this:
+
+```
+addDoublingTimeRefLines <- function( myPlot, doublingTimeVec, someKindOfData, startFrom ) {
+
+}
+```
+where
++ `myPlot` is a ggplot object that would render like the "Cases" plot above,
++ `doublingTimeVec` is a vector, such as `doublingTimeVec <- c(2,3,5,7,10)`,
++ `someKindOfData` is whatever other data you need to provide to your function for it to have what it needs to create the plot, and
++ `startFrom` specifies what counts as day zero OR the initial abundance (referred to as n(0) in the pre-recorded lecture).  For example, in one of the NYTimes plots, the `startFrom` argument might have a value of 10, since the x-axis in that plot is scaled as "days since 10th death". 
+
+You might need some additional arguments as well, depending upon how you code it.  
 
 
 ### Finishing lab: 
