@@ -43,7 +43,7 @@ If we didn't already do so, work on getting all five of those steps into a singl
 #### Part 2:  Make plots in R using the data from Part 1
 Try to create the following two plots (two separate plots):
 
-![Cases and deaths from COVID-19 in Colorado, March 15 - May 1, 2020][Lab12_FirstGraphs_2021.jpg]
+![Cases and deaths from COVID-19 in Colorado, March 15 - May 1, 2020](Lab12_FirstGraphs_2021.jpg)
 
 #### Part 3: Write a function for adding doubling times
 
