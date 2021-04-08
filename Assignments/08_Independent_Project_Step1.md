@@ -64,6 +64,13 @@ This Assignment is part of that 15% .
 
 #### How to make a screen recording? There are SEVERAL ways:
 
++ The easiest way for most people will likely be to use Zoom!  Make a meeting for yourself, share your screen, turn off your camera (or leave it on if you want a small window of yourself talking in the recording), and hit record.  I usually record to my own computer.  That gives me an mp4 file I can edit if I want.
+See also [this help page from Zoom](https://support.zoom.us/hc/en-us/articles/201362473-Local-recording)
+
+<hr>
+
+##### If you can't use Zoom for some reason, here are some additional resources for screen recordings.
+
 + Record your screen with Mac, PC, or PowerPoint: [https://www.digitaltrends.com/computing/how-to-record-your-computer-screen/](https://www.digitaltrends.com/computing/how-to-record-your-computer-screen/)
 + A guide for Mac:  [https://www.laptopmag.com/articles/make-screen-recording-mac](https://www.laptopmag.com/articles/make-screen-recording-mac)
 + A guide for PowerPoint:  [https://support.office.com/en-us/article/record-your-screen-in-powerpoint-0b4c3f65-534c-4cf1-9c59-402b6e9d79d0](https://support.office.com/en-us/article/record-your-screen-in-powerpoint-0b4c3f65-534c-4cf1-9c59-402b6e9d79d0)
