@@ -1,15 +1,15 @@
 # Assignment 09: Independent Project, Step 2: <br> A fully reproducible analysis
 
-### Announced: Wednesday of Week 13
+### Announced: Week 13
 
-### Due: Last day of class, Thursday, April 30th, at 11:59 p.m.
+### Due: Last day of class, 9:00 p.m.
 
 ___
 
 ### The goal of this assignment is to complete the project you outlined in [Assignment 08](https://github.com/flaxmans/CompBio_on_git/blob/master/Assignments/08_Independent_Project_Step1.md) in a fully reproducible way.
 This means that I should be able to clone your repository, run your script(s), and get exactly the same results as you got with no error messages.
 
-Completing Assignment 9 will require pushing a minimum of four files to an "Assignment09" directory in your Github repo for this class:
+Completing Assignment 9 will likely require pushing a minimum of four files to an "Assignment09" directory (or "FinalProject" directory or "IndependentProject" directory) in your GitHub repo for this class:
 
 1. Any data file(s) you used (please let Sam know if you have any concerns about the size of the data or keeping them private),  
 2. A script(s) of all the code you used to filter, parse, analyze, and visualize the data,  
@@ -41,7 +41,7 @@ Suggested format and organization for your markdown document for this assignment
 <br>  
 <br>  
   
-Note: it is OK to copy and paste (and revise) some of what you did in Assignment 08's markdown doc for some of the sections below.
+Note: it is totally fine to copy and paste (and revise) some of what you did in Assignment 08's markdown doc for some of the sections below.
 
 <br>
 <br>
