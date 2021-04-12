@@ -65,6 +65,9 @@ Now, suppose you made a plot like one of the above and you wanted to add multipl
 ```
 addDoublingTimeRefLines <- function( myPlot, doublingTimeVec, someKindOfData, startFrom ) {
 
+    # do some stuff with myPlot to add reference lines
+
+    return( myPlot )
 }
 ```
 where
@@ -73,7 +76,7 @@ where
 + `someKindOfData` is whatever other data you need to provide to your function for it to have what it needs to create the plot, and
 + `startFrom` specifies what counts as day zero OR the initial abundance (referred to as n(0) in the pre-recorded lecture).  For example, in one of the NYTimes plots, the `startFrom` argument might have a value of 10, since the x-axis in that plot is scaled as "days since 10th death". 
 
-You might need some additional arguments as well, depending upon how you code it.  
+You might need some additional arguments as well, depending upon how you code it.  Ideally, this function would be able to add any doubling times you wanted to any plot you sent to the function.
 
 
 ### Finishing lab: 
