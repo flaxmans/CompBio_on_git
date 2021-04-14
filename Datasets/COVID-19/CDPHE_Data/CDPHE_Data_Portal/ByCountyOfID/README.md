@@ -13,10 +13,15 @@ Additional notes at the above web page (as accessed on 3/27/20):
 There is also a "metadata" link from that webpage, which points to:  [https://www.arcgis.com/sharing/rest/content/items/fbae539746324ca69ff34f086286845b/info/metadata/metadata.xml?format=default&output=html][metadatalink].  Please visit [that link][metadatalink] for more information about the data themselves.
 
 ## Notes about files here
-Each day, I visited [website][sourcewebpage] and clicked on the "Download" button to export the "Full Dataset" as a spreadsheet (.csv).  Names of .csv files indicate the dates on which they were obtained.
+The raw data can be obtained from a link at [this page][sourcewebpage].  I obtained the raw data URL by clicking on the "Download" button and then getting the URL from the "Full Dataset > Spreadsheet" button that appeared.  That URL was put into the script I wrote called ["dataportcurl.sh"](https://github.com/flaxmans/CompBio_on_git/blob/main/Datasets/COVID-19/CDPHE_Data/CDPHE_Data_Portal/dataportalcurl.sh) for automation of data collection.  Names of .csv files indicate the dates on which they were obtained.
+
+Note that the URL changes periodically (apparently without warning).  As such, I sometimes miss several days if I don't notice the error message generated.
 
 ## Additional Data Availability
 Data from the Colorado Department of Public Health and Environment are also archived on Google Drive at [https://drive.google.com/drive/folders/11ulhC5FwnRhiKqxDl6_9PnSMOjCWnLPB?usp=sharing](https://drive.google.com/drive/folders/11ulhC5FwnRhiKqxDl6_9PnSMOjCWnLPB?usp=sharing).  That link was found at [https://covid19.colorado.gov/case-data](https://covid19.colorado.gov/case-data).
+
+## No warranty
+The data here are provided with absolutely no warranty with regard to their fitness for any kind of use.
 
 [metadatalink]: https://www.arcgis.com/sharing/rest/content/items/fbae539746324ca69ff34f086286845b/info/metadata/metadata.xml?format=default&output=html
 
