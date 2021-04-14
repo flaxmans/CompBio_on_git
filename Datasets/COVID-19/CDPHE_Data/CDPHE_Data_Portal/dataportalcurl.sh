@@ -88,6 +88,7 @@ do
         echo " "
         echo "     ******"
         echo " "
+	# insert some code here for error checking, like grep -i "error" $newOne
         mv $newOne ${subdirs[$i]}/
 	git add ${subdirs[$i]}/${names[$i]}${mydate}.csv
 	(( newFileCount++ ))

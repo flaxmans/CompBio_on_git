@@ -14,11 +14,11 @@ dataFiles=$(ls | grep "202[01]-[0-9][0-9]-[0-9][0-9].csv")
 # look at the headers for consistency:
 for i in $dataFiles
 do
-    fileType=$(file $i | grep "BOM")  # check for UNICODE file type
-    if test "$fileType"
-    then
-        dos2unix $i  # convert to ascii from unicode if needed
-    fi
+#    fileType=$(file $i | grep "BOM")  # check for UNICODE file type
+#    if test "$fileType"
+#    then
+#        dos2unix $i  # convert to ascii from unicode if needed
+#    fi
     
     head -n 1 $i >> allHeadersOnly.csv # harvest only header to check heterogeneity of headers
     
