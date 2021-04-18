@@ -1,5 +1,7 @@
 # Some exercises to learn about joining and merging
 rm(list = ls())
+
+# change the next line to work for your computer:
 setwd("~/compbio/CompBio_on_git/Datasets/JoiningMultipleData/")
 
 # Load in some fake data on some imaginary field sites and experiments
@@ -37,22 +39,26 @@ require("dplyr")
 # the four most common types of "joins"
 # taken one at a time, what do we learn from each?
 # note we are not even telling  dplyr's functions what to join "by"
-inner_join( Sites1, Sites3 )
-inner_join( Sites3, Sites1 )
+inner_join( x = Sites1, y = Sites3 ) # inner_join is also sometimes called "natural join"
+inner_join( Sites3, Sites1 ) # occassionally inner_join is called "join"
 
-right_join( Sites1, Sites3 )
-right_join( Sites3, Sites1 )
+right_join( x = Sites1, y = Sites3 ) # also sometimes called "right outer join"
+right_join( x = Sites3, y = Sites1 )
 
-left_join( Sites1, Sites3 )
-left_join( Sites3, Sites1 )
+left_join( x = Sites1, y = Sites3 ) # also sometimes called "left outer join"
+left_join( x = Sites3, y = Sites1 )
 
-full_join( Sites1, Sites3 )
-full_join( Sites3, Sites1 )
+full_join( x = Sites1, y = Sites3 ) # full_join is also sometimes known as "outer join" or "full outer join"
+full_join( x = Sites3, y = Sites1 )
 
 ###############################################################################
 ## For this data set, what makes the most sense in terms of joining all three?
 
-## let's make a data set called "allSites"
+## let's make a data frame called "allSites"
+
+
+
+
 
 
 
