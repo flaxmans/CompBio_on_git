@@ -25,23 +25,7 @@ headersOnly <- read.table("allHeadersOnly.csv",
 unique(headersOnly)
 table(headersOnly) # check that it is the same as the return from the system call above
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#################################################################################################
-
-# parse to figure out columns in common
+# here's one way to parse to figure out columns in common
 headsInCommon <- unlist(str_split(headersOnly[1,], pattern = ","))
 allHeads <- headsInCommon
 numRows <- nrow(headersOnly)
@@ -66,33 +50,21 @@ length(allHeads) == length( c(excluded, headsInCommon) )
 setdiff( allHeads, c(excluded,headsInCommon))
 setdiff( c(excluded,headsInCommon), allHeads )
 
+nHeadCols <- length(allHeads) # useful count for later code
 
-#########################################################################################
+###########################################################################
+## Now to actually aggregating the data
+###########################################################################
 
+## Let's look at two ways to aggregate the data
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-#############################################################################################
-
-# raw data in files:
+## For either method, let's get the names of the raw data files:
 dataFileNames <- system('ls | grep "202[01]-[0-9][0-9]-[0-9][0-9].csv"', intern = T)
-numLinesTotal <- as.integer(system("wc $(ls | grep '202[01]-[0-9][0-9]-[0-9][0-9].csv') | tail -n 1 | awk '{print $1}'", intern = T))
-nHeadCols <- length(allHeads)
 
+## AGGREGATION METHOD 1:  Suppose NO joining functions.  Note this method includes some validation steps
 system.time({
-  
   # pre-allocate a common data frame for import and storage:
+  numLinesTotal <- as.integer(system("wc $(ls | grep '202[01]-[0-9][0-9]-[0-9][0-9].csv') | tail -n 1 | awk '{print $1}'", intern = T))
   aggregatedData <- as.data.frame( 
     matrix( 
       ncol = nHeadCols, 
@@ -141,19 +113,23 @@ system.time({
   print(dim(aggregatedData))
 })
 
-
-# let's try the same thing with full_join
+## AGGREGATION METHOD 2.
+# let's try the same thing we did above but with full_join()
 system.time({
+  # start with one data frame prior to looping:
   aggData2 <- read.csv(dataFileNames[1], stringsAsFactors = F)
-  aggData2$sourceFile <- dataFileNames[1]
+  aggData2$sourceFile <- dataFileNames[1]  # this adds one column: recording source file name
+  # loop the joining operation over all remaining files:
   for ( fileName in dataFileNames[2:length(dataFileNames)]) {
     newData <- read.csv( fileName, stringsAsFactors = F )
     newData$sourceFile <- fileName
     aggData2 <- full_join(aggData2, newData, by = intersect(names(aggData2), names(newData)) )
+    # specifying the "by" argument in the previous line suppresses a lot of printed messages
   }
-  
 })
 
+
+## Now compare the results of the two methods:
 
 # let's see if we can test for equivalence:
 dim(aggregatedData) == dim(aggData2)
@@ -164,7 +140,7 @@ dim(inner_join(aggData2, aggregatedData)) == dim(aggData2)
 dim(semi_join(aggData2, aggregatedData)) == dim(aggData2)
 dim(semi_join(aggregatedData, aggData2)) == dim(aggData2)
 
-# 2: check for exact equivalence
+# 2: check for exact equivalence.  This requires sorting the same way and removing NAs
 aggData2sort <- aggData2[ , names(aggregatedData) ] # reorder columns to match order
 # replace NAs with zeros for equivalence testing:
 ad1NoNA <- aggregatedData
@@ -174,6 +150,7 @@ ad1NoNA[ is.na(ad1NoNA) ] <- 0
 
 all(ad1NoNA == ad2NoNA)
 
+## Are there any duplicates in the data?
 # Duplicates may arise if my data collection algorithm sometimes 
 # copied the same data to multiple files.
 # remove duplicate rows:   
@@ -181,6 +158,9 @@ dups <- duplicated(aggregatedData[ , 1:nHeadCols ])
 aggregatedData <- aggregatedData[ !dups, ]
 dim(aggregatedData)
 
+
+#####################################################################################
+## Making dates usable:
 # parse dates as given in file
 aggregatedData$datesParsed <- aggregatedData$Date_Data_Last_Updated %>%
   str_extract( pattern = "\\b[A-Za-z]+ [0-9]{1,2}, 202[01]" ) %>%   # regular expression month day, year
