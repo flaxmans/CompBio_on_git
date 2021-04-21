@@ -77,7 +77,7 @@ full_join( x = Sites1, y = Sites3 )
 
 
 ##################################################################################
-## What about some different columns
+## What about some different columns representing a different purpose?
 
 ExperimentalData <- read.csv("ExperimentalData.csv")
 allSites
