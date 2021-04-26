@@ -200,16 +200,26 @@ p
 # 3. 64 counties is a lot to look at all at once.  
 # Suppose we wanted to look at subsets by population size.  
 # 3a. From the aggregatedData, how could you 
-# create a data frame of just COUNTY and County_Population, sorted by population?
-# For clarity that data frame should only have ONE row for each county.  Note also
+# create a data frame of just the columns COUNTY and County_Population, 
+# sorted by population size?
+# For clarity, that data frame should only have ONE row for each county, and note 
 # that County_Population is included in the data for nearly every day.
 # 3b. Time permitting: What are the 8 counties with the largest population sizes?
 # What are the 8 counties with the smallest population sizes?  Create two data frames 
-# that have the corresponding subsets of data.
+# that have the corresponding subsets of data for those sets of counties.  For
+# clarity the subsets should subsets of the entire aggregatedData data frame.
 
 
 # 4.  Find the day on which each COUNTY had its greatest number of new cases, 
-# as given by the variable County_Pos_Cases_Change
+# as given by the variable County_Pos_Cases_Change.  The results should be 
+# stored in a data frame that has three columns: COUNTY, MaxCasesInOneDay, 
+# and DateOnWhichMaxCasesHappened .  The latter two are things you 
+# have to somehow derive from the data.
+
+
+# 5.  What function could we use to join the data frame from 3a with the 
+# data frame from 4?
+
 
 
 
