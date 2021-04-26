@@ -22,7 +22,7 @@ runningWindows <- F
 if ( Sys.info()['sysname'] == "Windows" ) {
   # WINDOWS USERS: Go to GitBash Terminal and run: bash ScriptToCheckAndClean.sh
   cat("\n\n\tWINDOWS USERS: \n\tGo to your GitBash Terminal and run: \n\n\tbash ScriptToCheckAndClean.sh\n\n")
-  anyString <- readline(prompt = "Press enter to continue ... ")
+  anyString <- readline(prompt = "Press enter in your Console window to continue ... ")
   runningWindows <- T
 } else {
   system("bash ScriptToCheckAndClean.sh", intern = T)
