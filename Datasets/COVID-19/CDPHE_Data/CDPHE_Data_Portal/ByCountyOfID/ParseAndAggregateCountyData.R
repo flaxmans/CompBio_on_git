@@ -17,7 +17,16 @@ require("tidyr")
 setwd("~/compbio/CompBio_on_git/Datasets/COVID-19/CDPHE_Data/CDPHE_Data_Portal/ByCountyOfID/")
 
 # A bash script gets all the headers into a single file for inspection
-system("bash ScriptToCheckAndClean.sh", intern = T)
+
+runningWindows <- F
+if ( Sys.info()['sysname'] == "Windows" ) {
+  # WINDOWS USERS: Go to GitBash Terminal and run: bash ScriptToCheckAndClean.sh
+  cat("\n\n\tWINDOWS USERS: \n\tGo to your GitBash Terminal and run: \n\n\tbash ScriptToCheckAndClean.sh\n\n")
+  anyString <- readline(prompt = "Press enter to continue ... ")
+  runningWindows <- T
+} else {
+  system("bash ScriptToCheckAndClean.sh", intern = T)
+}
 headersOnly <- read.table("allHeadersOnly.csv",
                         header = F,
                         stringsAsFactors = F)
@@ -60,12 +69,18 @@ nHeadCols <- length(allHeads) # useful count for later code
 ## Let's look at two ways to aggregate the data
 
 ## For either method, let's get the names of the raw data files:
-dataFileNames <- system('ls | grep "202[01]-[0-9][0-9]-[0-9][0-9].csv"', intern = T)
+dataFileNames <- list.files( pattern = "202[01]-[0-9][0-9]-[0-9][0-9].csv")
 
 ## AGGREGATION METHOD 1:  Suppose NO joining functions.  Note this method includes some validation steps
 system.time({
   # pre-allocate a common data frame for import and storage:
-  numLinesTotal <- as.integer(system("wc $(ls | grep '202[01]-[0-9][0-9]-[0-9][0-9].csv') | tail -n 1 | awk '{print $1}'", intern = T))
+  if ( runningWindows ) {
+    linesPerFile <- nrow(read.csv( dataFileNames[length(dataFileNames)] )) + 1
+    numLinesTotal <- length(dataFileNames) * linesPerFile # this count is not going to work
+    # but at least it won't throw an error on Windows systems
+  } else {
+    numLinesTotal <- as.integer(system("wc $(ls | grep '202[01]-[0-9][0-9]-[0-9][0-9].csv') | tail -n 1 | awk '{print $1}'", intern = T))
+  }
   aggregatedData <- as.data.frame( 
     matrix( 
       ncol = nHeadCols, 
@@ -83,9 +98,14 @@ system.time({
   
   for ( fileName in dataFileNames ) {
     oneFileOfData <- read.csv( fileName, stringsAsFactors = F )
-    syscmd <- paste("wc -l", fileName, "| awk '{print $1}'")
-    lineCount <- as.integer(system( syscmd, intern = T))
     nrhere <- nrow(oneFileOfData)
+    if ( runningWindows ) {
+      lineCount <- nrhere # doesn't produce an accurate count on Windows
+      # this clause simply prevents errors
+    } else {
+      syscmd <- paste("wc -l", fileName, "| awk '{print $1}'")
+      lineCount <- as.integer(system( syscmd, intern = T))
+    }      
     if ( nrhere == lineCount ) {
       # would mean no new line at end of file because header row should subtract one
       noNewLineAtEndOfFile <- noNewLineAtEndOfFile + 1 
@@ -102,10 +122,12 @@ system.time({
   }
   
   # validation steps on row/line counts:
-  nHeadRowsExpected <- length(dataFileNames) # one line from each raw data file is a header
-  nRowsLeft <- numLinesTotal - lastRow # how many rows unused in pre-allocated data frame
-  nRowsLeft == nHeadRowsExpected - noNewLineAtEndOfFile # 
-  linesAsExpected + noNewLineAtEndOfFile == length(dataFileNames)
+  if ( !runningWindows ) {
+    nHeadRowsExpected <- length(dataFileNames) # one line from each raw data file is a header
+    nRowsLeft <- numLinesTotal - lastRow # how many rows unused in pre-allocated data frame
+    nRowsLeft == nHeadRowsExpected - noNewLineAtEndOfFile # 
+    linesAsExpected + noNewLineAtEndOfFile == length(dataFileNames)
+  }
   
   # remove unused rows:
   all(is.na(aggregatedData[firstRow:numLinesTotal, ])) # this is a check on what we expect
