@@ -8,6 +8,7 @@ require("stringr")
 require("dplyr")
 require("lubridate")
 require("ggplot2")
+require("tidyr")
 
 ##########################################
 ## Get the data
@@ -166,7 +167,51 @@ aggregatedData$datesParsed <- aggregatedData$Date_Data_Last_Updated %>%
   str_extract( pattern = "\\b[A-Za-z]+ [0-9]{1,2}, 202[01]" ) %>%   # regular expression month day, year
   parse_date_time( orders = "b! d, Y", tz = "")     # order format is MonthName day, 4-digit-year
 
+
+###############################################################################
+## Some initial visualization
+# Here's a plot that demonstrates what ggplot can do pretty readily, though 
+# it's too much to be very useful
 p <- ggplot( data = aggregatedData ) +
-  geom_point( mapping = aes( x = datesParsed, y = County_Deaths, color = log10(County_Population)) )
+  geom_point( mapping = aes( x = datesParsed, y = County_Rate_Per_100_000, color = log10(County_Population)) )
 p
-p + facet_wrap( ~COUNTY )
+
+#p + facet_wrap( ~COUNTY )
+
+
+
+#####################################################
+## Next up:  cleaning & filtering
+
+# 1. Sam had a lapse in collecting data: there are a number of missing dates, and one 
+# especially large gap.
+# 1a. filter/subset the data to only include data from on/after 8/26/20
+# 1b. Time permitting: How, with code, could you pinpoint the missing dates to discover that 
+# 8/26 was the first date after the big gap?  write some pseudocode and, if you have time,
+# some ideas for actual code
+
+
+# 2. There are 64 actual counties in Colorado, but 
+# in the COUNTY column, there are three designations that appear
+# in the data frame that are not names of real Colorado counties.  What are they? 
+# How would you filter/subset the data to exclude the rows that have those designations?
+
+
+# 3. 64 counties is a lot to look at all at once.  
+# Suppose we wanted to look at subsets by population size.  
+# 3a. From the aggregatedData, how could you 
+# create a data frame of just COUNTY and County_Population, sorted by population?
+# For clarity that data frame should only have ONE row for each county.  Note also
+# that County_Population is included in the data for nearly every day.
+# 3b. Time permitting: What are the 8 counties with the largest population sizes?
+# What are the 8 counties with the smallest population sizes?  Create two data frames 
+# that have the corresponding subsets of data.
+
+
+# 4.  Find the day on which each COUNTY had its greatest number of new cases, 
+# as given by the variable County_Pos_Cases_Change
+
+
+
+
+
