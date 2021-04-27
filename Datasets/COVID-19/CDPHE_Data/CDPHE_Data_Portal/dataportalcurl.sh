@@ -23,7 +23,7 @@ vaccineURL="https://opendata.arcgis.com/datasets/fa9730c29ee24c7b8b52361ae3e5ca5
 
 stateLevExpCaseDataURL="https://opendata.arcgis.com/datasets/a0f52ab12eb4466bb6a76cc175923e62_0.csv"
 
-wastewaterDashboardURL="https://opendata.arcgis.com/datasets/daeb2297e10c4b9f92437d06dfb72b81_0.csv"
+wastewaterDashboardURL="https://opendata.arcgis.com/datasets/c6566d454edb47c680afe839a0b4fc26_0.csv"
 
 cdcURL="https://data.cdc.gov/api/views/r8kw-7aab/rows.csv?accessType=DOWNLOAD"
 
