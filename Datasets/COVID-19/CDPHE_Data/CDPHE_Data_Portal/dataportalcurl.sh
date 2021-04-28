@@ -78,6 +78,7 @@ for (( i=0; i<$arrayLength; i++ ))
 do
     newOne="tmp/${names[$i]}${mydate}.csv"
     recentOne=$(ls -t ${subdirs[$i]}/*.csv | head -n 1)
+    dos2unix $newOne
     nDiffs=$(diff $newOne $recentOne | wc | awk '{print $1}')
     if (( $nDiffs > 0 ))
     then
@@ -90,7 +91,7 @@ do
         echo " "
 	# insert some code here for error checking, like grep -i "error" $newOne
         mv $newOne ${subdirs[$i]}/
-	dos2unix ${subdirs[$i]}/${names[$i]}${mydate}.csv
+	# dos2unix ${subdirs[$i]}/${names[$i]}${mydate}.csv
 	git add ${subdirs[$i]}/${names[$i]}${mydate}.csv
 	(( newFileCount++ ))
     fi
