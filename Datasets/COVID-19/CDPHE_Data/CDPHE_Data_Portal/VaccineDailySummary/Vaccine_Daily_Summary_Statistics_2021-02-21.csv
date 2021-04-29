@@ -1,4 +1,4 @@
-﻿section,category,metric,type,date,value,publish_date,ObjectId
+section,category,metric,type,date,value,publish_date,ObjectId
 Vaccine Administration,Distribution,Weekly,Pfizer,12/06/2020,46800,02/18/2021,1
 Vaccine Administration,Distribution,Weekly,Moderna,12/06/2020,0,02/18/2021,2
 Vaccine Administration,Distribution,Weekly,All COVID Vaccines,12/06/2020,46800,02/18/2021,3

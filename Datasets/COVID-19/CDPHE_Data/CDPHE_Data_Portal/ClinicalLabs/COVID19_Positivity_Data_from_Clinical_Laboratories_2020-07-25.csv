@@ -1,4 +1,4 @@
-﻿Name,Pop,Desc_,Attr_Date,Metric,Value,Rep_Date,ObjectId
+Name,Pop,Desc_,Attr_Date,Metric,Value,Rep_Date,ObjectId
 Colorado,5694287,Positivity Data from Clinical Laboratories,03/10/2020,Count of people tested by CDPHE lab,68,07/24/2020,1
 Colorado,5694287,Positivity Data from Clinical Laboratories,03/10/2020,Count of people tested by non-CDPHE (commercial) lab,2,07/24/2020,2
 Colorado,5694287,Positivity Data from Clinical Laboratories,03/10/2020,Percent Positivity,8.6,07/24/2020,3

@@ -1,4 +1,4 @@
-﻿COUNTY,LABEL,FULL_,FIPS,POP,Desc_,Metric,Value,Rate,Date,ObjectId
+COUNTY,LABEL,FULL_,FIPS,POP,Desc_,Metric,Value,Rate,Date,ObjectId
 LOGAN,Logan,Logan County,75,21854,Colorado Case Counts by County,Cases,2,,03/23/2020,1
 MESA,Mesa,Mesa County,77,153630,Colorado Case Counts by County,Cases,2,,03/23/2020,2
 MONTROSE,Montrose,Montrose County,85,42260,Colorado Case Counts by County,Cases,1,,03/23/2020,3

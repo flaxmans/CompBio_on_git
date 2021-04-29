@@ -1,4 +1,4 @@
-﻿section,category,metric,type,date,value,publish_date,ObjectId
+section,category,metric,type,date,value,publish_date,ObjectId
 Vaccine Administration,Administration,Cumulative Daily,All COVID Vaccines,12/14/2020,192,01/09/2021,1
 Vaccine Administration,Administration,Cumulative Daily,Pfizer,12/14/2020,192,01/09/2021,2
 Vaccine Administration,Administration,Cumulative Daily,Unspecified COVID Vaccine,12/14/2020,0,01/09/2021,3

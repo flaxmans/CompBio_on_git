@@ -1,4 +1,4 @@
-﻿COUNTY,LABEL,FULL_,FIPS,POP,Desc_,Metric,Value,Rate,Date,ObjectId
+COUNTY,LABEL,FULL_,FIPS,POP,Desc_,Metric,Value,Rate,Date,ObjectId
 GUNNISON,Gunnison,Gunnison County,51,17173,Colorado Case Counts by County,Cases,22,,03/22/2020,1
 LARIMER,Larimer,Larimer County,69,350362,Colorado Case Counts by County,Cases,43,,03/24/2020,2
 JEFFERSON,Jefferson,Jefferson County,59,579491,"Case Rates Per 100,000 People in Colorado by County","Rate Per 100,000",,7.4,03/21/2020,3

@@ -1,4 +1,4 @@
-﻿Name,Population,Desc_,attribute,attr_date,metric,value,rep_date,ObjectId
+Name,Population,Desc_,attribute,attr_date,metric,value,rep_date,ObjectId
 Colorado,5694287,"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","80+, Deaths",,Cases,22,3/29/2020,1
 Colorado,5694287,COVID-19 in Colorado by Age Group,10-19,,Percent of Cases,2.48,3/27/2020,2
 Colorado,5694287,"Cases of COVID-19 Reported in Colorado by Age Group, Hospitalization, and Outcome","80+, Hospitalized",,Cases,39,3/29/2020,3

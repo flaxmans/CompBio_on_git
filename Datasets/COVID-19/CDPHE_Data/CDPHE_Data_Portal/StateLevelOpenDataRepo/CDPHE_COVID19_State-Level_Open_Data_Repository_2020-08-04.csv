@@ -1,4 +1,4 @@
-﻿Name,Population,Desc_,attribute,attr_date,metric,value,rep_date,ObjectId
+Name,Population,Desc_,attribute,attr_date,metric,value,rep_date,ObjectId
 Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,02/01/2020,Cases,4,08/03/2020,1
 Colorado,5694287,Cumulative Number of Cases of COVID-19 in Colorado by Date of Illness Onset,,02/01/2020,Cases,4,08/03/2020,2
 Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,02/02/2020,Cases,5,08/03/2020,3

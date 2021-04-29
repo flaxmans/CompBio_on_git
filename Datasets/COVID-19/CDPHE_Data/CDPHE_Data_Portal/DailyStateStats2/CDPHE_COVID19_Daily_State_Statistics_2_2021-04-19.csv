@@ -1,4 +1,4 @@
-﻿Name,Desc_,Date,Cases,Tested,Test_Encounters,Deaths,DthCOVID19,Population,Rate,Hosp,Counties,Outbreaks,ObjectId
+Name,Desc_,Date,Cases,Tested,Test_Encounters,Deaths,DthCOVID19,Population,Rate,Hosp,Counties,Outbreaks,ObjectId
 Colorado,State Data,06/25/2020,31479,299772,,1669,1475,5694287,552.82,5386,61,338,1
 Colorado,State Data,01/11/2021,362825,2247455,4798163,5213,4183,5763976,6294.7,20015,64,3187,2
 Colorado,State Data,06/26/2020,31796,304759,,1673,1482,5694287,558.38,5392,61,349,3

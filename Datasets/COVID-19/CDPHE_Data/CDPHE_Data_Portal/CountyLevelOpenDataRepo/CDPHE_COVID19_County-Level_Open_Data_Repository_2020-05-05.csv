@@ -1,4 +1,4 @@
-﻿OBJECTID,COUNTY,LABEL,FULL_,FIPS,POP,Desc_,Metric,Value,Rate,Date,Shape__Area,Shape__Length
+OBJECTID,COUNTY,LABEL,FULL_,FIPS,POP,Desc_,Metric,Value,Rate,Date,Shape__Area,Shape__Length
 1,SAGUACHE,Saguache,Saguache County,109,6837,Colorado Case Counts by County,Cases,,,3/19/20,0.843148417,4.39184188
 2,SAGUACHE,Saguache,Saguache County,109,6837,"Case Rates Per 100,000 People in Colorado by County",Rate Per 100000,,,3/19/20,0.843148417,4.39184188
 3,SAGUACHE,Saguache,Saguache County,109,6837,Colorado Case Counts by County,Cases,,,3/20/20,0.843148417,4.39184188

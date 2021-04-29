@@ -1,4 +1,4 @@
-﻿OBJECTID,section,category,description,date,metric,value,report_date
+OBJECTID,section,category,description,date,metric,value,report_date
 1,State Data,Colorado COVID-19 Data,Cumulative counts to date,02/03/2021,Cases,400851,02/04/2021
 2,State Data,Colorado COVID-19 Data,Cumulative counts to date,02/03/2021,Hospitalized,22176,02/04/2021
 3,State Data,Colorado COVID-19 Data,Cumulative counts to date,02/03/2021,Counties,64,02/04/2021

@@ -1,4 +1,4 @@
-﻿COUNTY,LABEL,FULL_,FIPS,POP,Desc_,Metric,Value,Rate,Date,ObjectId
+COUNTY,LABEL,FULL_,FIPS,POP,Desc_,Metric,Value,Rate,Date,ObjectId
 ADAMS,Adams,Adams County,1,511473,Total COVID-19 Tests Performed in Colorado by County,Percent of tests by Serology,,12.6,5/19/2020,1
 ADAMS,Adams,Adams County,1,511473,Number of Deaths by County,Deaths,72,,5/5/2020,2
 ADAMS,Adams,Adams County,1,511473,Total COVID-19 Tests Performed in Colorado by County,Total Tests Performed,18183,,5/26/2020,3

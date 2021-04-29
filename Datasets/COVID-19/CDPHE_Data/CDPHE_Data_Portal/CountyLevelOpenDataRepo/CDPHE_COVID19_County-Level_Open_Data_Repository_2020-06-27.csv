@@ -1,4 +1,4 @@
-﻿COUNTY,LABEL,FULL_,FIPS,POP,Desc_,Metric,Value,Rate,Date,ObjectId
+COUNTY,LABEL,FULL_,FIPS,POP,Desc_,Metric,Value,Rate,Date,ObjectId
 SAGUACHE,Saguache,Saguache County,109,6837,Colorado Case Counts by County,Cases,93,,06/06/2020,1
 SAGUACHE,Saguache,Saguache County,109,6837,Colorado Case Counts by County,Cases,1,,03/31/2020,2
 SEDGWICK,Sedgwick,Sedgwick County,115,2275,Total COVID-19 Tests Performed in Colorado by County,Total Tests Performed,39,,05/07/2020,3

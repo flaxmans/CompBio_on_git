@@ -1,4 +1,4 @@
-﻿Name,Pop,Desc_,Attr_Date,Metric,Value,Rep_Date,ObjectId
+Name,Pop,Desc_,Attr_Date,Metric,Value,Rep_Date,ObjectId
 Colorado,5694287,Positivity Data from Clinical Laboratories,03/30/2020,Percent Positivity,20.8,08/01/2020,1
 Colorado,5694287,Positivity Data from Clinical Laboratories,03/30/2020,Three-day Moving Average of Percent Positivity,19.2,08/01/2020,2
 Colorado,5694287,Positivity Data from Clinical Laboratories,03/30/2020,Total Tests per 100k People,24.7,08/01/2020,3

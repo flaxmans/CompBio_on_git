@@ -1,4 +1,4 @@
-﻿COUNTY,LABEL,FULL_,FIPS,POP,Desc_,Metric,Value,Rate,Date,ObjectId
+COUNTY,LABEL,FULL_,FIPS,POP,Desc_,Metric,Value,Rate,Date,ObjectId
 EAGLE,Eagle,Eagle County,37,54863,Colorado Case Counts by County,Cases,39,,3/18/2020,1
 EL PASO,El Paso,El Paso County,41,714395,"Case Rates Per 100,000 People in Colorado by County","Rate Per 100,000",,1.1,3/18/2020,2
 EL PASO,El Paso,El Paso County,41,714395,Colorado Case Counts by County,Cases,8,,3/18/2020,3

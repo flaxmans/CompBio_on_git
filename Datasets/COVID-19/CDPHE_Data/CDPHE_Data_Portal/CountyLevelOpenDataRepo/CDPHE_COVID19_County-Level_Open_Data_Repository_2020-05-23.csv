@@ -1,4 +1,4 @@
-﻿OBJECTID,COUNTY,LABEL,FULL_,FIPS,POP,Desc_,Metric,Value,Rate,Date,Shape__Area,Shape__Length
+OBJECTID,COUNTY,LABEL,FULL_,FIPS,POP,Desc_,Metric,Value,Rate,Date,Shape__Area,Shape__Length
 26,SAGUACHE,Saguache,Saguache County,109,6837,Colorado Case Counts by County,Cases,1,,03/31/2020,0.843148417265411,4.39184188028987
 28,SAGUACHE,Saguache,Saguache County,109,6837,Colorado Case Counts by County,Cases,1,,04/01/2020,0.843148417265411,4.39184188028987
 30,SAGUACHE,Saguache,Saguache County,109,6837,Colorado Case Counts by County,Cases,3,,04/02/2020,0.843148417265411,4.39184188028987

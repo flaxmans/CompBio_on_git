@@ -1,4 +1,4 @@
-﻿section,category,description,date,metric,value,report_date,ObjectId
+section,category,description,date,metric,value,report_date,ObjectId
 Case Summary,Cases,3-Day Average of COVID-19 Cases in Colorado by Date of Illness Onset,02/24/2020,3-Day Moving Average of Cases,5,10/22/2020,1
 Case Summary,Cases,7-Day Average of COVID-19 Cases in Colorado by Date of Illness Onset,02/24/2020,7-Day Moving Average of Cases,3.714,10/22/2020,2
 Case Summary,Cases,Cases of COVID-19 in Colorado by Date of Illness Onset,02/25/2020,Counts,4,10/22/2020,3

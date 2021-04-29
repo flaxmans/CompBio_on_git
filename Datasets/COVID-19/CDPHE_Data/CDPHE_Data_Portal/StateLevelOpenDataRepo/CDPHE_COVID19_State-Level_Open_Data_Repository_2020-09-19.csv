@@ -1,4 +1,4 @@
-﻿section,category,description,date,metric,value,report_date,ObjectId
+section,category,description,date,metric,value,report_date,ObjectId
 Case Summary,Cases,Cases of COVID-19 in Colorado by Week of Illness Onset,01/26/2020,Counts,4,09/19/2020,1
 Demographics,Deaths,Weekly Percent of Deaths by Age Group,03/15/2020,80+,0.364,09/19/2020,2
 Case Summary,Cases,Cumulative COVID-19 Cases in Colorado by Week of Illness Onset,01/26/2020,Cumulative,4,09/19/2020,3

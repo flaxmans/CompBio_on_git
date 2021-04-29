@@ -1,4 +1,4 @@
-﻿section,category,description,date,metric,value,report_date,ObjectId
+section,category,description,date,metric,value,report_date,ObjectId
 Case Summary,Deaths,Deaths Among COVID-19 Cases in Colorado by Date of Death,03/19/2020,Counts,5,09/01/2020,1
 Case Summary,Deaths,Cumulative Deaths Among COVID-19 Cases in Colorado by Date of Death,03/19/2020,Cumulative,18,09/01/2020,2
 Case Summary,Deaths,3-Day Average of Deaths Among COVID-19 Cases in Colorado by Date of Death,03/19/2020,3-Day Moving Average of Deaths,3.333,09/01/2020,3

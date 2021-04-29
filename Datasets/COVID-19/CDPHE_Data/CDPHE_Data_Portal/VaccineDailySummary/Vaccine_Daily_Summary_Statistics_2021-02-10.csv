@@ -1,4 +1,4 @@
-﻿section,category,metric,type,date,value,publish_date,ObjectId
+section,category,metric,type,date,value,publish_date,ObjectId
 State Data,Cumulative counts to date,Cumulative Doses Administered,All COVID Vaccines,,200877,01/09/2021,1
 State Data,Cumulative counts to date,People Immunized with One Dose,,,173042,01/09/2021,2
 State Data,Cumulative counts to date,People Immunized with Two Doses,,,27785,01/09/2021,3

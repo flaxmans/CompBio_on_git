@@ -1,4 +1,4 @@
-﻿OBJECTID,Name,Population,desc_,attribute,attr_date,metric,value,rep_date,Shape__Area,Shape__Length
+OBJECTID,Name,Population,desc_,attribute,attr_date,metric,value,rep_date,Shape__Area,Shape__Length
 1,Colorado,5694287,COVID-19 in Colorado by Age Group,0-9,,Percent of Cases,1.09,3/17/20,28.039425,22.01992042
 2,Colorado,5694287,COVID-19 in Colorado by Age Group,19-Oct,,Percent of Cases,3.83,3/17/20,28.039425,22.01992042
 3,Colorado,5694287,COVID-19 in Colorado by Age Group,20-29,,Percent of Cases,10.93,3/17/20,28.039425,22.01992042

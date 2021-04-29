@@ -1,4 +1,4 @@
-﻿Name,Population,Desc_,attribute,attr_date,metric,value,rep_date,ObjectId
+Name,Population,Desc_,attribute,attr_date,metric,value,rep_date,ObjectId
 Colorado,5694287,Cases of COVID-19 in Colorado by Date of Illness Onset,,03/16/2020,Three-Day Moving Average Of Cases,277.67,06/26/2020,1
 Colorado,5694287,Cumulative Number of Hospitalized Cases of COVID-19 in Colorado by Date of Illness Onset,,03/11/2020,Cases,252,06/26/2020,2
 Colorado,5694287,Number of Deaths From COVID-19 in Colorado by Date of Death - By Day,,03/24/2020,Deaths,7,06/26/2020,3

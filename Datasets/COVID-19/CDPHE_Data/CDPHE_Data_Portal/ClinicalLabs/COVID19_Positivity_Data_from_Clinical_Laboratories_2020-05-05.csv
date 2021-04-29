@@ -1,4 +1,4 @@
-﻿OBJECTID,Name,Pop,Desc_,Attr_Date,Metric,Value,Rep_Date,Shape__Area,Shape__Length
+OBJECTID,Name,Pop,Desc_,Attr_Date,Metric,Value,Rep_Date,Shape__Area,Shape__Length
 1,Colorado,5694287,Daily Serology Data From Clinical Laboratories,4/20/20,Number of positive tests,0,5/5/20,28.039425,22.01992042
 2,Colorado,5694287,Daily Serology Data From Clinical Laboratories,4/20/20,Number of negative tests,1,5/5/20,28.039425,22.01992042
 3,Colorado,5694287,Daily Serology Data From Clinical Laboratories,4/21/20,Number of positive tests,2,5/5/20,28.039425,22.01992042

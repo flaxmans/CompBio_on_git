@@ -1,4 +1,4 @@
-﻿COUNTY,LABEL,FULL_,FIPS,POP,Desc_,Metric,Value,Rate,Date,ObjectId
+COUNTY,LABEL,FULL_,FIPS,POP,Desc_,Metric,Value,Rate,Date,ObjectId
 LARIMER,Larimer,Larimer County,69,350362,Colorado Case Counts by County,Cases,43,,3/24/2020,1
 LOGAN,Logan,Logan County,75,21854,Colorado Case Counts by County,Cases,2,,3/24/2020,2
 MESA,Mesa,Mesa County,77,153630,"Case Rates Per 100,000 People in Colorado by County","Rate Per 100,000",,3.3,3/24/2020,3

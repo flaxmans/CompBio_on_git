@@ -1,4 +1,4 @@
-﻿COUNTY,LABEL,FULL_,FIPS,POP,Desc_,Metric,Value,Rate,Date,ObjectId
+COUNTY,LABEL,FULL_,FIPS,POP,Desc_,Metric,Value,Rate,Date,ObjectId
 JEFFERSON,Jefferson,Jefferson County,59,579491,"Case Rates Per 100,000 People in Colorado by County","Rate Per 100,000",,7.4,03/21/2020,1
 JEFFERSON,Jefferson,Jefferson County,59,579491,Colorado Case Counts by County,Cases,43,,03/21/2020,2
 LARIMER,Larimer,Larimer County,69,350362,"Case Rates Per 100,000 People in Colorado by County","Rate Per 100,000",,5.4,03/21/2020,3

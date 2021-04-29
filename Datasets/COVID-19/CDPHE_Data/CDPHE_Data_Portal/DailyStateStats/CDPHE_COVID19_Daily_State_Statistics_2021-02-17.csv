@@ -1,4 +1,4 @@
-﻿Name,Desc_,Date,Cases,Tested,Test_Encounters,Deaths,DthCOVID19,Population,Rate,Hosp,Counties,Outbreaks,ObjectId
+Name,Desc_,Date,Cases,Tested,Test_Encounters,Deaths,DthCOVID19,Population,Rate,Hosp,Counties,Outbreaks,ObjectId
 Colorado,State Data,11/04/2020,117637,1272494,2109114,2333,2147,5763976,2040.9,9618,64,1337,1
 Colorado,State Data,11/05/2020,121006,1287081,2141933,2353,2158,5763976,2099.35,9714,64,1350,2
 Colorado,State Data,11/06/2020,124469,1303345,2177091,2376,2168,5763976,2159.43,9911,64,1378,3

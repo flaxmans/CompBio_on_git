@@ -1,4 +1,4 @@
-﻿OBJECTID,Name,Pop,Desc_,Attr_Date,Metric,Value,Rep_Date,Shape__Area,Shape__Length
+OBJECTID,Name,Pop,Desc_,Attr_Date,Metric,Value,Rep_Date,Shape__Area,Shape__Length
 1,Colorado,5694287,Positivity Data from Clinical Laboratories,03/10/2020,Count of people tested by CDPHE lab,68,06/06/2020,28.0394250010993,22.0199204177256
 2,Colorado,5694287,Positivity Data from Clinical Laboratories,03/10/2020,Count of people tested by non-CDPHE (commercial) lab,2,06/06/2020,28.0394250010993,22.0199204177256
 3,Colorado,5694287,Positivity Data from Clinical Laboratories,03/10/2020,Percent Positivity,8.6,06/06/2020,28.0394250010993,22.0199204177256

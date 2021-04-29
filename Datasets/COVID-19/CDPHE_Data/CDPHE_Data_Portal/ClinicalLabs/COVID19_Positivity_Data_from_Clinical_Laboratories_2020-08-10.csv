@@ -1,4 +1,4 @@
-﻿Name,Pop,Desc_,Attr_Date,Metric,Value,Rep_Date,ObjectId
+Name,Pop,Desc_,Attr_Date,Metric,Value,Rep_Date,ObjectId
 Colorado,5694287,Positivity Data from Clinical Laboratories,04/19/2020,Count of people tested by CDPHE lab,437,08/10/2020,1
 Colorado,5694287,Positivity Data from Clinical Laboratories,05/10/2020,Three-day Moving Average of Percent Positivity,8.6,08/10/2020,2
 Colorado,5694287,Positivity Data from Clinical Laboratories,04/19/2020,Count of people tested by non-CDPHE (commercial) lab,1073,08/10/2020,3

@@ -1,4 +1,4 @@
-﻿COUNTY,LABEL,FULL_,FIPS,POP,Desc_,Metric,Value,Rate,Date,ObjectId
+COUNTY,LABEL,FULL_,FIPS,POP,Desc_,Metric,Value,Rate,Date,ObjectId
 GUNNISON,Gunnison,Gunnison County,51,17173,Colorado Case Counts by County,Cases,22,,3/22/2020,1
 MESA,Mesa,Mesa County,77,153630,Colorado Case Counts by County,Cases,1,,3/20/2020,2
 LARIMER,Larimer,Larimer County,69,350362,"Case Rates Per 100,000 People in Colorado by County","Rate Per 100,000",,1.4,3/19/2020,3

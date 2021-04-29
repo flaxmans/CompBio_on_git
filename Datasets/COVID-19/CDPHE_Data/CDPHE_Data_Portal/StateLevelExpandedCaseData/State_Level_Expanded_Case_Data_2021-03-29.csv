@@ -1,4 +1,4 @@
-﻿section,category,description,date,metric,value,report_date,ObjectId
+section,category,description,date,metric,value,report_date,ObjectId
 Case Summary,Cases,Cases of COVID-19 in Colorado by Date of Illness Onset,02/28/2020,Counts,10,03/29/2021,1
 Case Summary,Cases,Cumulative COVID-19 Cases in Colorado by Date of Illness Onset,02/28/2020,Cumulative,264,03/29/2021,2
 Case Summary,Cases,3-Day Average of COVID-19 Cases in Colorado by Date of Illness Onset,02/28/2020,3-Day Moving Average of Cases,9,03/29/2021,3

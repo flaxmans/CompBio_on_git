@@ -1,4 +1,4 @@
-﻿Name,Pop,Desc_,Attr_Date,Metric,Value,Rep_Date,ObjectId
+Name,Pop,Desc_,Attr_Date,Metric,Value,Rep_Date,ObjectId
 Colorado,5694287,Daily Serology Data From Clinical Laboratories,05/03/2020,Number of positive tests,56,06/25/2020,1
 Colorado,5694287,Positivity Data from Clinical Laboratories,05/04/2020,Count of people tested by CDPHE lab,161,06/25/2020,2
 Colorado,5694287,Positivity Data from Clinical Laboratories,05/04/2020,Count of people tested by non-CDPHE (commercial) lab,2924,06/25/2020,3
