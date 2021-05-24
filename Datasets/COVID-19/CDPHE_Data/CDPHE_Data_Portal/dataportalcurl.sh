@@ -1,7 +1,7 @@
 #!/bin/bash
 
 mydate=$(date "+%Y-%m-%d")
-yesterday=$(date -j -v-1d '+%Y-%m-%d')
+yesterday=$(date -d "yesterday" '+%Y-%m-%d')
 
 # URLs for arcgis data portal from CDPHE:
 dailyStateStatURL="https://opendata.arcgis.com/datasets/566216cf203e400f8cbf2e6b4354bc57_0.csv"
