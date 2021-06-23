@@ -195,7 +195,9 @@ aggregatedData$datesParsed <- aggregatedData$Date_Data_Last_Updated %>%
 # Here's a plot that demonstrates what ggplot can do pretty readily, though 
 # it's too much to be very useful
 p <- ggplot( data = aggregatedData ) +
-  geom_point( mapping = aes( x = datesParsed, y = County_Rate_Per_100_000, color = log10(County_Population)) )
+  geom_point( mapping = aes( x = datesParsed, 
+                            y = County_Rate_Per_100_000,
+                            color = log10(County_Population)) )
 p
 
 #p + facet_wrap( ~COUNTY )
@@ -205,12 +207,17 @@ p
 #####################################################
 ## Next up:  cleaning & filtering
 
+smallAggData <- aggregatedData %>%
+  select( COUNTY, datesParsed, County_Pos_Cases_Change, County_Population )
+
 # 1. Sam had a lapse in collecting data: there are a number of missing dates, and one 
 # especially large gap.
 # 1a. filter/subset the data to only include data from on/after 8/26/20
 # 1b. Time permitting: How, with code, could you pinpoint the missing dates to discover that 
 # 8/26 was the first date after the big gap?  write some pseudocode and, if you have time,
 # some ideas for actual code
+
+
 
 
 # 2. There are 64 actual counties in Colorado, but 
